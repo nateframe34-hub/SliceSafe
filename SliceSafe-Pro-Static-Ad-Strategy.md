@@ -74,9 +74,11 @@ Campaign: ASC (or single CBO)
 **Target:** Viral Trend Participant (#3) + Broad
 **Psychology:** Bandwagon Effect, Mere Exposure, Loss Aversion, Pratfall Effect
 
-**Text Overlay:**
-- Caption-style: "Made the viral cucumber salad. Still have all my fingers."
-- Tag: "SliceSafe Pro — $69.99"
+**Text Overlay (Meta-safe versions):**
+- Caption-style: `Made the viral cucumber salad. Easier than I expected.`
+- Tag: `SliceSafe Pro — $69.99`
+- Alt A: `Made the viral cucumber salad. No stress, no mess.`
+- Alt B: `This is the safe way to make that cucumber salad everyone's talking about.`
 
 **Nano Banana Pro Prompt:**
 ```
@@ -153,35 +155,40 @@ Casual overhead food photograph of a beautiful Asian cucumber salad in a white c
 
 ---
 
-### AD #3: "The Meme" — Blood Sacrifice Era
+### AD #3: "The Meme" — Every Mandoline Owner Knows This Face
 
 **Format:** Meme-style (image + bold text framing)
 **Target:** Injury Survivor (#1) + Broad cooking audience
 **Psychology:** Availability Heuristic, Bandwagon, Pratfall, Confirmation Bias
 
-**Text Overlay:**
-- Top bar: "mandoline owners when someone says 'just use the guard'"
-- Bottom bar: "End the blood sacrifice era. → SliceSafe Pro $69.99"
+**Text Overlay (Meta-safe versions — avoid "blood," "sacrifice," "ER," "injury"):**
+- Top bar: `Every mandoline owner knows this face.`
+- Bottom bar: `The mandoline you won't be afraid of. → SliceSafe Pro $69.99`
+- Alt A top: `That moment before you use your mandoline...`
+- Alt B top: `"Just use the guard" — said no one who's actually used one`
+- Alt C bottom: `Finally — one you'll actually take out of the drawer. $69.99`
 
 **Nano Banana Pro Prompt:**
 ```
-Photorealistic candid kitchen photograph of a woman standing at a kitchen counter, looking down at a traditional flat mandoline slicer with an expression of pure dread and suspicion — raised eyebrow, slightly leaning away, arms crossed, one hand holding a cucumber like she's not sure she wants to proceed. The mandoline sits on the counter looking menacing with its exposed blade glinting under kitchen lights. A small adhesive bandage is visible on her index finger from a previous incident. She's wearing a casual t-shirt, hair in a messy bun, real kitchen environment behind her — not staged, not perfect. Warm kitchen lighting from overhead, natural and unflattering in a relatable way. The composition is like a friend snapped this candid moment — slightly off-center, not perfectly framed, documentary style. Shallow depth of field, kitchen background softly blurred. Muted warm color palette, slight film grain for authenticity. This should feel like a reaction image / relatable meme photo. No text, no logos, no watermarks. 4:5 aspect ratio.
+Photorealistic candid kitchen photograph of a woman standing at a kitchen counter, looking down at a traditional flat mandoline slicer with an expression of pure dread and suspicion — raised eyebrow, slightly leaning away, arms crossed, one hand holding a cucumber like she's not sure she wants to proceed. The mandoline sits on the counter looking menacing with its exposed blade glinting under kitchen lights. Her expression says it all — she's done this before and it didn't go well. She's wearing a casual t-shirt, hair in a messy bun, real kitchen environment behind her — not staged, not perfect. Warm kitchen lighting from overhead, natural and unflattering in a relatable way. The composition is like a friend snapped this candid moment — slightly off-center, not perfectly framed, documentary style. Shallow depth of field, kitchen background softly blurred. Muted warm color palette, slight film grain for authenticity. This should feel like a reaction image / relatable meme photo. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 **Specs:** 4:5 | Ref images: No | Text overlay critical
 
 ---
 
-### AD #4: "The Stat Bomb" — 30% of Injuries at Dinnertime
+### AD #4: "The Stat Bomb" — The 6pm Kitchen Problem
 
 **Format:** Bold statistic + emotional lifestyle image
 **Target:** Exhausted Weeknight Parent (#4) + Mandoline Avoider (#2)
 **Psychology:** Authority Bias, Availability Heuristic, Present Bias, Loss Aversion
 
-**Text Overlay:**
-- Large: "30% of kitchen injuries happen between 5-8pm."
-- Subtext: "Your tired hands deserve a tool designed for that moment."
-- Product + "$69.99"
-- Citation: "Source: Kitchen Injury Statistics 2025"
+**Text Overlay (Meta-safe — reframed around tiredness, not injuries):**
+- Large: `At 6pm, your hands are tired and your focus is gone.`
+- Subtext: `This is designed for exactly that moment.`
+- Product + `$69.99`
+- Alt A: `30% of kitchen accidents happen between 5-8pm. Your tired hands deserve better tools.`
+- Alt B: `You're most fatigued at 6pm. That's when prep needs to be easiest.`
+- Note: If Meta flags "accidents," use Alt B which avoids any harm language entirely
 
 **Nano Banana Pro Prompt:**
 ```json
@@ -286,11 +293,11 @@ Photorealistic overhead flat-lay comparison photograph divided into two halves b
 **Psychology:** Social Proof, Authority Bias, Liking/Similarity, Mere Exposure
 
 **Text Overlay:**
-- Quote: "Neither hand is anywhere near the blade, and it worked like a charm!!!"
+- Quote: `"Neither hand is anywhere near the blade, and it worked like a charm!!!"`
 - Stars: ★★★★★
-- Attribution: "— Verified Buyer"
-- Subtext: "The mandoline that ended the blood sacrifice era."
-- Product + "$69.99"
+- Attribution: `— Verified Buyer`
+- Subtext: `The first mandoline I actually trust.`
+- Product + `$69.99`
 
 **Nano Banana Pro Prompt:**
 ```json
@@ -411,7 +418,7 @@ Photorealistic split photograph divided horizontally into two halves. TOP HALF (
 |---|---|---|
 | 1 | #1 Native Cucumber Salad | Lowest CPM, trend leverage |
 | 2 | #2 Split-Screen Comparison | Clearest value prop |
-| 3 | #3 Blood Sacrifice Meme | Highest share potential |
+| 3 | #3 "Every Owner Knows" Meme | Highest share potential |
 | 4 | #5 Sharp Is Safer | Pattern interrupt, comments |
 | 5 | #9 UGC Kitchen Shot | Most native format |
 | 6 | Best current video | Format diversity |
@@ -433,3 +440,36 @@ Photorealistic split photograph divided horizontally into two halves. TOP HALF (
 4. 4:5 aspect ratio for everything
 5. Text overlays in Canva/Figma — never in AI generation
 6. Attach SliceSafe Pro reference images when generating prompts marked "Ref images: Yes"
+
+---
+
+## Meta Ad Policy Safety Guide
+
+### Words/Phrases to AVOID in ad copy, headlines, and text overlays:
+- "blood," "bleeding," "bloodthirsty"
+- "sacrifice," "blood sacrifice"
+- "ER," "emergency room," "hospital"
+- "injury," "injured," "hurt"
+- "cut yourself," "slice your finger," "lose a finger"
+- "amputate," "stitches," "wound"
+- Any image showing bandages, cuts, blood, or medical situations
+
+### Safe alternatives that still hit hard:
+| Instead of... | Use... |
+|---|---|
+| "blood sacrifice" | "the mandoline you won't be afraid of" |
+| "ER visit" | "no stress, no worry" |
+| "injury" | "kitchen accident" (borderline) or "mistake" |
+| "cut yourself" | "feel safe" / "feel confident" |
+| "still have all my fingers" | "easier than I expected" |
+| "bloodthirsty finger-eater" | "the one kitchen tool everyone's afraid of" |
+| "end the blood sacrifice era" | "the first mandoline I actually trust" |
+
+### Safe power words for Meta ads:
+- Fear/Safety: "afraid," "scared," "worry," "trust," "confidence," "safe," "safer," "fearless"
+- Action: "finally," "actually," "the one that works," "designed for"
+- Identity: "the mandoline you'll actually use," "built for real kitchens"
+- Speed: "3 minutes," "10x faster," "from 20 to 2"
+
+### Why this matters:
+Meta's automated review scans text literally — it doesn't understand humor or cultural context. Even "blood sacrifice" as a well-known cooking joke can trigger rejection or restricted delivery (shadow-limiting reach = higher CPMs). The VISUAL can imply the fear/dread emotion perfectly without any flagged language.
