@@ -107,13 +107,67 @@
     .comparison-section__title {
       font-size: 26px;
     }
-    .comparison-table thead th,
-    .comparison-table tbody td {
-      font-size: 13px;
-      padding: 10px 6px;
+    /* Hide desktop table header */
+    .comparison-table thead {
+      display: none;
     }
-    .comparison-table thead th.highlight {
+    .comparison-table {
+      border-collapse: separate;
+      border-spacing: 0 12px;
+    }
+    /* Each row becomes a card */
+    .comparison-table tbody tr {
+      display: block;
+      border: 1px solid #e5e5e5;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    /* Feature name = card header */
+    .comparison-table tbody td:first-child {
+      display: block;
+      text-align: center;
+      font-size: 16px;
+      font-weight: 700;
+      background: #f8f8f8;
+      padding: 14px 16px;
+      border-bottom: 1px solid #e5e5e5;
+    }
+    .comparison-table tbody td:first-child::before {
+      content: none;
+    }
+    /* Each data cell = labeled row */
+    .comparison-table tbody td {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      text-align: right;
+      border-bottom: 1px solid #f0f0f0;
       font-size: 14px;
+    }
+    .comparison-table tbody td::before {
+      content: attr(data-label);
+      font-weight: 600;
+      color: #6b6b6b;
+      text-align: left;
+      font-size: 13px;
+      flex-shrink: 0;
+      margin-right: 12px;
+    }
+    /* Remove bottom border on last cell in each card */
+    .comparison-table tbody tr td:last-child {
+      border-bottom: none !important;
+    }
+    /* SliceSafe Pro row highlight */
+    .comparison-table tbody td.col-highlight {
+      background-color: #eef6fc;
+    }
+    .comparison-table tbody td.col-highlight::before {
+      color: #6BAFD6;
+      font-weight: 700;
+    }
+    .comparison-table tbody tr:last-child td.col-highlight {
+      border-radius: 0;
     }
   }
 </style>
@@ -134,39 +188,39 @@
     <tbody>
       <tr>
         <td>Speed</td>
-        <td><span class="x-red">&times;</span> Slow</td>
-        <td><span class="check-green">&check;</span> Fast</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> Fast</td>
+        <td data-label="Your Knife"><span class="x-red">&times;</span> Slow</td>
+        <td data-label="Regular Mandoline"><span class="check-green">&check;</span> Fast</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> Fast</td>
       </tr>
       <tr>
         <td>Uniform slices</td>
-        <td><span class="x-red">&times;</span> Inconsistent</td>
-        <td><span class="check-green">&check;</span> Yes</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> Yes</td>
+        <td data-label="Your Knife"><span class="x-red">&times;</span> Inconsistent</td>
+        <td data-label="Regular Mandoline"><span class="check-green">&check;</span> Yes</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> Yes</td>
       </tr>
       <tr>
         <td>Hands near blade</td>
-        <td><span class="x-red">&times;</span> Yes</td>
-        <td><span class="x-red">&times;</span> Yes</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> Never</td>
+        <td data-label="Your Knife"><span class="x-red">&times;</span> Yes</td>
+        <td data-label="Regular Mandoline"><span class="x-red">&times;</span> Yes</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> Never</td>
       </tr>
       <tr>
         <td>Easy cleanup</td>
-        <td><span class="check-green">&check;</span> Yes</td>
-        <td><span class="x-red">&times;</span> No</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> 10 seconds</td>
+        <td data-label="Your Knife"><span class="check-green">&check;</span> Yes</td>
+        <td data-label="Regular Mandoline"><span class="x-red">&times;</span> No</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> 10 seconds</td>
       </tr>
       <tr>
         <td>Requires skill</td>
-        <td><span class="x-red">&times;</span> Yes</td>
-        <td><span class="x-gray">&minus;</span> Some</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> None</td>
+        <td data-label="Your Knife"><span class="x-red">&times;</span> Yes</td>
+        <td data-label="Regular Mandoline"><span class="x-gray">&minus;</span> Some</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> None</td>
       </tr>
       <tr>
         <td>Safety by design</td>
-        <td><span class="x-red">&times;</span> No</td>
-        <td><span class="x-red">&times;</span> Guard (rarely used)</td>
-        <td class="col-highlight"><span class="check-green">&check;</span> Built-in</td>
+        <td data-label="Your Knife"><span class="x-red">&times;</span> No</td>
+        <td data-label="Regular Mandoline"><span class="x-red">&times;</span> Guard (rarely used)</td>
+        <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> Built-in</td>
       </tr>
     </tbody>
   </table>
