@@ -1,0 +1,177 @@
+<style>
+  .comparison-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  .comparison-section__title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .comparison-section__subtitle {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    color: #6b6b6b;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  .comparison-table thead th {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    font-weight: 700;
+    padding: 16px 12px;
+    border-bottom: 2px solid #e5e5e5;
+    color: #1a1a1a;
+  }
+  .comparison-table thead th:first-child {
+    text-align: left;
+  }
+  .comparison-table thead th.highlight {
+    color: #6BAFD6;
+    font-size: 17px;
+    position: relative;
+  }
+  .comparison-table tbody td {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    padding: 14px 12px;
+    border-bottom: 1px solid #f0f0f0;
+    color: #4a4a4a;
+  }
+  .comparison-table tbody td:first-child {
+    text-align: left;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .comparison-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+  .comparison-table .col-highlight {
+    background-color: #f0f8ff;
+  }
+  .comparison-table thead th.col-highlight {
+    background-color: #6BAFD6;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+  }
+  .comparison-table tbody tr:last-child td.col-highlight {
+    border-radius: 0 0 8px 8px;
+  }
+  .check-green {
+    color: #34A853;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .x-red {
+    color: #D93025;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .x-gray {
+    color: #ccc;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .comparison-footer {
+    margin-top: 32px;
+  }
+  .comparison-footer__btn {
+    display: inline-block;
+    background-color: #6BAFD6;
+    color: #fff;
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 36px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+  }
+  .comparison-footer__btn:hover {
+    background-color: #5a9ec5;
+    color: #fff;
+  }
+  @media (max-width: 768px) {
+    .comparison-section__title {
+      font-size: 26px;
+    }
+    .comparison-table thead th,
+    .comparison-table tbody td {
+      font-size: 13px;
+      padding: 10px 6px;
+    }
+    .comparison-table thead th.highlight {
+      font-size: 14px;
+    }
+  }
+</style>
+
+<div class="comparison-section">
+  <h2 class="comparison-section__title">Why SliceSafe Pro?</h2>
+  <p class="comparison-section__subtitle">See how it compares to what you're using now.</p>
+
+  <table class="comparison-table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Your Knife</th>
+        <th>Regular Mandoline</th>
+        <th class="col-highlight highlight">SliceSafe Pro</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Speed</td>
+        <td><span class="x-red">&times;</span> Slow</td>
+        <td><span class="check-green">&check;</span> Fast</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Fast</td>
+      </tr>
+      <tr>
+        <td>Uniform slices</td>
+        <td><span class="x-red">&times;</span> Inconsistent</td>
+        <td><span class="check-green">&check;</span> Yes</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Yes</td>
+      </tr>
+      <tr>
+        <td>Hands near blade</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Never</td>
+      </tr>
+      <tr>
+        <td>Easy cleanup</td>
+        <td><span class="check-green">&check;</span> Yes</td>
+        <td><span class="x-red">&times;</span> No</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> 10 seconds</td>
+      </tr>
+      <tr>
+        <td>Requires skill</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td><span class="x-gray">&minus;</span> Some</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> None</td>
+      </tr>
+      <tr>
+        <td>Safety by design</td>
+        <td><span class="x-red">&times;</span> No</td>
+        <td><span class="x-red">&times;</span> Guard (rarely used)</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Built-in</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="comparison-footer">
+    <a href="#add-to-cart" class="comparison-footer__btn" onclick="document.querySelector('[name=add]').click(); return false;">Add to Cart &mdash; $69.95</a>
+  </div>
+</div>

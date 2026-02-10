@@ -1,0 +1,149 @@
+<style>
+  .faq-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 20px;
+  }
+  .faq-section__title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .faq-section__subtitle {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    color: #6b6b6b;
+    text-align: center;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .faq-item {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .faq-item:first-child {
+    border-top: 1px solid #e5e5e5;
+  }
+  .faq-item__question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    cursor: pointer;
+    background: none;
+    border: none;
+    width: 100%;
+    text-align: left;
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.4;
+  }
+  .faq-item__question:hover {
+    color: #6BAFD6;
+  }
+  .faq-item__icon {
+    flex-shrink: 0;
+    margin-left: 16px;
+    font-size: 22px;
+    color: #6BAFD6;
+    transition: transform 0.3s ease;
+    font-weight: 300;
+  }
+  .faq-item__answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+  }
+  .faq-item.active .faq-item__answer {
+    max-height: 300px;
+    padding-bottom: 20px;
+  }
+  .faq-item.active .faq-item__icon {
+    transform: rotate(45deg);
+  }
+  .faq-item__answer p {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    color: #4a4a4a;
+    line-height: 1.7;
+    margin: 0;
+  }
+  @media (max-width: 768px) {
+    .faq-section__title {
+      font-size: 26px;
+    }
+    .faq-item__question {
+      font-size: 16px;
+    }
+  }
+</style>
+
+<div class="faq-section">
+  <h2 class="faq-section__title">Frequently Asked Questions</h2>
+  <p class="faq-section__subtitle">Everything you need to know before you buy.</p>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      Is this really safe?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Yes. The Hands-On-Top design means your hands grip the top handle and push down — they physically cannot reach the blade during normal use. The blade is enclosed in the mid-section, 8+ inches below your hands. No guard to remember. No discipline required. Safety is built into the design itself.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      How is this different from a regular mandoline with a guard?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Traditional guards are awkward, slow you down, and most people skip them. SliceSafe Pro doesn't rely on a guard — the entire design keeps your hands on top by default. You can't freehand it even if you wanted to. That's the difference between a safety feature you're supposed to use and a design that makes unsafe use impossible.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      Is it hard to clean?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>No. The open-rinse design has no food traps. Rinse under water, use the included brush, done in 10 seconds. Your fingers never go near the blade during cleaning either.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What can I slice with it?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Cucumbers, carrots, potatoes, sweet potatoes, zucchini, onions, cabbage, beets, apples — anything you'd use a mandoline or knife for. The adjustable thickness dial goes from paper-thin to thick gratin cuts.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What's included in the box?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>The SliceSafe Pro mandoline, catch tray with lid ($12.95 value), cleaning brush ($11.95 value), and everything ships together for free. No extra purchases, no "sold separately" nonsense.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What if I don't like it?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>30-day money-back guarantee. Use it on real weeknights. If it doesn't make prep easier and safer, return it for a full refund. No questions asked.</p>
+    </div>
+  </div>
+</div>
