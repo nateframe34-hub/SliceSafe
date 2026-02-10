@@ -1,0 +1,426 @@
+<style>
+  /* === HOW IT WORKS === */
+  .how-it-works {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  .how-it-works__title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .how-it-works__subtitle {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    color: #6b6b6b;
+    margin-bottom: 48px;
+    font-style: italic;
+  }
+  .how-it-works__steps {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  .how-it-works__step {
+    flex: 1;
+    min-width: 250px;
+    max-width: 320px;
+    text-align: center;
+    padding: 24px;
+  }
+  .how-it-works__number {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background-color: #6BAFD6;
+    color: #fff;
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .how-it-works__step-title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+  }
+  .how-it-works__step-desc {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    color: #4a4a4a;
+    line-height: 1.6;
+  }
+  .how-it-works__footer {
+    margin-top: 40px;
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    color: #6b6b6b;
+    font-style: italic;
+  }
+
+  /* === COMPARISON TABLE === */
+  .comparison-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  .comparison-section__title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .comparison-section__subtitle {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    color: #6b6b6b;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  .comparison-table thead th {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    font-weight: 700;
+    padding: 16px 12px;
+    border-bottom: 2px solid #e5e5e5;
+    color: #1a1a1a;
+  }
+  .comparison-table thead th:first-child {
+    text-align: left;
+  }
+  .comparison-table thead th.highlight {
+    color: #6BAFD6;
+    font-size: 17px;
+  }
+  .comparison-table tbody td {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    padding: 14px 12px;
+    border-bottom: 1px solid #f0f0f0;
+    color: #4a4a4a;
+  }
+  .comparison-table tbody td:first-child {
+    text-align: left;
+    font-weight: 600;
+    color: #1a1a1a;
+  }
+  .comparison-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+  .comparison-table .col-highlight {
+    background-color: #f0f8ff;
+  }
+  .comparison-table thead th.col-highlight {
+    background-color: #6BAFD6;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+  }
+  .comparison-table tbody tr:last-child td.col-highlight {
+    border-radius: 0 0 8px 8px;
+  }
+  .check-green { color: #34A853; font-size: 20px; font-weight: 700; }
+  .x-red { color: #D93025; font-size: 20px; font-weight: 700; }
+  .x-gray { color: #ccc; font-size: 20px; font-weight: 700; }
+  .comparison-footer {
+    margin-top: 32px;
+  }
+  .comparison-footer__btn {
+    display: inline-block;
+    background-color: #6BAFD6;
+    color: #fff;
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 36px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+  }
+  .comparison-footer__btn:hover {
+    background-color: #5a9ec5;
+    color: #fff;
+  }
+
+  /* === FAQ === */
+  .faq-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 20px;
+  }
+  .faq-section__title {
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 32px;
+    font-weight: 700;
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .faq-section__subtitle {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 16px;
+    color: #6b6b6b;
+    text-align: center;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .faq-item {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .faq-item:first-child {
+    border-top: 1px solid #e5e5e5;
+  }
+  .faq-item__question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    cursor: pointer;
+    background: none;
+    border: none;
+    width: 100%;
+    text-align: left;
+    font-family: var(--font-heading-family, 'Assistant', sans-serif);
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.4;
+  }
+  .faq-item__question:hover {
+    color: #6BAFD6;
+  }
+  .faq-item__icon {
+    flex-shrink: 0;
+    margin-left: 16px;
+    font-size: 22px;
+    color: #6BAFD6;
+    transition: transform 0.3s ease;
+    font-weight: 300;
+  }
+  .faq-item__answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease, padding 0.3s ease;
+  }
+  .faq-item.active .faq-item__answer {
+    max-height: 300px;
+    padding-bottom: 20px;
+  }
+  .faq-item.active .faq-item__icon {
+    transform: rotate(45deg);
+  }
+  .faq-item__answer p {
+    font-family: var(--font-body-family, 'Assistant', sans-serif);
+    font-size: 15px;
+    color: #4a4a4a;
+    line-height: 1.7;
+    margin: 0;
+  }
+
+  /* === DIVIDER === */
+  .section-divider {
+    max-width: 900px;
+    margin: 0 auto;
+    border: none;
+    border-top: 1px solid #e5e5e5;
+  }
+
+  /* === RESPONSIVE === */
+  @media (max-width: 768px) {
+    .how-it-works__steps {
+      flex-direction: column;
+      align-items: center;
+    }
+    .how-it-works__step {
+      max-width: 100%;
+    }
+    .how-it-works__title,
+    .comparison-section__title,
+    .faq-section__title {
+      font-size: 26px;
+    }
+    .comparison-table thead th,
+    .comparison-table tbody td {
+      font-size: 13px;
+      padding: 10px 6px;
+    }
+    .comparison-table thead th.highlight {
+      font-size: 14px;
+    }
+    .faq-item__question {
+      font-size: 16px;
+    }
+  }
+</style>
+
+<!-- ===== HOW IT WORKS ===== -->
+<div class="how-it-works">
+  <h2 class="how-it-works__title">How It Works</h2>
+  <p class="how-it-works__subtitle">Three steps. No learning curve. No fear.</p>
+  <div class="how-it-works__steps">
+    <div class="how-it-works__step">
+      <div class="how-it-works__number">1</div>
+      <h3 class="how-it-works__step-title">Drop Your Vegetable In the Top</h3>
+      <p class="how-it-works__step-desc">The food hopper holds it securely in place. Cucumbers, potatoes, carrots, sweet potatoes — anything you'd normally slice by hand.</p>
+    </div>
+    <div class="how-it-works__step">
+      <div class="how-it-works__number">2</div>
+      <h3 class="how-it-works__step-title">Press Down With Both Hands</h3>
+      <p class="how-it-works__step-desc">Your hands grip the top handle and push straight down. They stay 8+ inches above the blade the entire time. No guard needed.</p>
+    </div>
+    <div class="how-it-works__step">
+      <div class="how-it-works__number">3</div>
+      <h3 class="how-it-works__step-title">Perfect Slices Collect Below</h3>
+      <p class="how-it-works__step-desc">Uniform, restaurant-thin slices land in the catch tray. Adjust the dial for paper-thin to thick gratin cuts. Done in under 3 minutes.</p>
+    </div>
+  </div>
+  <p class="how-it-works__footer">That's it. Your hands never go near the blade. Not during slicing. Not during cleanup.</p>
+</div>
+
+<hr class="section-divider">
+
+<!-- ===== COMPARISON TABLE ===== -->
+<div class="comparison-section">
+  <h2 class="comparison-section__title">Why SliceSafe Pro?</h2>
+  <p class="comparison-section__subtitle">See how it compares to what you're using now.</p>
+  <table class="comparison-table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Your Knife</th>
+        <th>Regular Mandoline</th>
+        <th class="col-highlight highlight">SliceSafe Pro</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Speed</td>
+        <td><span class="x-red">&times;</span> Slow</td>
+        <td><span class="check-green">&check;</span> Fast</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Fast</td>
+      </tr>
+      <tr>
+        <td>Uniform slices</td>
+        <td><span class="x-red">&times;</span> Inconsistent</td>
+        <td><span class="check-green">&check;</span> Yes</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Yes</td>
+      </tr>
+      <tr>
+        <td>Hands near blade</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Never</td>
+      </tr>
+      <tr>
+        <td>Easy cleanup</td>
+        <td><span class="check-green">&check;</span> Yes</td>
+        <td><span class="x-red">&times;</span> No</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> 10 seconds</td>
+      </tr>
+      <tr>
+        <td>Requires skill</td>
+        <td><span class="x-red">&times;</span> Yes</td>
+        <td><span class="x-gray">&minus;</span> Some</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> None</td>
+      </tr>
+      <tr>
+        <td>Safety by design</td>
+        <td><span class="x-red">&times;</span> No</td>
+        <td><span class="x-red">&times;</span> Guard (rarely used)</td>
+        <td class="col-highlight"><span class="check-green">&check;</span> Built-in</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="comparison-footer">
+    <a href="#" class="comparison-footer__btn" onclick="document.querySelector('[name=add]').click(); return false;">Add to Cart &mdash; $69.95</a>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+<!-- ===== FAQ ===== -->
+<div class="faq-section">
+  <h2 class="faq-section__title">Frequently Asked Questions</h2>
+  <p class="faq-section__subtitle">Everything you need to know before you buy.</p>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      Is this really safe?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Yes. The Hands-On-Top design means your hands grip the top handle and push down — they physically cannot reach the blade during normal use. The blade is enclosed in the mid-section, 8+ inches below your hands. No guard to remember. No discipline required. Safety is built into the design itself.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      How is this different from a regular mandoline with a guard?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Traditional guards are awkward, slow you down, and most people skip them. SliceSafe Pro doesn't rely on a guard — the entire design keeps your hands on top by default. You can't freehand it even if you wanted to. That's the difference between a safety feature you're supposed to use and a design that makes unsafe use impossible.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      Is it hard to clean?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>No. The open-rinse design has no food traps. Rinse under water, use the included brush, done in 10 seconds. Your fingers never go near the blade during cleaning either.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What can I slice with it?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>Cucumbers, carrots, potatoes, sweet potatoes, zucchini, onions, cabbage, beets, apples — anything you'd use a mandoline or knife for. The adjustable thickness dial goes from paper-thin to thick gratin cuts.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What's included in the box?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>The SliceSafe Pro mandoline, catch tray with lid ($12.95 value), cleaning brush ($11.95 value), and everything ships together for free. No extra purchases, no "sold separately" nonsense.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-item__question" onclick="this.parentElement.classList.toggle('active')">
+      What if I don't like it?
+      <span class="faq-item__icon">+</span>
+    </button>
+    <div class="faq-item__answer">
+      <p>30-day money-back guarantee. Use it on real weeknights. If it doesn't make prep easier and safer, return it for a full refund. No questions asked.</p>
+    </div>
+  </div>
+</div>
