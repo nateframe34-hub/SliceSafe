@@ -104,8 +104,14 @@
     color: #fff;
   }
   @media (max-width: 768px) {
+    .comparison-section {
+      padding: 40px 16px;
+    }
     .comparison-section__title {
       font-size: 26px;
+    }
+    .comparison-section__subtitle {
+      margin-bottom: 24px;
     }
     /* Hide desktop table header */
     .comparison-table thead {
@@ -113,46 +119,51 @@
     }
     .comparison-table {
       border-collapse: separate;
-      border-spacing: 0 12px;
+      border-spacing: 0 8px;
     }
-    /* Each row becomes a card */
+    /* Each row becomes a compact card */
     .comparison-table tbody tr {
       display: block;
       border: 1px solid #e5e5e5;
-      border-radius: 10px;
+      border-radius: 8px;
       overflow: hidden;
     }
-    /* Feature name = card header */
+    /* Feature name = compact card header */
     .comparison-table tbody td:first-child {
       display: block;
       text-align: center;
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 700;
       background: #f8f8f8;
-      padding: 14px 16px;
+      padding: 8px 12px;
       border-bottom: 1px solid #e5e5e5;
     }
     .comparison-table tbody td:first-child::before {
       content: none;
     }
-    /* Each data cell = labeled row */
+    /* Each data cell = compact labeled row */
     .comparison-table tbody td {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 12px 16px;
+      padding: 6px 12px;
       text-align: right;
       border-bottom: 1px solid #f0f0f0;
-      font-size: 14px;
+      font-size: 13px;
     }
     .comparison-table tbody td::before {
       content: attr(data-label);
       font-weight: 600;
       color: #6b6b6b;
       text-align: left;
-      font-size: 13px;
+      font-size: 12px;
       flex-shrink: 0;
-      margin-right: 12px;
+      margin-right: 8px;
+    }
+    .comparison-table tbody td .check-green,
+    .comparison-table tbody td .x-red,
+    .comparison-table tbody td .x-gray {
+      font-size: 16px;
     }
     /* Remove bottom border on last cell in each card */
     .comparison-table tbody tr td:last-child {
@@ -161,6 +172,7 @@
     /* SliceSafe Pro row highlight */
     .comparison-table tbody td.col-highlight {
       background-color: #eef6fc;
+      font-weight: 600;
     }
     .comparison-table tbody td.col-highlight::before {
       color: #6BAFD6;
@@ -168,6 +180,12 @@
     }
     .comparison-table tbody tr:last-child td.col-highlight {
       border-radius: 0;
+    }
+    .comparison-footer__btn {
+      font-size: 15px;
+      padding: 12px 28px;
+      width: 100%;
+      text-align: center;
     }
   }
 </style>
