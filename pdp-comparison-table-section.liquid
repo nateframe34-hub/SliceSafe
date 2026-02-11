@@ -120,26 +120,45 @@
       padding: 0 12px;
     }
     .comparison-table {
-      min-width: 420px;
+      min-width: 0;
+      width: 100%;
+      table-layout: fixed;
     }
     .comparison-table thead th {
-      font-size: 13px;
-      padding: 10px 8px;
-      white-space: nowrap;
+      font-size: 11px;
+      padding: 10px 4px;
+      word-wrap: break-word;
     }
     .comparison-table thead th.highlight {
-      font-size: 14px;
+      font-size: 12px;
     }
     .comparison-table tbody td {
-      font-size: 13px;
-      padding: 10px 8px;
+      font-size: 12px;
+      padding: 10px 4px;
+      word-wrap: break-word;
     }
     .comparison-table tbody td:first-child {
-      font-size: 13px;
-      white-space: nowrap;
+      font-size: 12px;
     }
     .check-green, .x-red, .x-gray {
-      font-size: 16px;
+      font-size: 14px;
+    }
+    /* Column widths: feature name gets more space */
+    .comparison-table thead th:first-child,
+    .comparison-table tbody td:first-child {
+      width: 28%;
+    }
+    .comparison-table thead th:nth-child(2),
+    .comparison-table tbody td:nth-child(2) {
+      width: 20%;
+    }
+    .comparison-table thead th:nth-child(3),
+    .comparison-table tbody td:nth-child(3) {
+      width: 24%;
+    }
+    .comparison-table thead th:nth-child(4),
+    .comparison-table tbody td:nth-child(4) {
+      width: 28%;
     }
     .comparison-footer__btn {
       font-size: 15px;
@@ -160,7 +179,7 @@
       <tr>
         <th></th>
         <th>Your Knife</th>
-        <th>Regular Mandoline</th>
+        <th>Regular Mando&shy;line</th>
         <th class="col-highlight highlight">SliceSafe Pro</th>
       </tr>
     </thead>
@@ -198,7 +217,7 @@
       <tr>
         <td>Safety by design</td>
         <td data-label="Your Knife"><span class="x-red">&times;</span> No</td>
-        <td data-label="Regular Mandoline"><span class="x-red">&times;</span> Guard (rarely used)</td>
+        <td data-label="Regular Mandoline"><span class="x-red">&times;</span> Guard (unused)</td>
         <td class="col-highlight" data-label="SliceSafe Pro"><span class="check-green">&check;</span> Built-in</td>
       </tr>
     </tbody>
