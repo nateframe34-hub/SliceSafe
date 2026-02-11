@@ -1,0 +1,63 @@
+<div class="order-summary-box">
+  <div class="summary-header">✓ Your Order Includes:</div>
+  <ul class="summary-list">
+    <li>SliceSafe Pro™ Mandoline</li>
+    <li>FREE Catch Tray — catches every slice <span class="value-gray">($12.99)</span></li>
+    <li>FREE Cleaning Brush — 10-second cleanup <span class="value-gray">($11.99)</span></li>
+  </ul>
+  <div class="summary-footer">All items ship together</div>
+</div>
+
+<style>
+.order-summary-box {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.summary-header {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #10b981;
+  margin-bottom: 0.75rem;
+}
+
+.summary-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.875rem;
+  color: #374151;
+  line-height: 1.8;
+}
+
+.summary-list li {
+  padding-left: 1.25rem;
+  position: relative;
+}
+
+.summary-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0.25rem;
+  color: #10b981;
+  font-weight: 700;
+}
+
+.value-gray {
+  color: #9ca3af;
+  font-size: 0.85rem;
+}
+
+.summary-footer {
+  font-size: 0.75rem;
+  color: #6b7280;
+  font-style: italic;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e5e7eb;
+}
+</style>
