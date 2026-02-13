@@ -24,28 +24,27 @@ All 3 new creatives follow this exact playbook with different dishes.
 
 **Primary Text (Meta ad copy):**
 ```
-You don't need a rat to get cuts this perfect.
+Made ratatouille for the first time. Every slice came out identical.
 
-Ratatouille looks impossible — until every slice comes out the exact same thickness, every time.
+Turns out the hard part was never the cooking — it was getting uniform slices. This thing does it in seconds.
 
-No knife skills required. No fingers near the blade. Just load, press, and plate.
+No knife skills. No fingers near the blade. Just load, press, and plate.
 
 SliceSafe Pro™ Mandoline — $64.99
 🔗 velaine.shop
 ```
 
 **Headline:** The secret to perfect ratatouille
-**Description:** Uniform slices every time. Hands never near the blade.
+**Description:** Every slice identical. No knife skills needed.
 
 **Text Overlay Options (add in Canva, NOT baked into AI image):**
-- Option A: `Made ratatouille for the first time. Every slice identical.`
-- Option B: `You don't need a rat to get cuts this perfect.`
-- Option C: `Ratatouille night. Easier than I thought.`
+- **Recommended:** `Made ratatouille for the first time. Every slice identical.`
+- Alt test: `You don't need a rat to get cuts this perfect.`
 - Tag: `SliceSafe Pro — $64.99`
 
 **Nano Banana Pro Prompt:**
 ```
-Casual overhead food photograph of a stunning homemade ratatouille in a round white ceramic baking dish on a rustic wooden kitchen table. Perfectly uniform, paper-thin vegetable slices arranged in a tight concentric spiral pattern — alternating vibrant red tomato, deep purple eggplant, bright yellow squash, and dark green zucchini rounds, each slice identical in thickness. A light drizzle of olive oil glistening on top with tiny fresh thyme leaves scattered across. A light-blue standing mandoline vegetable slicer sits casually to the side on the table, slightly out of focus, angled naturally as if just set down after use — not centered, not posed, just there. A few vegetable trimmings and a wooden spoon nearby suggest real cooking just happened. A small bowl of fresh herbs and a linen napkin on the table. Warm natural daylight from a window camera-left, golden afternoon light, soft shadows on the wooden surface. Slightly overhead 45-degree angle, like someone snapping a quick photo with their phone before putting it in the oven. iPhone food photography aesthetic — not overly styled, beautifully imperfect, real kitchen vibes. Rich warm colors — reds, purples, yellows, greens against warm wood tones. Shallow depth of field with the ratatouille sharp and background softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
+Casual overhead food photograph of a stunning homemade ratatouille in a round white ceramic baking dish on a rustic wooden kitchen table. Perfectly uniform, paper-thin vegetable slices arranged in a tight concentric spiral pattern — alternating vibrant red tomato, deep purple eggplant, bright yellow squash, and dark green zucchini rounds, each slice identical in thickness. A light drizzle of olive oil glistening on top with tiny fresh thyme leaves scattered across. A light-blue vertical standing mandoline slicer sits casually to the side on the table, slightly out of focus — it stands upright like a small tower with a wide ergonomic handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber base at the bottom. Angled naturally as if just set down after use — not centered, not posed, just there. A few vegetable trimmings and a wooden spoon nearby suggest real cooking just happened. A small bowl of fresh herbs and a linen napkin on the table. Warm natural daylight from a window camera-left, golden afternoon light, soft shadows on the wooden surface. Slightly overhead 45-degree angle, like someone snapping a quick photo with their phone before putting it in the oven. iPhone food photography aesthetic — not overly styled, beautifully imperfect, real kitchen vibes. Rich warm colors — reds, purples, yellows, greens against warm wood tones. Shallow depth of field with the ratatouille sharp and background softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Specs:** 4:5 | Ref images: Yes (attach SliceSafe Pro product photos) | Text overlay in Canva
@@ -62,28 +61,27 @@ Casual overhead food photograph of a stunning homemade ratatouille in a round wh
 
 **Primary Text (Meta ad copy):**
 ```
-Slices. Dices. Your hands never touch the blade.
+Made fresh pico in 2 minutes. Wait — this thing dices too??
 
-Perfect pico de gallo in 2 minutes — tomatoes, onions, jalapeños, all diced uniform. No knife skills. No cutting board massacre.
+Tomatoes, onions, jalapeños — all diced perfectly uniform. I thought it only sliced.
 
-One tool. Every cut. Completely safe.
+No knife skills. No cutting board chaos. Just load, press, done.
 
 SliceSafe Pro™ Mandoline — $64.99
 🔗 velaine.shop
 ```
 
-**Headline:** It slices AND dices (seriously)
-**Description:** Perfect dice every time. Hands stay on top, 8 inches from the blade.
+**Headline:** Wait — it dices too?
+**Description:** Slices and dices. Hands never near the blade.
 
 **Text Overlay Options (add in Canva):**
-- Option A: `Made fresh pico in 2 minutes. This thing dices too??`
-- Option B: `Slices. Dices. Your hands never touch the blade.`
-- Option C: `Homemade pico > store-bought. And it only took 2 minutes.`
+- **Recommended:** `Made fresh pico in 2 minutes. This thing dices too??`
+- Alt test: `Homemade pico > store-bought. 2 minutes.`
 - Tag: `SliceSafe Pro — $64.99`
 
 **Nano Banana Pro Prompt:**
 ```
-Casual close-up food photograph of a beautiful fresh pico de gallo in a rustic stone molcajete bowl on a weathered wooden cutting board. Perfectly uniform small dice of bright red tomato, crisp white onion, green jalapeño, and fresh cilantro leaves mixed together, glistening with fresh lime juice. A few tortilla chips scattered casually beside the bowl, one chip dipped halfway into the pico. A light-blue standing mandoline vegetable slicer sits in the background on the counter, slightly out of focus, angled naturally as if just used — not centered, not posed, just part of the scene. A halved lime, a few cilantro stems, and tiny diced vegetable pieces scattered on the cutting board suggest real cooking just happened. Warm natural daylight from a window, late afternoon golden light, creating soft warm shadows. Shot from a slightly overhead 35-degree angle, like someone took a quick photo before the party starts. iPhone food photography aesthetic — casual, real, not professionally styled. Vibrant natural colors — red tomato, green cilantro and jalapeño, white onion, warm wood tones. Shallow depth of field with the pico sharp and background softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
+Casual close-up food photograph of a beautiful fresh pico de gallo in a rustic stone molcajete bowl on a weathered wooden cutting board. Perfectly uniform small dice of bright red tomato, crisp white onion, green jalapeño, and fresh cilantro leaves mixed together, glistening with fresh lime juice. A few tortilla chips scattered casually beside the bowl, one chip dipped halfway into the pico. A light-blue vertical standing mandoline slicer sits in the background on the counter, slightly out of focus — it stands upright like a small tower with a wide ergonomic handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber base at the bottom. Angled naturally as if just used — not centered, not posed, just part of the scene. A halved lime, a few cilantro stems, and tiny diced vegetable pieces scattered on the cutting board suggest real cooking just happened. Warm natural daylight from a window, late afternoon golden light, creating soft warm shadows. Shot from a slightly overhead 35-degree angle, like someone took a quick photo before the party starts. iPhone food photography aesthetic — casual, real, not professionally styled. Vibrant natural colors — red tomato, green cilantro and jalapeño, white onion, warm wood tones. Shallow depth of field with the pico sharp and background softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Specs:** 4:5 | Ref images: Yes | Text overlay in Canva
@@ -110,18 +108,17 @@ SliceSafe Pro™ Mandoline — $64.99
 🔗 velaine.shop
 ```
 
-**Headline:** Restaurant-quality cucumber salad at home
-**Description:** Paper-thin uniform slices in 90 seconds. Hands never near the blade.
+**Headline:** Restaurant-quality cucumber salad
+**Description:** Paper-thin slices in 90 seconds. Hands never near the blade.
 
 **Text Overlay Options (add in Canva):**
-- Option A: `This cucumber salad took 90 seconds to prep.`
-- Option B: `Paper-thin slices. Every one identical. 90 seconds.`
-- Option C: `My friends thought this was from a restaurant.`
+- **Recommended:** `My friends thought this was from a restaurant.`
+- Alt test: `This cucumber salad took 90 seconds to prep.`
 - Tag: `SliceSafe Pro — $64.99`
 
 **Nano Banana Pro Prompt:**
 ```
-Casual food photograph of a beautifully plated smashed cucumber salad served on a simple white oval plate on a light marble countertop. Irregular smashed cucumber pieces mixed with paper-thin cucumber ribbons, dressed in a glossy chili crisp oil with visible chili flakes, crushed roasted peanuts scattered on top, thin garlic slices, and bright fresh cilantro leaves. The salad looks restaurant-quality but homemade — slightly messy plating that looks effortlessly good. A light-blue standing mandoline vegetable slicer sits on the counter behind the plate, casually positioned and slightly out of focus, as if someone just finished using it. A pair of wooden chopsticks resting on the edge of the plate. A small dish of extra chili crisp and a glass of water nearby. Warm natural daylight from a window to the right, bright and airy, soft diffused shadows. Shot from a 40-degree angle, slightly above, like snapping a photo before eating. iPhone food photography aesthetic — bright, clean, appetizing, not overly produced. Fresh vibrant colors — green cucumber, red chili oil, warm peanut tones, white plate, light marble. Shallow depth of field with the salad sharp and edges softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
+Casual food photograph of a beautifully plated smashed cucumber salad served on a simple white oval plate on a light marble countertop. Irregular smashed cucumber pieces mixed with paper-thin cucumber ribbons, dressed in a glossy chili crisp oil with visible chili flakes, crushed roasted peanuts scattered on top, thin garlic slices, and bright fresh cilantro leaves. The salad looks restaurant-quality but homemade — slightly messy plating that looks effortlessly good. A light-blue vertical standing mandoline slicer sits on the counter behind the plate, casually positioned and slightly out of focus — it stands upright like a small tower with a wide ergonomic handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber base at the bottom, as if someone just finished using it. A pair of wooden chopsticks resting on the edge of the plate. A small dish of extra chili crisp and a glass of water nearby. Warm natural daylight from a window to the right, bright and airy, soft diffused shadows. Shot from a 40-degree angle, slightly above, like snapping a photo before eating. iPhone food photography aesthetic — bright, clean, appetizing, not overly produced. Fresh vibrant colors — green cucumber, red chili oil, warm peanut tones, white plate, light marble. Shallow depth of field with the salad sharp and edges softly blurred. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Specs:** 4:5 | Ref images: Yes | Text overlay in Canva
