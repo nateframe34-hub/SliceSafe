@@ -287,16 +287,16 @@ After each batch has 48 hours of data:
 | Creative | Sub-Avatar | Angle | Hook |
 |---|---|---|---|
 | 1 | Scarred Chef | Hands can't reach the blade | "I have a scar from my old mandoline. This one can't do that." |
-| 2 | Scroll Stopper | Trend without the ER visit | "That cucumber salad everyone's making? Here's how to not end up in the ER." |
+| 2 | Scroll Stopper | Trend without the ER visit | "Saw the cucumber salad trend. Looked up mandolines. Read the injury reviews. Closed the tab." |
 | 3 | Drawer Stuffer | Designed wrong, not your fault | "Your mandoline is in the drawer. That's not your fault — it's the design." |
 
-**Format:** Static graphic/design — Bold headline on lifestyle/product image
+**Format:** Mixed — Product hero, text-only native post, split concept
 
 **Creative 1 Image (Scarred Chef):**
 Product hero shot. Clean, bright, trustworthy. The mandoline is the star — showing the full height and the distance from handle to blade. Text overlay is the hook.
 
 **Creative 2 Image (Scroll Stopper):**
-Food-first — a beautiful bowl of paper-thin cucumber salad (the trend dish). SliceSafe Pro in the background, slightly out of focus. Text overlay is the hook.
+TEXT-ONLY — no product image. Plain text on a solid muted background (like a Notes app screenshot or social media text post). The copy IS the creative. Pure native camouflage — looks like someone sharing a story, not an ad. Tests whether copy alone can convert.
 
 **Creative 3 Image (Drawer Stuffer):**
 Split concept — a dark kitchen drawer with a traditional mandoline shoved in the back (left side or top), and a bright, clean countertop with SliceSafe Pro standing proudly (right side or bottom). Text overlay is the hook.
@@ -399,17 +399,17 @@ SliceSafe Pro™ — $64.99 (was $99.95)
 
 | Creative | Angle | Hook |
 |---|---|---|
-| 1 | Trend + ER visit avoidance | "That cucumber salad everyone's making? Here's how to make it without losing a finger." |
+| 1 | Trend + social proof camouflage | "This is the mandoline everyone in the comments was asking about." |
 | 2 | Speed + safety humor | "90 seconds. Perfect slices. 10 fingers." |
 | 3 | Injury trend is trending (pattern interrupt) | "Mandoline injuries are trending. This mandoline can't add to that." |
 
 **Format:**
-- Creative 1: Food-first native image (cucumber salad hero, mandoline in background)
+- Creative 1: UGC-style phone photo (genuine, messy kitchen, maximum native camouflage)
 - Creative 2: Static graphic — bold numbers/text on product shot
 - Creative 3: Meme-style or text-heavy image (controversial/pattern interrupt)
 
 **Creative 1 Image:**
-Beautiful bowl of paper-thin cucumber salad with sesame seeds, chili oil, and fresh herbs. iPhone food photography aesthetic — casual, real, bright. SliceSafe Pro in background, slightly out of focus.
+UGC-style phone photo of a REAL messy kitchen counter mid-dinner-prep. Harsh overhead kitchen lighting (NOT golden hour — that's styled, not real). SliceSafe Pro is just sitting on the counter being used — not posed, not hero'd. Cutting board with vegetable scraps, a recipe on a phone screen propped up nearby, a pot on the stove in the background. Should look like someone grabbed their phone and snapped a quick pic to share — "this is the mandoline everyone in the comments was asking about." Maximum native camouflage.
 
 **Creative 2 Image:**
 Clean product shot of SliceSafe Pro with bold oversized text overlaid: "90 seconds. Perfect slices. 10 fingers." Numbers should be HUGE. Clean, modern, high contrast.
@@ -531,12 +531,12 @@ Per the Winning Ad Template Analysis: Template 5 "Leading With New Mechanism" is
 |---|---|---|
 | 1 | Specific number | "8 inches. That's the distance between your hands and the blade." |
 | 2 | Simple visual statement | "Hands on top. Slices come out the bottom. They never meet." |
-| 3 | Category contrast | "Every mandoline puts your hands near the blade. This one can't." |
+| 3 | POV perspective | "This is what slicing looks like when your hands are 8 inches from the blade." |
 
 **Format:**
 - Creative 1: Product photography + bold number text (clean, editorial)
 - Creative 2: Static graphic — product with annotated visual showing hand position vs. blade position
-- Creative 3: Split-screen — traditional mandoline (hands near blade) vs. SliceSafe (hands on top)
+- Creative 3: POV first-person perspective — viewer IS the user
 
 **Creative 1 Image:**
 SliceSafe Pro centered on clean white marble. Angled to show full height — handle at top, blade area in middle, catch tray at bottom. Breathing room at top for bold "8 inches" text. Clean, bright, editorial. One whole vegetable next to the mandoline for scale.
@@ -549,9 +549,7 @@ SliceSafe Pro with simple annotation arrows/lines:
 Clean, white background, infographic style. Should communicate the mechanism in 2 seconds flat.
 
 **Creative 3 Image:**
-Left: Traditional flat mandoline with exposed blade — desaturated, cold, showing how close hands get to blade during use.
-Right: SliceSafe Pro — warm colors, showing hands safely on top handle, far from blade.
-Small text: "This is a mandoline. This is the mandoline, redesigned."
+POV / first-person perspective — shot looking DOWN from above, as if the viewer is the one using the mandoline. Hands gripping the top handle, pushing a vegetable down into the hopper. Through the transparent hopper, the V-blade is visible below. Perfect slices coming out into the catch tray at the bottom. The camera IS the user's eyes — they SEE the distance between their hands and the blade. Demonstrates the mechanism without explanation. Creates psychological ownership.
 
 **Body Copy 1 (Direct mechanism lead):**
 ```
@@ -602,11 +600,11 @@ For each batch, create 3 ads:
 ### Naming convention:
 `B[batch]_[sub-avatar]_[angle-short]`
 
-Batch 1: `B1_scarred_mechanism`, `B1_scroll_trend`, `B1_drawer_design`
+Batch 1: `B1_scarred_mechanism`, `B1_scroll_textpost`, `B1_drawer_design`
 Batch 2: `B2_scarred_noguard`, `B2_scarred_chopping`, `B2_scarred_3years`
-Batch 3: `B3_scroll_cucumber`, `B3_scroll_90sec`, `B3_scroll_trending`
+Batch 3: `B3_scroll_ugc`, `B3_scroll_90sec`, `B3_scroll_trending`
 Batch 4: `B4_drawer_designed_wrong`, `B4_drawer_finally`, `B4_drawer_20min`
-Batch 5: `B5_mech_8inches`, `B5_mech_handstop`, `B5_mech_contrast`
+Batch 5: `B5_mech_8inches`, `B5_mech_handstop`, `B5_mech_pov`
 
 ### Kill/Scale Criteria (per Origins):
 - **Kill:** CTR < 1.5% after 3 days + $15 minimum spend

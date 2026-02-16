@@ -70,40 +70,70 @@ Clean, bright product photograph of a light-blue vertical standing mandoline sli
 
 ---
 
-### Creative 2: `B1_scroll_trend`
+### Creative 2: `B1_scroll_textpost`
 **Sub-Avatar:** Scroll Stopper | **Angle:** Trend without the ER visit
-**Hook text overlay:** `That cucumber salad everyone's making?` (line break) `Here's how to not end up in the ER.`
+**Format:** TEXT-ONLY — no product image. Pure native camouflage.
 
-**Nano Banana Pro Prompt:**
+**Why this format:** This is the ultimate test of copy vs. creative. If text alone converts, we've found the angle — and we can iterate copy variations at near-zero cost. Text posts bypass ad blindness completely because they look like someone sharing a story, not a brand selling. This format is huge on TikTok/Instagram (text stories, Notes app screenshots) and costs nothing to produce.
+
+**No Nano Banana Pro image needed.** This is 100% Canva build.
+
+**The copy (this IS the creative):**
 ```
-Casual food photograph on a warm wooden kitchen cutting board. In the foreground, a beautiful bowl of paper-thin cucumber salad — dozens of perfectly uniform cucumber rounds in a shallow white ceramic bowl, dressed in a glossy sesame chili oil with toasted sesame seeds, thin-sliced red chili rings, and a few sprigs of fresh cilantro on top. The slices are so thin they are slightly translucent, each one identical in thickness. Behind the bowl in the mid-ground, positioned about 8-10 inches behind the bowl and slightly out of focus, a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel V-blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is recognizable but the food bowl is the hero. A few cucumber ends and seeds scattered on the cutting board, suggesting someone just finished slicing. A halved cucumber nearby. Warm natural daylight from a window behind-left, golden afternoon light, soft shadows on wood. Shot from 45-degree angle, slightly overhead, iPhone food photography aesthetic — casual, bright, real. Vibrant greens, warm sesame tones, white bowl against warm wood. Shallow depth of field with cucumber salad sharp and mandoline soft. Breathing room at top and bottom for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
+Saw the cucumber salad trend.
+Looked up mandolines.
+Read the reviews.
+
+"I sliced my thumb to the bone."
+"The guard is useless."
+"Legit blood sacrifice."
+
+Closed the tab.
+
+Then found one where your hands don't go
+anywhere near the blade. 8 inches above it,
+actually. You push from the top.
+The blade is enclosed below.
+
+Made the salad. Kept all my fingers.
+
+SliceSafe Pro — $64.99
+velaine.shop
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set background color to **#1A1A1A** (near-black — mimics dark mode Notes app or text story)
 
-**Hook text (top):**
-1. Add text box: `That cucumber salad everyone's making?` (line break) `Here's how to not end up in the ER.`
-2. Font: **Inter**
-3. Size: **30-34px**
-4. Color: **White (#FFFFFF)**
-5. Weight: **Semi-bold**
-6. Drop shadow: Blur 20, Transparency 40%
-7. Position: **top 15-20%**, left-aligned, ~40px margins
-8. First line is the relatable setup, second line is the pattern interrupt
+**Main text:**
+1. Add text box with the full copy above
+2. Font: **SF Mono** (if available) or **Courier** or **Inter** — monospace feels most like a Notes app; Inter feels more like a social text post. Test both, pick whichever looks more native.
+3. Size: **20-24px** (smaller than other ads — this should feel like reading, not being shouted at)
+4. Color: **#E5E5E5** (soft white — not pure white, feels more natural on dark background)
+5. Weight: **Regular**
+6. Line spacing: **1.5-1.6** (generous — easy to read, creates the "scrolling through a text post" feel)
+7. Position: **centered vertically and horizontally** on canvas with ~60px margins all sides
+8. NO drop shadow — the dark background provides contrast
+9. The injury quotes ("I sliced my thumb...") should feel like actual review excerpts — consider making them slightly indented or a different shade (#CCCCCC)
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
-3. Bottom-right, ~20px from edges
+**Optional styling (pick one):**
+- **Notes app style:** Add a thin horizontal line at the very top (#333333) and a small "Notes" or date stamp text in top-left corner (tiny, 12px, #666666) to mimic the Notes app UI
+- **Text story style:** Keep it clean — just text on black. No UI elements. Mimics Instagram text stories.
+- **Tweet/post style:** Add a subtle rounded rectangle border (#333333, 1px) around the text area
+
+**Price/link at bottom:**
+1. `SliceSafe Pro — $64.99` and `velaine.shop` are already in the copy
+2. Make the price line slightly brighter (#FFFFFF) or in brand blue (#4A90E2) to stand out
+3. No price pill needed — it's embedded in the text naturally
 
 **Final check:**
-- [ ] Food looks appetizing and trend-recognizable (cucumber salad)
-- [ ] Mandoline visible but not hero
-- [ ] Hook creates curiosity + slight shock ("ER" is the pattern interrupt)
-- [ ] Feels like a native food post, not an ad
+- [ ] Looks like a real text post / Notes app screenshot — NOT an ad
+- [ ] The story arc lands: excitement → research → horror → avoidance → discovery → resolution
+- [ ] Injury quotes feel like real reviews (because they're based on real mandoline reviews)
+- [ ] "Made the salad. Kept all my fingers." is the punchline — it should land with a beat
+- [ ] Text is comfortable to read at phone size — not too small, not too big
+- [ ] Someone scrolling should think "what is this?" and start reading before realizing it's an ad
 - [ ] Export PNG highest quality
 
 ---
@@ -296,40 +326,47 @@ Warm, inviting lifestyle photograph of a light-blue vertical standing mandoline 
 
 ---
 
-### Creative 1: `B3_scroll_cucumber`
-**Angle:** Trend + finger loss avoidance
-**Hook text overlay:** `That cucumber salad everyone's making?` (line break) `Here's how to make it without losing a finger.`
+### Creative 1: `B3_scroll_ugc`
+**Angle:** Trend + social proof camouflage
+**Hook text overlay:** `This is the mandoline everyone in the comments was asking about.`
+**Format:** UGC-style phone photo — maximum native camouflage
+
+**Why this format:** The most native-looking static ad possible. It looks like a real person posted a photo of their kitchen mid-cooking, not a brand advertising. This format bypasses ad blindness because the brain processes it as "someone I follow posted this" before recognizing it as an ad. The hook references "the comments" — implying existing social proof and conversation.
 
 **Nano Banana Pro Prompt:**
 ```
-Casual food photograph on a warm wooden kitchen cutting board. In the foreground, a stunning cucumber salad in a shallow matte-black ceramic bowl — paper-thin, perfectly uniform cucumber rounds layered and slightly overlapping, dressed in a glistening chili crisp oil with crushed peanuts, toasted white sesame seeds, thin garlic slices, a drizzle of soy sauce, and fresh green onion rings on top. Each cucumber slice is translucent — so thin you can see the seeds through the flesh. Behind the bowl in the mid-ground, positioned about 8-10 inches behind the bowl and slightly out of focus, a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel V-blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. A few cucumber ends and scraps scattered on the board, fresh cilantro sprigs nearby, a small dish of chili crisp to the side. Warm natural daylight from behind-left, golden afternoon kitchen light. Shot from 45-degree angle, slightly overhead, iPhone food photography aesthetic — casual, vibrant, real. Rich greens, warm reds from chili, dark bowl against warm wood. Shallow depth of field with salad sharp and mandoline soft. Breathing room at top and bottom for text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Casual, slightly messy iPhone photograph of a real home kitchen counter during weeknight dinner prep. On the counter: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel V-blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with fresh vegetable slices inside. The mandoline is NOT centered or posed — it's sitting naturally on the counter among the mess of actual cooking. Around it: a wooden cutting board with cucumber ends and vegetable scraps, a chef's knife lying flat, a half-used onion in a small bowl, a phone propped up against something showing a recipe (screen glowing), a crumpled dish towel, a salt grinder, an open bottle of olive oil. In the background, slightly out of focus: a pot on the stove with steam, some plates stacked, maybe a spice rack. The lighting is HARSH overhead kitchen lighting — a pendant or recessed ceiling light casting downward shadows. NOT golden hour, NOT warm window light. This is 6:30 PM on a Tuesday under a kitchen ceiling light. The photo quality should feel like an iPhone quick-snap — good but not styled, slightly imperfect framing, maybe slightly tilted 1-2 degrees. The mandoline is recognizable but is just ONE item in a real cooking scene. Real kitchen, real mess, real life. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
+3. Do NOT adjust saturation or brightness — keep the raw, unfiltered look
 
-**Hook text (top):**
-1. Add text box: `That cucumber salad everyone's making?` (line break) `Here's how to make it without losing a finger.`
+**Hook text (top — casual placement):**
+1. Add text box: `This is the mandoline everyone in the comments was asking about.`
 2. Font: **Inter**
-3. Size: **30-34px**
+3. Size: **28-32px**
 4. Color: **White (#FFFFFF)**
-5. Weight: **Semi-bold**
-6. Drop shadow: Blur 20, Transparency 40%
-7. Position: **top 15-20%**, left-aligned, ~40px margins
-8. First line = relatable trend reference. Second line = safety pattern interrupt.
+5. Weight: **Regular** (not semi-bold — casual, not emphatic)
+6. Drop shadow: Blur 25, Transparency 50% (heavier shadow to read over busy image)
+7. Position: **top 10-15%**, left-aligned, ~40px margins
+8. Should feel like someone added a caption, not a headline
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
-3. Bottom-right, ~20px from edges
+**Price tag (bottom — subtle):**
+1. `SliceSafe Pro — $64.99 → velaine.shop`
+2. Inter, 14-16px (smaller than other ads), white text, no pill background
+3. Bottom-left, ~20px from edges
+4. Keep this SMALL — the less it looks like an ad, the better
 
 **Final check:**
-- [ ] Cucumber salad looks recognizable as "the trend"
-- [ ] Food is the hero, mandoline in background
-- [ ] Hook shifts from food aspiration to safety — the pattern interrupt
-- [ ] Feels like a native food post
+- [ ] First impression is "someone posted a photo of their kitchen" — NOT "this is an ad"
+- [ ] Lighting looks like overhead kitchen light, not styled photography
+- [ ] Kitchen is messy in a REAL way (not staged mess)
+- [ ] Mandoline is present but not posed or hero'd
+- [ ] Hook feels like a casual response to comments, not a marketing headline
+- [ ] The overall vibe is authenticity — someone sharing, not selling
 - [ ] Export PNG highest quality
 
 ---
@@ -686,57 +723,44 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 
 ---
 
-### Creative 3: `B5_mech_contrast`
-**Mechanism execution:** Category contrast — old vs. new
-**Hook text overlay:** `Every mandoline puts your hands near the blade.` (line break) `This one can't.`
+### Creative 3: `B5_mech_pov`
+**Mechanism execution:** POV first-person perspective — viewer IS the user
+**Hook text overlay:** `This is what slicing looks like` (line break) `when your hands are 8 inches from the blade.`
 
-**This ad requires TWO images composited in Canva.**
+**Why this format:** POV shots create psychological ownership — the viewer's brain processes the image as if THEY are doing the action. This is the most direct way to demonstrate the Hands-On-Top mechanism because the viewer literally SEES the distance between hands and blade from their own perspective. Nobody else in the mandoline category is using this format.
 
-**LEFT IMAGE — Nano Banana Pro Prompt (traditional mandoline in use):**
+**Nano Banana Pro Prompt:**
 ```
-Close-up photograph of a person's hands using a traditional flat mandoline slicer. The hands are positioned close to the exposed blade — fingers gripping a small piece of potato being pushed across the flat horizontal blade surface. The fingers are dangerously close to the sharp V-blade, maybe 1-2 inches away. The plastic finger guard is visible but pushed off to the side, not being used. The mandoline is a standard stainless steel flat design lying on a cutting board. Shot from slightly above, focusing on the dangerous proximity of fingers to blade. Cool, slightly harsh lighting. The mood is tense — you can feel the danger. Slightly desaturated, cold tones. Close crop on the hands and blade area. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**RIGHT IMAGE — Nano Banana Pro Prompt (SliceSafe Pro in use):**
-```
-Close-up photograph showing hands safely gripping the wide ergonomic pressing handle at the very top of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel V-blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with perfect slices coming out. The hands are pushing down from the top — clearly far above and away from the blade area in the middle of the product. The distance between the hands and the blade is visually obvious and dramatic. Warm, inviting lighting from the side, golden tones. The mood is relaxed, safe, confident — the opposite of tense. Warm color tones. Close crop showing the hands on the handle and the blade area visible below but far away. Shot from slightly to the side at eye level. No text, no logos, no watermarks. 4:5 aspect ratio.
+First-person POV photograph looking down from above — the camera IS the person's eyes. Two hands are gripping the wide ergonomic pressing handle at the very top of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel V-blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with several perfect paper-thin vegetable slices visible inside. A half-sliced zucchini sits in the transparent food hopper, about to be pushed through the blade. The hands are pressing down on the handle — you can see the knuckles and fingers gripping the handle clearly, as if they are YOUR hands. Below the hands, the transparent hopper shows the stainless steel V-blade enclosed inside — visually far below the hands, at least 8 inches down. Perfect vegetable slices are visible in the clear catch tray at the bottom. The distance from the hands to the blade is dramatic and obvious from this angle — the whole point of the image. The mandoline is standing on a warm wooden cutting board with a few scattered vegetable slices and scraps around the base. Warm natural light from behind-left. Shot from directly above looking straight down — first-person perspective, as if a GoPro was mounted on someone's forehead while they slice. Real kitchen feel, not studio. Slightly warm tones, natural. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#F5F5F5** (light grey divider)
-3. Upload both images
+2. Upload generated image, fill canvas
 
-**Left side (traditional — dangerous):**
-1. Place LEFT image on left half (520px, 40px center gap)
-2. Reduce Saturation by 15-20% — should feel cold and uncomfortable
+**Hook text (bottom — text goes at bottom so the POV perspective at top is unobstructed):**
+1. Add text box: `This is what slicing looks like` (line break) `when your hands are 8 inches from the blade.`
+2. Font: **Inter**
+3. Size: **30-34px**
+4. Color: **White (#FFFFFF)**
+5. Weight: **Semi-bold**
+6. Drop shadow: Blur 25, Transparency 50%
+7. Position: **bottom 15-20%**, left-aligned, ~40px margins
+8. The image does the heavy lifting — the text just names what they're seeing
 
-**Right side (SliceSafe — safe):**
-1. Place RIGHT image on right half (520px)
-2. Boost Saturation by 5-10% — should feel warm and safe
-
-**Small labels:**
-1. Left bottom: `Every mandoline.` — Inter, 18px, #999999, Regular
-2. Right bottom: `This mandoline.` — Inter, 18px, White, Semi-bold
-
-**Hook text (top, across full width):**
-1. Add text box: `Every mandoline puts your hands near the blade.` (line break) `This one can't.`
-2. Font: **Inter**, **28-32px**, **Semi-bold**, White (#FFFFFF)
-3. Drop shadow: Blur 20, Transparency 40%
-4. Position: top 8-12%, centered across full width
-
-**Price tag (bottom-right):**
+**Price tag (bottom-right, above or below main text):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
-3. Bottom-right of right side, ~20px from edges
+3. Bottom-right, ~20px from edges
 
 **Final check:**
-- [ ] Left side visually shows hands CLOSE to blade (uncomfortable)
-- [ ] Right side visually shows hands FAR from blade (safe)
-- [ ] The contrast communicates the mechanism without reading a word
-- [ ] "This one can't." is a confident, definitive statement
-- [ ] Cold left vs warm right is immediately felt
+- [ ] The perspective feels like YOU are the one slicing (first-person POV)
+- [ ] The distance from hands to blade is visually dramatic and obvious
+- [ ] The blade is visible through the transparent hopper — enclosed, not exposed
+- [ ] The image communicates the mechanism WITHOUT reading the text
+- [ ] Feels natural and real, not a studio product shot
+- [ ] Creates the "I could see myself using this" feeling
 - [ ] Export PNG highest quality
 
 ---
@@ -750,9 +774,9 @@ Close-up photograph showing hands safely gripping the wide ergonomic pressing ha
 
 ### Batch 1 (3 ads — launch Monday):
 - [ ] B1_scarred_mechanism: Generate 1 image → Canva overlay → Export
-- [ ] B1_scroll_trend: Generate 1 image → Canva overlay → Export
+- [ ] B1_scroll_textpost: Canva-only build (no image generation needed) → Export
 - [ ] B1_drawer_design: Generate 2 images (drawer + countertop) → Canva composite → Export
-- [ ] Upload all 3 to Meta as `B1_scarred_mechanism`, `B1_scroll_trend`, `B1_drawer_design`
+- [ ] Upload all 3 to Meta as `B1_scarred_mechanism`, `B1_scroll_textpost`, `B1_drawer_design`
 - [ ] Assign Body Copy 1 + Body Copy 2 + Headline 1 + Headline 2 from strategy doc
 
 ### Batch 2 (3 ads — launch Tuesday):
@@ -763,7 +787,7 @@ Close-up photograph showing hands safely gripping the wide ergonomic pressing ha
 - [ ] Assign Body Copy 1 + Body Copy 2 + Headline 1 + Headline 2 from strategy doc
 
 ### Batch 3 (3 ads — launch Wednesday):
-- [ ] B3_scroll_cucumber: Generate 1 image → Canva overlay → Export
+- [ ] B3_scroll_ugc: Generate 1 image (UGC-style) → Canva overlay (minimal) → Export
 - [ ] B3_scroll_90sec: Generate 1 image → Canva overlay → Export
 - [ ] B3_scroll_trending: Generate 1 image → Canva overlay → Export
 - [ ] Upload all 3 to Meta
@@ -779,7 +803,7 @@ Close-up photograph showing hands safely gripping the wide ergonomic pressing ha
 ### Batch 5 (3 ads — launch Friday):
 - [ ] B5_mech_8inches: Generate 1 image → Canva overlay → Export
 - [ ] B5_mech_handstop: Generate 1 image → Canva annotated build → Export
-- [ ] B5_mech_contrast: Generate 2 images (traditional + SliceSafe) → Canva composite → Export
+- [ ] B5_mech_pov: Generate 1 image (POV perspective) → Canva overlay → Export
 - [ ] Upload all 3 to Meta
 - [ ] Assign Body Copy 1 + Body Copy 2 + Headline 1 + Headline 2 from strategy doc
 
@@ -790,14 +814,16 @@ Close-up photograph showing hands safely gripping the wide ergonomic pressing ha
 - [ ] Kill any remaining dead ads from previous batches (stat_bomb_6pm, meme_every_owner, testimonial_verified)
 
 ### Image count summary:
-| Batch | Single images | Composite (2 images) | Total images to generate |
-|---|---|---|---|
-| Batch 1 | 2 | 1 | 4 |
-| Batch 2 | 3 | 0 | 3 |
-| Batch 3 | 3 | 0 | 3 |
-| Batch 4 | 2 | 1 | 4 |
-| Batch 5 | 2 | 1 | 4 |
-| **Total** | **12** | **3** | **18 images** |
+| Batch | Single images | Composite (2 images) | Canva-only (no image) | Total images to generate |
+|---|---|---|---|---|
+| Batch 1 | 1 | 1 | 1 (textpost) | 3 |
+| Batch 2 | 3 | 0 | 0 | 3 |
+| Batch 3 | 3 | 0 | 0 | 3 |
+| Batch 4 | 2 | 1 | 0 | 4 |
+| Batch 5 | 3 | 0 | 0 | 3 |
+| **Total** | **12** | **2** | **1** | **16 images** |
+
+*Reduced from 18 to 16 images by swapping 1 composite for a POV single image and 1 food-first for a text-only Canva build.*
 
 ---
 
