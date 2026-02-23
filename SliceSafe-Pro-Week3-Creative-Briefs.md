@@ -263,10 +263,10 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ---
 
 ### Creative 1: `B7_comp_exposed`
-**Angle:** Blade comparison — exposed vs enclosed
-**Hook text overlay:** `Exposed blade vs. enclosed blade.` (line break) `That's the entire difference.`
+**Sub-Avatar:** Scarred Chef | **Angle:** Blade comparison — exposed vs enclosed
+**Hook text overlay:** `You already know what an exposed blade does.` (line break) `This one's enclosed.`
 
-**Why this creative:** The simplest possible comparison. UGC Video 2 won by showing old tool vs new tool side by side. This does the same thing but zooms into the ONE detail that matters: blade exposure. Reduces the entire product story to one visual contrast.
+**Why this creative:** Speaks directly to the Scarred Chef — they don't need the exposed blade explained, they have the scar. "You already know" validates their experience. Then "This one's enclosed" provides the resolution. UGC Video 2 won by showing old vs new side by side. This zooms into the ONE detail the Scarred Chef cares about most: the blade.
 
 **Nano Banana Pro Prompt (LEFT — traditional mandoline close-up):**
 ```
@@ -297,7 +297,7 @@ Close-up product photograph of the middle section of a light-blue vertical stand
 2. Right side, bottom-center: `Enclosed.` — Inter, 22px, **#4A90E2** (blue), Semi-bold
 
 **Hook text (centered across top):**
-1. Add text box: `Exposed blade vs. enclosed blade.` (line break) `That's the entire difference.`
+1. Add text box: `You already know what an exposed blade does.` (line break) `This one's enclosed.`
 2. Font: **Inter**, **28-32px**, **Semi-bold**, White (#FFFFFF)
 3. Drop shadow: Blur 20, Transparency 40%
 4. Position: top 10-12%, centered across full width
@@ -318,10 +318,10 @@ Close-up product photograph of the middle section of a light-blue vertical stand
 ---
 
 ### Creative 2: `B7_comp_flat`
-**Angle:** Design direction comparison — flat vs vertical
-**Hook text overlay:** `Flat mandoline: hands go toward the blade.` (line break) `This one: hands stay on top.`
+**Sub-Avatar:** Scarred Chef | **Angle:** Design direction comparison — flat vs vertical
+**Hook text overlay:** `Your old mandoline pushed your hands toward the blade.` (line break) `This one keeps them on top.`
 
-**Why this creative:** Reframes the entire product category. Instead of comparing specific products, compares DESIGN PHILOSOPHIES. This is the "new information" market sophistication response — the reason mandolines are dangerous is the flat design itself.
+**Why this creative:** Speaks to the Scarred Chef's direct experience — they KNOW what it feels like when hands move toward the blade. "Your old mandoline" references the specific tool that hurt them. The comparison reframes their injury as a design problem, not their mistake.
 
 **This ad requires TWO images composited in Canva.**
 
@@ -350,12 +350,12 @@ Warm photograph of a person's hands gripping the wide ergonomic pressing handle 
 2. Boost Saturation by 5-10%
 
 **Hook text (across top):**
-1. Add text: `Flat mandoline: hands go toward the blade.`
+1. Add text: `Your old mandoline pushed your hands toward the blade.`
 2. Font: Inter, **26-30px**, Semi-bold, White
 3. Drop shadow: Blur 20, Transparency 40%
 4. Position: top 8-10%, centered
 
-5. Add text below: `This one: hands stay on top.`
+5. Add text below: `This one keeps them on top.`
 6. Font: Inter, **26-30px**, Semi-bold, White
 7. Position: directly below first line
 
@@ -377,10 +377,10 @@ Warm photograph of a person's hands gripping the wide ergonomic pressing handle 
 ---
 
 ### Creative 3: `B7_comp_toss`
-**Angle:** Action-based — threw out the guard
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Action-based — threw out the guard
 **Hook text overlay:** `Kept the mandoline.` (line break) `Threw out the finger guard.`
 
-**Why this creative:** Cheeky, confident assertion. Instead of explaining WHY the guard is unnecessary, shows someone who already decided. This creates social proof through implied behavior — "someone already did this." Regret aversion: if they threw out the guard, it must really not be needed.
+**Why this creative:** Speaks to the Drawer Stuffer who has that useless guard somewhere in the drawer. They bought a mandoline, got the guard, never used the guard, stopped using the mandoline. Showing someone who threw the guard away is aspirational for the Drawer Stuffer — it's the action they wish they could take. "Kept the mandoline" implies they found one worth keeping.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -441,7 +441,7 @@ SliceSafe Pro fixed the design. Your hands push down from the top. The blade is 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
 
-**Headline 1:** Exposed blade vs. enclosed blade.
+**Headline 1:** You already know what an exposed blade does.
 **Headline 2:** The mandoline, redesigned from scratch.
 **Description:** Hands-On-Top design. $64.99
 
@@ -456,10 +456,10 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ---
 
 ### Creative 1: `B8_trans_awesome`
-**Angle:** Direct quote from UGC Video 1 winner
-**Hook text overlay:** `"This thing is freaking awesome."`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Direct quote from UGC Video 1 winner — discovery energy
+**Hook text overlay:** `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
 
-**Why this creative:** This exact line opened a video that produced a sale. The energy is pure discovery — excited person sharing a find. Putting it on a warm lifestyle image with quotation marks makes it feel like a real review, not an ad. Social proof + authenticity.
+**Why this creative:** Speaks to the Drawer Stuffer who's tried mandolines before and given up. "I finally found one" = their exact journey (bought one, put it in drawer, found SliceSafe). The original UGC Video 1 line produced a sale — adding "I finally found one" in front targets it specifically at the person who's been searching.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -472,7 +472,7 @@ Warm, casual lifestyle photograph of a light-blue vertical standing mandoline sl
 2. Upload generated image, fill canvas
 
 **Quote text (top — large, with quotation marks):**
-1. Add text box: `"This thing is freaking awesome."`
+1. Add text box: `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
 2. Font: **Inter**
 3. Size: **36-42px**
 4. Color: **White (#FFFFFF)**
@@ -500,10 +500,10 @@ Warm, casual lifestyle photograph of a light-blue vertical standing mandoline sl
 ---
 
 ### Creative 2: `B8_trans_100x`
-**Angle:** Direct quote from UGC Video 2 winner
-**Hook text overlay:** `"100x better and safer` (line break) `than my old one."`
+**Sub-Avatar:** Scarred Chef | **Angle:** Direct quote from UGC Video 2 winner — comparison
+**Hook text overlay:** `"100x better and safer` (line break) `than the one that got me."`
 
-**Why this creative:** UGC Video 2's opening line ("This one right here is a hundred times better and safer than this thing right here") produced a sale. The key was the COMPARISON — old vs new. This static version captures that comparison in the hook while showing the product on its own. The number "100x" is a powerful anchor.
+**Why this creative:** Speaks directly to the Scarred Chef. Changed "my old one" to "the one that got me" — this is THEIR language. They refer to their mandoline injury as "the time it got me." UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old grater in the image reinforces the comparison visually.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -516,7 +516,7 @@ Bright, clean product photograph of a light-blue vertical standing mandoline sli
 2. Upload generated image, fill canvas
 
 **Quote text (top):**
-1. Add text box: `"100x better and safer` (line break) `than my old one."`
+1. Add text box: `"100x better and safer` (line break) `than the one that got me."`
 2. Font: **Inter**
 3. Size: **34-38px**
 4. Color: **White (#FFFFFF)**
@@ -541,10 +541,10 @@ Bright, clean product photograph of a light-blue vertical standing mandoline sli
 ---
 
 ### Creative 3: `B8_trans_recommend`
-**Angle:** Direct endorsement quote from UGC Video 1
-**Hook text overlay:** `"10 out of 10. Would recommend."`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Endorsement from someone who was in their shoes
+**Hook text overlay:** `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
 
-**Why this creative:** This exact phrase closed UGC Video 1 which produced a sale. "10 out of 10" is a universal endorsement format — everyone understands the scale. Combined with a clean product shot, it functions as a review-style ad that bypasses ad blindness.
+**Why this creative:** Speaks directly to the Drawer Stuffer by naming their exact behavior — multiple mandolines bought and abandoned. "This one stays on the counter" is the Drawer Stuffer's dream outcome. Closes with the "10 out of 10" endorsement from UGC Video 1 which produced a sale. The hook tells a complete story in two lines: problem → solution → rating.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -557,20 +557,16 @@ Clean, bright editorial product photograph of a light-blue vertical standing man
 2. Upload generated image, fill canvas
 
 **Quote text (top — large and bold):**
-1. Add text box: `"10 out of 10.` (line break) `Would recommend."`
+1. Add text box: `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
 2. Font: **Inter**
-3. Size: **40-48px**
+3. Size: **34-38px**
 4. Color: **#1A1A1A** (near black — clean on white/bright background)
-5. Weight: **Bold**
+5. Weight: **Semi-bold**
 6. Position: top 10-18%, center-aligned
 
-**Optional: star rating visual**
-1. Below the quote, add 5 star emojis or star icons in a row (⭐⭐⭐⭐⭐)
-2. Small, 20px — just enough to reinforce the "10/10" visually
-
 **Attribution:**
-1. `— Real Customer` — Inter, 14-16px, #999999
-2. Below stars, centered
+1. `— Verified Buyer` — Inter, 14-16px, #999999
+2. Below quote, centered
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
@@ -609,7 +605,7 @@ And I still have all 10 fingers.
 $64.99 — still in stock at velaine.shop
 ```
 
-**Headline 1:** 10 out of 10. Would recommend.
+**Headline 1:** The mandoline that finally stays on the counter.
 **Headline 2:** Your hands never go near the blade.
 **Description:** Hands-On-Top design. $64.99
 
@@ -932,8 +928,8 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ---
 
 ### Creative 1: `B11_id_cook`
-**Angle:** The mandoline for serious home cooks
-**Hook text overlay:** `The mandoline for people` (line break) `who actually cook.`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Identity challenge — you cook daily but avoid this tool
+**Hook text overlay:** `You cook every night.` (line break) `But your mandoline is still in the drawer.`
 
 **Nano Banana Pro Prompt:**
 ```
@@ -946,7 +942,7 @@ Warm, dynamic lifestyle photograph of active weeknight dinner prep in a real hom
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `The mandoline for people` (line break) `who actually cook.`
+1. Add text box: `You cook every night.` (line break) `But your mandoline is still in the drawer.`
 2. Font: Inter, **34-38px**, Semi-bold, White
 3. Drop shadow: Blur 25, Transparency 50%
 4. Position: top 10-15%, center-aligned
@@ -965,8 +961,8 @@ Warm, dynamic lifestyle photograph of active weeknight dinner prep in a real hom
 ---
 
 ### Creative 2: `B11_id_upgrade`
-**Angle:** Your kitchen evolved, your mandoline didn't
-**Hook text overlay:** `Your kitchen evolved.` (line break) `Your mandoline didn't.`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Kitchen evolution — everything upgraded except the mandoline
+**Hook text overlay:** `You upgraded your knives. Your pans. Your boards.` (line break) `Your mandoline is still in the drawer.`
 
 **Nano Banana Pro Prompt:**
 ```
@@ -979,7 +975,7 @@ Bright, modern photograph of a beautiful updated kitchen countertop with modern 
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `Your kitchen evolved.` (line break) `Your mandoline didn't.`
+1. Add text box: `You upgraded your knives. Your pans. Your boards.` (line break) `Your mandoline is still in the drawer.`
 2. Font: Inter, **34-38px**, Semi-bold, White
 3. Drop shadow: Blur 20, Transparency 40%
 4. Position: top 10-15%, center-aligned
@@ -998,8 +994,8 @@ Bright, modern photograph of a beautiful updated kitchen countertop with modern 
 ---
 
 ### Creative 3: `B11_id_host`
-**Angle:** The secret behind dinner party compliments
-**Hook text overlay:** `Behind every dinner party compliment:` (line break) `3 minutes of slicing.`
+**Sub-Avatar:** Scroll Stopper | **Angle:** The trending dish they want to make, made safe
+**Hook text overlay:** `You've saved the recipe 3 times.` (line break) `You still haven't bought the mandoline.`
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1012,7 +1008,7 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `Behind every dinner party compliment:` (line break) `3 minutes of slicing.`
+1. Add text box: `You've saved the recipe 3 times.` (line break) `You still haven't bought the mandoline.`
 2. Font: Inter, **32-36px**, Semi-bold, White
 3. Drop shadow: Blur 25, Transparency 50%
 4. Position: top 10-15%, center-aligned
@@ -1056,8 +1052,8 @@ Your guests will ask what your secret is.
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
 
-**Headline 1:** The mandoline for people who actually cook.
-**Headline 2:** Your kitchen deserves an upgrade.
+**Headline 1:** Your mandoline belongs on the counter, not in the drawer.
+**Headline 2:** The recipe you saved needs this tool.
 **Description:** Hands-On-Top design. $64.99
 
 ---
@@ -1071,8 +1067,8 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ---
 
 ### Creative 1: `B12_wild_stat`
-**Angle:** Stat-led pattern interrupt — injury numbers
-**Hook text overlay:** `47,000 mandoline injuries` (line break) `reported every year.` (line break, smaller) `This mandoline? Zero.`
+**Sub-Avatar:** Scarred Chef | **Angle:** Stat-led pattern interrupt — they were one of those injuries
+**Hook text overlay:** `47,000 mandoline injuries a year.` (line break) `You were one of them.` (line break, smaller) `This mandoline can't add another.`
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1090,13 +1086,17 @@ Dark, bold editorial product photograph of a light-blue vertical standing mandol
 2. Font: Inter, **72-80px**, Bold, **#FF4444** (red)
 3. Position: upper area, center-aligned
 
-4. Add text below: `mandoline injuries reported every year.`
+4. Add text below: `mandoline injuries a year.`
 5. Font: Inter, **28-32px**, Regular, White
 6. Center-aligned
 
-7. Add text below with spacing: `This mandoline? Zero.`
-8. Font: Inter, **36-40px**, Bold, **#4A90E2** (blue)
+7. Add text below: `You were one of them.`
+8. Font: Inter, **28-32px**, Semi-bold, White
 9. Center-aligned
+
+10. Add text below with spacing: `This mandoline can't add another.`
+11. Font: Inter, **32-36px**, Bold, **#4A90E2** (blue)
+12. Center-aligned
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
@@ -1113,10 +1113,10 @@ Dark, bold editorial product photograph of a light-blue vertical standing mandol
 ---
 
 ### Creative 2: `B12_wild_list`
-**Angle:** List of things thrown out — escalates to emotional punchline
-**Hook text overlay:** `What I threw out after buying this:` (list below)
+**Sub-Avatar:** Drawer Stuffer | **Angle:** List of drawer tools thrown out — escalates to emotional punchline
+**Hook text overlay:** `What I cleared out of my kitchen drawer:` (list below)
 
-**Format:** TEXT-HEAVY — similar to B1_scroll_textpost but with a list format and a product image.
+**Format:** TEXT-HEAVY — speaks to the Drawer Stuffer's actual drawer full of unused gadgets. The list IS their drawer. The emotional punchline ("my fear") is the thing they really threw out.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1129,7 +1129,7 @@ Simple, clean photograph of a light-blue vertical standing mandoline slicer — 
 2. Upload generated image, fill canvas
 
 **Header text (top):**
-1. Add text box: `What I threw out after buying this:`
+1. Add text box: `What I cleared out of my kitchen drawer:`
 2. Font: Inter, **28-32px**, Semi-bold, **#1A1A1A**
 3. Position: top 8-10%, left-aligned, ~60px margin
 
@@ -1155,10 +1155,10 @@ Simple, clean photograph of a light-blue vertical standing mandoline slicer — 
 ---
 
 ### Creative 3: `B12_wild_price`
-**Angle:** Value anchor — replaced $200 worth of tools
-**Hook text overlay:** `$65 replaced $200 worth` (line break) `of kitchen tools.`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Value anchor — replaced every gadget in the drawer
+**Hook text overlay:** `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
 
-**Why this creative:** Anchoring effect — by establishing the $200 number first, $65 feels like a steal. This reframes the mandoline from "an expensive kitchen gadget" to "a consolidation that saves money." Different emotional register from fear/safety — purely practical value.
+**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). "$65 replaced everything sitting in your kitchen drawer" names their exact situation. Anchoring effect: $200 of tools → $65 feels like a steal. This addresses the Drawer Stuffer's secondary belief: "kitchen gadgets always end up unused."
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1171,7 +1171,7 @@ Clean, bright overhead photograph of a light-blue vertical standing mandoline sl
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `$65 replaced $200 worth` (line break) `of kitchen tools.`
+1. Add text box: `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
 2. Font: Inter, **36-42px**, Bold
 3. `$65` in **#4A90E2** (blue), rest in **#1A1A1A** (near black)
 4. Drop shadow: Blur 15, Transparency 30% (lighter shadow on white)
@@ -1220,8 +1220,8 @@ $64.99 — and I haven't touched any of those other tools since.
 SliceSafe Pro™ at velaine.shop
 ```
 
-**Headline 1:** 47,000 injuries a year. This mandoline: zero.
-**Headline 2:** $65 that replaced $200 of kitchen tools.
+**Headline 1:** You were one of the 47,000. Never again.
+**Headline 2:** $65 to clear out the kitchen drawer.
 **Description:** Hands-On-Top design. $64.99
 
 ---
@@ -1308,12 +1308,12 @@ SliceSafe Pro™ at velaine.shop
 | Batch | Body Copy 1 | Body Copy 2 | Headline 1 | Headline 2 | Description |
 |---|---|---|---|---|---|
 | 6 | Numbers + relief | Drawer Stuffer direct | "The mandoline you'll actually use" | "1 mandoline. 3 minutes. 0 bandages." | "Hands-On-Top design. $64.99" |
-| 7 | Comparison-focused | Mechanism reframe | "Exposed blade vs. enclosed blade." | "The mandoline, redesigned from scratch." | "Hands-On-Top design. $64.99" |
-| 8 | Social proof + mechanism | Discovery energy | "10 out of 10. Would recommend." | "Your hands never go near the blade." | "Hands-On-Top design. $64.99" |
+| 7 | Comparison-focused | Mechanism reframe | "You already know what an exposed blade does." | "The mandoline, redesigned from scratch." | "Hands-On-Top design. $64.99" |
+| 8 | Social proof + mechanism | Discovery energy | "The mandoline that finally stays on the counter." | "Your hands never go near the blade." | "Hands-On-Top design. $64.99" |
 | 9 | Food outcome + mechanism | Recipe-focused | "Perfect slices. Zero fear." | "The tool behind the thin slices." | "Hands-On-Top design. $64.99" |
 | 10 | New info — design reframe | Validation + mechanism | "The design was the problem. Not you." | "Hands on top. Blade enclosed below." | "Hands-On-Top design. $64.99" |
-| 11 | Identity-focused | Dinner party outcome | "The mandoline for people who actually cook." | "Your kitchen deserves an upgrade." | "Hands-On-Top design. $64.99" |
-| 12 | Stat-led | Value-focused | "47,000 injuries a year. This mandoline: zero." | "$65 that replaced $200 of kitchen tools." | "Hands-On-Top design. $64.99" |
+| 11 | Identity-focused | Dinner party outcome | "Your mandoline belongs on the counter, not in the drawer." | "The recipe you saved needs this tool." | "Hands-On-Top design. $64.99" |
+| 12 | Stat-led | Value-focused | "You were one of the 47,000. Never again." | "$65 to clear out the kitchen drawer." | "Hands-On-Top design. $64.99" |
 
 ---
 
