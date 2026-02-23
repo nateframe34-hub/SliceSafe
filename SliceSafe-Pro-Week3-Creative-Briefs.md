@@ -1481,17 +1481,6 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 ## Master Production Checklist
 
-### STRATEGIC LAUNCH RULE: Data-driven, not calendar-driven
-The batch-per-day schedule below is the PRODUCTION order (build these in this order). But the LAUNCH order should be adaptive:
-1. **Monday:** Launch Batch 6 + Batch 13 (6 creatives)
-2. **Wait 3-4 days** — let the algorithm allocate spend, gather data (500+ impressions per active creative)
-3. **Kill** anything hitting kill criteria (CTR < 1.5% AND CPM > average after 3-5 days)
-4. **Then decide** which batch to launch next based on what's working:
-   - If Drawer Stuffer creatives are winning → launch Batch 8 (UGC Transmutation, more Drawer Stuffer hooks)
-   - If Fence Sitter is showing promise → launch Batch 10 (Fear Reframe, overlaps Fence Sitter psychology)
-   - If comparison formats are clicking → launch Batch 7 (Comparison Blitz)
-5. **Do NOT dump all 24 creatives into the ad set in one week** — at $64/day, the algorithm will starve most of them (see: B4_drawer_designed_wrong got 6 impressions in Week 2)
-
 ### Before starting:
 - [ ] Have SliceSafe Pro product reference photos ready for Nano Banana Pro
 - [ ] Have Canva open with Inter font available
