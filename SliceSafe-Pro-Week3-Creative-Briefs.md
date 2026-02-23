@@ -670,41 +670,73 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 
 ---
 
-### Creative 2: `B9_out_hash`
-**Angle:** Specific recipe outcome with speed number
-**Hook text overlay:** `Thin-cut hash browns.` (line break) `60 seconds.`
+### Creative 2: `B9_out_diagram`
+**Angle:** Mechanism proof through product anatomy
+**FORMAT: Feature Annotation / Product Diagram** (from Swipe File — Format #17, Ridge wedding band pattern)
+**Hook text overlay:** `The mandoline, redesigned.` (top headline — annotation labels added to product features)
 
-**Why this creative:** UGC Video 3 (no sale) mentioned scalloped potatoes and hash browns. The FOOD idea was good — the execution (instructional energy, 8-second hook) was bad. This takes the same food angle but executes it with proven elements: assertion hook, specific number, clean format. Tests whether the potato angle works with better creative execution.
+**Why this creative:** The old B9_out_hash (hash browns) drew from a failed UGC video and lacked cultural momentum. This replacement uses the Feature Annotation format (Format #17) which SHOWS the mechanism — each annotation line points to physical proof on the product. Origins principle: "Show don't tell" — SHOWING triggers belief (emotional brain), TELLING triggers skepticism. Instead of saying "it's safe," this creative lets the viewer SEE the enclosed blade, the 12-inch height, the hands-on-top handle. Works for all sub-avatars but especially Fence Sitter who needs to UNDERSTAND the design difference before buying.
 
 **Nano Banana Pro Prompt:**
 ```
-Appetizing overhead food photograph of a pile of perfectly thin-cut hash brown potato slices on a warm wooden cutting board. The potato slices are raw, uniform, paper-thin, slightly translucent — dozens of identical rounds ready to be cooked. A whole potato and a half-cut potato sit nearby. To the right edge of frame, partially visible: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base. The mandoline is just barely in frame — the potatoes are the star. A cast iron skillet sits in the upper left corner, slightly out of focus, implying these are about to be cooked. Warm kitchen lighting, golden tones. Rustic, homey feel. No text, no logos, no watermarks. 4:5 aspect ratio.
+Clean, detailed product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is photographed at a three-quarter angle, slightly rotated so you can see both the front face and one side. Clean white background, studio lighting — bright, even, no harsh shadows. The product is centered in the frame with generous white space on all sides — at least 200 pixels of empty space on every side — for annotation lines and text labels to be added later in post. Every feature must be clearly visible and distinct: the wide handle at top, the transparent hopper showing the blade enclosed inside, the rubber base, the catch tray below. The photo should feel like an Apple product page — minimal, precise, every detail sharp and visible. No text, no logos, no watermarks, no other objects. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#FFFFFF** (clean white)
+3. Upload generated product image, center on canvas — scale so the mandoline fills about 50-60% of the height, leaving room on all sides
 
-**Hook text (top — bold numbers):**
-1. Add text box: `Thin-cut hash browns.`
-2. Font: Inter, **40-46px**, Bold, White
-3. Drop shadow: Blur 25, Transparency 50%
-4. Position: top 10%, center-aligned
+**Top headline:**
+1. Add text box: `The mandoline, redesigned.`
+2. Font: **Inter**, **32-36px**, **Semi-bold**
+3. Color: **#1A1A1A** (near-black)
+4. Position: top 5-8%, center-aligned
 
-5. Add text below: `60 seconds.`
-6. Font: Inter, **48-54px**, Bold, **#4A90E2**
-7. Center-aligned, directly below
+**Annotation lines + labels (5 total — use Canva "Line" element, 1-2px weight):**
 
-**Price tag (bottom-right):**
+1. **Handle annotation (top of product):**
+   - Draw a thin line from the handle → outward to the right
+   - Label: `Wide ergonomic handle — hands stay here`
+   - Font: Inter, **14-16px**, Regular, **#333333**
+   - Position the label at the end of the line, right side
+
+2. **Food hopper annotation (upper-middle):**
+   - Draw a thin line from the transparent hopper → outward to the left
+   - Label: `Transparent food hopper`
+   - Font: Inter, 14-16px, Regular, #333333
+
+3. **Enclosed blade annotation (center):**
+   - Draw a thin line from the blade area inside the hopper → outward to the right
+   - Label: `Enclosed stainless steel blade`
+   - Font: Inter, 14-16px, Regular, #333333
+   - **Make this label #4A90E2 (blue)** — this is the key safety feature
+
+4. **Base annotation (bottom of product):**
+   - Draw a thin line from the rubber base → outward to the left
+   - Label: `Non-slip rubber base`
+   - Font: Inter, 14-16px, Regular, #333333
+
+5. **Catch tray annotation (very bottom):**
+   - Draw a thin line from the catch tray → outward to the right
+   - Label: `Clear catch tray`
+   - Font: Inter, 14-16px, Regular, #333333
+
+**Line styling:** All lines #CCCCCC (light grey), 1-2px, with a small dot or circle at the product end of each line.
+
+**Price tag (bottom-center):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Potato slices look uniform and satisfying
-- [ ] Cast iron skillet implies "about to cook this" — immediate outcome
-- [ ] "60 seconds" in blue anchors speed
-- [ ] Product is partially visible but food is the hero
+- [ ] Product is centered, clean, every feature visible
+- [ ] All 5 annotation lines point to the CORRECT feature on the product
+- [ ] "Enclosed stainless steel blade" label is in blue (#4A90E2) — the key safety callout
+- [ ] Annotation lines don't overlap each other — alternate left/right sides
+- [ ] Headline "The mandoline, redesigned." is clean and minimal at top
+- [ ] Feels like an Apple product page, NOT a cluttered infographic
+- [ ] White space is generous — not crammed
 - [ ] Export PNG highest quality
 
 ---
@@ -1344,46 +1376,57 @@ Warm, inviting lifestyle photograph of a cozy home kitchen. A light-blue vertica
 
 ---
 
-### Creative 2: `B13_fence_never`
-**Sub-Avatar:** Fence Sitter | **Angle:** Name the exact situation — wanted one, never bought it
-**Hook text overlay:** `You've wanted a mandoline for years.` (line break) `The horror stories stopped you.`
+### Creative 2: `B13_fence_native`
+**Sub-Avatar:** Fence Sitter | **Angle:** Feed camouflage — native social post, not an ad
+**FORMAT: Pubity Style / Feed Camouflage** (from Swipe File — Format #6, Achilles brace pattern)
+**Caption text (bottom):** `8 inches between your hands and the blade.` (line break) `That's the whole point.`
 
-**Why this creative:** Calls out the Fence Sitter's specific experience — they've seen the beautiful results, they know mandolines are useful, but every time they almost bought one, a horror story held them back. This hook names the exact thought loop they're stuck in. By naming it, we break the pattern and open the door for new information (the mechanism).
+**Why this creative:** The old B13_fence_never had visual overlap with B11_id_host (both dinner table scenes). This replacement uses the Pubity Style format (Format #6, Priority A-) — the highest-priority untested format remaining. Feed camouflage means the creative looks like an Instagram post, NOT an ad. This is critical for Fence Sitters: they're information-seeking, browsing, not ready to be sold to. A native-feel post lowers their guard. The small circular image (old mandoline's exposed blade) tells the DANGER story. The main image (SliceSafe in use, hands safely on top) tells the SOLUTION story. The bottom caption delivers the mechanism in one line. NO price tag — feed camouflage means zero "ad signals."
 
-**Nano Banana Pro Prompt:**
+**Nano Banana Pro Prompt 1 (Main image — SliceSafe in use):**
 ```
-Beautiful, appetizing overhead photograph of a stunning food spread on a warm wooden dining table. The centerpiece: a large white ceramic platter with a perfectly arranged vegetable platter — paper-thin cucumber rounds, carrot ribbons, zucchini coins, and radish slices fanned out in an artful overlapping pattern, restaurant-quality precision. Surrounding the platter: small bowls of hummus and dip, fresh herbs scattered, a rustic bread basket, linen napkins, wine glasses. To one side, partially visible: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is the supporting character — the beautiful food spread is the hero, implying "this is what you've been missing." Warm golden evening light. The mood is aspirational but achievable — a dinner party you could actually host. Warm wood, white ceramics, colorful vegetables, light blue mandoline accent. No text, no logos, no watermarks. 4:5 aspect ratio.
+Warm, inviting close-up lifestyle photograph of someone using a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. Two hands are pressing down confidently on the wide ergonomic handle at the very top. The hands are clearly far above the enclosed blade area — the vertical height of the mandoline makes the distance obvious and dramatic. Paper-thin zucchini rounds are falling into the clear catch tray at the base below. Shot from a slightly low side angle to emphasize the HEIGHT of the mandoline and the distance between the hands and the blade. Warm kitchen background slightly out of focus — wooden countertop, warm afternoon light, a few vegetables nearby. The mood is calm, confident, effortless — the complete opposite of anxiety. Natural lighting, warm golden tones. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Nano Banana Pro Prompt 2 (Circular image — old mandoline danger):**
+```
+Close-up photograph of a traditional flat mandoline slicer lying on a plain countertop, zoomed in on the exposed stainless steel blade area. The blade guard is removed and sitting off to the side. The razor-sharp blade edge is the focal point — it sits completely exposed with no enclosure, no protection. The flat design means fingers would need to push food directly over this exposed edge. Harsh overhead lighting creates sharp shadows across the blade, making it look clinical and uninviting. The metal is slightly scratched from use. Tight crop — just the blade area and a few inches around it. The mood is uncomfortable, slightly ominous — you can almost feel the danger of touching it. No text, no logos, no watermarks. Square crop, 1:1 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `You've wanted a mandoline for years.`
-2. Font: **Inter**, **32-36px**, **Semi-bold**
-3. Color: **White (#FFFFFF)**
-4. Drop shadow: Blur 25, Transparency 50%
-5. Position: top 8-14%, center-aligned
+**Main image (fills most of canvas):**
+1. Upload the main SliceSafe-in-use image
+2. Fill canvas with the image — it should take up the full 1080 width and about 85-90% of the height
+3. Leave ~150px at the very bottom for the caption area
 
-6. Add text box below: `The horror stories stopped you.`
-7. Font: Inter, **32-36px**, Semi-bold
-8. Color: **White (#FFFFFF)**
-9. Drop shadow: same
-10. Position: directly below, center-aligned
+**Circular "story" image (top-left corner):**
+1. Upload the old mandoline blade close-up
+2. Crop to a **circle** — use Canva's frame tool (circle frame)
+3. Size: **100-120px diameter**
+4. Position: **top-left corner**, ~20px from top edge, ~20px from left edge
+5. Add a **2px white border** around the circle (looks like a social media profile pic)
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
-3. Bottom-right, ~20px from edges
+**Caption area (bottom ~15% of canvas):**
+1. Add a semi-transparent dark bar at the bottom: **#000000, 60% opacity**, full width, ~150px tall
+2. Inside the dark bar, add text: `8 inches between your hands and the blade.`
+3. Font: **Inter**, **22-26px**, Regular
+4. Color: **White (#FFFFFF)**
+5. Position: left-aligned, ~30px from left edge, centered vertically in the bar
+6. Below it (or after a line break): `That's the whole point.`
+7. Font: Inter, **22-26px**, **Semi-bold**, White
+
+**NO price tag. NO brand pill. This must NOT look like an ad.**
 
 **Final check:**
-- [ ] Food spread looks stunning and aspirational — this is what they're missing
-- [ ] Mandoline is visible but not dominant — the RESULT is the hero
-- [ ] Hook names the exact situation: wanted one + horror stories stopped them
-- [ ] No blue punchline — both lines are white because the whole hook is the callout
-- [ ] The food outcome creates desire that fights against the fear
+- [ ] Main image shows hands safely on top of mandoline, slices coming out — calm, confident energy
+- [ ] Circular image in top-left shows old exposed blade — tells the danger story without words
+- [ ] Bottom caption reads like a social media post caption, not ad copy
+- [ ] NO price tag anywhere — feed camouflage means zero ad signals
+- [ ] The contrast between circular image (danger) and main image (safety) tells the whole story visually
+- [ ] Looks like something you'd see on a kitchen/food Instagram account
 - [ ] Export PNG highest quality
 
 ---
@@ -1510,7 +1553,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 ### Batch 9 — "Outcome First" (3 ads):
 - [ ] B9_out_salad: Generate 1 image → Canva overlay → Export
-- [ ] B9_out_hash: Generate 1 image → Canva overlay → Export
+- [ ] B9_out_diagram: Generate 1 product image → Canva annotation lines + labels → Export
 - [ ] B9_out_uniform: Generate 2 images (hand-chopped + mandoline-sliced) → Canva "This is chopping/slicing" composite → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Thursday**
@@ -1538,7 +1581,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 ### Batch 13 — "Fence Sitter" (3 ads):
 - [ ] B13_fence_stories: Generate 1 image → Canva overlay → Export
-- [ ] B13_fence_never: Generate 1 image → Canva overlay → Export
+- [ ] B13_fence_native: Generate 2 images (main SliceSafe-in-use + circular old-blade close-up) → Canva composite (feed camouflage layout) → Export
 - [ ] B13_fence_designed: Canva-only (Venn Diagram + small product image reuse) → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Monday (alongside Batch 6)**
@@ -1559,13 +1602,13 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 | Batch 10 | 3 | 0 | 0 | 3 |
 | Batch 11 | 3 | 0 | 0 | 3 |
 | Batch 12 | 2 | 0 | 1 | 2 |
-| Batch 13 | 2 | 0 | 1 | 2 |
-| **Total** | **18** | **4** | **2** | **26 images + 2 Canva-only** |
+| Batch 13 | 1 | 1 | 1 | 3 |
+| **Total** | **17** | **5** | **2** | **27 images + 2 Canva-only** |
 
 **Format distribution across batches:**
 | Format | Creative(s) | From Swipe File |
 |---|---|---|
-| Text overlay on lifestyle photo | B6_drawer_counter, B6_scroll_beats, B8_trans_awesome, B8_trans_recommend, B9_out_salad, B9_out_hash, B10_fear_design, B10_fear_guard, B11_id_upgrade, B11_id_host, B12_wild_price, B13_fence_stories, B13_fence_never | Baseline (existing) |
+| Text overlay on lifestyle photo | B6_drawer_counter, B6_scroll_beats, B8_trans_awesome, B8_trans_recommend, B9_out_salad, B10_fear_design, B10_fear_guard, B11_id_upgrade, B11_id_host, B12_wild_price, B13_fence_stories | Baseline (existing) |
 | Numbers overlay on product photo | B6_drawer_numbers, B12_wild_stat | Baseline (existing) |
 | Split comparison (old vs new) | B7_comp_exposed, B7_comp_flat | Baseline (existing) |
 | Quote/testimonial overlay | B8_trans_100x | Baseline (existing) |
@@ -1575,6 +1618,8 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 | **Avatar Call Out** | **B11_id_cook** | **NEW — Format #2** |
 | **Strikethrough List** | **B12_wild_list** | **NEW — Format #16** |
 | **Venn Diagram** | **B13_fence_designed** | **NEW — Format #15** |
+| **Feature Annotation / Product Diagram** | **B9_out_diagram** | **NEW — Format #17** |
+| **Feed Camouflage / Pubity Style** | **B13_fence_native** | **NEW — Format #6** |
 
 ---
 

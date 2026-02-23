@@ -455,20 +455,20 @@ After analyzing all 78 unlabeled ads, here are the additional format patterns I 
 
 ## PART 4: Formats We're NOT Currently Using (Biggest Gaps)
 
-**UPDATE (Feb 23):** 6 of these 8 gaps have been filled by injecting new formats into Batches 7-13. See `SliceSafe-Pro-Week3-Creative-Briefs.md` format distribution table for details.
+**UPDATE (Feb 23):** 7 of these 8 gaps have been filled by injecting new formats into Batches 7-13. See `SliceSafe-Pro-Week3-Creative-Briefs.md` format distribution table for details.
 
 | Gap | Status | Creative |
 |---|---|---|
 | **Avatar Call Out** | **FILLED** — B11_id_cook | Giant "PEOPLE WITH A MANDOLINE IN THEIR DRAWER" text + review card |
 | **Venn Diagram** | **FILLED** — B13_fence_designed | Two circles (speed + safety) overlapping on product |
 | **Strikethrough List** | **FILLED** — B12_wild_list | 6 pain points struck through, SliceSafe as resolution |
-| **Feed Camouflage / Pubity Style** | OPEN | Still untested — save for Batch 14+ |
+| **Feed Camouflage / Pubity Style** | **FILLED** — B13_fence_native | Native-feel social post: SliceSafe-in-use main image + circular old-blade danger + caption |
 | **"This Is Not" Reframe** | **FILLED** — B10_fear_solved | "This isn't a mandoline. It's the first kitchen tool..." |
 | **Simplified Two-Image Comparison** | **FILLED** — B9_out_uniform | "This is chopping." / "This is slicing." |
 | **Advertorial / Article Style** | OPEN | Still untested — save for Batch 14+ |
 | **"None of That" Comparison** | **FILLED** — B7_comp_toss | Competitor pain points left, "None of that." right |
 
-**Remaining gaps:** Feed Camouflage and Advertorial Style. Both are good candidates for a future batch.
+**Remaining gap:** Advertorial Style. Good candidate for Batch 14+.
 
 ---
 
@@ -484,8 +484,8 @@ After analyzing all 78 unlabeled ads, here are the additional format patterns I 
 ### Formats that need NEW images from Nano Banana Pro:
 - Simplified Us vs Them (#8) — need "hand-chopped" vs "mandoline-sliced" images
 - Before/After Split (#14) — same
-- Feed Camouflage (#6) — need injury close-up + product shot
-- Feature Annotation (#17) — need clean product diagram shot
+- Feed Camouflage (#6) — **ASSIGNED** B13_fence_native (main in-use shot + circular old-blade close-up)
+- Feature Annotation (#17) — **ASSIGNED** B9_out_diagram (clean 3/4 angle product shot for annotation overlay)
 
 ### Formats that need REAL photos/screenshots:
 - Social Proof Review Card (#19) — needs Judge.me reviews
