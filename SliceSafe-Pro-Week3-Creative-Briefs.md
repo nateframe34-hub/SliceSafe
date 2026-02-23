@@ -1,5 +1,5 @@
-# SliceSafe Pro — Week 3 Creative Briefs (Batches 6–12)
-### 21 Creatives Built on Week 2 Performance Data
+# SliceSafe Pro — Week 3 Creative Briefs (Batches 6–13)
+### 24 Creatives Built on Week 2 Performance Data
 ### Date: Feb 24, 2026
 ### Companion to: `SliceSafe-Pro-Avatar-Strategy.md` (strategy, copy, angles) + `SliceSafe-Pro-Week2-Creative-Briefs.md` (Batches 1–5)
 
@@ -1226,6 +1226,183 @@ SliceSafe Pro™ at velaine.shop
 
 ---
 
+## BATCH 13: "Fence Sitter"
+**Concept:** New sub-avatar test — people who've NEVER owned a mandoline because the horror stories scared them off before they ever bought one
+**Testing:** Marksman — 3 creatives targeting "preemptive fear" (scared by stories, not personal experience)
+**Data basis:** User research — large audience that knows mandolines are useful but won't buy because of secondhand horror stories (Reddit threads, friend's injury, TikTok videos). Different from Scarred Chef (who got hurt) and Drawer Stuffer (who owns one). These people are PRE-purchase — they need permission to buy their first mandoline.
+**Psychology:** Regret Aversion (stories created preemptive regret), Social Proof (validating that their fear is rational), New Information (the design changed — old fear doesn't apply), Present Bias (you can start slicing today, the fear ends now)
+
+---
+
+### Creative 1: `B13_fence_stories`
+**Sub-Avatar:** Fence Sitter | **Angle:** Validate the fear, then resolve it
+**Hook text overlay:** `Everyone told you mandolines are dangerous.` (line break) `They were right — until this one.`
+
+**Why this creative:** Validates the Fence Sitter's exact experience — they've heard the horror stories from friends, Reddit, TikTok. "They were right" acknowledges the fear is rational (not dismissing them). "Until this one" creates a pivot — new information that changes everything. This mirrors UGC Video 1's winning energy: assertion + discovery.
+
+**Nano Banana Pro Prompt:**
+```
+Warm, inviting lifestyle photograph of a cozy home kitchen. A light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few perfect paper-thin vegetable slices inside. The mandoline stands on a warm butcher-block countertop. A woman's hands rest confidently on the wide pressing handle on top — her fingers are relaxed, not gripping tightly, showing comfort and ease. The hands are clearly 8+ inches above the enclosed blade below. Around the mandoline on the counter: a wooden cutting board with colorful vegetables (bell peppers, zucchini, carrots), a ceramic mixing bowl, a glass of water. Warm golden natural light from a window. The mood is welcoming, calm, safe — like someone who just discovered something that changed how they cook. Warm earth tones with light blue product as accent. Shot from slightly above at 30 degrees. Breathing room at top 30% for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload generated image, fill canvas
+
+**Hook text (top):**
+1. Add text box: `Everyone told you mandolines are dangerous.`
+2. Font: **Inter**, **30-34px**, **Semi-bold**
+3. Color: **White (#FFFFFF)**
+4. Drop shadow: Blur 20, Transparency 40%
+5. Position: top 8-14%, left-aligned, ~40px margins
+
+6. Add text box below: `They were right — until this one.`
+7. Font: Inter, **30-34px**, Semi-bold
+8. Color: **#4A90E2** (brand blue — this is the pivot/resolution)
+9. Drop shadow: same
+10. Position: directly below, same alignment
+
+**Price tag (bottom-right):**
+1. `SliceSafe Pro — $64.99`
+2. Inter, 16-18px, #4A90E2 pill, white text
+3. Bottom-right, ~20px from edges
+
+**Final check:**
+- [ ] Hands on top of pressing handle are clearly visible — the proof is IN the image
+- [ ] The 8-inch gap between hands and blade is visible
+- [ ] Hook validates the fear FIRST ("they were right") before resolving it
+- [ ] Kitchen feels warm and approachable — not clinical or intimidating
+- [ ] Breathing room for text — image isn't crowded at top
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 2: `B13_fence_never`
+**Sub-Avatar:** Fence Sitter | **Angle:** Name the exact situation — wanted one, never bought it
+**Hook text overlay:** `You've wanted a mandoline for years.` (line break) `The horror stories stopped you.`
+
+**Why this creative:** Calls out the Fence Sitter's specific experience — they've seen the beautiful results, they know mandolines are useful, but every time they almost bought one, a horror story held them back. This hook names the exact thought loop they're stuck in. By naming it, we break the pattern and open the door for new information (the mechanism).
+
+**Nano Banana Pro Prompt:**
+```
+Beautiful, appetizing overhead photograph of a stunning food spread on a warm wooden dining table. The centerpiece: a large white ceramic platter with a perfectly arranged vegetable platter — paper-thin cucumber rounds, carrot ribbons, zucchini coins, and radish slices fanned out in an artful overlapping pattern, restaurant-quality precision. Surrounding the platter: small bowls of hummus and dip, fresh herbs scattered, a rustic bread basket, linen napkins, wine glasses. To one side, partially visible: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is the supporting character — the beautiful food spread is the hero, implying "this is what you've been missing." Warm golden evening light. The mood is aspirational but achievable — a dinner party you could actually host. Warm wood, white ceramics, colorful vegetables, light blue mandoline accent. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload generated image, fill canvas
+
+**Hook text (top):**
+1. Add text box: `You've wanted a mandoline for years.`
+2. Font: **Inter**, **32-36px**, **Semi-bold**
+3. Color: **White (#FFFFFF)**
+4. Drop shadow: Blur 25, Transparency 50%
+5. Position: top 8-14%, center-aligned
+
+6. Add text box below: `The horror stories stopped you.`
+7. Font: Inter, **32-36px**, Semi-bold
+8. Color: **White (#FFFFFF)**
+9. Drop shadow: same
+10. Position: directly below, center-aligned
+
+**Price tag (bottom-right):**
+1. `SliceSafe Pro — $64.99`
+2. Inter, 16-18px, #4A90E2 pill, white text
+3. Bottom-right, ~20px from edges
+
+**Final check:**
+- [ ] Food spread looks stunning and aspirational — this is what they're missing
+- [ ] Mandoline is visible but not dominant — the RESULT is the hero
+- [ ] Hook names the exact situation: wanted one + horror stories stopped them
+- [ ] No blue punchline — both lines are white because the whole hook is the callout
+- [ ] The food outcome creates desire that fights against the fear
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 3: `B13_fence_designed`
+**Sub-Avatar:** Fence Sitter | **Angle:** New information — the design changed, old fear is obsolete
+**Hook text overlay:** `Old mandolines were dangerous.` (line break) `This one was designed so yours hands` (line break) `never go near the blade.`
+
+**Why this creative:** Gives the Fence Sitter the NEW INFORMATION they need to break the fear loop. "Old mandolines were dangerous" validates everything they've heard — it's true, they were right to be scared. "This one was designed so your hands never go near the blade" introduces the mechanism as the thing that changed. This mirrors the Status-Quo Bias reframe: it's not that mandolines are bad — the OLD design was bad. The new design solved it.
+
+**Nano Banana Pro Prompt:**
+```
+Clean, modern product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade filled with perfect paper-thin vegetable slices. The mandoline stands on a clean light-grey marble countertop. Shot from a 3/4 angle to show the full vertical profile — the height, the pressing handle on top, the enclosed blade in the middle, the catch tray at the bottom. The 12-inch vertical design is emphasized — it looks tall, engineered, modern. Soft directional light from the upper left creating a gentle shadow to the right. The background is a clean, blurred modern kitchen — stainless steel, white cabinets, soft and out of focus. The mood is modern, confident, engineered — this is a NEW kind of mandoline. Clean tones: light grey surface, light blue product, warm soft light. Breathing room at top 35% and right side for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload generated image, fill canvas
+
+**Hook text (top-left, stacked):**
+1. Add text box: `Old mandolines were dangerous.`
+2. Font: **Inter**, **30-34px**, **Semi-bold**
+3. Color: **White (#FFFFFF)**
+4. Drop shadow: Blur 20, Transparency 40%
+5. Position: top 8-12%, left-aligned, ~40px margins
+
+6. Add text box below: `This one was designed so your hands`
+7. Font: Inter, **30-34px**, Semi-bold, White
+8. Drop shadow: same
+
+9. Add text box below: `never go near the blade.`
+10. Font: Inter, **30-34px**, **Semi-bold**
+11. Color: **#4A90E2** (brand blue — this is the mechanism punchline)
+12. Drop shadow: same
+
+**Price tag (bottom-right):**
+1. `SliceSafe Pro — $64.99`
+2. Inter, 16-18px, #4A90E2 pill, white text
+3. Bottom-right, ~20px from edges
+
+**Final check:**
+- [ ] Product stands tall and looks engineered/modern — NOT a traditional flat mandoline
+- [ ] Vertical profile is clear — this is visually different from what they've seen
+- [ ] "Old mandolines were dangerous" validates, "never go near the blade" resolves
+- [ ] Blue punchline ("never go near the blade") is the mechanism reveal
+- [ ] Clean, modern mood — matches the "new design" narrative
+- [ ] Export PNG highest quality
+
+---
+
+**Batch 13 Body Copy 1 (Fear validation + mechanism):**
+```
+You've probably heard the stories. A friend who sliced their finger. A Reddit thread that made you wince. A TikTok that made you swear you'd never buy one.
+
+Here's the thing — those stories are real. Old mandolines ARE dangerous. Exposed blade, your hands sliding toward it, a flimsy plastic guard that doesn't actually guard anything.
+
+The SliceSafe Pro isn't like that. Your hands grip a wide handle on top. The blade is enclosed 8 inches below. You push straight down — your hands never move toward the blade. Ever.
+
+This is the mandoline that was redesigned so the horror stories can't happen.
+
+$64.99 (was $99.95) — 30-day guarantee.
+```
+
+**Batch 13 Body Copy 2 (Permission to buy):**
+```
+I wanted a mandoline for 3 years before I finally bought one.
+
+Every time I almost did, I'd read another story about someone slicing their finger. So I'd close the tab and go back to chopping everything by hand.
+
+Then I found the SliceSafe Pro. Your hands stay on top. The blade is enclosed inside the body. There's an 8-inch gap between where your hands go and where the blade is.
+
+I've been using it for a month. Paper-thin slices in under 2 minutes. And I've never once felt nervous.
+
+The horror stories are real. But they're about old mandolines. This one's different.
+
+$64.99 — SliceSafe Pro™ at velaine.shop
+```
+
+**Headline 1:** The mandoline designed so horror stories can't happen.
+**Headline 2:** Your hands never go near the blade. That's the whole point.
+**Description:** Hands-On-Top design. $64.99
+
+---
+
 ## Master Production Checklist
 
 ### Before starting:
@@ -1283,6 +1460,13 @@ SliceSafe Pro™ at velaine.shop
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Sunday (or Tuesday of Week 4)**
 
+### Batch 13 — "Fence Sitter" (3 ads):
+- [ ] B13_fence_stories: Generate 1 image → Canva overlay → Export
+- [ ] B13_fence_never: Generate 1 image → Canva overlay → Export
+- [ ] B13_fence_designed: Generate 1 image → Canva overlay → Export
+- [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
+- [ ] **Launch: Monday (alongside Batch 6)**
+
 ### After uploading each batch:
 - [ ] Verify all ads are in `ASC_Broad-US_Purchase_Static-B1` ad set
 - [ ] Verify naming matches: `B[batch]_[sub-avatar]_[angle-short]`
@@ -1299,7 +1483,8 @@ SliceSafe Pro™ at velaine.shop
 | Batch 10 | 3 | 0 | 0 | 3 |
 | Batch 11 | 3 | 0 | 0 | 3 |
 | Batch 12 | 3 | 0 | 0 | 3 |
-| **Total** | **19** | **4** | **0** | **23 images** |
+| Batch 13 | 3 | 0 | 0 | 3 |
+| **Total** | **22** | **4** | **0** | **26 images** |
 
 ---
 
@@ -1314,6 +1499,7 @@ SliceSafe Pro™ at velaine.shop
 | 10 | New info — design reframe | Validation + mechanism | "The design was the problem. Not you." | "Hands on top. Blade enclosed below." | "Hands-On-Top design. $64.99" |
 | 11 | Identity-focused | Dinner party outcome | "Your mandoline belongs on the counter, not in the drawer." | "The recipe you saved needs this tool." | "Hands-On-Top design. $64.99" |
 | 12 | Stat-led | Value-focused | "You were one of the 47,000. Never again." | "$65 to clear out the kitchen drawer." | "Hands-On-Top design. $64.99" |
+| 13 | Fear validation + mechanism | Permission to buy | "The mandoline designed so horror stories can't happen." | "Your hands never go near the blade. That's the whole point." | "Hands-On-Top design. $64.99" |
 
 ---
 

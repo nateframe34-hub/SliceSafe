@@ -185,6 +185,29 @@ Per Origins: At $0-100k/month, focus on ONE core desire and build Sub-Avatars ar
 - "I SHOULD use my mandoline but I can't" (Internal conflict = opportunity)
 - "A guard would help but they're so awkward" (Product experience → open to new mechanism)
 
+### SUB-AVATAR #4: "The Fence Sitter" (Horror Story Hearer)
+
+| Category | Profile |
+|---|---|
+| **Desire** | I want a mandoline for faster, prettier meal prep — but I've heard too many horror stories to actually buy one |
+| **Experience (Product)** | Has NEVER owned a mandoline. Has seen them in stores, in recipes, on cooking shows, in TikTok videos. Every time they considered buying one, they heard or read a horror story (friend's injury, Reddit thread, TikTok injury compilation) and decided not to. Their fear is entirely secondhand — preemptive, not experiential. |
+| **Emotion** | **Preemptive fear** — scared of something that hasn't happened to them yet. **FOMO** — they know mandolines save time and create beautiful results, but the fear outweighs the desire. **Frustration** — they feel stuck between wanting the tool and being scared to buy it. |
+| **Behavior** | Chops everything by hand. Has looked at mandolines online multiple times but always closes the tab. When a recipe says "use a mandoline," they either skip the recipe or spend 15 minutes hand-cutting uneven slices. May have added a mandoline to cart and then removed it. Actively avoids mandoline content because the injury stories make them uncomfortable. |
+| **Demographics** | 22-45, interested in cooking (beginner to intermediate), social media active — exposed to both aspirational food content and injury stories. |
+
+**Why this sub-avatar is powerful:**
+- HUGE untapped audience — everyone who's ever wanted a mandoline but been scared off before purchasing
+- Pre-purchase audience means they don't need to switch from something — they need PERMISSION to buy their first one
+- The entire SliceSafe mechanism ("Hands-On-Top," 8 inches above blade, enclosed blade) directly answers their exact objection
+- The fear is story-based, not experience-based — which means NEW INFORMATION (the mechanism) can break the loop
+- They're ready to buy the moment someone gives them a reason the horror stories don't apply
+
+**Beliefs this sub-avatar holds:**
+- "Mandolines are dangerous — everyone says so" (Secondhand social proof of danger)
+- "I'll end up in the ER if I buy one" (Preemptive catastrophizing)
+- "The results look amazing but it's not worth the risk" (Desire blocked by fear)
+- "No mandoline is truly safe — they all have exposed blades" (Lack of awareness of new designs)
+
 ---
 
 ## PART 6: Angle Extraction
@@ -241,6 +264,23 @@ Per Origins: Angles = How you choose to sell the product (customer-focused). Kee
 - Reason to buy: You spend 20 minutes chopping vegetables by hand because you're too scared to use the mandoline in your drawer. What if 3 minutes of slicing didn't require any bravery?
 - Hook: "You're spending 20 minutes chopping because you're afraid of a 3-minute tool."
 - Inspired by: "5 minutes to install. No more snapping." — Time + outcome
+
+### Sub-Avatar #4 (Fence Sitter) — Angles:
+
+**Angle 1: "Everyone told you mandolines are dangerous — they were right, until this one" (Validate + resolve)** ⭐ STRONGEST
+- Reason to buy: You've heard the horror stories. They're real — old mandolines ARE dangerous. But this one was redesigned so your hands never go near the blade. The stories don't apply anymore.
+- Hook: "Everyone told you mandolines are dangerous. They were right — until this one."
+- Inspired by: UGC Video 1 discovery energy — assertion + pivot
+
+**Angle 2: "You've wanted a mandoline for years — the horror stories stopped you" (Name the loop)**
+- Reason to buy: You've been stuck in a loop — want the results, hear a story, close the tab. This mandoline breaks the loop because the mechanism makes the horror stories irrelevant.
+- Hook: "You've wanted a mandoline for years. The horror stories stopped you."
+- Inspired by: Drawer Stuffer "finally" energy applied to pre-purchase
+
+**Angle 3: "Old mandolines were dangerous — this one was designed so your hands never go near the blade" (New information)**
+- Reason to buy: The fear is based on old designs. New information: this mandoline was redesigned from scratch with an enclosed blade and 8-inch hand separation. Old fear, new product.
+- Hook: "Old mandolines were dangerous. This one was designed so your hands never go near the blade."
+- Inspired by: Stage 3-4 mechanism response — new hope through new design
 
 ---
 
