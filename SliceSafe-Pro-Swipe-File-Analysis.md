@@ -455,18 +455,20 @@ After analyzing all 78 unlabeled ads, here are the additional format patterns I 
 
 ## PART 4: Formats We're NOT Currently Using (Biggest Gaps)
 
-Looking at our existing Batches 1-13, here are the formats we have ZERO creatives testing:
+**UPDATE (Feb 23):** 6 of these 8 gaps have been filled by injecting new formats into Batches 7-13. See `SliceSafe-Pro-Week3-Creative-Briefs.md` format distribution table for details.
 
-1. **Avatar Call Out** — We name avatars in hooks but never make the AVATAR LABEL the entire creative ("HOME COOKS WHO CHOP BY HAND" as giant text)
-2. **Venn Diagram** — Completely untested visual format
-3. **Strikethrough List** — We have a list creative (B12_wild_list) but not the strikethrough mechanic
-4. **Feed Camouflage / Pubity Style** — We don't have any ads that look like organic posts
-5. **"This Is Not" Reframe** — We haven't tested category reframing
-6. **Simplified Two-Image Comparison** — We have split comparisons but not the ultra-minimal "This is X. This is Y." format
-7. **Advertorial / Article Style** — Zero editorial-style creatives
-8. **"None of That" Comparison** — We list competitor problems but never used the "None of that" mic-drop closer
+| Gap | Status | Creative |
+|---|---|---|
+| **Avatar Call Out** | **FILLED** — B11_id_cook | Giant "PEOPLE WITH A MANDOLINE IN THEIR DRAWER" text + review card |
+| **Venn Diagram** | **FILLED** — B13_fence_designed | Two circles (speed + safety) overlapping on product |
+| **Strikethrough List** | **FILLED** — B12_wild_list | 6 pain points struck through, SliceSafe as resolution |
+| **Feed Camouflage / Pubity Style** | OPEN | Still untested — save for Batch 14+ |
+| **"This Is Not" Reframe** | **FILLED** — B10_fear_solved | "This isn't a mandoline. It's the first kitchen tool..." |
+| **Simplified Two-Image Comparison** | **FILLED** — B9_out_uniform | "This is chopping." / "This is slicing." |
+| **Advertorial / Article Style** | OPEN | Still untested — save for Batch 14+ |
+| **"None of That" Comparison** | **FILLED** — B7_comp_toss | Competitor pain points left, "None of that." right |
 
-These 8 format gaps represent our biggest untested creative territory.
+**Remaining gaps:** Feed Camouflage and Advertorial Style. Both are good candidates for a future batch.
 
 ---
 
@@ -493,8 +495,8 @@ These 8 format gaps represent our biggest untested creative territory.
 
 ## PART 6: Recommended Next Creative Batch Using Swipe File Formats
 
-### BATCH 14: "Format Test" (5 creatives testing 5 new formats)
-**Purpose:** Test the 5 highest-priority formats we've never used, one creative each
+### BATCH 14: ~~"Format Test"~~ → "Meal Prep Machine" (New Sub-Avatar)
+**UPDATE (Feb 23):** All 5 formats originally planned for Batch 14 have been injected into Batches 7-13. Batch 14 is now available for a new purpose. **Recommended: Meal Prep Machine sub-avatar test** — a completely different emotional register (speed/time, not fear/safety) targeting weekly batch cookers. See Sub-Avatar #5 below for hooks and angles.
 **Launch:** After Batch 6 + 13 data comes in (give it 3-4 days)
 
 | Creative | Format | Sub-Avatar | Hook |

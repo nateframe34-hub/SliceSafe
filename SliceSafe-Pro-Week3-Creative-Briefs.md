@@ -1497,7 +1497,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 ### Batch 7 — "Comparison Blitz" (3 ads):
 - [ ] B7_comp_exposed: Generate 2 images (old blade + enclosed blade) → Canva composite → Export
 - [ ] B7_comp_flat: Generate 2 images (flat in use + SliceSafe in use) → Canva composite → Export
-- [ ] B7_comp_toss: Generate 1 image → Canva overlay → Export
+- [ ] B7_comp_toss: Generate 2 images (old mandoline + SliceSafe) → Canva "None of That" composite → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Tuesday**
 
@@ -1511,7 +1511,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 ### Batch 9 — "Outcome First" (3 ads):
 - [ ] B9_out_salad: Generate 1 image → Canva overlay → Export
 - [ ] B9_out_hash: Generate 1 image → Canva overlay → Export
-- [ ] B9_out_uniform: Generate 1 image → Canva overlay → Export
+- [ ] B9_out_uniform: Generate 2 images (hand-chopped + mandoline-sliced) → Canva "This is chopping/slicing" composite → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Thursday**
 
@@ -1523,7 +1523,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 - [ ] **Launch: Friday**
 
 ### Batch 11 — "Identity Play" (3 ads):
-- [ ] B11_id_cook: Generate 1 image → Canva overlay → Export
+- [ ] B11_id_cook: Generate 1 image → Canva Avatar Call Out layout (giant text + review card) → Export
 - [ ] B11_id_upgrade: Generate 1 image → Canva overlay → Export
 - [ ] B11_id_host: Generate 1 image → Canva overlay → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
@@ -1531,7 +1531,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 ### Batch 12 — "Pattern Breakers" (3 ads):
 - [ ] B12_wild_stat: Generate 1 image → Canva stat overlay → Export
-- [ ] B12_wild_list: Generate 1 image → Canva list layout → Export
+- [ ] B12_wild_list: Canva-only (text + small product image reuse) → Export
 - [ ] B12_wild_price: Generate 1 image → Canva value overlay → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Sunday (or Tuesday of Week 4)**
@@ -1539,7 +1539,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 ### Batch 13 — "Fence Sitter" (3 ads):
 - [ ] B13_fence_stories: Generate 1 image → Canva overlay → Export
 - [ ] B13_fence_never: Generate 1 image → Canva overlay → Export
-- [ ] B13_fence_designed: Generate 1 image → Canva overlay → Export
+- [ ] B13_fence_designed: Canva-only (Venn Diagram + small product image reuse) → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Monday (alongside Batch 6)**
 
@@ -1555,12 +1555,12 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 | Batch 6 | 3 | 0 | 0 | 3 |
 | Batch 7 | 0 | 3 | 0 | 6 |
 | Batch 8 | 3 | 0 | 0 | 3 |
-| Batch 9 | 1 | 1 | 0 | 3 |
+| Batch 9 | 2 | 1 | 0 | 4 |
 | Batch 10 | 3 | 0 | 0 | 3 |
-| Batch 11 | 2 | 0 | 1 | 2 |
+| Batch 11 | 3 | 0 | 0 | 3 |
 | Batch 12 | 2 | 0 | 1 | 2 |
 | Batch 13 | 2 | 0 | 1 | 2 |
-| **Total** | **16** | **8** | **3** | **24 images + 3 Canva-only** |
+| **Total** | **18** | **4** | **2** | **26 images + 2 Canva-only** |
 
 **Format distribution across batches:**
 | Format | Creative(s) | From Swipe File |
