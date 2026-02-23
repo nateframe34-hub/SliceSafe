@@ -509,4 +509,127 @@ I'll write full prompts and Canva guides for this batch when you're ready — ju
 
 ---
 
-*Analysis based on 91 ads across 25+ distinct format patterns. Priority ratings based on SliceSafe performance data, sub-avatar research, and format-product fit.*
+## PART 7: Sub-Avatar Research — New Audiences from Reddit, YouTube, and Forums
+
+### Research Method
+Searched Reddit (r/cooking, r/AskCulinary, r/MealPrepSunday aggregators), YouTube review comments, cooking forums (ChefTalk, Kitchen Knife Forums, MetaFilter, Mumsnet), Amazon reviews, and cooking blogs. Looked for PATTERNS in how real people talk about mandolines — what they fear, what they want, why they buy or don't buy.
+
+### Existing Sub-Avatars (for reference)
+1. **Scarred Chef** — has been cut by a mandoline
+2. **Scroll Stopper** — saw mandoline content on TikTok
+3. **Drawer Stuffer** — owns one but doesn't use it
+4. **Fence Sitter** — never bought one, scared by horror stories
+
+---
+
+### NEW Sub-Avatar #5: "The Meal Prep Machine"
+**Who:** Age 25-45, does weekly batch cooking (r/MealPrepSunday type). Preps 4-5 days of meals on Sunday. Values speed and volume above everything.
+**Core emotion:** Frustration with TIME, not fear. They don't care about danger — they care about minutes.
+**Relationship to mandolines:** May already own one, may use a knife. Either way, their bottleneck is vegetable prep speed. They chop mountains of vegetables every week.
+**Evidence from research:**
+- "When you're banging out 10 gallons of sliced cukes for pickles every two days… all that macho knife skills BS goes straight out the window."
+- r/MealPrepSunday users consistently ask about "the fastest way to prep vegetables"
+- "A mandoline slicer can significantly streamline the process — allowing you to quickly and uniformly slice fruits and vegetables, making it easier to prepare large batches of food for the week ahead."
+**Why worth testing:**
+- LARGE audience (r/MealPrepSunday alone has 3M+ members)
+- Completely different emotional driver (time, not fear) — opens a new messaging lane
+- Our "90 seconds" and "60 seconds" hooks already accidentally appeal to them
+- They're NOT afraid of mandolines — they need the SPEED angle, with safety as a bonus
+- Could lower CPMs by reaching a different audience pool than our fear-based ads
+**Hook examples:**
+- "Sunday meal prep. 6 vegetables. 8 minutes."
+- "I used to spend 45 minutes chopping for the week. Now it's 8."
+- "Meal prep hack: paper-thin slices, every vegetable, under 2 minutes each."
+**Priority: A- — Test immediately.** This is a genuinely different audience from all 4 existing sub-avatars.
+
+---
+
+### NEW Sub-Avatar #6: "The Setup Hater"
+**Who:** Age 30-50, has owned at least one mandoline. Uses it rarely or gave up on it entirely. Cooks regularly.
+**Core emotion:** Annoyance with HASSLE, not fear. They don't mind the blade — they mind the setup, cleanup, and storage.
+**Relationship to mandolines:** Tried one. Found it was more hassle than it was worth for the 1-2 things they wanted to slice. Put it away. Went back to the knife.
+**Evidence from research:**
+- "The effort involved in setting it up and cleaning it was just not worth it."
+- "I need such a very small amount of product that a knife is faster once you factor in setup and cleanup time."
+- "I got it as a gift... the next one I buy will be simpler to clean."
+- "The boss (aka wife) likes the ultimate mandoline... only drawback is you only get two thicknesses to choose from."
+- Multiple mentions of mandolines being "bulky, hard to clean" as a major deterrent
+**Why worth testing:**
+- Overlaps with Drawer Stuffer but pain point is DIFFERENT — hassle, not fear
+- Our "90-second cleanup" and vertical standing design directly address this
+- "Lives on the counter" messaging (B6_drawer_counter) accidentally speaks to this person
+- The "convenience > fear" emotional register is untested in our ads
+**Hook examples:**
+- "Setup: 0 seconds. Cleanup: 90 seconds. That's the whole review."
+- "The mandoline that doesn't need 10 minutes of setup and a hand wash."
+- "It stands on the counter. You use it. You rinse it. Done."
+**Priority: B+ — Test when current sub-avatars are saturated.** Strong but partially overlaps with Drawer Stuffer.
+
+---
+
+### NEW Sub-Avatar #7: "The Gift Giver"
+**Who:** Age 30-60, buying a kitchen tool for a spouse, parent, or friend who cooks. Not necessarily a cook themselves.
+**Core emotion:** Care + worry. They want to give a useful gift but DON'T want to give something dangerous.
+**Relationship to mandolines:** May have heard horror stories. The mandoline is on their loved one's wish list — but the Gift Giver is nervous about the safety angle.
+**Evidence from research:**
+- "It will be a present for my father who likes to cook, but has not used a lot of mandolines in the past."
+- "Wife cut her finger the first time she used it, so I bought her the child proof version."
+- "I got it as a gift, so I didn't have the luxury of choosing."
+- One forum described a mother putting a mandoline on her Christmas wish list
+- OXO marketing specifically says: "Mandolines are an ideal holiday or other gift for newlyweds, first-time homeowners, or anyone who calls the kitchen their happy place."
+**Why worth testing:**
+- Holiday season (Q4) audience is massive for DTC kitchen tools
+- Safety becomes a GIFT-BUYING CRITERION, not just a personal concern
+- "I want to buy them a mandoline but I'm worried they'll get hurt" is a real thought
+- Different purchase psychology: buying for someone else = different objections
+**Hook examples:**
+- "The mandoline you can actually gift without worrying."
+- "They asked for a mandoline. You found the safe one."
+- "Give the cook in your life paper-thin slices — without the ER trip."
+**Priority: B — Seasonal. Save for Q4 gifting campaign.** Not urgent now but very strong for November/December.
+
+---
+
+### NEW Sub-Avatar #8: "The Arthritis Adapter"
+**Who:** Age 50+, has hand pain, arthritis, or reduced grip strength. Cooking is getting harder.
+**Core emotion:** Loss of independence. They love cooking but their hands are failing them. Knife work is increasingly painful.
+**Relationship to mandolines:** Looking for tools that reduce the physical effort of food prep. A mandoline could replace painful knife chopping — but traditional mandolines require grip strength and push force they may not have.
+**Evidence from research:**
+- "I have arthritis in my hands now, and vegetable prep is starting to hurt. I'm thinking of getting some new tools to make my life easier, in particular: a mandoline."
+- Arthritis.org recommends kitchen tools that reduce hand strain
+- Multiple adaptive kitchen tool guides recommend mandolines for people who can't grip knives
+- "For those with limited dexterity, newer models with built-in safety features are gaining popularity"
+**Why worth testing:**
+- Real, underserved audience with high purchase intent
+- Our push-down-from-top design is genuinely easier on hands than knife work
+- Low competition — no mandoline brand markets specifically to this audience
+- Could expand well beyond Meta (Google search ads for "kitchen tools for arthritis")
+**Priority: B — Needs careful messaging.** We can't make medical claims. But "easier on your hands" and "push down, don't chop" are valid product claims. Test cautiously with 1-2 creatives later.
+
+---
+
+### Sub-Avatar Priority Ranking (All 8)
+
+| Rank | Sub-Avatar | Emotional Driver | Current Evidence | Priority |
+|---|---|---|---|---|
+| 1 | **Drawer Stuffer** | Frustration/guilt | 2 purchases, winning sub-avatar | A — Keep scaling |
+| 2 | **Scarred Chef** | Fear from experience | Strong hooks, proven engagement | A- — Keep testing |
+| 3 | **Fence Sitter** | Preemptive fear | NEW — testing Monday with Batch 13 | A- — Largest untapped audience |
+| 4 | **Meal Prep Machine** | Time/efficiency | NEW — no creatives yet | A- — Test next |
+| 5 | **Setup Hater** | Hassle/convenience | Partial overlap with Drawer Stuffer | B+ — Test when others saturate |
+| 6 | **Scroll Stopper** | Desire + hesitation | Low conversion evidence so far | B+ — Keep testing |
+| 7 | **Gift Giver** | Care + worry | Strong Q4 potential | B — Save for holiday season |
+| 8 | **Arthritis Adapter** | Independence/pain | Real need, needs careful messaging | B — Test cautiously |
+
+### Recommended: Add "Meal Prep Machine" Batch
+
+The Meal Prep Machine is the strongest new sub-avatar to test because:
+1. It's a completely different emotional register (speed, not fear)
+2. It's a massive, identifiable audience (batch cooking community)
+3. Our product genuinely serves their need (speed + safety as bonus)
+4. Zero creative overlap with existing batches — opens a new lane
+5. Could reach audiences that our fear-based ads never touch
+
+---
+
+*Sub-avatar research based on Reddit aggregators (GigaBrain, RedditFavorites), cooking forums (ChefTalk, Kitchen Knife Forums, MetaFilter, Mumsnet, Big Green Egg), YouTube reviews, Amazon reviews, and health/adaptive kitchen tool guides.*
