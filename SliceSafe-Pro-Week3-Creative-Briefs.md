@@ -520,11 +520,11 @@ Warm, casual lifestyle photograph of a light-blue vertical standing mandoline sl
 **Sub-Avatar:** Scarred Chef | **Angle:** Direct quote from UGC Video 2 winner — comparison
 **Hook text overlay:** `"100x better and safer` (line break) `than the one that got me."`
 
-**Why this creative:** Speaks directly to the Scarred Chef. Changed "my old one" to "the one that got me" — this is THEIR language. They refer to their mandoline injury as "the time it got me." UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old grater in the image reinforces the comparison visually.
+**Why this creative:** Speaks directly to the Scarred Chef. Changed "my old one" to "the one that got me" — this is THEIR language. They refer to their mandoline injury as "the time it got me." UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old mandoline in the image reinforces the comparison visually — the Scarred Chef sees the EXACT type of tool that hurt them.
 
 **Nano Banana Pro Prompt:**
 ```
-Bright, clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. The mandoline is centered on a clean white marble countertop, shot from a slight angle showing the full height. Next to the mandoline, lying flat and looking small and outdated: an old stainless steel box grater, slightly tarnished, clearly the "old" tool being replaced. The contrast between the tall modern mandoline and the small old grater should be striking. Bright, modern lighting. Clean, confident composition. Breathing room at top for quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Bright, clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. The mandoline is centered on a clean white marble countertop, shot from a slight angle showing the full height. Next to the mandoline, lying flat and looking small and outdated: an old traditional flat stainless steel mandoline slicer with an exposed V-blade and a thin plastic finger guard detached beside it. The old mandoline looks dangerous and outdated compared to the tall, modern SliceSafe. The contrast between the tall enclosed vertical mandoline and the flat exposed-blade mandoline should be striking. Bright, modern lighting. Clean, confident composition. Breathing room at top for quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
@@ -549,10 +549,10 @@ Bright, clean product photograph of a light-blue vertical standing mandoline sli
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Old grater next to mandoline creates a visual comparison (mirrors Video 2's prop)
+- [ ] Old flat mandoline next to SliceSafe creates a visual comparison — Scarred Chef sees the exact tool that hurt them
 - [ ] "100x" is a strong anchoring number — reads as emphatic, not literal
 - [ ] Quote marks signal social proof
-- [ ] The mandoline towers over the old grater — visual dominance
+- [ ] The SliceSafe towers over the old flat mandoline — visual dominance (enclosed vs exposed)
 - [ ] Export PNG highest quality
 
 ---
@@ -1052,7 +1052,7 @@ Bright, modern photograph of a beautiful updated kitchen countertop with modern 
 ---
 
 ### Creative 3: `B11_id_host`
-**Sub-Avatar:** Scroll Stopper | **Angle:** The trending dish they want to make, made safe
+**Sub-Avatar:** Fence Sitter | **Angle:** Names the purchase loop — wants one, hasn't bought
 **Hook text overlay:** `You've saved the recipe 3 times.` (line break) `You still haven't bought the mandoline.`
 
 **Nano Banana Pro Prompt:**
@@ -1229,7 +1229,7 @@ Position all text: left-aligned, ~80px left margin, starting from ~18% from top
 
 **Nano Banana Pro Prompt:**
 ```
-Clean, bright overhead photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is centered on a clean white surface. Arranged around it in a semi-circle: the kitchen tools it replaces — a box grater, a flat traditional mandoline, a spiralizer, a julienne peeler, a pair of cut-resistant gloves. These items are positioned as if being pushed away or left behind, slightly smaller and less prominent than the SliceSafe Pro in the center. The SliceSafe stands tall in the center while the other tools surround it at the edges. Bright, clean overhead lighting. The mood is clean, organized, decisive. White surface, colorful tools, light blue mandoline as the centerpiece. No text, no logos, no watermarks. 4:5 aspect ratio.
+Clean, bright overhead photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is centered on a clean white surface. Arranged around it in a semi-circle: the kitchen tools it replaces — a flat traditional mandoline with exposed blade, a vegetable peeler, a julienne peeler, a cheap handheld slicer. These items are positioned as if being pushed away or left behind, slightly smaller and less prominent than the SliceSafe Pro in the center. The SliceSafe stands tall in the center while the other tools surround it at the edges. Bright, clean overhead lighting. The mood is clean, organized, decisive. White surface, colorful tools, light blue mandoline as the centerpiece. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
@@ -1275,12 +1275,11 @@ $64.99 (was $99.95) — SliceSafe Pro™
 I counted the kitchen tools this one thing replaced:
 
 1. My old mandoline (scary, in the drawer)
-2. My box grater (knuckle destroyer)
-3. My julienne peeler (flimsy, useless)
-4. My spiralizer (used it twice)
-5. A pair of cut-resistant gloves (shouldn't need these)
+2. My julienne peeler (flimsy, useless)
+3. My cheap handheld slicer (used it twice)
+4. My vegetable peeler (for thin cuts — not anymore)
 
-SliceSafe Pro does all of it. Slices, dices, juliennes, grates — with your hands 8 inches above the blade the entire time.
+SliceSafe Pro does all of it. Slices, juliennes, thin-cuts — with your hands 8 inches above the blade the entire time.
 
 $64.99 — and I haven't touched any of those other tools since.
 
@@ -1423,9 +1422,10 @@ Beautiful, appetizing overhead photograph of a stunning food spread on a warm wo
 2. Below the product image (still in overlap): `SliceSafe Pro` — Inter, **18-20px**, Bold, **#4A90E2**
 
 **Header (top, above circles):**
-1. Add text: `What if you didn't have to choose?`
+1. Add text: `You don't have to choose.`
 2. Font: Inter, **34-40px**, Semi-bold, **#1A1A1A**
 3. Position: top 6-8%, center-aligned
+4. NOTE: Assertion, not a question — follows production rule #1
 
 **Bottom:**
 1. `$64.99 (was $99.95) — Hands-On-Top Design`
@@ -1436,7 +1436,7 @@ Beautiful, appetizing overhead photograph of a stunning food spread on a warm wo
 - [ ] Two circles clearly overlap — the Venn Diagram is instantly recognizable
 - [ ] Left circle = desire (speed, precision). Right circle = safety (hands away from blade)
 - [ ] Overlap = SliceSafe Pro — the product that gives you BOTH
-- [ ] "What if you didn't have to choose?" header frames the tension
+- [ ] "You don't have to choose." header frames the tension as an assertion (not a question — follows rule #1)
 - [ ] This format is completely different from every other creative — pure information design
 - [ ] Works at any phone size — circles and text scale cleanly
 - [ ] No image generation needed — pure Canva build
@@ -1480,6 +1480,17 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 ---
 
 ## Master Production Checklist
+
+### STRATEGIC LAUNCH RULE: Data-driven, not calendar-driven
+The batch-per-day schedule below is the PRODUCTION order (build these in this order). But the LAUNCH order should be adaptive:
+1. **Monday:** Launch Batch 6 + Batch 13 (6 creatives)
+2. **Wait 3-4 days** — let the algorithm allocate spend, gather data (500+ impressions per active creative)
+3. **Kill** anything hitting kill criteria (CTR < 1.5% AND CPM > average after 3-5 days)
+4. **Then decide** which batch to launch next based on what's working:
+   - If Drawer Stuffer creatives are winning → launch Batch 8 (UGC Transmutation, more Drawer Stuffer hooks)
+   - If Fence Sitter is showing promise → launch Batch 10 (Fear Reframe, overlaps Fence Sitter psychology)
+   - If comparison formats are clicking → launch Batch 7 (Comparison Blitz)
+5. **Do NOT dump all 24 creatives into the ad set in one week** — at $64/day, the algorithm will starve most of them (see: B4_drawer_designed_wrong got 6 impressions in Week 2)
 
 ### Before starting:
 - [ ] Have SliceSafe Pro product reference photos ready for Nano Banana Pro
