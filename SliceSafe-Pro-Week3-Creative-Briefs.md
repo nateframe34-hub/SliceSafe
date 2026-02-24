@@ -695,35 +695,41 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 4. Position: top 5-8%, center-aligned
 
 **Annotation lines + labels (5 total — use Canva "Line" element, 1-2px weight):**
+**REFERENCE: Ridge Wallet's feature annotation ads — each label has a small ICON next to the text. This makes annotations scannable at phone size.**
 
 1. **Handle annotation (top of product):**
    - Draw a thin line from the handle → outward to the right
-   - Label: `Wide ergonomic handle — hands stay here`
-   - Font: Inter, **14-16px**, Regular, **#333333**
-   - Position the label at the end of the line, right side
+   - Icon: ✋ (use Canva's "hand" or "palm" icon, ~20px, #333333)
+   - Label: `Hands stay here`
+   - Font: Inter, **14-16px**, Semi-bold, **#333333**
+   - Position icon + label at the end of the line, right side
 
 2. **Food hopper annotation (upper-middle):**
    - Draw a thin line from the transparent hopper → outward to the left
-   - Label: `Transparent food hopper`
-   - Font: Inter, 14-16px, Regular, #333333
+   - Icon: 👁 (use Canva's "eye" or "visible" icon, ~20px, #333333)
+   - Label: `See-through food hopper`
+   - Font: Inter, 14-16px, Semi-bold, #333333
 
 3. **Enclosed blade annotation (center):**
    - Draw a thin line from the blade area inside the hopper → outward to the right
-   - Label: `Enclosed stainless steel blade`
-   - Font: Inter, 14-16px, Regular, #333333
-   - **Make this label #4A90E2 (blue)** — this is the key safety feature
+   - Icon: 🔒 (use Canva's "lock" or "shield" icon, ~20px, **#4A90E2**)
+   - Label: `Enclosed blade`
+   - Font: Inter, 14-16px, **Bold**, **#4A90E2**
+   - **This is the KEY safety feature — icon AND text both in blue**
 
 4. **Base annotation (bottom of product):**
    - Draw a thin line from the rubber base → outward to the left
-   - Label: `Non-slip rubber base`
-   - Font: Inter, 14-16px, Regular, #333333
+   - Icon: ⬇ (use Canva's "anchor" or "stability" icon, ~20px, #333333)
+   - Label: `Non-slip base`
+   - Font: Inter, 14-16px, Semi-bold, #333333
 
 5. **Catch tray annotation (very bottom):**
    - Draw a thin line from the catch tray → outward to the right
-   - Label: `Clear catch tray`
-   - Font: Inter, 14-16px, Regular, #333333
+   - Icon: 📥 (use Canva's "tray" or "download" icon, ~20px, #333333)
+   - Label: `Catch tray included`
+   - Font: Inter, 14-16px, Semi-bold, #333333
 
-**Line styling:** All lines #CCCCCC (light grey), 1-2px, with a small dot or circle at the product end of each line.
+**Line styling:** All lines #CCCCCC (light grey), 1-2px, with a small dot or circle at the product end of each line. Icons sit immediately left of the text label on each line.
 
 **Price tag (bottom-center):**
 1. `SliceSafe Pro — $64.99`
