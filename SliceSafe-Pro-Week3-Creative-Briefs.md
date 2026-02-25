@@ -448,15 +448,19 @@ $64.99 (was $99.95) — SliceSafe Pro™
 
 ## BATCH 8: "UGC Transmutation"
 **Concept:** Take exact winning hooks from UGC videos that produced sales and turn them into static ads
+**ANGLE: "Makes you actually use it again"** (Drawer Stuffer) / **"Ends the design flaw that cut you"** (Scarred Chef)
 **Testing:** Marksman — 3 proven video hooks in static format
 **Data basis:** UGC Video 1 (7576563014686477598) and Video 2 (7590413856493571341) both produced purchases. Format transmutation = taking a proven script and running it as primary text paired with an image. The hooks are already validated by real purchase data.
 **Psychology:** Social Proof (real person said this), Liking/Similarity Bias (relatable people), Bandwagon Effect (others already bought)
+**Awareness:** B8_trans_awesome + B8_trans_recommend = Product Aware → Most Aware (Drawer Stuffers, SHORT copy). B8_trans_100x = Solution Aware → Product Aware (Scarred Chef).
 
 ---
 
 ### Creative 1: `B8_trans_awesome`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Direct quote from UGC Video 1 winner — discovery energy
-**Hook text overlay:** `"I finally found one that actually works. This thing is freaking awesome."`
+**Hook text overlay:** `"I finally found one that doesn't make me nervous."`
+**ORIGINAL HOOK (pre-audit):** ~~"I finally found one that actually works. This thing is freaking awesome."~~
+**WHY CHANGED:** "Doesn't make me nervous" is the EMOTION that "actually works" was trying to express. Research: "No 'I'm scared to use this today' moments." "Actually works" is generic (Stage 2). "Doesn't make me nervous" is specific to mandolines and channels fear→confidence. (See Desire Depth Audit Part 6.)
 
 **FORMAT CHANGE (from feedback loops):** Original was "lifestyle photo + quote text overlay" — the exact losing format (11 of 24 creatives used this, 54% of the lineup). Swipe file analysis found "Testimonial/Review Card + Product (approx 12 ads) — Quote dominates, product is secondary. Often mimics Facebook comments or Amazon reviews." Huel uses Reddit testimonial screenshots. Changed to a REVIEW CARD format on a warm off-white background — the quote lives in a styled card that looks like a social media review, not like ad copy overlaid on a stock photo. Product is small and secondary.
 
@@ -510,7 +514,9 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 
 ### Creative 2: `B8_trans_100x`
 **Sub-Avatar:** Scarred Chef | **Angle:** Direct quote from UGC Video 2 winner — comparison
-**Hook text overlay:** `"100x better and safer` (line break) `than the one that got me."`
+**Hook text overlay:** `"The one that got me is in the trash.` (line break) `This one's on my counter."`
+**ORIGINAL HOOK (pre-audit):** ~~"100x better and safer than the one that got me."~~
+**WHY CHANGED:** "In the trash" is a BEHAVIOR (research: "immediately went into the trash," "donated to Goodwill"). "On my counter" is the OUTCOME. SHOWS the transformation through behavior, not claims. "100x better" is Stage 2 superlative language in a Stage 3 market. Also self-categorizes ("better and safer" = comparing within mandoline category). (See Desire Depth Audit Parts 6, 11, 13.)
 
 **FORMAT CHANGE (from feedback loops):** Original had both products on "clean white marble countertop" — a variant of the sterile product-on-marble format that failed with B1_scarred_mechanism ($86.59, 0 purchases, 1.12% CTR) and B2_scarred_noguard ($28.81, 0 purchases). Changed to dark background. Ridge Wallet's comparison ads use dark backgrounds — products pop against dark, feel premium, and the confrontational mood matches the "the one that got me" energy. Swipe file pattern: "Dark/black backgrounds (about 20%) — premium, masculine, dramatic."
 
@@ -604,11 +610,11 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 
 ---
 
-**Batch 8 Body Copy 1 (Social proof + mechanism):**
+**Batch 8 Body Copy 1 (SHOWING — fear→confidence transformation):**
 ```
-"This thing is freaking awesome. It's got it all figured out."
+I used to hold my breath every time I pulled out my mandoline. Now I don't even think about it.
 
-Your hands grip the top handle. The blade is 8 inches below — enclosed, not exposed. You push down, perfect slices come out the bottom.
+The first thing you notice is how far away the blade is. You can see it through the hopper, but you can't touch it. Your hands just push down from the top. That's it.
 
 No guard. No gloves. No close calls. Just vegetables, sliced exactly how you want them.
 
@@ -616,35 +622,42 @@ No guard. No gloves. No close calls. Just vegetables, sliced exactly how you wan
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Opening rewritten from TELL ("this thing is awesome") to SHOW ("I used to hold my breath"). Mechanism section uses Version B (Experience/Feeling) instead of template language. (See Desire Depth Audit Parts 7, 11.)
 
-**Batch 8 Body Copy 2 (Discovery energy):**
+**Batch 8 Body Copy 2 (Discovery energy + behavior bridge):**
 ```
 Someone in the comments asked what mandoline I use. This one.
 
-The SliceSafe Pro. Your hands push down from the top — the blade is enclosed 8 inches below. I sliced an entire cucumber in about 60 seconds. Thin, uniform, restaurant-quality.
+I don't flinch when I pull it out anymore. The blade is sealed inside — 8 inches below where my hands go. I sliced an entire cucumber in about 60 seconds. Thin, uniform, restaurant-quality.
 
 And I still have all 10 fingers.
 
 $64.99 — still in stock at velaine.shop
 ```
+**CHANGES:** Added "I don't flinch when I pull it out anymore" — names the emotional transformation through behavior. Research: "I used to flinch every time." (See Desire Depth Audit Part 6.)
 
-**Headline 1:** The mandoline that finally stays on the counter.
+**Headline 1:** The one that stays on the counter.
 **Headline 2:** Your hands never go near the blade.
 **Description:** Hands-On-Top design. $64.99
+**HEADLINE 1 CHANGE:** Removed "mandoline" — avoids self-categorizing (See Part 13). "The one" is more conversational and doesn't trigger the "mandoline = dangerous" mental model.
 
 ---
 
 ## BATCH 9: "Outcome First"
 **Concept:** Lead with the beautiful RESULT (food), not the product. Product is secondary.
+**ANGLE: "First mandoline safe enough to actually try"** (Scroll Stopper) / **"Restaurant results, zero anxiety"** (Fence Sitter)
 **Testing:** Marksman — 3 food-outcome images where product is supporting, not hero
 **Data basis:** The cucumber salad was the original purchase driver. UGC Video 1 mentioned making food. B3_scroll_90sec's "perfect slices" was part of its winning hook. People want the FOOD — the mandoline is just the tool. Jobs-To-Be-Done: they're hiring the mandoline to make beautiful food.
 **Psychology:** Jobs to Be Done (they want the salad, not the tool), Present Bias (show the outcome NOW), Availability Heuristic (make the result easy to imagine)
+**Awareness:** B9_out_salad = Problem Aware → Most Aware (Scroll Stopper, LONGER copy — they need the full journey). B9_out_diagram = Product Aware (anyone studying the mechanism). B9_out_uniform = Problem Aware (visual comparison needs no context).
 
 ---
 
 ### Creative 1: `B9_out_salad`
 **Angle:** Cucumber salad outcome + safety punchline
-**Hook text overlay:** `Made the cucumber salad.` (line break) `Kept all my fingers.`
+**Hook text overlay:** `Finally made the cucumber salad.` (line break) `Didn't psych myself up first.`
+**ORIGINAL HOOK (pre-audit):** ~~"Made the cucumber salad. Kept all my fingers."~~
+**WHY CHANGED:** "Finally" channels the Drawer Stuffer relief energy that converted (B4_drawer_finally). "Didn't psych myself up first" is a BEHAVIOR — research confirms people "psych themselves up" before using mandolines. Original was a punchline (TELLING humor). Rewrite is a RELIEF statement (SHOWING the emotional change). Relief energy = what converted. (See Desire Depth Audit Parts 6, 11.)
 
 **Nano Banana Pro Prompt:**
 ```
@@ -657,7 +670,7 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `Made the cucumber salad.` (line break) `Kept all my fingers.`
+1. Add text box: `Finally made the cucumber salad.` (line break) `Didn't psych myself up first.`
 2. Font: **Inter**, **34-38px**, Semi-bold, White
 3. Drop shadow: Blur 25, Transparency 50%
 4. Position: top 10-15%, center-aligned
@@ -670,7 +683,7 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 - [ ] Cucumber salad looks genuinely appetizing — would stop a food scroller
 - [ ] Slices are visibly uniform and thin (mandoline result)
 - [ ] Product is visible but NOT the hero — the food is
-- [ ] "Kept all my fingers." punchline adds humor + safety without being fear-based
+- [ ] "Didn't psych myself up first" names the behavior (SHOWING relief, not humor)
 - [ ] Taps directly into cucumber salad trend
 - [ ] Export PNG highest quality
 
@@ -679,7 +692,9 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 ### Creative 2: `B9_out_diagram`
 **Angle:** Mechanism proof through product anatomy
 **FORMAT: Feature Annotation / Product Diagram** (from Swipe File — Format #17, Ridge wedding band pattern)
-**Hook text overlay:** `The mandoline, redesigned.` (top headline — annotation labels added to product features)
+**Hook text overlay:** `Why your hands never go near the blade.` (top headline — annotation labels added to product features)
+**ORIGINAL HOOK (pre-audit):** ~~"The mandoline, redesigned."~~
+**WHY CHANGED:** "The mandoline, redesigned" is generic Stage 2 launch language and self-categorizes. "Why your hands never go near the blade" is a REASON-WHY lead — the annotations below PROVE the claim. Specific to the fear. Specific to the mechanism. Follows Origins Stage 3 rule: show HOW. (See Desire Depth Audit Parts 6, 13.)
 
 **Why this creative:** The old B9_out_hash (hash browns) drew from a failed UGC video and lacked cultural momentum. This replacement uses the Feature Annotation format (Format #17) which SHOWS the mechanism — each annotation line points to physical proof on the product. Origins principle: "Show don't tell" — SHOWING triggers belief (emotional brain), TELLING triggers skepticism. Instead of saying "it's safe," this creative lets the viewer SEE the enclosed blade, the 12-inch height, the hands-on-top handle. Works for all sub-avatars but especially Fence Sitter who needs to UNDERSTAND the design difference before buying.
 
@@ -698,7 +713,7 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 3. Upload generated product image, **remove background** using Canva's background remover, then center on canvas — scale so the mandoline fills about 50-60% of the height, leaving room on all sides
 
 **Top headline:**
-1. Add text box: `The mandoline, redesigned.`
+1. Add text box: `Why your hands never go near the blade.`
 2. Font: **Inter**, **32-36px**, **Semi-bold**
 3. Color: **White (#FFFFFF)**
 4. Position: top 5-8%, center-aligned
@@ -751,7 +766,7 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 - [ ] "Enclosed blade" label is in blue (#4A90E2) — pops against olive green
 - [ ] All other labels are white — readable on dark background
 - [ ] Annotation lines in sage green (#8BA888) — visible but not harsh
-- [ ] Headline "The mandoline, redesigned." is white on olive green
+- [ ] Headline "Why your hands never go near the blade." is white on olive green
 - [ ] Feels like a Ridge Wallet product breakdown, NOT a white infographic
 - [ ] Export PNG highest quality
 
@@ -790,9 +805,11 @@ Overhead photograph of a pile of mandoline-sliced vegetables on a clean white pl
 3. Font: Inter, **24-28px**, Regular, **#1A1A1A** (dark — slightly bolder)
 
 **Bottom (centered):**
-1. `Paper-thin in 90 seconds. SliceSafe Pro.`
+1. `One takes 20 minutes and a sharp knife. One takes 90 seconds and zero courage.`
 2. Font: Inter, 18-20px, Regular, **#666666**
 3. Centered below both images
+**ORIGINAL TEXT (pre-audit):** ~~"Paper-thin in 90 seconds. SliceSafe Pro."~~
+**WHY CHANGED:** "Zero courage" is the emotional differentiator. Research: people describe needing "courage" and "bravery" to use mandolines. Cooking shouldn't require bravery. Original was a product claim (TELL). Rewrite names the emotional difference (SHOW). (See Desire Depth Audit Parts 6, 11.)
 
 **Price tag (bottom-center):**
 1. `$64.99`
@@ -809,29 +826,29 @@ Overhead photograph of a pile of mandoline-sliced vegetables on a clean white pl
 
 ---
 
-**Batch 9 Body Copy 1 (Food outcome + mechanism):**
+**Batch 9 Body Copy 1 (SHOWING — Scroll Stopper journey, Problem Aware → Most Aware):**
 ```
-Made the cucumber salad everyone's been posting about.
+I watched cucumber salad videos for 3 weeks before I bought a mandoline. Every time I almost did, I'd read another injury comment and close the tab.
 
-Paper-thin slices. Perfectly uniform. Took about 60 seconds.
+Then I found the SliceSafe Pro. The blade is sealed inside — you can see it through the hopper but you can't touch it. Your hands just push down from the top. That's it.
 
-The SliceSafe Pro does the slicing — your hands stay on top, 8 inches above the blade. Drop your vegetable in, push down. That's it.
-
-Made the salad. Kept all my fingers.
+Paper-thin slices. Perfectly uniform. Took about 60 seconds. Made the salad. Didn't psych myself up first.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Opening rewritten from outcome-first (TELL) to the Scroll Stopper's EXACT journey (SHOW). Research: "read the injury reviews and closed the tab." Names the purchase-loop behavior. Longer copy because Scroll Stoppers are Problem Aware — they need the full path. Mechanism uses Version B (Experience). (See Desire Depth Audit Parts 6, 11, 15.)
 
-**Batch 9 Body Copy 2 (Recipe-focused):**
+**Batch 9 Body Copy 2 (Recipe-focused + behavior bridge):**
 ```
 Scalloped potatoes. Hash browns. Cucumber salad. Coleslaw. Ratatouille.
 
-Every recipe that calls for "thin, uniform slices" — done in under 60 seconds. No knife skills. No mandoline anxiety.
+Every recipe that calls for "thin, uniform slices" — done in under 60 seconds. No knife skills. No holding your breath while you slice.
 
-Your hands grip the top handle. The blade is enclosed below. They never meet.
+The blade is sealed inside the body. Your hands push down from the top. They never meet.
 
 SliceSafe Pro™ — $64.99 (was $99.95)
 ```
+**CHANGES:** "No mandoline anxiety" replaced with "No holding your breath while you slice" — SHOWS the behavior instead of naming the category ("mandoline anxiety" self-categorizes and TELLS). Mechanism uses Version A (Physical/Spatial, shorter — appropriate for this recipe-list opener). (See Desire Depth Audit Parts 7, 11, 13.)
 
 **Headline 1:** Perfect slices. Zero fear.
 **Headline 2:** The tool behind the thin slices.
@@ -841,15 +858,20 @@ SliceSafe Pro™ — $64.99 (was $99.95)
 
 ## BATCH 10: "Fear Reframe"
 **Concept:** Attack the root belief — "mandolines are dangerous" — with new information
+**ANGLE: "The design was the problem — not you"** (Universal reframe for ALL sub-avatars)
 **Testing:** Marksman — 3 reframe angles using market sophistication response
 **Data basis:** UGC Video 2 won by showing the OLD tool as the problem, not the user. B4_drawer_finally's "Finally." worked because it validated the Drawer Stuffer's frustration. These creatives go deeper: you weren't wrong to be afraid — the DESIGN was wrong.
 **Psychology:** Status-Quo Bias (reframe: it's not your fault, the design was wrong), Confirmation Bias (align with existing belief "mandolines are dangerous" then redirect to "because of the design"), Loss Aversion (what you're losing by sticking with the old design)
+**Awareness:** All 3 creatives target Solution Aware → Product Aware. The audience already knows mandolines are dangerous (that's the existing solution awareness). These ads provide NEW INFORMATION that shifts them to product awareness.
+**Template alignment:** Template 5 (Leading With New Mechanism) — all 3 reframe the OLD mechanism then introduce ours. B10_fear_guard is the purest Template 5 execution.
 
 ---
 
 ### Creative 1: `B10_fear_design`
 **Angle:** The blade isn't the problem — the design is
-**Hook text overlay:** `The blade isn't the problem.` (line break) `The design is.`
+**Hook text overlay:** `You weren't careless.` (line break) `The design was.`
+**ORIGINAL HOOK (pre-audit):** ~~"The blade isn't the problem. The design is."~~
+**WHY CHANGED:** Research confirmed self-blame is MASSIVE: "I know, stupid," "Such a rookie mistake," "Stupidity While Using a Mandoline Slicer" (blog title). "You weren't careless" directly removes self-blame. "The design was" places blame where it belongs. Original was intellectually interesting (TELL). Rewrite is emotionally freeing (SHOW — makes them feel absolved). Identity-level reframe vs. feature-level reframe. (See Desire Depth Audit Parts 6, 11.)
 
 **Nano Banana Pro Prompt:**
 ```
@@ -863,18 +885,19 @@ Dramatic, moody close-up photograph of a traditional flat stainless steel mandol
 3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 40% opacity)
 
 **Hook text (upper half):**
-1. Add text box: `The blade isn't the problem.`
+1. Add text box: `You weren't careless.`
 2. Font: Inter, **38-44px**, Bold, White
 3. Position: upper third, center-aligned
 
-4. Add text below: `The design is.`
+4. Add text below: `The design was.`
 5. Font: Inter, **38-44px**, Bold, **#FF4444** (red)
 6. Center-aligned, directly below
 
-**Small subtext (optional):**
-1. Below hook: `The Hands-On-Top Mandoline — hands on top, blade enclosed below.`
+**Small subtext:**
+1. Below hook: `Hands-On-Top design — blade enclosed, 8 inches below your hands.`
 2. Inter, 18-20px, Regular, #CCCCCC
 3. Center-aligned
+**NOTE:** Subtext names the mechanism ("Hands-On-Top") per Template 5 alignment. (See Desire Depth Audit Part 16.)
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
@@ -965,13 +988,11 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 2. Font: Inter, **40-46px**, Bold, **White (#FFFFFF)**
 3. Position: top 8-10%, center-aligned
 
-4. Add text below: `It's the first kitchen tool where`
-5. Font: Inter, **28-32px**, Regular, **#8BA888** (muted sage — softer than white)
+4. Add text below: `It's the end of being scared to cook.`
+5. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — emotional resolution)
 6. Center-aligned
-
-7. Add text below: `your hands can't reach the blade.`
-8. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — mechanism reveal)
-9. Center-aligned
+**ORIGINAL SUBTEXT (pre-audit):** ~~"It's the first kitchen tool where your hands can't reach the blade."~~
+**WHY CHANGED:** "The end of being scared to cook" is the EMOTIONAL resolution. Original described the mechanism (TELL). Rewrite names what the product DOES TO YOUR EMOTIONAL STATE (SHOW). Research: "love-hate relationship," "spent years avoiding it." Being scared to cook is the REAL problem. (See Desire Depth Audit Parts 6, 11.)
 
 **Specs bar (below product, horizontal):**
 1. Three specs side by side: `8" Hand Separation` | `Enclosed Blade` | `90-Sec Cleanup`
@@ -994,31 +1015,33 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 
 ---
 
-**Batch 10 Body Copy 1 (New information — design reframe):**
+**Batch 10 Body Copy 1 (OBJECTION → CLAIM → PROOF → BENEFIT structure):**
 ```
-The reason mandoline guards don't work isn't carelessness.
+"I've tried mandolines. They all come with a guard. I never use the guard."
 
-It's the design. Every traditional mandoline points the blade at your hands. The guard is an afterthought — awkward, slow, so you skip it. One slip and you're bleeding.
+That's not carelessness. The guard doesn't grip food, slips off, and slows you down — so everyone skips it. That's bad design, not bad behavior.
 
-SliceSafe Pro was designed differently. Vertical. Hands push from the top. Blade enclosed 8 inches below. Your fingers can't reach it even if you try.
+The SliceSafe Pro doesn't have a guard. Your hands push down from the top. The blade is sealed inside, 8 inches below. Your fingers can't reach it even if you try.
 
-That's not a feature. That's the whole point.
+The first time I used it, I noticed something strange. I wasn't nervous. No clenching. No careful breathing. Just... slicing.
+
+30-day guarantee. If the design doesn't change how you feel in the kitchen, send it back.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Full rewrite using Copywriting Module's body copy formula. 1) OBJECTION: "I've tried mandolines, guards don't work." 2) CLAIM: Bad design, not bad behavior. 3) PROOF: Mechanism — hands on top, sealed blade. 4) BENEFIT: "I wasn't nervous. No clenching. Just slicing." SHOWS the emotional payoff. Self-blame removal ("bad design, not bad behavior") per research. (See Desire Depth Audit Parts 6, 12.)
 
-**Batch 10 Body Copy 2 (Validation + mechanism):**
+**Batch 10 Body Copy 2 (Validation + SHOWING the before/after):**
 ```
-You're not afraid of mandolines because you're clumsy.
+You're not stupid for getting cut. The guard your mandoline came with doesn't grip food, slips off, and slows you down — so you skip it. Everyone does. That's not carelessness. That's bad design.
 
-You're afraid because every mandoline you've ever seen has an exposed blade pointed at your hands. That's a rational response to bad design.
+The SliceSafe Pro was designed differently. The blade is enclosed inside the body. You can see it through the hopper but you can't touch it. Your hands push down from the top. They never meet.
 
-The SliceSafe Pro doesn't have an exposed blade. It's enclosed inside the hopper, 8 inches below where your hands go. You push down from the top. The blade never faces your fingers.
-
-30-day guarantee. If the design doesn't convince you, send it back.
+No more holding your breath while you slice.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Opening changed from "clumsy" (feature-level) to "stupid" (identity-level reframe — per Origins Cat 4, behaviors tied to ego). "That's not carelessness. That's bad design." is the self-blame removal. Added "No more holding your breath" — SHOWS the behavioral transformation. Mechanism uses Version B (Experience). (See Desire Depth Audit Parts 6, 7, 11.)
 
 **Headline 1:** The design was the problem. Not you.
 **Headline 2:** Hands on top. Blade enclosed below.
@@ -1028,9 +1051,11 @@ $64.99 (was $99.95) — SliceSafe Pro™
 
 ## BATCH 11: "Identity Play"
 **Concept:** Target WHO the buyer IS instead of what they fear
+**ANGLE: "Makes you actually use it again"** (Drawer Stuffer identity version) / **"The mandoline that doesn't need courage"** (Fence Sitter)
 **Testing:** Marksman — 3 identity-based hooks
 **Data basis:** B4_drawer_finally worked partly because "Finally." spoke to an identity — the frustrated home cook who wants to be efficient but has been held back. UGC Video 1 closed with "10 out of 10 would recommend" — the energy of someone who cooks seriously and knows quality. Identity hooks work at Stage 3-4 sophistication because they bypass feature/claim fatigue and speak to self-image.
 **Psychology:** Unity Principle (shared identity = "one of us"), Mimetic Desire (desirable people use this), Similarity Bias (I'm like the person in this ad)
+**Awareness:** B11_id_cook + B11_id_upgrade = Product Aware → Most Aware (Drawer Stuffers OWN a mandoline, SHORT copy). B11_id_host = Problem Aware → Product Aware (Fence Sitters, LONGER copy).
 
 ---
 
@@ -1055,17 +1080,27 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 3. Upload generated image, **remove background** using Canva's background remover, position in bottom 40% of canvas
 
 **Giant avatar call-out text (upper 50%):**
-1. Add text box: `PEOPLE WITH A`
+1. Add text box: `PEOPLE WHO`
 2. Font: Inter, **48-54px**, **Black** (heaviest weight), **#1A1A1A**
 3. Position: top 8%, center-aligned
 
-4. Add text below: `MANDOLINE`
-5. Font: Inter, **56-64px**, **Black**, **#1A1A1A**
-6. Center-aligned — this is the BIGGEST word
+4. Add text below: `BOUGHT A`
+5. Font: Inter, **48-54px**, **Black**, **#1A1A1A**
+6. Center-aligned
 
-7. Add text below: `IN THEIR DRAWER`
-8. Font: Inter, **48-54px**, **Black**, **#1A1A1A**
-9. Center-aligned
+5. Add text below: `MANDOLINE`
+6. Font: Inter, **56-64px**, **Black**, **#1A1A1A**
+7. Center-aligned — this is the BIGGEST word
+
+8. Add text below: `AND NEVER`
+9. Font: Inter, **48-54px**, **Black**, **#1A1A1A**
+10. Center-aligned
+
+11. Add text below: `USED IT AGAIN`
+12. Font: Inter, **48-54px**, **Black**, **#FF4444** (red — the emotional hit)
+13. Center-aligned
+**ORIGINAL TEXT (pre-audit):** ~~"PEOPLE WITH A MANDOLINE IN THEIR DRAWER"~~
+**WHY CHANGED:** "Never used it again" carries more emotional weight than "in their drawer." "In their drawer" is a location. "Never used it again" is a DECISION driven by fear. It implies the story — bought with hope, used once, got scared, quit. Research: "Used it once, cut my finger badly, boxed it up." Making "USED IT AGAIN" red adds the emotional punch. (See Desire Depth Audit Part 6.)
 
 **Review card (overlapping product area, lower-center):**
 1. Add rounded rectangle: **white fill (#FFFFFF)**, ~700px wide, ~140px tall, 16px corner radius, drop shadow (Blur 10, Y-offset 3, Transparency 15%)
@@ -1126,6 +1161,8 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 6. `✗  Mandoline` — Inter, **36-40px**, **Bold**
    - `✗` in **#FF4444** (red), text in **#FF4444** (red)
    - Below it: `Still in the drawer.` — Inter, **20-24px**, Regular, **#999999**
+   - Below that: `Too scared to use it.` — Inter, **18-20px**, Regular, **#FF4444** (red — names the emotion)
+**ADDITION (from audit):** "Still in the drawer" = behavior. "Too scared to use it" = the emotion BEHIND the behavior. Three beats: ✗ (visual stop) → "Still in the drawer" (location) → "Too scared to use it" (why). Per Origins: "Behaviours allow us to show another level of understanding." (See Desire Depth Audit Part 6.)
 
 7. Add spacing (40px gap)
 
@@ -1196,24 +1233,27 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 
 ---
 
-**Batch 11 Body Copy 1 (Identity-focused):**
+**Batch 11 Body Copy 1 (Identity-focused — Drawer Stuffer, SHORT, Product Aware → Most Aware):**
 ```
 You've upgraded your knives. Your pans. Your cutting boards. Your spice collection.
 
 Your mandoline is still the same flat blade with the plastic guard you never use.
 
-The SliceSafe Pro is the mandoline that matches the rest of your kitchen. Vertical design. Hands-On-Top. Blade enclosed 8 inches below your hands.
+The SliceSafe Pro is the one that matches the rest of your kitchen. Vertical. Hands on top. Blade sealed inside. Paper-thin slices in 60 seconds.
 
-Paper-thin slices in 60 seconds. Folds flat for storage.
+This one stays on the counter.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** SHORT copy (Drawer Stuffers are Product Aware — they don't need education). "The mandoline that matches" → "The one that matches" (avoid self-categorizing per Part 13). "Folds flat for storage" removed — weak feature for this audience (they WANT it on the counter, not stored). Closes with "This one stays on the counter" — mirrors the Drawer Stuffer's dream outcome.
 
-**Batch 11 Body Copy 2 (Dinner party outcome):**
+**Batch 11 Body Copy 2 (Dinner party outcome — Fence Sitter, LONGER, Problem Aware → Most Aware):**
 ```
 The secret behind restaurant-quality plating at home? A mandoline that actually gets used.
 
-SliceSafe Pro makes paper-thin, perfectly uniform slices in under 60 seconds. Hands on top. Blade enclosed below. No fear, no fuss.
+You've been hand-cutting everything because the only mandoline you've ever seen has a blade pointed at your fingers. This one doesn't.
+
+The blade is sealed inside. Your hands push down from the top. They never meet. Paper-thin, perfectly uniform slices in under 60 seconds.
 
 Cucumber salad. Scalloped potatoes. Ratatouille. Every dish that calls for precision.
 
@@ -1221,24 +1261,30 @@ Your guests will ask what your secret is.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Added "You've been hand-cutting everything because the only mandoline you've ever seen has a blade pointed at your fingers" — names the Fence Sitter's behavior (hand-cutting), names the reason (exposed blade fear), then introduces the mechanism. LONGER copy appropriate for Fence Sitters (Problem Aware). Mechanism uses Version C (Comparison/Contrast). (See Desire Depth Audit Parts 6, 7, 15.)
 
-**Headline 1:** Your mandoline belongs on the counter, not in the drawer.
+**Headline 1:** Belongs on the counter, not in the drawer.
 **Headline 2:** The recipe you saved needs this tool.
 **Description:** Hands-On-Top design. $64.99
+**HEADLINE 1 CHANGE:** Removed "Your mandoline" — avoids self-categorizing. (See Part 13.)
 
 ---
 
 ## BATCH 12: "Pattern Breakers"
 **Concept:** Wild cards — test formats and angles we haven't tried yet
+**ANGLE: Mixed** — B12_wild_stat: "Ends the design flaw that cut you" (stat-led). B12_wild_list: "Makes you actually use it again" (problem elimination). B12_wild_price: "Makes you actually use it again" (drawer guilt).
 **Testing:** Marksman — 3 high-risk/high-reward creative experiments
 **Data basis:** The barbell strategy from paid-ads: 80% of budget goes to proven angles (Batches 6-11), 20% to experimental bets (Batch 12). These creatives break our own rules intentionally to discover new directions. If one hits, it opens a whole new creative vein.
 **Psychology:** Availability Heuristic (injury stat makes danger vivid), Anchoring ($200 → $65 price comparison), Pratfall Effect (honest, direct messaging increases trust)
+**Awareness:** B12_wild_stat = Solution Aware (they know mandolines are dangerous). B12_wild_list = Product Aware (Drawer Stuffers recognize every pain point). B12_wild_price = Product Aware (Drawer Stuffers own multiple).
 
 ---
 
 ### Creative 1: `B12_wild_stat`
 **Sub-Avatar:** Scarred Chef | **Angle:** Stat-led pattern interrupt — they were one of those injuries
-**Hook text overlay:** `47,000 mandoline injuries a year.` (line break) `You were one of them.` (line break, smaller) `This mandoline can't add another.`
+**Hook text overlay:** `Over 20,000 ER visits a year` (line break) `from kitchen slicers.` (line break) `You know exactly how it happens.`
+**ORIGINAL HOOK (pre-audit):** ~~"47,000 mandoline injuries a year. You were one of them. This mandoline can't add another."~~
+**WHY CHANGED:** 47,000 is UNVERIFIED. Research found closest verified number is 21,699 ER visits from "slicers and choppers" (2011, NEISS/NYT data). Using unverified stats in paid ads = credibility risk. 20,000+ is still massive AND verified. "You know exactly how it happens" is DEEPER than "You were one of them" — it channels the SHARED EXPERIENCE through SHOWING (forces the reader to relive the sequence: food gets stuck, guard slips, one moment of inattention, blood). (See Desire Depth Audit Parts 4, 6, 11.)
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1252,30 +1298,31 @@ Dark, bold editorial product photograph of a light-blue vertical standing mandol
 3. If needed, add dark gradient overlay at top
 
 **Stat text (upper half — BIG):**
-1. Add text box: `47,000`
+1. Add text box: `20,000+`
 2. Font: Inter, **72-80px**, Bold, **#FF4444** (red)
 3. Position: upper area, center-aligned
 
-4. Add text below: `mandoline injuries a year.`
+4. Add text below: `ER visits a year from kitchen slicers.`
 5. Font: Inter, **28-32px**, Regular, White
 6. Center-aligned
 
-7. Add text below: `You were one of them.`
+7. Add text below: `You know exactly how it happens.`
 8. Font: Inter, **28-32px**, Semi-bold, White
 9. Center-aligned
 
-10. Add text below with spacing: `This mandoline can't add another.`
+10. Add text below with spacing: `This one can't add another.`
 11. Font: Inter, **32-36px**, Bold, **#4A90E2** (blue)
 12. Center-aligned
+**NOTE:** "This one" instead of "This mandoline" — avoids self-categorizing per Part 13.
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] "47,000" in massive red text is an immediate scroll-stop
+- [ ] "20,000+" in massive red text is an immediate scroll-stop (VERIFIED stat — NEISS/NYT 2011)
 - [ ] The stat makes the danger concrete and vivid (availability heuristic)
-- [ ] "This mandoline? Zero." in blue provides the resolution
+- [ ] "This one can't add another." in blue provides the resolution
 - [ ] Dark, bold aesthetic stands out in a feed full of bright food photos
 - [ ] This looks NOTHING like a typical kitchen product ad
 - [ ] Export PNG highest quality
@@ -1296,7 +1343,9 @@ Dark, bold editorial product photograph of a light-blue vertical standing mandol
 2. Set canvas background to **#F8F7F4** (warm off-white — matches swipe file aesthetic)
 
 **Header text (top):**
-1. Add text box: `Problems we eliminated:`
+1. Add text box: `Reasons you stopped using your mandoline:`
+**ORIGINAL HEADER (pre-audit):** ~~"Problems we eliminated:"~~
+**WHY CHANGED:** "Problems we eliminated" is BRAND-CENTRIC (Stage 2 — "look what WE did"). "Reasons you stopped using your mandoline" is AVATAR-CENTRIC (Stage 3+ — names THEIR experience). Each strikethrough becomes THEIR reason, not our feature list. (See Desire Depth Audit Part 6.)
 2. Font: Inter, **24-28px**, Regular, **#999999** (muted — understated header)
 3. Position: top 8%, left-aligned, ~80px margin
 
@@ -1352,11 +1401,14 @@ Overhead photograph looking down into a real, slightly messy kitchen drawer that
 2. Upload generated image, fill canvas
 
 **Hook text (top):**
-1. Add text box: `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
-2. Font: Inter, **36-42px**, Bold
-3. `$65` in **#4A90E2** (blue), rest in **White (#FFFFFF)**
-4. Drop shadow: Blur 25, Transparency 50%
-5. Position: top 8-12%, center-aligned
+1. Add text box: `I opened my kitchen drawer.` (line break) `Three mandolines.`
+2. Font: Inter, **36-42px**, Bold, **White (#FFFFFF)**
+3. Drop shadow: Blur 25, Transparency 50%
+4. Position: top 8-12%, center-aligned
+5. Below: `All collecting dust because they all scared me.`
+6. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — the emotional reveal)
+**ORIGINAL HOOK (pre-audit):** ~~"$65 replaced everything sitting in your kitchen drawer."~~
+**WHY CHANGED:** Value angle has FAILED before (split_screen_produce_tax: $52.13, 0 purchases). The purchase barrier is FEAR, not PRICE. "Three mandolines, all collecting dust because they all scared me" combines guilt + fear — the Drawer Stuffer's two deepest emotions. UGC-style drawer photo still works. Text now names the EMOTIONAL truth. Research: "I have a mandolin collecting dust in my pantry." (See Desire Depth Audit Part 6.)
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99 (was $99.95)`
@@ -1373,38 +1425,38 @@ Overhead photograph looking down into a real, slightly messy kitchen drawer that
 
 ---
 
-**Batch 12 Body Copy 1 (Stat-led):**
+**Batch 12 Body Copy 1 (Stat-led — OBJECTION → CLAIM → PROOF → BENEFIT):**
 ```
-47,000 mandoline injuries are reported every year.
+Over 20,000 ER visits a year from kitchen slicers. You know exactly how it happens.
 
-Every single one involves an exposed blade and a hand that got too close.
+Food gets small. Fingers get close. The guard you stopped using wouldn't have helped anyway.
 
-The SliceSafe Pro doesn't have an exposed blade. It's enclosed inside the body, 8 inches below where your hands go. You push down from the top. The blade is sealed below.
+The SliceSafe Pro doesn't have an exposed blade. It's sealed inside the body, 8 inches below where your hands go. You push down from the top. Your fingers can't reach it even if you try.
 
-This mandoline can't injure you. That's not marketing. That's the design.
+No more "just be careful." The design is careful for you.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Stat corrected from unverified 47K to verified 20K+ (NEISS/NYT, 2011). Opening SHOWS the injury sequence instead of TELLING the stat. "The guard you stopped using" names the behavior. "No more 'just be careful'" names and dismisses the old advice. "The design is careful for you" — SHOWS the benefit through personification. Body copy cycles through OBJECTION (guards fail) → CLAIM (no exposed blade) → PROOF (sealed, 8 inches) → BENEFIT (the design is careful for you). (See Desire Depth Audit Parts 4, 11, 12.)
 
-**Batch 12 Body Copy 2 (Value-focused):**
+**Batch 12 Body Copy 2 (Drawer guilt — SHOWING the emotional truth):**
 ```
-I counted the kitchen tools this one thing replaced:
+I opened my kitchen drawer last week. Three mandolines. A julienne peeler. A handheld slicer.
 
-1. My old mandoline (scary, in the drawer)
-2. My julienne peeler (flimsy, useless)
-3. My cheap handheld slicer (used it twice)
-4. My vegetable peeler (for thin cuts — not anymore)
+All collecting dust because they all scared me.
 
-SliceSafe Pro does all of it. Slices, juliennes, thin-cuts — with your hands 8 inches above the blade the entire time.
+The SliceSafe Pro is the only one that made it to the counter. The blade is sealed inside. You can see it but you can't touch it. Your hands just push down from the top.
 
-$64.99 — and I haven't touched any of those other tools since.
+I've used it every week for a month. That drawer is getting emptier.
 
-SliceSafe Pro™ at velaine.shop
+$64.99 (was $99.95) — SliceSafe Pro™
 ```
+**CHANGES:** Full rewrite from value-focused (TELL — "$65 replaced everything") to guilt-focused (SHOW — "all collecting dust because they all scared me"). Opens with the behavior (opening the drawer), names the emotion (scared), then contrasts with the outcome ("made it to the counter"). "I've used it every week for a month" SHOWS repeated use — the Drawer Stuffer's dream. Mechanism uses Version B (Experience). (See Desire Depth Audit Parts 6, 7, 11.)
 
-**Headline 1:** You were one of the 47,000. Never again.
-**Headline 2:** $65 to clear out the kitchen drawer.
+**Headline 1:** Over 20,000 ER visits a year. This one can't add another.
+**Headline 2:** One tool. On the counter. Everything else in the drawer.
 **Description:** Hands-On-Top design. $64.99
+**HEADLINE CHANGES:** H1 updated to verified stat. H2 rewritten from "$65" value frame to identity/behavior frame. (See Parts 4, 13.)
 
 ---
 
@@ -1722,11 +1774,11 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 |---|---|---|---|---|---|
 | 6 | Numbers + relief | Drawer Stuffer direct | "The mandoline you'll actually use" | "1 mandoline. 3 minutes. 0 bandages." | "Hands-On-Top design. $64.99" |
 | 7 | Comparison-focused | Mechanism reframe | "You already know what an exposed blade does." | "The mandoline, redesigned from scratch." | "Hands-On-Top design. $64.99" |
-| 8 | Social proof + mechanism | Discovery energy | "The mandoline that finally stays on the counter." | "Your hands never go near the blade." | "Hands-On-Top design. $64.99" |
-| 9 | Food outcome + mechanism | Recipe-focused | "Perfect slices. Zero fear." | "The tool behind the thin slices." | "Hands-On-Top design. $64.99" |
-| 10 | New info — design reframe | Validation + mechanism | "The design was the problem. Not you." | "Hands on top. Blade enclosed below." | "Hands-On-Top design. $64.99" |
-| 11 | Identity-focused | Dinner party outcome | "Your mandoline belongs on the counter, not in the drawer." | "The recipe you saved needs this tool." | "Hands-On-Top design. $64.99" |
-| 12 | Stat-led | Value-focused | "You were one of the 47,000. Never again." | "$65 to clear out the kitchen drawer." | "Hands-On-Top design. $64.99" |
+| 8 | SHOWING — fear→confidence | Discovery + behavior bridge | "The one that stays on the counter." | "Your hands never go near the blade." | "Hands-On-Top design. $64.99" |
+| 9 | SHOWING — Scroll Stopper journey | Recipe + behavior bridge | "Perfect slices. Zero fear." | "The tool behind the thin slices." | "Hands-On-Top design. $64.99" |
+| 10 | OBJECTION→CLAIM→PROOF→BENEFIT | SHOWING before/after + self-blame removal | "The design was the problem. Not you." | "Hands on top. Blade enclosed below." | "Hands-On-Top design. $64.99" |
+| 11 | Identity — Drawer Stuffer SHORT | Dinner party — Fence Sitter LONGER | "Belongs on the counter, not in the drawer." | "The recipe you saved needs this tool." | "Hands-On-Top design. $64.99" |
+| 12 | Stat-led (VERIFIED 20K+) | Drawer guilt (SHOWING) | "Over 20,000 ER visits. This one can't add another." | "One tool. On the counter. Everything else in the drawer." | "Hands-On-Top design. $64.99" |
 | 13 | Fear validation + mechanism | Permission to buy | "The mandoline designed so horror stories can't happen." | "Your hands never go near the blade. That's the whole point." | "Hands-On-Top design. $64.99" |
 
 ---

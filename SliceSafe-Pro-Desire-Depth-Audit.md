@@ -505,3 +505,447 @@ To be clear — a lot of things are RIGHT:
 The hooks are smart. They're just not deep enough. They tell people WHAT the product does instead of making people FEEL what their life is like without it.
 
 Fix the emotion layer. Keep everything else.
+
+---
+
+## PART 10: Copywriting FRAMES Audit — NEW, EASY, SAFE, BIG, FAST
+
+### The Framework (from Copywriting 101 Module):
+Every ad should hit MULTIPLE frames to maximize persuasion. Missing frames = weaker ads.
+
+**The 5 Frames:**
+- **NEW** — "First," "Never before," "Just launched"
+- **EASY** — "No effort," "5 minutes," "Just push down"
+- **SAFE** — "Risk-free," "Guaranteed," "No injuries"
+- **BIG** — Specific numbers, dramatic results, scale
+- **FAST** — Speed, instant results, time saved
+
+**SliceSafe Pro's Available Frames:**
+| Frame | Our Version | Strength |
+|---|---|---|
+| NEW | "Hands-On-Top design" — first kitchen tool where hands can't reach blade | STRONG — genuine new mechanism |
+| EASY | "No guard, no gloves, no setup. Drop in, push down, done." | STRONG — simpler than every competitor |
+| SAFE | "Hands 8+ inches above blade. Enclosed, not exposed." | STRONGEST — our core mechanism |
+| BIG | "Over 20,000 ER visits a year" / "Paper-thin, restaurant-quality" | MEDIUM — stat is powerful, but results need more specificity |
+| FAST | "90 seconds" / "60 seconds" / "3 minutes for full dinner prep" | STRONG — speed is proven (B3_scroll_90sec converted) |
+
+### Current Hook Audit Against FRAMES:
+
+| Hook | NEW | EASY | SAFE | BIG | FAST | Frames Hit |
+|---|---|---|---|---|---|---|
+| B6: "1 mandoline. 3 minutes. 0 bandages." | — | — | ✓ | ✓ | ✓ | 3/5 |
+| B6: "This mandoline lives on the counter." | — | — | — | — | — | 0/5 (identity only) |
+| B8: "I finally found one that doesn't make me nervous." | NEW(implied) | — | ✓ | — | — | 1.5/5 |
+| B8: "The one that got me is in the trash." | — | — | ✓(implied) | — | — | 1/5 |
+| B8: "Had 3 mandolines in the drawer." | — | — | — | — | — | 0/5 (identity only) |
+| B9: "Finally made the cucumber salad." | — | EASY(implied) | ✓ | — | — | 1.5/5 |
+| B9: "Why your hands never go near the blade." | NEW | — | ✓ | — | — | 2/5 |
+| B10: "You weren't careless. The design was." | NEW(implied) | — | ✓ | — | — | 1.5/5 |
+| B10: "Every mandoline comes with a guard. Nobody uses it." | NEW | EASY | ✓ | — | — | 3/5 |
+| B10: "This isn't a mandoline." | NEW | — | ✓ | — | — | 2/5 |
+| B11: "PEOPLE WHO BOUGHT A MANDOLINE / NEVER USED IT AGAIN" | — | — | — | — | — | 0/5 (avatar call-out) |
+| B11: Kitchen upgrade checklist | — | — | — | — | — | 0/5 (identity) |
+| B12: "Over 20,000 ER visits a year." | — | — | ✓ | ✓ | — | 2/5 |
+| B12: "Reasons you stopped using your mandoline:" | — | — | ✓ | — | — | 1/5 |
+
+### The Problem:
+**Most hooks hit 0-2 frames. The Copywriting doc says winning ads hit 3-4+.**
+
+Example from the doc:
+- ❌ "Lose weight fast" = Only FAST (1 frame)
+- ✅ "12,000 women blocked the enzyme destroying their appetite hormone and ate 24% less in week one — without trying. Try it risk-free." = NEW + BIG + FAST + EASY + SAFE (5 frames)
+
+### The Fix — Frame-Stacked Versions:
+The **body copy** is where we stack frames. Hooks can be 1-2 frames (emotional pull), but body copy should hit 4-5.
+
+**Body copy frame template for SliceSafe:**
+> [HOOK — 1-2 frames, emotional]
+> [NEW] The first mandoline where your hands can't reach the blade. [SAFE] Enclosed blade, 8 inches below your hands. [EASY] No guard. No gloves. Drop in, push down, done. [FAST] 60 seconds flat. [BIG] Paper-thin, restaurant-quality slices.
+> [SAFE] 30-day guarantee.
+
+**Currently, our body copies hit 2-3 frames. We need to hit 4-5 by ensuring every body copy includes at least NEW + SAFE + one of (EASY/FAST/BIG).**
+
+---
+
+## PART 11: SHOW vs. TELL Audit (Copywriting Module)
+
+### The Framework:
+> **TELLING** triggers the logical brain (skepticism).
+> **SHOWING** triggers the emotional brain (belief).
+
+From the doc:
+- ❌ TELLING: "Your wrist pain will disappear."
+- ✅ SHOWING: "Remember that shooting pain you used to get around 2pm? The one that made you shake out your hand every few minutes? Gone. Now you're on your third Zoom call and you haven't even thought about your wrist."
+
+### Applied to SliceSafe — Hook-Level Audit:
+
+| Hook | TELL or SHOW? | Problem |
+|---|---|---|
+| "I finally found one that doesn't make me nervous." | SHOW ✓ | Names the feeling, not the feature |
+| "The one that got me is in the trash. This one's on my counter." | SHOW ✓ | Shows behavior change, not benefit claim |
+| "Had 3 mandolines in the drawer. This one stays on the counter." | SHOW ✓ | Shows the before/after through location |
+| "You weren't careless. The design was." | SHOW ✓ | Shows the reframe through absolution |
+| "Every mandoline comes with a guard. Nobody uses it. We eliminated it." | TELL ✗ | States facts about the product. Should SHOW the guard-failure experience |
+| "This isn't a mandoline." | TELL ✗ | Claims a category shift but doesn't SHOW what it IS |
+| "Over 20,000 ER visits. You know exactly how it happens." | SHOW ✓ | "You know exactly how it happens" forces the viewer to relive it |
+| "PEOPLE WHO BOUGHT A MANDOLINE / NEVER USED IT AGAIN" | SHOW ✓ | Describes the behavior, not the product |
+
+### Body Copy SHOW vs. TELL Audit:
+
+**Current body copy opening (B8 Body Copy 1):**
+> "This thing is freaking awesome. It's got it all figured out."
+
+**This is TELLING.** "Awesome" and "figured out" are claims. Nobody believes someone else's assessment.
+
+**Rewrite (SHOWING):**
+> "I used to hold my breath every time I pulled out my mandoline. Now I don't even think about it."
+
+This SHOWS the emotional before/after through a specific physical behavior ("hold my breath"). The reader's body remembers doing this.
+
+**Current body copy mechanism (most batches):**
+> "Your hands grip the top handle. The blade is 8 inches below — enclosed, not exposed."
+
+**This is TELLING.** It describes the product architecture. Correct, but doesn't create feeling.
+
+**Rewrite (SHOWING) — Version B from Part 7:**
+> "The first thing you notice is how far away the blade is. You can see it through the hopper, but you can't touch it. Your hands just push down from the top. That's it."
+
+This SHOWS the EXPERIENCE of using the product. "You notice," "you can see but can't touch" — the reader is mentally using the product.
+
+### Action: Convert remaining TELL hooks and body copy openings to SHOW using the SHOWING framework.
+
+---
+
+## PART 12: Body Copy Formula — OBJECTION → CLAIM → PROOF → BENEFIT (Copywriting Module)
+
+### The Framework:
+Cycle through this pattern **multiple times** in body copy for different objections.
+
+**OBJECTION** — What they're thinking/doubting (address head-on)
+**CLAIM** — Your counter-statement (what's actually true)
+**PROOF** — Evidence that validates your claim (mechanism, stat, testimonial)
+**BENEFIT** — The emotional payoff (what their life looks like after)
+
+### Current Body Copy Structure (most batches):
+1. Hook/problem → 2. Mechanism → 3. Outcome → 4. Price + guarantee
+
+**What's missing: We never cycle through OBJECTIONS.** We state the mechanism once and move to price. A skeptical Stage 3 buyer has multiple objections:
+
+### SliceSafe's Top 3 Objections (from research):
+
+**Objection 1:** "I've heard 'safe mandoline' before. Guards exist. They don't work."
+- **Claim:** This isn't a guard — it's a completely different design.
+- **Proof:** Your hands stay on top, 8 inches above. The blade is sealed inside. There IS no guard because there's nothing for a guard to protect.
+- **Benefit:** No more skipping the guard and hoping for the best.
+
+**Objection 2:** "It probably doesn't slice as well as a real mandoline."
+- **Claim:** Paper-thin, perfectly uniform slices — same as a professional kitchen mandoline.
+- **Proof:** Clear catch tray shows the results. [Visual proof in image or video]
+- **Benefit:** Restaurant-quality cucumber salad, scalloped potatoes, ratatouille — without the anxiety.
+
+**Objection 3:** "$65 is expensive for a kitchen tool."
+- **Claim:** It replaces every slicer, julienner, and mandoline in your drawer.
+- **Proof:** Count the tools sitting unused in your drawer. Add up what you paid for all of them.
+- **Benefit:** One tool, on your counter, that you actually use. Not three in a drawer collecting dust.
+
+### Rewritten Body Copy Using the Formula (Batch 10, Body Copy 1):
+
+**Current:**
+```
+The reason mandoline guards don't work isn't carelessness.
+
+It's the design. Every traditional mandoline points the blade at your hands. The guard is an afterthought — awkward, slow, so you skip it. One slip and you're bleeding.
+
+SliceSafe Pro was designed differently. Vertical. Hands push from the top. Blade enclosed 8 inches below. Your fingers can't reach it even if you try.
+
+That's not a feature. That's the whole point.
+```
+
+**Rewritten (OBJECTION → CLAIM → PROOF → BENEFIT cycle):**
+```
+"I've tried mandolines. They all come with a guard. I never use the guard."
+
+That's not carelessness. The guard doesn't grip food, slips off, and slows you down — so everyone skips it. That's bad design, not bad behavior.
+
+The SliceSafe Pro doesn't have a guard. Your hands push down from the top. The blade is sealed inside, 8 inches below. Your fingers can't reach it even if you try.
+
+The first time I used it, I noticed something strange. I wasn't nervous. No clenching. No careful breathing. Just... slicing.
+
+30-day guarantee. If the design doesn't change how you feel in the kitchen, send it back.
+```
+
+**Structure breakdown:**
+1. OBJECTION: "I've tried mandolines. Guard doesn't work." (head-on)
+2. CLAIM: That's bad design, not bad behavior.
+3. PROOF: Mechanism — hands on top, blade sealed, 8 inches.
+4. BENEFIT: "I wasn't nervous. No clenching. Just slicing." (SHOWING the emotional payoff)
+5. Guarantee removes the final objection (risk).
+
+---
+
+## PART 13: Stop Self-Categorizing (Copywriting Module)
+
+### The Framework:
+> "The moment you compare yourself to an existing category, you lose NEW/ONLY positioning."
+> "Don't say what you're 'like.' Position as the FIRST thing that does X, not another version of Y."
+
+Examples from the doc:
+- ❌ "Better than other collagens" = Categorizes as collagen
+- ✅ "The first supplement that blocks the enzyme destroying your appetite hormone" = New category
+
+### Where We're Self-Categorizing:
+
+| Current Language | Problem | Fix |
+|---|---|---|
+| "Safe mandoline" | Puts us in the mandoline category where EVERY competitor also says "safe" | "The first food slicer where your hands can't reach the blade" |
+| "Better and safer than the one that got me" | "Better" = Stage 2 superlative. Categorizes as mandoline. | "The one that got me is in the trash. This one's on my counter." (already fixed) |
+| "The mandoline, redesigned." | Still "mandoline" — triggers the "dangerous" mental model | "Why your hands never go near the blade." (already fixed) |
+| "The mandoline you'll actually use" (Headline 1, Batch 8) | "Mandoline you'll actually use" = still a mandoline | "The kitchen tool that replaced my mandoline." |
+| "This isn't a mandoline." (B10_fear_solved) | STARTS by self-categorizing then reframes — but the first word people read is "mandoline" | Keep this one — the deliberate reframe IS the concept. The paradox works here. |
+| "Hands-On-Top design" | Good — names the MECHANISM, not the category | Keep. This is the Purple "GelFlex Grid" equivalent. |
+
+### The Fix — Category Language Rules:
+1. **In hooks:** Avoid the word "mandoline" when possible. Use "this," "it," or name the mechanism.
+2. **In body copy:** Can say "mandoline" when describing the OLD category (the problem). Use mechanism name or "kitchen tool" for SliceSafe.
+3. **In headlines/descriptions:** "Hands-On-Top design" > "Safe mandoline design"
+4. **Exception:** B11_id_cook and B11_id_upgrade — these NEED the word "mandoline" because they're calling out the avatar's relationship with their EXISTING mandoline. This is correct.
+
+### Headline Rewrites:
+- **B8 Headline 1:** "The mandoline that finally stays on the counter." → `"The one that stays on the counter."`
+- **B10 Headline 2:** "Hands on top. Blade enclosed below." → Keep (mechanism-focused, no category).
+- **B12 Headline 2:** "$65 to clear out the kitchen drawer." → `"One tool. On the counter. Everything else in the drawer."`
+
+---
+
+## PART 14: Explicit ANGLE Definitions (from Angle Identifier + How To Create Ads)
+
+### The Framework:
+> "Angle = How you choose to sell the product. The main reason you're giving someone to buy."
+> "If the concept doesn't give the customer a reason to buy, it's not an angle yet."
+
+The Angle Identifier method:
+1. Look at the sub-avatar's DESIRE (what they want)
+2. Look at their BEHAVIOR (what they currently do)
+3. Identify the GAP between desire and behavior
+4. The gap = the ANGLE
+
+### Current Problem:
+Our batches define CONCEPTS (what WE want to test) but not explicit ANGLES (why the CUSTOMER should buy).
+
+- B8 "UGC Transmutation" = CONCEPT (format test). Angle?
+- B9 "Outcome First" = CONCEPT (lead with result). Angle?
+- B10 "Fear Reframe" = CONCEPT (attack root belief). Angle?
+- B11 "Identity Play" = CONCEPT (target who they are). Angle?
+- B12 "Pattern Breakers" = CONCEPT (wild cards). Angle?
+
+### Proper Angle Extraction:
+
+**Sub-Avatar: Drawer Stuffer**
+- Desire: "I want to use a mandoline without being scared."
+- Behavior: "My mandoline sits in the drawer. I haven't touched it in months."
+- Gap: They WANT to use it but CAN'T because of fear.
+- **ANGLE: "Makes you actually use it again."**
+- Direct hook: "Had 3 mandolines in the drawer. This one stays on the counter."
+
+**Sub-Avatar: Scarred Chef**
+- Desire: "I want to slice vegetables fast without getting hurt."
+- Behavior: "I hand-chop everything. I threw out my old mandoline after it cut me."
+- Gap: They NEED the speed but WON'T risk the blade.
+- **ANGLE: "Ends the design flaw that cut you."**
+- Direct hook: "You weren't careless. The design was."
+
+**Sub-Avatar: Scroll Stopper**
+- Desire: "I want to try a mandoline after seeing the videos, but I'm worried."
+- Behavior: "I saved the recipe/video 3 times. I haven't bought a mandoline yet."
+- Gap: Desire is HIGH (saw the trend), fear is BLOCKING the purchase.
+- **ANGLE: "First mandoline safe enough to actually try."**
+- Direct hook: "Everyone told you mandolines are dangerous. They were right — until this one."
+
+**Sub-Avatar: Fence Sitter**
+- Desire: "I want restaurant-quality slices at home."
+- Behavior: "I hand-cut everything because the only mandoline I've seen has an exposed blade."
+- Gap: They don't own one and won't because of secondhand fear.
+- **ANGLE: "The mandoline that doesn't need courage."**
+- Direct hook: "Finally made the cucumber salad. Didn't psych myself up first."
+
+### Batch-Level Angle Map:
+
+| Batch | Concept | PRIMARY ANGLE (customer's reason to buy) | Sub-Avatar |
+|---|---|---|---|
+| B6 | Winner DNA | "Fast, safe, actually gets used" — stacking proven elements | Drawer Stuffer + Scroll Stopper |
+| B7 | Comparison Blitz | "The design flaw that cut you — and the fix" | Scarred Chef + Drawer Stuffer |
+| B8 | UGC Transmutation | "Makes you actually use it again" (Drawer Stuffer) / "Ends the design flaw that cut you" (Scarred Chef) | Mixed |
+| B9 | Outcome First | "First mandoline safe enough to actually try" / "Restaurant results, zero anxiety" | Scroll Stopper + Fence Sitter |
+| B10 | Fear Reframe | "The design was the problem — not you" | All sub-avatars (universal reframe) |
+| B11 | Identity Play | "Makes you actually use it again" (identity version) | Drawer Stuffer + Fence Sitter |
+| B12 | Pattern Breakers | Mixed (stat shock, problem elimination, drawer guilt) | Mixed |
+| B13 | Fence Sitter | "The mandoline that doesn't need courage" | Fence Sitter |
+
+### Testing Method Confirmation:
+Per Origins: "Marksman Method = Image Ads. Test multiple angles at once. Pick the BEST angle from each sub-avatar."
+
+We are correctly using Marksman method. Each batch tests 3 variations. But now with explicit angles defined, our feedback loops can identify WHICH ANGLE is winning, not just which creative.
+
+---
+
+## PART 15: Market Awareness Level Mapping (Copywriting Module)
+
+### The Framework:
+> "When you write an ad, you must go through each stage: Problem Aware → Solution Aware → Product Aware → Most Aware"
+
+Spencer recommends ONLY focus on Problem Aware through Most Aware. Unaware = advanced ($100K+/month).
+
+### Sub-Avatar Awareness Levels:
+
+| Sub-Avatar | Awareness Level | What They Know | What They DON'T Know |
+|---|---|---|---|
+| **Drawer Stuffer** | Product Aware | They OWN a mandoline. They know the problem. They know mandolines exist. | They don't know a DIFFERENT DESIGN exists. |
+| **Scarred Chef** | Solution Aware | They know mandolines are dangerous. They know "safe" mandolines exist (guards, gloves). | They don't know a design WITHOUT a guard exists. |
+| **Scroll Stopper** | Problem Aware → Solution Aware | They saw mandoline content. They know they want one. They've read the injury warnings. | They don't know a safe solution exists yet. |
+| **Fence Sitter** | Problem Aware | They know mandolines are useful. They know they're dangerous. | They don't know ANY specific solution. |
+
+### What This Means for Copy:
+
+**Drawer Stuffer (Product Aware):**
+- DON'T explain what a mandoline is.
+- DON'T explain the problem — they live it.
+- DO jump straight to the mechanism difference.
+- DO name their specific behavior ("drawer," "3 mandolines," "never used it again").
+- Body copy path: Product Aware → Most Aware (short — mechanism → buy)
+
+**Scarred Chef (Solution Aware):**
+- DON'T explain the injury risk — they have the scar.
+- DO acknowledge their existing solution attempts failed (guards, gloves).
+- DO explain WHY those solutions failed (the design, not them).
+- DO introduce the NEW mechanism as distinct from guards.
+- Body copy path: Solution Aware → Product Aware → Most Aware
+
+**Scroll Stopper (Problem → Solution Aware):**
+- DO reference the trend content they saw (cucumber salad, TikTok).
+- DO validate the fear they encountered in comments.
+- DO introduce the solution clearly (they may not know safe mandolines exist).
+- Body copy path: Problem Aware → Solution Aware → Product Aware → Most Aware (longest)
+
+**Fence Sitter (Problem Aware):**
+- DO assume they've never used a mandoline.
+- DO acknowledge the stories that scared them.
+- DO explain the FULL mechanism (they have no product frame of reference).
+- DON'T assume they know what a mandoline guard is.
+- Body copy path: Problem Aware → Solution Aware → Product Aware → Most Aware (longest)
+
+### Current Issue:
+All body copies are written at the SAME awareness level — Solution Aware → Product Aware. But Drawer Stuffers need Product Aware → Most Aware (shorter, behavior-focused), while Fence Sitters need Problem Aware → Most Aware (longer, educational).
+
+**This means:**
+- Drawer Stuffer body copies should be SHORT. Skip the mechanism explanation. Lead with behavior recognition → outcome.
+- Fence Sitter body copies should be LONGER. Start with the problem → introduce the solution → explain the mechanism → show the outcome.
+
+---
+
+## PART 16: Winning Ad Template Alignment (Winning Ad Template Analysis)
+
+### The Primary Recommendation for SliceSafe: Template 5 — "Leading With New Mechanism"
+
+From the analysis doc:
+> "This is the best fit for your market position, product, and available footage."
+
+**Template 5 Structure:**
+1. **[0-3 sec] MECHANISM HOOK** — Name the mechanism
+2. **[3-8 sec] PROBLEM + MECHANISM EXPLANATION** — Show how it's different
+3. **[8-13 sec] VISUAL PROOF** — Show the results
+4. **[13-15 sec] CTA**
+
+**For static ads, this translates to:**
+1. **Hook text** = Name the mechanism or its result
+2. **Image** = SHOW the mechanism in action
+3. **Body copy** = Explain why old designs fail + how this one works
+4. **CTA** = Price + guarantee
+
+**Which of our statics follow Template 5?**
+- B7_comp_flat ✓ — Shows mechanism (hands on top), explains difference
+- B9_out_diagram ✓ — Feature annotation shows mechanism anatomy
+- B10_fear_guard ✓ — Explains guard failure + mechanism resolution
+- B13_fence_native ✓ — Shows mechanism in use, feed camouflage
+
+**Which DON'T follow Template 5 but should:**
+- B10_fear_design — Reframes the problem but doesn't NAME the mechanism. Add "Hands-On-Top" to the subtext.
+- B10_fear_solved — Names the category reframe but doesn't show the mechanism. The image should show hands on top, not just a product shot.
+
+### Secondary Recommendation: Template 6/8 — "Negative Curiosity"
+
+From the doc:
+> "The 'blood sacrifice' language in your market research is PERFECT for a negative curiosity hook."
+
+**We have ONE creative that uses this pattern:** None explicitly. But B8_trans_awesome and B9_out_salad both use positive curiosity (discovery/relief). A true negative curiosity creative would be:
+
+**Future test opportunity:** "I bought the mandoline everyone warned me about." → Twist: "Zero injuries. Ten dinners."
+
+### The 6 Universal Winning Factors (all statics should have):
+1. ✓ Hook in first 2 seconds — all our statics lead with bold text
+2. ✓ Text overlays — we do this in Canva
+3. ✗ Conversational voice — some body copies still sound like ad copy
+4. ✗ Visual proof — many statics don't SHOW the mechanism (just product shots)
+5. ✓ Short — our statics are scannable
+6. ✗ Mechanism explanation — not all statics explain HOW it works
+
+**Action:** Ensure every creative either SHOWS the mechanism in the image OR explains it in the hook text. No creative should be just product + claim.
+
+---
+
+## PART 17: Offer Audit (Offers Module + Offer Mastery)
+
+### Current Offer: $64.99 (was $99.95) — Save 35%
+
+**Origins framework on offers:**
+> "Offers can be like drugs. They can take your ROAS from 2x to 4x overnight... but can be IMPOSSIBLE to get off of and OVERLY relied on."
+
+### Assessment:
+- Our offer is NOT the problem right now. All 5 purchases came at $64.99.
+- ATC-to-purchase rate is 100% — price is not causing abandonment.
+- We do NOT need to change the offer at this stage.
+
+### Future Offer Ideas (when ready to scale):
+1. **Bundle & Save (Origins' favorite):** "2-Pack" — buy one for yourself, give one as a gift. Could work for Q4.
+2. **Free eBook:** "5 Restaurant Recipes That Are 10x Easier With a Mandoline" — helps the customer accomplish the dream outcome (per Offer Mastery). This could be a lead magnet for email capture.
+3. **Free Shipping:** Already may be included. If not, add "Free Shipping On First Orders" as add-on.
+
+### Do NOT:
+- Add a bigger discount — we need to test at $64.99 before discounting further
+- Add a percentage discount — "Save 35%" is already running
+- Bundle with cut-resistant gloves — contradicts "hands never near blade" messaging
+
+---
+
+## PART 18: Updated Summary — 10 Highest-Impact Changes (Revised with ALL 10 Origins Docs)
+
+Ranked by expected impact on conversion:
+
+### 1. LEAD WITH EMOTION, NOT MECHANISM (Desire Depth — same as before)
+Every hook should make someone FEEL something before explaining anything.
+
+### 2. NAME THE BEHAVIOR, NOT JUST THE DESIRE (Desire Depth — same)
+Behaviors are tied to ego (Origins Cat. 4). Name what they DO.
+
+### 3. DEFINE EXPLICIT ANGLES FOR EVERY CREATIVE (NEW — Angle Identifier + How To Create Ads)
+Every creative needs a defined customer reason to buy. "UGC Transmutation" is a CONCEPT, not an angle. The angle is "Makes you actually use it again."
+
+### 4. STOP SELF-CATEGORIZING AS "SAFE MANDOLINE" (NEW — Copywriting Module)
+Position as the FIRST food slicer where hands can't reach the blade. Not another mandoline. New category.
+
+### 5. APPLY SHOW vs. TELL TO ALL BODY COPY (NEW — Copywriting Module)
+SHOWING triggers the emotional brain. "I used to hold my breath" > "This is safe." Convert remaining TELL copy to SHOW.
+
+### 6. USE OBJECTION → CLAIM → PROOF → BENEFIT IN BODY COPY (NEW — Copywriting Module)
+Cycle through the pattern for each objection. Currently body copies go Hook → Mechanism → Price with no objection handling.
+
+### 7. STACK FRAMES IN BODY COPY: NEW + EASY + SAFE + FAST (NEW — Copywriting Module)
+Most hooks hit 1-2 frames. Body copies should hit 4-5. Ensure every body copy includes NEW + SAFE + at least one of EASY/FAST/BIG.
+
+### 8. MATCH AWARENESS LEVEL TO SUB-AVATAR (NEW — Copywriting Module)
+Drawer Stuffer copy should be SHORT (Product Aware → Most Aware). Fence Sitter copy should be LONGER (Problem Aware → Most Aware).
+
+### 9. REMOVE SELF-BLAME (Desire Depth — same)
+"You weren't careless. The design was." Emotionally liberating.
+
+### 10. USE VERIFIED STAT 20,000+ NOT 47,000 (Desire Depth — same)
+21,699 ER visits (NEISS/NYT, 2011). Verified. Still massive.
