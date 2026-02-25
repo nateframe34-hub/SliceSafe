@@ -266,112 +266,94 @@ $64.99 (was $99.95) — SliceSafe Pro™
 **Sub-Avatar:** Scarred Chef | **Angle:** Blade comparison — exposed vs enclosed
 **Hook text overlay:** `You already know what an exposed blade does.` (line break) `This one's enclosed.`
 
+**FORMAT CHANGE (from feedback loops):** Original was a standard split-screen on #F5F5F5 grey — the exact format that failed with B1_drawer_design ($122.81, 0 purchases, "the most recognized ad format on Meta"). Changed to a single-image comparison on a dark background. Both mandolines in one photo (like UGC Video 2's winning prop comparison). Dark background matches Ridge Wallet's comparison format (dark backgrounds make products pop and feel premium).
+
 **Why this creative:** Speaks directly to the Scarred Chef — they don't need the exposed blade explained, they have the scar. "You already know" validates their experience. Then "This one's enclosed" provides the resolution. UGC Video 2 won by showing old vs new side by side. This zooms into the ONE detail the Scarred Chef cares about most: the blade.
 
-**Nano Banana Pro Prompt (LEFT — traditional mandoline close-up):**
+**Nano Banana Pro Prompt (single image — both mandolines):**
 ```
-Close-up product photograph of a traditional flat stainless steel mandoline slicer lying flat on a cold grey marble surface. The mandoline is a standard horizontal design — a long flat rectangular body with an exposed razor-sharp V-blade across the middle that catches the light dangerously. A thin plastic finger guard sits beside it, clearly detached and not being used. The blade is fully exposed and looks uncomfortably sharp. Cool blue-grey tones, flat overhead lighting, slightly clinical and cold. Shot from above at 45 degrees showing the flat profile and exposed blade clearly. Slightly desaturated, cold mood. Clean composition with breathing room. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**Nano Banana Pro Prompt (RIGHT — SliceSafe blade enclosed):**
-```
-Close-up product photograph of the middle section of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. This shot focuses on the transparent food hopper section in the middle where the blade is ENCLOSED inside the body — visible through the clear plastic but completely unreachable. The blade glints inside but is clearly protected by the hopper walls. A few perfect paper-thin vegetable slices are visible in the clear catch tray below. Warm golden light from the left. The mood is safe, modern, engineered. Warm tones — light blue, golden light. Shot from a slight angle to show the enclosed blade clearly. No text, no logos, no watermarks. 4:5 aspect ratio.
+Dramatic product comparison photograph on a dark slate surface. On the LEFT: a traditional flat stainless steel mandoline slicer lying flat, its exposed razor-sharp V-blade catching harsh overhead light — the blade edge is fully exposed and looks dangerously sharp. A thin translucent plastic finger guard sits detached beside it, clearly unused. On the RIGHT: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few paper-thin vegetable slices. The old flat mandoline lies low and dangerous on the left. The SliceSafe stands tall and enclosed on the right. The contrast between the two is striking — flat vs vertical, exposed vs enclosed, dangerous vs safe. Dark charcoal/slate background. Dramatic side lighting from the left creates highlights on both products. Warm golden accent light on the SliceSafe side, cool blue-grey light on the old mandoline side. The mood is confrontational, like a product reveal. Breathing room at top for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#F5F5F5** (light grey divider)
-3. Upload both images
+2. Upload generated image, fill canvas
+3. If upper portion isn't dark enough for text, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
 
-**Left side (old mandoline):**
-1. Place LEFT image on left half of canvas (520px wide, 40px center gap)
-2. Reduce Saturation by 15-20% — should feel cold and dangerous
-
-**Right side (SliceSafe):**
-1. Place RIGHT image on right half (520px wide)
-2. Boost Saturation by 5-10% — should feel warm and safe
-
-**Labels:**
-1. Left side, bottom-center: `Exposed.` — Inter, 22px, **#FF4444** (red), Semi-bold
-2. Right side, bottom-center: `Enclosed.` — Inter, 22px, **#4A90E2** (blue), Semi-bold
-
-**Hook text (centered across top):**
-1. Add text box: `You already know what an exposed blade does.` (line break) `This one's enclosed.`
+**Hook text (top):**
+1. Add text box: `You already know what an exposed blade does.`
 2. Font: **Inter**, **28-32px**, **Semi-bold**, White (#FFFFFF)
 3. Drop shadow: Blur 20, Transparency 40%
-4. Position: top 10-12%, centered across full width
+4. Position: top 8-12%, center-aligned
+
+5. Add text below: `This one's enclosed.`
+6. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — the resolution)
+7. Center-aligned
+
+**Small labels (near each product):**
+1. Near old mandoline: `Exposed.` — Inter, 20px, **#FF4444** (red), Semi-bold
+2. Near SliceSafe: `Enclosed.` — Inter, 20px, **#4A90E2** (blue), Semi-bold
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
-3. Bottom-right of right side, ~20px from edges
+3. Bottom-right, ~20px from edges
 
 **Final check:**
-- [ ] Left side feels cold, dangerous — exposed blade is visible and unsettling
-- [ ] Right side feels warm, safe — blade is visible but enclosed
-- [ ] "Exposed." (red) vs "Enclosed." (blue) labels create instant understanding
-- [ ] The contrast tells the story in 2 seconds without reading the hook
-- [ ] This mirrors UGC Video 2's side-by-side comparison format
+- [ ] Both mandolines are in ONE image — not a split-screen (avoids "instant ad recognition" trap)
+- [ ] Dark background makes both products pop (Ridge Wallet pattern)
+- [ ] Warm light on SliceSafe side vs cool light on old mandoline creates emotional contrast
+- [ ] The height difference (flat vs vertical) is visually dramatic
+- [ ] "Enclosed." in blue is the resolution — eye lands there last
 - [ ] Export PNG highest quality
 
 ---
 
 ### Creative 2: `B7_comp_flat`
-**Sub-Avatar:** Scarred Chef | **Angle:** Design direction comparison — flat vs vertical
+**Sub-Avatar:** Scarred Chef | **Angle:** Mechanism proof — hands on top, blade below
 **Hook text overlay:** `Your old mandoline pushed your hands toward the blade.` (line break) `This one keeps them on top.`
 
-**Why this creative:** Speaks to the Scarred Chef's direct experience — they KNOW what it feels like when hands move toward the blade. "Your old mandoline" references the specific tool that hurt them. The comparison reframes their injury as a design problem, not their mistake.
+**FORMAT CHANGE (from feedback loops):** Original was another split-screen composite requiring 2 images. Changed to a SINGLE lifestyle image that SHOWS the mechanism (hands safely on top). Pattern 2 from feedback loops: "0 out of 8 losers showed hands-on-top in action." This creative now provides PROOF — real hands, real distance, real safety — like B13_fence_native which was our highest-rated creative. The copy does the comparison work ("Your old mandoline pushed your hands toward the blade"). The IMAGE shows the solution.
 
-**This ad requires TWO images composited in Canva.**
+**Why this creative:** Speaks to the Scarred Chef's direct experience — they KNOW what it feels like when hands move toward the blade. "Your old mandoline" references the specific tool that hurt them. The comparison reframes their injury as a design problem, not their mistake. Now the image PROVES it by showing hands safely 8+ inches above the blade.
 
-**Nano Banana Pro Prompt (LEFT — flat mandoline in use, dangerous):**
+**Nano Banana Pro Prompt (single image — SliceSafe in use, mechanism visible):**
 ```
-Close-up photograph of a person's hand using a traditional flat stainless steel mandoline slicer. The hand is pushing a vegetable DOWN toward an exposed blade — the fingers are uncomfortably close to the sharp edge. The flat mandoline lies on a grey countertop. A thin plastic finger guard sits to the side, not being used. The image should make the viewer uncomfortable — the hand is clearly in danger. Cool overhead lighting, slightly harsh. The mood is tense, risky. Shot from a slight side angle showing the hand moving TOWARD the blade. Muted, cool tones — grey counter, silver blade, pale skin. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**Nano Banana Pro Prompt (RIGHT — SliceSafe in use, safe):**
-```
-Warm photograph of a person's hands gripping the wide ergonomic pressing handle on top of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade filled with perfect vegetable slices. The hands are pressing down from ABOVE — clearly 8 inches above the blade area. The distance between the hands and the blade is visually dramatic. The mandoline stands on a warm wooden cutting board. Warm golden light from the left. The mood is safe, confident, comfortable. Shot from a slight angle showing the hands clearly on top and the blade clearly below. Warm tones — golden wood, light blue, warm skin. No text, no logos, no watermarks. 4:5 aspect ratio.
+Warm, confident close-up lifestyle photograph of a person's hands gripping the wide ergonomic pressing handle on top of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade filled with perfect paper-thin carrot and zucchini slices. The hands are pressing down confidently from ABOVE — clearly 8 inches above the blade area. The vertical distance between the hands and the enclosed blade is the focal point of the image — it should be DRAMATICALLY visible. The mandoline stands on a warm butcher-block countertop. A few sliced vegetables and a whole zucchini sit nearby. Warm golden natural light from a window to the left. The mood is safe, confident, relaxed — the person is completely at ease. Shot from a slight side angle at 30 degrees to emphasize the HEIGHT of the mandoline and the distance between hands and blade. Warm earth tones with light blue product as accent. Breathing room at top 30% for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#F5F5F5**
-3. Upload both images
+2. Upload generated image, fill canvas
 
-**Left side:**
-1. Place LEFT image on left half (520px wide)
-2. Reduce Saturation by 15-20%
-
-**Right side:**
-1. Place RIGHT image on right half (520px wide)
-2. Boost Saturation by 5-10%
-
-**Hook text (across top):**
-1. Add text: `Your old mandoline pushed your hands toward the blade.`
-2. Font: Inter, **26-30px**, Semi-bold, White
+**Hook text (top):**
+1. Add text box: `Your old mandoline pushed your hands toward the blade.`
+2. Font: Inter, **28-32px**, Semi-bold, White (#FFFFFF)
 3. Drop shadow: Blur 20, Transparency 40%
-4. Position: top 8-10%, centered
+4. Position: top 8-12%, center-aligned
 
 5. Add text below: `This one keeps them on top.`
-6. Font: Inter, **26-30px**, Semi-bold, White
-7. Position: directly below first line
+6. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — the resolution)
+7. Center-aligned, directly below
 
-**Small labels:**
-1. Left, bottom: `→ Toward the blade` — Inter, 18px, #FF4444
-2. Right, bottom: `↓ Away from the blade` — Inter, 18px, #4A90E2
+**Distance callout (on image, near the gap between hands and blade):**
+1. Add a subtle bracket or arrow showing the gap between hands and blade
+2. Label: `8 inches` — Inter, 16-18px, Bold, White
+3. Position near the visible gap on the mandoline — this makes the distance concrete
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Left side makes you uncomfortable — hand too close to blade
-- [ ] Right side feels safe — hands clearly far from blade
-- [ ] The hook explains WHY flat mandolines are dangerous (design, not user error)
-- [ ] Arrow labels reinforce the directional difference
+- [ ] Hands are CLEARLY visible on top of the pressing handle — this is the proof shot
+- [ ] The 8-inch gap between hands and blade is visually dramatic
+- [ ] "8 inches" callout makes the distance concrete and scannable
+- [ ] This is a SINGLE image (not a split-screen) — avoids "instant ad recognition"
+- [ ] Warm lifestyle setting matches B4_drawer_finally's winning aesthetic
+- [ ] The mechanism is SHOWN with real hands, not explained with diagrams
 - [ ] Export PNG highest quality
 
 ---
@@ -474,44 +456,54 @@ $64.99 (was $99.95) — SliceSafe Pro™
 
 ### Creative 1: `B8_trans_awesome`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Direct quote from UGC Video 1 winner — discovery energy
-**Hook text overlay:** `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
+**Hook text overlay:** `"I finally found one that actually works. This thing is freaking awesome."`
 
-**Why this creative:** Speaks to the Drawer Stuffer who's tried mandolines before and given up. "I finally found one" = their exact journey (bought one, put it in drawer, found SliceSafe). The original UGC Video 1 line produced a sale — adding "I finally found one" in front targets it specifically at the person who's been searching.
+**FORMAT CHANGE (from feedback loops):** Original was "lifestyle photo + quote text overlay" — the exact losing format (11 of 24 creatives used this, 54% of the lineup). Swipe file analysis found "Testimonial/Review Card + Product (approx 12 ads) — Quote dominates, product is secondary. Often mimics Facebook comments or Amazon reviews." Huel uses Reddit testimonial screenshots. Changed to a REVIEW CARD format on a warm off-white background — the quote lives in a styled card that looks like a social media review, not like ad copy overlaid on a stock photo. Product is small and secondary.
+
+**Why this creative:** Speaks to the Drawer Stuffer who's tried mandolines before and given up. "I finally found one" = their exact journey (bought one, put it in drawer, found SliceSafe). The original UGC Video 1 line produced a sale.
 
 **Nano Banana Pro Prompt:**
 ```
-Warm, casual lifestyle photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade filled with perfect thin vegetable slices. The mandoline is sitting on a warm wooden kitchen counter. Around it: a cutting board with freshly sliced vegetables, a few carrot rounds scattered on the counter, a dish towel draped casually, a phone lying face-down nearby. The scene looks like someone was just using this — mid-cooking, real life. Warm natural light from the right. The mood is positive, enthusiastic, genuine — like the moment after you try something and it actually works. Warm, golden tones. Shot from slightly above. Plenty of room at top for large quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few perfect paper-thin vegetable slices. Shot on a clean white surface from a slight angle showing the full height. Bright, even studio lighting with soft shadow. The mandoline is positioned to fill about 50% of the frame vertically, centered. Clean, bright, editorial feel. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#F8F7F4** (warm off-white — editorial, not clinical)
 
-**Quote text (top — large, with quotation marks):**
-1. Add text box: `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
-2. Font: **Inter**
-3. Size: **36-42px**
-4. Color: **White (#FFFFFF)**
-5. Weight: **Semi-bold**
-6. Drop shadow: Blur 25, Transparency 50%
-7. Position: **top 10-18%**, center-aligned
-8. Include quotation marks — this must feel like someone SAID this
+**Review card (upper 55% of canvas):**
+1. Add rounded rectangle: **white fill (#FFFFFF)**, ~920px wide, ~580px tall, **16px corner radius**, drop shadow (Blur 15, Y-offset 4, Transparency 20%)
+2. Position: centered horizontally, top edge ~60px from top of canvas
 
-**Optional: thin line or small attribution text:**
-1. Below quote, add: `— Verified Buyer` or `— Real Customer Review`
-2. Font: Inter, 14-16px, Regular, #CCCCCC (light grey)
-3. Adds credibility to the quote
+**Inside the review card:**
+1. Top of card: `★★★★★` — 20px, **#FFB800** (gold), left-aligned, ~40px padding
+2. Below stars (main quote):
+   - `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
+   - Font: **Inter**, **30-34px**, **Semi-bold**, **#1A1A1A**
+   - Left-aligned, ~40px padding from card edges
+   - Include quotation marks — this must feel like someone SAID this
+3. Below quote, add thin divider line: 1px, #EEEEEE, full card width minus padding
+4. Below divider:
+   - `— Verified Buyer` — Inter, 14-16px, Regular, **#999999**
+   - Left-aligned
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Product image (below card, bottom 35%):**
+1. Upload mandoline product image
+2. Size: ~280px wide, centered horizontally
+3. Position: below card with ~30px gap
+
+**Product name + price (below product):**
+1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, **#4A90E2**
+2. Centered below product image
 
 **Final check:**
-- [ ] Quote marks make it feel like a real person said this
-- [ ] Warm kitchen scene matches the casual energy of the quote
-- [ ] The hook is an assertion — pure excitement, no explanation needed
-- [ ] This could pass as an organic product review post
+- [ ] Review card dominates — looks like a screenshot of a real review, not ad copy
+- [ ] Stars add immediate credibility signal
+- [ ] Quote marks + "Verified Buyer" make this feel like social proof
+- [ ] Warm off-white background ≠ clinical white (avoids the dead format)
+- [ ] Product is visible but SECONDARY — the review is the hero
+- [ ] This looks completely different from "lifestyle photo + text overlay"
 - [ ] Export PNG highest quality
 
 ---
@@ -520,39 +512,43 @@ Warm, casual lifestyle photograph of a light-blue vertical standing mandoline sl
 **Sub-Avatar:** Scarred Chef | **Angle:** Direct quote from UGC Video 2 winner — comparison
 **Hook text overlay:** `"100x better and safer` (line break) `than the one that got me."`
 
-**Why this creative:** Speaks directly to the Scarred Chef. Changed "my old one" to "the one that got me" — this is THEIR language. They refer to their mandoline injury as "the time it got me." UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old mandoline in the image reinforces the comparison visually — the Scarred Chef sees the EXACT type of tool that hurt them.
+**FORMAT CHANGE (from feedback loops):** Original had both products on "clean white marble countertop" — a variant of the sterile product-on-marble format that failed with B1_scarred_mechanism ($86.59, 0 purchases, 1.12% CTR) and B2_scarred_noguard ($28.81, 0 purchases). Changed to dark background. Ridge Wallet's comparison ads use dark backgrounds — products pop against dark, feel premium, and the confrontational mood matches the "the one that got me" energy. Swipe file pattern: "Dark/black backgrounds (about 20%) — premium, masculine, dramatic."
+
+**Why this creative:** Speaks directly to the Scarred Chef. "The one that got me" is THEIR language. UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old mandoline in the image reinforces the comparison visually.
 
 **Nano Banana Pro Prompt:**
 ```
-Bright, clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. The mandoline is centered on a clean white marble countertop, shot from a slight angle showing the full height. Next to the mandoline, lying flat and looking small and outdated: an old traditional flat stainless steel mandoline slicer with an exposed V-blade and a thin plastic finger guard detached beside it. The old mandoline looks dangerous and outdated compared to the tall, modern SliceSafe. The contrast between the tall enclosed vertical mandoline and the flat exposed-blade mandoline should be striking. Bright, modern lighting. Clean, confident composition. Breathing room at top for quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Dramatic product comparison photograph on a dark charcoal surface. On the right, standing tall: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. On the left, lying flat and looking small and outdated: an old traditional flat stainless steel mandoline slicer with an exposed V-blade and a thin plastic finger guard detached beside it. The old mandoline looks dangerous and beaten compared to the tall, modern SliceSafe. Dark charcoal/slate background. Dramatic side lighting from the left creating sharp highlights on both products. Warm golden accent light falls on the SliceSafe, cool harsh light on the old mandoline. The SliceSafe towers over the flat mandoline — the height difference is visually dramatic. The mood is confrontational, like a product reveal. Breathing room at top for quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
+3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
 
 **Quote text (top):**
 1. Add text box: `"100x better and safer` (line break) `than the one that got me."`
-2. Font: **Inter**
-3. Size: **34-38px**
-4. Color: **White (#FFFFFF)**
-5. Weight: **Semi-bold**
-6. Drop shadow: Blur 20, Transparency 40%
-7. Position: **top 10-18%**, center-aligned
+2. Font: **Inter**, **34-38px**, **Semi-bold**, White (#FFFFFF)
+3. Drop shadow: Blur 20, Transparency 40%
+4. Position: **top 10-18%**, center-aligned
+5. Include quotation marks
 
-**Optional attribution:**
-1. `— Verified Buyer` — Inter, 14px, #CCCCCC
+**Attribution:**
+1. `— Verified Buyer` — Inter, 14-16px, Regular, #CCCCCC
+2. Below quote, centered
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Old flat mandoline next to SliceSafe creates a visual comparison — Scarred Chef sees the exact tool that hurt them
-- [ ] "100x" is a strong anchoring number — reads as emphatic, not literal
-- [ ] Quote marks signal social proof
-- [ ] The SliceSafe towers over the old flat mandoline — visual dominance (enclosed vs exposed)
+- [ ] Dark background makes both products pop (Ridge Wallet pattern)
+- [ ] Old mandoline looks beaten and dangerous — warm SliceSafe dominates visually
+- [ ] "100x" is a strong anchoring number — emphatic, not literal
+- [ ] Quote marks + "Verified Buyer" signal social proof
+- [ ] The confrontational dark mood matches "the one that got me" energy
+- [ ] NOT a sterile marble product shot — dark, dramatic, premium
 - [ ] Export PNG highest quality
 
 ---
@@ -561,39 +557,49 @@ Bright, clean product photograph of a light-blue vertical standing mandoline sli
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Endorsement from someone who was in their shoes
 **Hook text overlay:** `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
 
-**Why this creative:** Speaks directly to the Drawer Stuffer by naming their exact behavior — multiple mandolines bought and abandoned. "This one stays on the counter" is the Drawer Stuffer's dream outcome. Closes with the "10 out of 10" endorsement from UGC Video 1 which produced a sale. The hook tells a complete story in two lines: problem → solution → rating.
+**FORMAT CHANGE (from feedback loops):** Original brief literally said "White background dominates" and "editorial product shot on clean white surface." This is the EXACT B5_mech_handstop trap — white background product shots get scrolled past (B5: $22.66, 0 purchases, 1.17% CTR, lowest in account). Changed to REVIEW CARD format on dark olive green (#3A4D2A) background. Dr. Squatch and Ridge Wallet both use dark olive/forest backgrounds in swipe file. The review card format (Huel pattern — Reddit testimonial screenshots) makes the quote feel like social proof, not ad copy.
+
+**Why this creative:** Speaks directly to the Drawer Stuffer by naming their exact behavior — multiple mandolines bought and abandoned. "This one stays on the counter" is the Drawer Stuffer's dream outcome. "10/10" from UGC Video 1 which produced a sale.
 
 **Nano Banana Pro Prompt:**
 ```
-Clean, bright editorial product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade containing several paper-thin vegetable slices. The mandoline is positioned slightly left of center on a clean white surface. A few perfectly uniform carrot rounds and cucumber slices are scattered artfully on the white surface near the catch tray. Bright, even studio lighting with soft shadow underneath the product. Clean, confident, editorial feel — like a product shot from a review blog or magazine. White background dominates. Plenty of clean space at top for large quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade containing several paper-thin vegetable slices. Shot on a clean white surface from a slight angle showing the full vertical profile. Bright, even studio lighting with soft shadow. The mandoline is centered and fills about 60% of the frame vertically. Clean, confident. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#3A4D2A** (dark olive green — from Dr. Squatch + Ridge Wallet swipe file)
 
-**Quote text (top — large and bold):**
-1. Add text box: `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
-2. Font: **Inter**
-3. Size: **34-38px**
-4. Color: **#1A1A1A** (near black — clean on white/bright background)
-5. Weight: **Semi-bold**
-6. Position: top 10-18%, center-aligned
+**Review card (upper 55% of canvas):**
+1. Add rounded rectangle: **white fill (#FFFFFF)**, ~920px wide, ~580px tall, **16px corner radius**, drop shadow (Blur 15, Y-offset 4, Transparency 20%)
+2. Position: centered horizontally, top edge ~60px from top of canvas
 
-**Attribution:**
-1. `— Verified Buyer` — Inter, 14-16px, #999999
-2. Below quote, centered
+**Inside the review card:**
+1. Top of card: `★★★★★` — 20px, **#FFB800** (gold), left-aligned, ~40px padding
+2. Main quote:
+   - `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
+   - Font: **Inter**, **30-34px**, **Semi-bold**, **#1A1A1A**
+   - Left-aligned, ~40px padding from card edges
+3. Thin divider line: 1px, #EEEEEE
+4. Below divider: `— Verified Buyer` — Inter, 14-16px, Regular, **#999999**
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Product image (below card, bottom 35%):**
+1. Upload mandoline product image (remove white background or use clean cutout)
+2. Size: ~280px wide, centered horizontally
+3. Position: below card with ~30px gap
+
+**Product name + price (below product):**
+1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, **White**
+2. Centered below product image
 
 **Final check:**
-- [ ] Reads like a product review, not an ad
-- [ ] "10 out of 10" is universally understood — instant social proof
-- [ ] Clean editorial product shot reinforces quality perception
-- [ ] Stars add visual credibility
+- [ ] Dark olive green background ≠ white (avoids the dead format that killed B5_mech_handstop)
+- [ ] Review card looks like a real review screenshot — white card on colored background
+- [ ] Stars + quote + "Verified Buyer" = social proof stack
+- [ ] Product is small and secondary — the REVIEW is the hero
+- [ ] Dark olive green matches Dr. Squatch and Ridge Wallet swipe file patterns
+- [ ] "10/10" closes the sale in the quote — no more selling needed
 - [ ] Export PNG highest quality
 
 ---
@@ -677,21 +683,24 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 
 **Why this creative:** The old B9_out_hash (hash browns) drew from a failed UGC video and lacked cultural momentum. This replacement uses the Feature Annotation format (Format #17) which SHOWS the mechanism — each annotation line points to physical proof on the product. Origins principle: "Show don't tell" — SHOWING triggers belief (emotional brain), TELLING triggers skepticism. Instead of saying "it's safe," this creative lets the viewer SEE the enclosed blade, the 12-inch height, the hands-on-top handle. Works for all sub-avatars but especially Fence Sitter who needs to UNDERSTAND the design difference before buying.
 
+**FORMAT CHANGE (from feedback loops):** Original used #FFFFFF white background — the EXACT format that killed B5_mech_handstop ($22.66, 0 purchases, 1.17% CTR). The feedback loop explicitly said: "This is B5_mech_handstop v2. Use a COLORED background. The Ridge Wallet feature annotation ads use dark backgrounds — never white." Ridge Wallet's feature callout diagrams use dark backgrounds with leader lines for engineering/tech credibility. Changed to dark olive green (#3A4D2A). All text colors updated to white for contrast.
+
 **Nano Banana Pro Prompt:**
 ```
 Clean, detailed product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is photographed at a three-quarter angle, slightly rotated so you can see both the front face and one side. Clean white background, studio lighting — bright, even, no harsh shadows. The product is centered in the frame with generous white space on all sides — at least 200 pixels of empty space on every side — for annotation lines and text labels to be added later in post. Every feature must be clearly visible and distinct: the wide handle at top, the transparent hopper showing the blade enclosed inside, the rubber base, the catch tray below. The photo should feel like an Apple product page — minimal, precise, every detail sharp and visible. No text, no logos, no watermarks, no other objects. 4:5 aspect ratio.
 ```
+**NOTE:** Generate on white, then remove background in Canva and place on dark olive green canvas.
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#FFFFFF** (clean white)
-3. Upload generated product image, center on canvas — scale so the mandoline fills about 50-60% of the height, leaving room on all sides
+2. Set canvas background to **#3A4D2A** (dark olive green — Ridge Wallet feature diagram pattern)
+3. Upload generated product image, **remove background** using Canva's background remover, then center on canvas — scale so the mandoline fills about 50-60% of the height, leaving room on all sides
 
 **Top headline:**
 1. Add text box: `The mandoline, redesigned.`
 2. Font: **Inter**, **32-36px**, **Semi-bold**
-3. Color: **#1A1A1A** (near-black)
+3. Color: **White (#FFFFFF)**
 4. Position: top 5-8%, center-aligned
 
 **Annotation lines + labels (5 total — use Canva "Line" element, 1-2px weight):**
@@ -699,50 +708,51 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 
 1. **Handle annotation (top of product):**
    - Draw a thin line from the handle → outward to the right
-   - Icon: ✋ (use Canva's "hand" or "palm" icon, ~20px, #333333)
+   - Icon: ✋ (use Canva's "hand" or "palm" icon, ~20px, White)
    - Label: `Hands stay here`
-   - Font: Inter, **14-16px**, Semi-bold, **#333333**
+   - Font: Inter, **14-16px**, Semi-bold, **White (#FFFFFF)**
    - Position icon + label at the end of the line, right side
 
 2. **Food hopper annotation (upper-middle):**
    - Draw a thin line from the transparent hopper → outward to the left
-   - Icon: 👁 (use Canva's "eye" or "visible" icon, ~20px, #333333)
+   - Icon: 👁 (use Canva's "eye" or "visible" icon, ~20px, White)
    - Label: `See-through food hopper`
-   - Font: Inter, 14-16px, Semi-bold, #333333
+   - Font: Inter, 14-16px, Semi-bold, White
 
 3. **Enclosed blade annotation (center):**
    - Draw a thin line from the blade area inside the hopper → outward to the right
    - Icon: 🔒 (use Canva's "lock" or "shield" icon, ~20px, **#4A90E2**)
    - Label: `Enclosed blade`
    - Font: Inter, 14-16px, **Bold**, **#4A90E2**
-   - **This is the KEY safety feature — icon AND text both in blue**
+   - **This is the KEY safety feature — icon AND text both in blue to stand out on dark green**
 
 4. **Base annotation (bottom of product):**
    - Draw a thin line from the rubber base → outward to the left
-   - Icon: ⬇ (use Canva's "anchor" or "stability" icon, ~20px, #333333)
+   - Icon: ⬇ (use Canva's "anchor" or "stability" icon, ~20px, White)
    - Label: `Non-slip base`
-   - Font: Inter, 14-16px, Semi-bold, #333333
+   - Font: Inter, 14-16px, Semi-bold, White
 
 5. **Catch tray annotation (very bottom):**
    - Draw a thin line from the catch tray → outward to the right
-   - Icon: 📥 (use Canva's "tray" or "download" icon, ~20px, #333333)
+   - Icon: 📥 (use Canva's "tray" or "download" icon, ~20px, White)
    - Label: `Catch tray included`
-   - Font: Inter, 14-16px, Semi-bold, #333333
+   - Font: Inter, 14-16px, Semi-bold, White
 
-**Line styling:** All lines #CCCCCC (light grey), 1-2px, with a small dot or circle at the product end of each line. Icons sit immediately left of the text label on each line.
+**Line styling:** All lines **#8BA888** (muted sage green — visible on dark olive), 1-2px, with a small dot or circle at the product end of each line. Icons sit immediately left of the text label on each line.
 
 **Price tag (bottom-center):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Product is centered, clean, every feature visible
+- [ ] **Dark olive green (#3A4D2A) background** — NOT white (avoids B5_mech_handstop's dead format)
+- [ ] Product background removed, stands clean on olive green canvas
 - [ ] All 5 annotation lines point to the CORRECT feature on the product
-- [ ] "Enclosed stainless steel blade" label is in blue (#4A90E2) — the key safety callout
-- [ ] Annotation lines don't overlap each other — alternate left/right sides
-- [ ] Headline "The mandoline, redesigned." is clean and minimal at top
-- [ ] Feels like an Apple product page, NOT a cluttered infographic
-- [ ] White space is generous — not crammed
+- [ ] "Enclosed blade" label is in blue (#4A90E2) — pops against olive green
+- [ ] All other labels are white — readable on dark background
+- [ ] Annotation lines in sage green (#8BA888) — visible but not harsh
+- [ ] Headline "The mandoline, redesigned." is white on olive green
+- [ ] Feels like a Ridge Wallet product breakdown, NOT a white infographic
 - [ ] Export PNG highest quality
 
 ---
@@ -766,7 +776,7 @@ Overhead photograph of a pile of mandoline-sliced vegetables on a clean white pl
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#FFFFFF** (clean white)
+2. Set canvas background to **#F8F7F4** (warm off-white — not clinical white, matches the warm editorial feel of the swipe file while avoiding the sterile white that killed B5_mech_handstop)
 3. Upload both images
 
 **Left side (hand-chopped):**
@@ -794,7 +804,7 @@ Overhead photograph of a pile of mandoline-sliced vegetables on a clean white pl
 - [ ] Labels are SHORT: "This is chopping." / "This is slicing." — nothing more
 - [ ] The visual comparison does ALL the work — no features, no mechanism, just the outcome
 - [ ] Radical simplicity — brain processes the whole ad in under 1 second
-- [ ] Clean white background matches Nutella swipe file's minimal aesthetic
+- [ ] Warm off-white (#F8F7F4) background — NOT clinical white
 - [ ] Export PNG highest quality
 
 ---
@@ -880,37 +890,52 @@ Dramatic, moody close-up photograph of a traditional flat stainless steel mandol
 ---
 
 ### Creative 2: `B10_fear_guard`
-**Angle:** The guard was never the solution
-**Hook text overlay:** `Your mandoline came with a guard.` (line break) `You never used it. That's not your fault.`
+**Angle:** The guard failure as universal proof — educational/stat-led
+**Hook text overlay:** `Every mandoline comes with a guard.` (line break) `Nobody uses it.` (line break) `We eliminated it.`
+
+**FORMAT CHANGE (from feedback loops):** Original hook was "Your mandoline came with a guard. You never used it." — this is BRAND BIAS. B2_scarred_noguard tested the guard angle at $28.81 spent, 0 purchases, $181 CPM. The guard angle requires knowing what a mandoline guard IS and having personal experience with one. Changed from brand-biased personal address to UNIVERSAL educational statement. "Every mandoline comes with a guard. Nobody uses it." works for ALL sub-avatars including Fence Sitters who've never owned one. Also changed from "light grey countertop" lifestyle photo (losing format) to dark background stat/educational format (like B12_wild_stat's pattern-interrupt approach).
+
+**Why this creative:** Instead of speaking only to mandoline owners (narrow), this speaks to EVERYONE by presenting a universal design failure. "We eliminated it" reframes as engineering innovation, not personal absolution. The visual of the unused guard on dark background feels like evidence in a case against bad design.
 
 **Nano Banana Pro Prompt:**
 ```
-Simple, clean photograph of a traditional flat mandoline slicer lying on a light grey countertop. Next to it: a small translucent plastic finger guard, sitting separately, clearly never used — still looking almost brand-new while the mandoline itself shows signs of use. The guard and mandoline are positioned to show they don't naturally go together — the guard looks like an afterthought. Flat, even overhead lighting. Muted, slightly desaturated tones. The mood is honest, straightforward — like an evidence photo. Simple, clean composition with lots of negative space at the top for text overlay. Light grey and silver tones dominate. No text, no logos, no watermarks. 4:5 aspect ratio.
+Dramatic close-up photograph of a small translucent plastic mandoline finger guard sitting alone on a dark slate surface. The guard is slightly scratched but looks barely used — its ergonomic shape clearly shows it was designed to protect fingers but its flimsy translucent plastic looks inadequate for the job. Harsh overhead lighting creates a sharp highlight on the plastic. The guard sits in the center of frame, small and isolated against the dark expanse of slate. The mood is clinical, almost forensic — like evidence presented in a case. Dark charcoal/slate surface. Most of the frame is dark negative space — especially the upper two-thirds for text. The guard should look like an afterthought, a design band-aid that was never going to work. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
+3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
 
-**Hook text (top):**
-1. Add text box: `Your mandoline came with a guard.` (line break) `You never used it.`
-2. Font: Inter, **32-36px**, Semi-bold, **#1A1A1A**
-3. Position: top 10-15%, center-aligned
+**Hook text (upper half — stacked):**
+1. Add text box: `Every mandoline comes with a guard.`
+2. Font: Inter, **32-36px**, Semi-bold, White (#FFFFFF)
+3. Position: top 10-14%, center-aligned
 
-4. Add text below: `That's not your fault.`
-5. Font: Inter, **32-36px**, Semi-bold, **#4A90E2** (brand blue)
-6. Center-aligned, directly below — the absolution line
+4. Add text below: `Nobody uses it.`
+5. Font: Inter, **32-36px**, Semi-bold, **#FF4444** (red — the damning fact)
+6. Center-aligned
+
+7. Add text below with spacing: `We eliminated it.`
+8. Font: Inter, **32-36px**, Bold, **#4A90E2** (blue — the resolution)
+9. Center-aligned
+
+**Small subtext (optional):**
+1. Below hook: `Hands-On-Top design. No guard needed.` — Inter, 18px, Regular, #CCCCCC
+2. Center-aligned
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] Guard looks unused and disconnected from the mandoline
-- [ ] "That's not your fault." in blue feels like absolution — emotional payoff
-- [ ] Validates every person who felt guilty about not using the guard
-- [ ] Clean, honest aesthetic — no dramatic lighting, just truth
+- [ ] Dark background = pattern interrupt (matches B10_fear_design's dramatic mood)
+- [ ] The guard looks lonely and inadequate against the dark surface — visual evidence
+- [ ] "Nobody uses it." in red is the damning universal truth — no brand bias needed
+- [ ] "We eliminated it." in blue = engineering confidence, not personal absolution
+- [ ] Works for ALL sub-avatars — Fence Sitters learn guards exist and fail, Drawer Stuffers recognize their experience, Scarred Chefs validate their injury
+- [ ] No longer requires mandoline ownership to understand the message
 - [ ] Export PNG highest quality
 
 ---
@@ -921,32 +946,36 @@ Simple, clean photograph of a traditional flat mandoline slicer lying on a light
 
 **Why this creative:** People's mental model of "mandoline" = flat, dangerous, exposed blade. As long as we're selling a "mandoline," we're fighting that mental model. The Huel swipe file ad proves you can REDEFINE the category: "This is a meal. Not a protein shake." Applied to us: "This isn't a mandoline. It's the first kitchen tool where your hands can't reach the blade." This breaks the fear association by removing the product from the category entirely.
 
+**FORMAT CHANGE (from feedback loops):** Original was product on white background — Huel's actual "This is a meal" swipe file ad uses COLORED backgrounds (bright yellow #FFDE00 and pink), NOT white. Changed to deep navy (#1A2332) to differentiate from B9_out_diagram (olive green) and B10_fear_design (dark charcoal). Navy background + light blue product = strong color contrast. The "This isn't a mandoline" reframe deserves a premium, announcement-level presentation — dark backgrounds signal product launch energy (Ridge Wallet's "2.0" reveal pattern).
+
 **Nano Banana Pro Prompt:**
 ```
 Bold, confident editorial product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with perfect vegetable slices. The mandoline is centered on a clean white surface, shot from a slight angle to show the full height. The lighting is bright, confident, almost heroic — the product is lit like a product launch announcement. Clean white background with very subtle soft shadow. The mandoline looks engineered, modern, authoritative. This should feel like an Apple product announcement — clean, bold, confident. Lots of white space around the product, especially at the top for bold text. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
+**NOTE:** Generate on white, then remove background in Canva and place on deep navy canvas.
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#1A2332** (deep navy — product launch energy, Ridge Wallet pattern)
+3. Upload generated image, **remove background** using Canva's background remover, center on canvas
 
 **Hook text (top — bold reframe):**
 1. Add text box: `This isn't a mandoline.`
-2. Font: Inter, **40-46px**, Bold, **#1A1A1A**
+2. Font: Inter, **40-46px**, Bold, **White (#FFFFFF)**
 3. Position: top 8-10%, center-aligned
 
 4. Add text below: `It's the first kitchen tool where`
-5. Font: Inter, **28-32px**, Regular, **#666666**
+5. Font: Inter, **28-32px**, Regular, **#8BA888** (muted sage — softer than white)
 6. Center-aligned
 
 7. Add text below: `your hands can't reach the blade.`
-8. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — this is the mechanism reveal)
+8. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — mechanism reveal)
 9. Center-aligned
 
 **Specs bar (below product, horizontal):**
 1. Three specs side by side: `8" Hand Separation` | `Enclosed Blade` | `90-Sec Cleanup`
-2. Inter, 14-16px, Regular, **#999999**
+2. Inter, 14-16px, Regular, **#8BA888** (muted sage)
 3. Separated by thin vertical lines (|)
 4. Centered, ~80% from top
 
@@ -955,11 +984,11 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] "This isn't a mandoline." is the BIGGEST text — it's the reframe
-- [ ] The sentence that follows explains what it IS instead
-- [ ] Specs bar feels informational, not promotional (like an Apple product page)
-- [ ] Product shot is clean, confident, editorial — matches the "new category" energy
-- [ ] The viewer should think "wait, what IS it then?" — curiosity gap
+- [ ] Deep navy background ≠ white (avoids dead format + matches Huel's actual execution)
+- [ ] Light blue product POPS against navy — strong color contrast
+- [ ] "This isn't a mandoline." in white is the BIGGEST text — it's the reframe
+- [ ] Specs bar in muted sage feels informational, not promotional
+- [ ] The presentation feels like a product LAUNCH — premium, confident, new category
 - [ ] This breaks the "mandoline = dangerous" mental model by removing the label
 - [ ] Export PNG highest quality
 
@@ -1011,15 +1040,19 @@ $64.99 (was $99.95) — SliceSafe Pro™
 
 **Why this creative:** The Avatar Call Out format makes the AVATAR LABEL the entire creative — giant text calling out exactly who this ad is for. Everyone else scrolls past. But the right person STOPS because the ad literally describes them. Our data proves avatar-specific hooks convert better. This takes it to the extreme: the avatar label IS the ad. We know Drawer Stuffer is our winning sub-avatar. This speaks to them by NAME.
 
+**FORMAT CHANGE (from feedback loops):** Original had product on white background with giant text on white. The "Moms of 15 Year Olds" Avatar Call Out from the swipe file uses a COLORED background, not white. Changed to warm off-white (#F8F7F4) — warmer than clinical white, matches B12_wild_list's editorial feel. The text is the hero, not the product, so the background just needs to feel premium and non-sterile.
+
 **Nano Banana Pro Prompt:**
 ```
 Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with perfect thin vegetable slices. The mandoline stands on a clean white surface. Shot from a slight angle showing the full vertical profile. Bright, clean studio lighting with soft shadow. The product is positioned in the bottom 40% of the frame — the upper 60% is clean white space for large text. Editorial product photography. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
+**NOTE:** Generate on white, then remove background in Canva and place on warm off-white canvas.
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#F8F7F4** (warm off-white — not clinical white)
+3. Upload generated image, **remove background** using Canva's background remover, position in bottom 40% of canvas
 
 **Giant avatar call-out text (upper 50%):**
 1. Add text box: `PEOPLE WITH A`
@@ -1035,7 +1068,7 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 9. Center-aligned
 
 **Review card (overlapping product area, lower-center):**
-1. Add rounded rectangle: white fill, ~700px wide, ~140px tall, 16px corner radius, slight drop shadow
+1. Add rounded rectangle: **white fill (#FFFFFF)**, ~700px wide, ~140px tall, 16px corner radius, drop shadow (Blur 10, Y-offset 3, Transparency 15%)
 2. Inside the card:
    - `★★★★★` — 16px, #FFB800 (gold)
    - `"Had 3 mandolines in the drawer. This one lives on the counter."` — Inter, 14-16px, Regular, #333333
@@ -1048,50 +1081,83 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 **Final check:**
 - [ ] "PEOPLE WITH A MANDOLINE IN THEIR DRAWER" is the DOMINANT element — takes up top half
 - [ ] The text IS the scroll-stop — anyone with a mandoline in their drawer will freeze
-- [ ] Review card adds social proof from someone who WAS this person
+- [ ] Warm off-white (#F8F7F4) background — not clinical white
+- [ ] Review card in white stands out against warm off-white — creates depth
 - [ ] Product is visible but text is the hero
 - [ ] This looks completely different from every other creative we've made
-- [ ] The format is simple enough that it works at any phone size
 - [ ] Export PNG highest quality
 
 ---
 
 ### Creative 2: `B11_id_upgrade`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Kitchen evolution — everything upgraded except the mandoline
-**Hook text overlay:** `You upgraded your knives. Your pans. Your boards.` (line break) `Your mandoline is still in the drawer.`
+**Hook text overlay:** (text IS the format — checklist style, see Canva below)
 
-**Nano Banana Pro Prompt:**
-```
-Bright, modern photograph of a beautiful updated kitchen countertop with modern appliances and tools. On the counter: a sleek modern stand mixer, a good quality chef's knife on a magnetic strip, a modern spice rack, maybe a smart display or recipe tablet — everything looks current and well-chosen. But sitting awkwardly among these modern tools: an old flat stainless steel mandoline slicer, looking outdated and out of place. The mandoline is the ONE thing that hasn't been updated — it looks like it's from a decade ago compared to everything around it. Bright, clean modern kitchen lighting. The contrast between the modern kitchen and the outdated mandoline should be immediately obvious. The mood is "spot the thing that doesn't belong." Clean, contemporary tones. Room at top for text overlay. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
+**FORMAT CHANGE (from feedback loops):** Original was "lifestyle photo of modern kitchen + text overlay" — the losing format. Feedback loop recommendation: "This concept would work better as a strikethrough or checklist format on a colored background. 'Upgraded: Knives ✓ Pans ✓ Boards ✓ Mandoline ✗' — visual, scannable, doesn't need a lifestyle photo." Swipe file analysis confirmed: "Strikethrough/Problem List (approx 5 ads) — Pain points listed and crossed out" is a proven winning pattern. Also, the check/X comparison format appears in Ridge Wallet's competitor comparison ads (green check vs red X). Changed to a CHECKLIST format on warm off-white — text-dominant, scannable, the visual gap between ✓ and ✗ tells the whole story in 1 second.
+
+**Why this creative:** The identity gap concept is STRONG ("everything upgraded except this"). The checklist format makes it scannable and visual — the eye flies down the green checks and STOPS at the red X. The Drawer Stuffer sees their exact kitchen reflected back.
+
+**This creative is TEXT-DOMINANT in Canva — no image generation needed. Product photo reused from another creative.**
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
+2. Set canvas background to **#F8F7F4** (warm off-white — matches B11_id_cook and B12_wild_list for batch consistency)
 
-**Hook text (top):**
-1. Add text box: `You upgraded your knives. Your pans. Your boards.` (line break) `Your mandoline is still in the drawer.`
-2. Font: Inter, **34-38px**, Semi-bold, White
-3. Drop shadow: Blur 20, Transparency 40%
-4. Position: top 10-15%, center-aligned
+**Header text (top):**
+1. Add text box: `Your kitchen upgrade checklist:`
+2. Font: Inter, **24-28px**, Regular, **#999999** (muted — understated header)
+3. Position: top 8%, left-aligned, ~80px margin
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Checklist (left-aligned, stacked vertically, starting ~18% from top):**
+
+1. `✓  Knives` — Inter, **36-40px**, Semi-bold
+   - `✓` in **#4CAF50** (green), text in **#1A1A1A**
+   - Use Canva's checkmark icon (~28px, green) if text checkmark looks off
+
+2. `✓  Pans` — same style
+
+3. `✓  Cutting boards` — same style
+
+4. `✓  Spice collection` — same style
+
+5. Add spacing (40px gap)
+
+6. `✗  Mandoline` — Inter, **36-40px**, **Bold**
+   - `✗` in **#FF4444** (red), text in **#FF4444** (red)
+   - Below it: `Still in the drawer.` — Inter, **20-24px**, Regular, **#999999**
+
+7. Add spacing (40px gap)
+
+8. Thin horizontal divider line: 1px, #DDDDDD, ~80% width
+
+9. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, **28-32px**, **Semi-bold**, **#4A90E2**
+10. Below it: `The mandoline you'll actually use.` — Inter, 18px, Regular, #999999
+
+**Small product image (bottom-right):**
+1. Upload a SliceSafe product image (reuse from another creative)
+2. Size: ~280px wide, positioned in bottom-right corner
+3. Remove background so product floats on the warm off-white canvas
 
 **Final check:**
-- [ ] Modern kitchen makes the old mandoline look obviously outdated
-- [ ] The hook creates a gap: "I've upgraded everything else... except this"
-- [ ] Targets the identity of someone who cares about their kitchen
-- [ ] No direct fear messaging — purely identity/aspiration
+- [ ] Green checks fly down the page — visual momentum
+- [ ] Red X on "Mandoline" STOPS the eye — the gap is obvious
+- [ ] "Still in the drawer." lands as the quiet truth
+- [ ] The checklist format is scannable in 1 second — no reading required
+- [ ] Warm off-white background is editorial, not sterile
+- [ ] No lifestyle photo needed — text IS the format (like B12_wild_list)
+- [ ] The identity gap between upgraded kitchen and abandoned mandoline is felt, not explained
 - [ ] Export PNG highest quality
 
 ---
 
 ### Creative 3: `B11_id_host`
 **Sub-Avatar:** Fence Sitter | **Angle:** Names the purchase loop — wants one, hasn't bought
-**Hook text overlay:** `You've saved the recipe 3 times.` (line break) `You still haven't bought the mandoline.`
+**Caption text (bottom bar):** `You've saved the recipe 3 times. You still haven't bought the mandoline.`
+
+**FORMAT CHANGE (from feedback loops):** Original was "lifestyle photo + text overlay at top" — the losing format (54% of creatives used this). Swipe file analysis: "Lifestyle/UGC with Minimal or Zero Text (approx 8 ads) — Pure photo, looks like a user's own post. All selling happens in body copy." Changed to FEED CAMOUFLAGE format — the dinner photo fills the entire canvas, text goes in a subtle caption bar at the bottom (like B13_fence_native's approach which was our highest-rated creative). NO price tag — feed camouflage means zero ad signals. The aspirational dinner scene IS the scroll-stop; text overlay would ruin it.
+
+**Why this creative:** The dinner table scene is genuinely beautiful and aspirational. The Fence Sitter sees the LIFE they want (hosting impressive dinners) and the text gently calls out their exact behavior (saving recipes but not buying the tool). Feed camouflage format means this looks like someone's Instagram dinner post, not a brand ad.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -1101,23 +1167,31 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `You've saved the recipe 3 times.` (line break) `You still haven't bought the mandoline.`
-2. Font: Inter, **32-36px**, Semi-bold, White
-3. Drop shadow: Blur 25, Transparency 50%
-4. Position: top 10-15%, center-aligned
+**Main image (fills most of canvas):**
+1. Upload dinner table image
+2. Fill canvas — image takes up full 1080 width and about 85-90% of the height
+3. Leave ~150px at the very bottom for caption area
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Caption area (bottom ~12% of canvas):**
+1. Add a semi-transparent dark bar at the bottom: **#000000, 55% opacity**, full width, ~150px tall
+2. Inside the dark bar, add text: `You've saved the recipe 3 times.`
+3. Font: **Inter**, **22-26px**, Regular, White (#FFFFFF)
+4. Position: left-aligned, ~30px from left edge, upper portion of bar
+5. Below it: `You still haven't bought the mandoline.`
+6. Font: Inter, **22-26px**, **Semi-bold**, White
+7. Same alignment
+
+**NO price tag. NO brand pill. This must NOT look like an ad.**
 
 **Final check:**
-- [ ] Food looks genuinely beautiful and dinner-party worthy
-- [ ] Mandoline is barely visible — the RESULT sells the tool
-- [ ] "3 minutes" anchors speed while the visual sells aspiration
-- [ ] Targets the identity of someone who entertains and wants to impress
+- [ ] Dinner table looks genuinely beautiful — would stop a food/lifestyle scroller
+- [ ] Mandoline is barely visible in background — FOOD is the hero
+- [ ] Caption bar at bottom reads like a social media caption, NOT ad copy
+- [ ] NO price tag anywhere — feed camouflage means zero ad signals
+- [ ] The aspirational dinner scene + gentle call-out creates desire, not pressure
+- [ ] This looks like someone's Instagram dinner post
+- [ ] Matches B13_fence_native's feed camouflage approach (our highest-rated creative)
 - [ ] Export PNG highest quality
 
 ---
@@ -1260,14 +1334,16 @@ Position all text: left-aligned, ~80px left margin, starting from ~18% from top
 ---
 
 ### Creative 3: `B12_wild_price`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Value anchor — replaced every gadget in the drawer
+**Sub-Avatar:** Drawer Stuffer | **Angle:** The drawer cleanout — replaced every gadget
 **Hook text overlay:** `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
 
-**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). "$65 replaced everything sitting in your kitchen drawer" names their exact situation. Anchoring effect: $200 of tools → $65 feels like a steal. This addresses the Drawer Stuffer's secondary belief: "kitchen gadgets always end up unused."
+**FORMAT CHANGE (from feedback loops):** Original was "overhead product photo on white surface with surrounding tools" — a polished product arrangement that looks like an ad. Swipe file analysis: "UGC-quality photography — phone-quality, real settings, real hands holding products" is what makes winning ads NOT look like ads. Changed to a UGC-STYLE flat lay that looks like someone's real messy kitchen drawer being cleaned out — authentic, relatable, not polished. The Drawer Stuffer has THIS EXACT DRAWER. Also note: split_screen_produce_tax tested a value/savings angle ($52.13, 0 purchases). This creative keeps the value frame as an intentional wild card, but the format change at least gives it a fighting chance.
+
+**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). "$65 replaced everything" names their exact situation. The UGC-style flat lay makes the viewer feel like they're looking at their own drawer.
 
 **Nano Banana Pro Prompt:**
 ```
-Clean, bright overhead photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is centered on a clean white surface. Arranged around it in a semi-circle: the kitchen tools it replaces — a flat traditional mandoline with exposed blade, a vegetable peeler, a julienne peeler, a cheap handheld slicer. These items are positioned as if being pushed away or left behind, slightly smaller and less prominent than the SliceSafe Pro in the center. The SliceSafe stands tall in the center while the other tools surround it at the edges. Bright, clean overhead lighting. The mood is clean, organized, decisive. White surface, colorful tools, light blue mandoline as the centerpiece. No text, no logos, no watermarks. 4:5 aspect ratio.
+Overhead photograph looking down into a real, slightly messy kitchen drawer that has been opened and partially emptied. Inside the drawer: scattered old kitchen tools — a traditional flat mandoline slicer with exposed blade, a cheap handheld slicer, a julienne peeler, a vegetable peeler, a bent spiralizer attachment. The tools are jumbled together, some stacked, clearly unused and gathering dust — the typical "gadget graveyard" drawer that every home cook has. The drawer is wooden with visible scratches and wear. Next to the open drawer on the countertop, standing tall and clean: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The SliceSafe stands outside the drawer, on the counter, looking modern and used. The contrast: messy drawer of failures vs one clean tool that earned its counter spot. Warm, natural overhead kitchen lighting — slightly warm-toned, like a phone photo. The mood is honest, real, relatable — "this is my drawer and I'm done with it." No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
@@ -1278,19 +1354,21 @@ Clean, bright overhead photograph of a light-blue vertical standing mandoline sl
 **Hook text (top):**
 1. Add text box: `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
 2. Font: Inter, **36-42px**, Bold
-3. `$65` in **#4A90E2** (blue), rest in **#1A1A1A** (near black)
-4. Drop shadow: Blur 15, Transparency 30% (lighter shadow on white)
+3. `$65` in **#4A90E2** (blue), rest in **White (#FFFFFF)**
+4. Drop shadow: Blur 25, Transparency 50%
 5. Position: top 8-12%, center-aligned
 
-**Price tag (bottom-center):**
+**Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99 (was $99.95)`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
-- [ ] SliceSafe Pro is clearly the hero in the center
-- [ ] Surrounding tools are identifiable but secondary
-- [ ] "$200 → $65" anchoring is clear from the hook
-- [ ] Value angle is completely different from safety — tests a new emotional register
+- [ ] The messy kitchen drawer is REAL and relatable — Drawer Stuffers see their own drawer
+- [ ] Old tools look abandoned and dusty — the gadget graveyard is universal
+- [ ] SliceSafe stands OUTSIDE the drawer, on the counter — visual storytelling
+- [ ] UGC-style photography (warm, phone-quality lighting) ≠ polished product arrangement
+- [ ] "$65" in blue pops as the first thing you read
+- [ ] This is a wild card — value angle has failed before (split_screen_produce_tax). But the authentic format gives it a better shot than a sterile product display would.
 - [ ] Export PNG highest quality
 
 ---
@@ -1448,22 +1526,22 @@ Close-up photograph of a traditional flat mandoline slicer lying on a plain coun
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#FFFFFF** (clean white)
+2. Set canvas background to **#3A4D2A** (dark olive green — established from Dr. Squatch + Ridge Wallet swipe file analysis, already uploaded to Meta with this color)
 
 **Left circle:**
-1. Add circle shape: ~600px diameter, no fill, **2px stroke**, **#4A90E2** (blue)
+1. Add circle shape: ~600px diameter, no fill, **2px stroke**, **White (#FFFFFF)**
 2. Position: centered vertically, left of center (overlap ~150px with right circle)
 3. Inside left circle (non-overlapping area), add text:
-   - `Paper-thin slices` — Inter, **24-28px**, Semi-bold, **#1A1A1A**
-   - `in 90 seconds` — Inter, **20-24px**, Regular, **#666666**
+   - `Paper-thin slices` — Inter, **24-28px**, Semi-bold, **White (#FFFFFF)**
+   - `in 90 seconds` — Inter, **20-24px**, Regular, **#8BA888** (muted sage)
 4. Center the text in the non-overlapping portion of the left circle
 
 **Right circle:**
-1. Add circle shape: ~600px diameter, no fill, **2px stroke**, **#4A90E2** (blue)
+1. Add circle shape: ~600px diameter, no fill, **2px stroke**, **White (#FFFFFF)**
 2. Position: centered vertically, right of center (overlapping left circle ~150px)
 3. Inside right circle (non-overlapping area), add text:
-   - `Your hands never` — Inter, **24-28px**, Semi-bold, **#1A1A1A**
-   - `go near the blade` — Inter, **20-24px**, Regular, **#666666**
+   - `Your hands never` — Inter, **24-28px**, Semi-bold, **White (#FFFFFF)**
+   - `go near the blade` — Inter, **20-24px**, Regular, **#8BA888** (muted sage)
 4. Center the text in the non-overlapping portion of the right circle
 
 **Overlap area (center):**
@@ -1472,13 +1550,13 @@ Close-up photograph of a traditional flat mandoline slicer lying on a plain coun
 
 **Header (top, above circles):**
 1. Add text: `You don't have to choose.`
-2. Font: Inter, **34-40px**, Semi-bold, **#1A1A1A**
+2. Font: Inter, **34-40px**, Semi-bold, **White (#FFFFFF)**
 3. Position: top 6-8%, center-aligned
 4. NOTE: Assertion, not a question — follows production rule #1
 
 **Bottom:**
 1. `$64.99 (was $99.95) — Hands-On-Top Design`
-2. Font: Inter, 16-18px, Regular, **#999999**
+2. Font: Inter, 16-18px, Regular, **#8BA888** (muted sage)
 3. Center-aligned, bottom 5%
 
 **Final check:**
@@ -1544,44 +1622,44 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 - [ ] **Launch: Monday**
 
 ### Batch 7 — "Comparison Blitz" (3 ads):
-- [ ] B7_comp_exposed: Generate 2 images (old blade + enclosed blade) → Canva composite → Export
-- [ ] B7_comp_flat: Generate 2 images (flat in use + SliceSafe in use) → Canva composite → Export
+- [ ] B7_comp_exposed: Generate 1 image (both mandolines on dark surface) → Canva text overlay → Export
+- [ ] B7_comp_flat: Generate 1 image (hands on top of SliceSafe, mechanism proof) → Canva text + distance callout → Export
 - [ ] B7_comp_toss: Generate 2 images (old mandoline + SliceSafe) → Canva "None of That" composite → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Tuesday**
 
 ### Batch 8 — "UGC Transmutation" (3 ads):
-- [ ] B8_trans_awesome: Generate 1 image → Canva quote overlay → Export
-- [ ] B8_trans_100x: Generate 1 image → Canva quote overlay → Export
-- [ ] B8_trans_recommend: Generate 1 image → Canva quote + stars overlay → Export
+- [ ] B8_trans_awesome: Generate 1 product image → Canva review card on warm off-white → Export
+- [ ] B8_trans_100x: Generate 1 image (both mandolines on dark surface) → Canva quote overlay → Export
+- [ ] B8_trans_recommend: Generate 1 product image → Canva review card on dark olive green → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Wednesday**
 
 ### Batch 9 — "Outcome First" (3 ads):
 - [ ] B9_out_salad: Generate 1 image → Canva overlay → Export
-- [ ] B9_out_diagram: Generate 1 product image → Canva annotation lines + labels → Export
-- [ ] B9_out_uniform: Generate 2 images (hand-chopped + mandoline-sliced) → Canva "This is chopping/slicing" composite → Export
+- [ ] B9_out_diagram: Generate 1 product image → Remove background → Canva annotation lines + labels on dark olive green (#3A4D2A) → Export
+- [ ] B9_out_uniform: Generate 2 images (hand-chopped + mandoline-sliced) → Canva "This is chopping/slicing" composite on warm off-white → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Thursday**
 
 ### Batch 10 — "Fear Reframe" (3 ads):
 - [ ] B10_fear_design: Generate 1 image → Canva dark overlay + text → Export
-- [ ] B10_fear_guard: Generate 1 image → Canva overlay → Export
-- [ ] B10_fear_solved: Generate 1 image → Canva announcement layout → Export
+- [ ] B10_fear_guard: Generate 1 image (guard on dark surface) → Canva stacked text on dark → Export
+- [ ] B10_fear_solved: Generate 1 image → Remove background → Canva "This isn't a mandoline" layout on deep navy (#1A2332) → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Friday**
 
 ### Batch 11 — "Identity Play" (3 ads):
-- [ ] B11_id_cook: Generate 1 image → Canva Avatar Call Out layout (giant text + review card) → Export
-- [ ] B11_id_upgrade: Generate 1 image → Canva overlay → Export
-- [ ] B11_id_host: Generate 1 image → Canva overlay → Export
+- [ ] B11_id_cook: Generate 1 image → Remove background → Canva Avatar Call Out layout (giant text + review card) on warm off-white → Export
+- [ ] B11_id_upgrade: Canva-only (checklist format on warm off-white + small product image reuse) → Export
+- [ ] B11_id_host: Generate 1 image → Canva feed camouflage layout (caption bar at bottom, NO price tag) → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Saturday (or Monday of Week 4)**
 
 ### Batch 12 — "Pattern Breakers" (3 ads):
 - [ ] B12_wild_stat: Generate 1 image → Canva stat overlay → Export
 - [ ] B12_wild_list: Canva-only (text + small product image reuse) → Export
-- [ ] B12_wild_price: Generate 1 image → Canva value overlay → Export
+- [ ] B12_wild_price: Generate 1 image (UGC-style drawer + SliceSafe on counter) → Canva text overlay → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Sunday (or Tuesday of Week 4)**
 
@@ -1598,34 +1676,43 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 - [ ] Verify budget is $45-50 CAD/day
 - [ ] Do NOT kill any existing creatives unless they meet kill criteria
 
-### Image count summary:
+### Image count summary (UPDATED after format changes):
 | Batch | Single images | Composite (2 images) | Canva-only | Total images to generate |
 |---|---|---|---|---|
 | Batch 6 | 3 | 0 | 0 | 3 |
-| Batch 7 | 0 | 3 | 0 | 6 |
-| Batch 8 | 3 | 0 | 0 | 3 |
-| Batch 9 | 2 | 1 | 0 | 4 |
-| Batch 10 | 3 | 0 | 0 | 3 |
-| Batch 11 | 3 | 0 | 0 | 3 |
+| Batch 7 | 2 | 1 | 0 | 4 |
+| Batch 8 | 2 | 0 | 0 | 2 (+ bg removal) |
+| Batch 9 | 1 | 1 | 0 | 3 (+ bg removal) |
+| Batch 10 | 3 | 0 | 0 | 3 (+ bg removal) |
+| Batch 11 | 2 | 0 | 1 | 2 (+ bg removal) |
 | Batch 12 | 2 | 0 | 1 | 2 |
 | Batch 13 | 1 | 1 | 1 | 3 |
-| **Total** | **17** | **5** | **2** | **27 images + 2 Canva-only** |
+| **Total** | **16** | **3** | **3** | **22 images + 3 Canva-only** |
 
-**Format distribution across batches:**
-| Format | Creative(s) | From Swipe File |
-|---|---|---|
-| Text overlay on lifestyle photo | B6_drawer_counter, B6_scroll_beats, B8_trans_awesome, B8_trans_recommend, B9_out_salad, B10_fear_design, B10_fear_guard, B11_id_upgrade, B11_id_host, B12_wild_price, B13_fence_stories | Baseline (existing) |
-| Numbers overlay on product photo | B6_drawer_numbers, B12_wild_stat | Baseline (existing) |
-| Split comparison (old vs new) | B7_comp_exposed, B7_comp_flat | Baseline (existing) |
-| Quote/testimonial overlay | B8_trans_100x | Baseline (existing) |
-| **Minimal Us vs Them ("None of That")** | **B7_comp_toss** | **NEW — Format #5** |
-| **Simplified Us vs Them** | **B9_out_uniform** | **NEW — Format #8** |
-| **"This Is Not [Product]" Reframe** | **B10_fear_solved** | **NEW — Format #13** |
-| **Avatar Call Out** | **B11_id_cook** | **NEW — Format #2** |
-| **Strikethrough List** | **B12_wild_list** | **NEW — Format #16** |
-| **Venn Diagram** | **B13_fence_designed** | **NEW — Format #15** |
-| **Feature Annotation / Product Diagram** | **B9_out_diagram** | **NEW — Format #17** |
-| **Feed Camouflage / Pubity Style** | **B13_fence_native** | **NEW — Format #6** |
+**Changes from original:** 5 fewer images to generate (27→22), 1 more Canva-only build (2→3). Several images need background removal in Canva to place on colored backgrounds.
+
+**Format distribution across batches (UPDATED after feedback loop format changes):**
+| Format | Creative(s) | Source | Notes |
+|---|---|---|---|
+| Text overlay on lifestyle photo | B6_drawer_counter, B6_scroll_beats, B9_out_salad, B13_fence_stories | Baseline | **Reduced from 11 to 4** — only kept where format fits (food-first, warm lifestyle) |
+| Numbers overlay on product photo | B6_drawer_numbers | Baseline | B12_wild_stat moved to dark stat-led |
+| Dark background product comparison | B7_comp_exposed, B8_trans_100x | **NEW** | Products on dark surface, Ridge Wallet pattern |
+| Mechanism proof (single lifestyle) | B7_comp_flat | **NEW** | Shows hands on top — proves the mechanism |
+| Dark moody close-up | B10_fear_design, B10_fear_guard | **NEW** | Dramatic mood = pattern interrupt |
+| Dark background stat-led | B12_wild_stat | **NEW** | Massive number on dark — scroll-stop |
+| UGC-style flat lay | B12_wild_price | **NEW** | Authentic messy drawer photo |
+| **Review Card on colored background** | **B8_trans_awesome, B8_trans_recommend** | **NEW — from Huel Reddit testimonial + Dr. Squatch patterns** | Quote in styled card, product secondary |
+| **Minimal Us vs Them ("None of That")** | **B7_comp_toss** | **NEW — Format #5** | Dark navy, pain points vs "None of that." |
+| **Simplified Us vs Them** | **B9_out_uniform** | **NEW — Format #8** | Warm off-white, radical simplicity |
+| **"This Is Not [Product]" Reframe** | **B10_fear_solved** | **NEW — Format #13** | Deep navy background, product launch energy |
+| **Avatar Call Out** | **B11_id_cook** | **NEW — Format #2** | Giant text IS the creative, warm off-white |
+| **Checklist / Check-X Format** | **B11_id_upgrade** | **NEW — from Ridge Wallet competitor comparison** | Text-dominant, visual gap at the red X |
+| **Strikethrough List** | **B12_wild_list** | **NEW — Format #16** | Text-only, warm off-white |
+| **Venn Diagram** | **B13_fence_designed** | **NEW — Format #15** | Dark olive green background |
+| **Feature Annotation on dark background** | **B9_out_diagram** | **NEW — Format #17 + Ridge Wallet** | Dark olive green, NOT white |
+| **Feed Camouflage / Pubity Style** | **B13_fence_native, B11_id_host** | **NEW — Format #6** | Zero ad signals, caption bar at bottom |
+
+**Key metric: "Text overlay on lifestyle photo" went from 11 creatives (54%) → 4 creatives (17%).** The dead format has been largely eliminated.
 
 ---
 
