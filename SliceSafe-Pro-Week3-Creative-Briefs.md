@@ -796,9 +796,10 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 ### Creative 2: `B9_out_diagram`
 **Angle:** Mechanism proof through product anatomy
 **FORMAT: Feature Annotation / Product Diagram** (from Swipe File — Format #17, Ridge wedding band pattern)
-**Hook text overlay:** `Why your hands never go near the blade.` (top headline — annotation labels added to product features)
-**ORIGINAL HOOK (pre-audit):** ~~"The mandoline, redesigned."~~
-**WHY CHANGED:** "The mandoline, redesigned" is generic Stage 2 launch language and self-categorizes. "Why your hands never go near the blade" is a REASON-WHY lead — the annotations below PROVE the claim. Specific to the fear. Specific to the mechanism. Follows Origins Stage 3 rule: show HOW. (See Desire Depth Audit Parts 6, 13.)
+**Hook text overlay:** `Your hands never touch the blade.` (top headline — annotation labels prove the HOW)
+**ORIGINAL HOOK (pre-audit):** ~~"The mandoline, redesigned."~~ → ~~"Why your hands never go near the blade."~~
+**WHY CHANGED (audit 1):** "The mandoline, redesigned" is generic Stage 2 launch language and self-categorizes. (See Desire Depth Audit Parts 6, 13.)
+**WHY CHANGED (visual audit):** "Why your hands never go near the blade" was 8 words at 32-36px Semi-bold — violated hook length rule (2-6 words) and size/weight rules. New: "Your hands never touch the blade." — 6 words, 38-44px Bold. Dropped "Why" — the annotations below already explain WHY. The headline states the OUTCOME, the diagram proves the HOW.
 
 **Why this creative:** The old B9_out_hash (hash browns) drew from a failed UGC video and lacked cultural momentum. This replacement uses the Feature Annotation format (Format #17) which SHOWS the mechanism — each annotation line points to physical proof on the product. Origins principle: "Show don't tell" — SHOWING triggers belief (emotional brain), TELLING triggers skepticism. Instead of saying "it's safe," this creative lets the viewer SEE the enclosed blade, the 12-inch height, the hands-on-top handle. Works for all sub-avatars but especially Fence Sitter who needs to UNDERSTAND the design difference before buying.
 
@@ -817,10 +818,11 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 3. Upload generated product image, **remove background** using Canva's background remover, then center on canvas — scale so the mandoline fills about 50-60% of the height, leaving room on all sides
 
 **Top headline:**
-1. Add text box: `Why your hands never go near the blade.`
-2. Font: **Inter**, **32-36px**, **Semi-bold**
+1. Add text box: `Your hands never touch the blade.`
+2. Font: **Inter**, **38-44px**, **Bold**
 3. Color: **White (#FFFFFF)**
 4. Position: top 5-8%, center-aligned
+**VISUAL AUDIT FIX:** Original "Why your hands never go near the blade." was 8 words at 32-36px Semi-bold — violated hook length (2-6 words) and size/weight rules. New version: 6 words, 38-44px Bold. Dropped "Why" — the annotations below already explain WHY. The headline states the OUTCOME, the diagram proves the HOW.
 
 **Annotation lines + labels (5 total — use Canva "Line" element, 1-2px weight):**
 **REFERENCE: Ridge Wallet's feature annotation ads — each label has a small ICON next to the text. This makes annotations scannable at phone size.**
@@ -870,7 +872,7 @@ Clean, detailed product photograph of a light-blue vertical standing mandoline s
 - [ ] "Enclosed blade" label is in blue (#4A90E2) — pops against olive green
 - [ ] All other labels are white — readable on dark background
 - [ ] Annotation lines in sage green (#8BA888) — visible but not harsh
-- [ ] Headline "Why your hands never go near the blade." is white on olive green
+- [ ] Headline "Your hands never touch the blade." is white on olive green, 38-44px Bold
 - [ ] Feels like a Ridge Wallet product breakdown, NOT a white infographic
 - [ ] Export PNG highest quality
 
@@ -1038,16 +1040,17 @@ Dramatic close-up photograph of a small translucent plastic mandoline finger gua
 
 **Hook text (upper half — stacked):**
 1. Add text box: `Every mandoline comes with a guard.`
-2. Font: Inter, **32-36px**, Semi-bold, White (#FFFFFF)
+2. Font: Inter, **36-42px**, **Bold**, White (#FFFFFF)
 3. Position: top 10-14%, center-aligned
 
 4. Add text below: `Nobody uses it.`
-5. Font: Inter, **32-36px**, Semi-bold, **#FF4444** (red — the damning fact)
+5. Font: Inter, **36-42px**, **Bold**, **#FF4444** (red — the damning fact)
 6. Center-aligned
 
 7. Add text below with spacing: `We eliminated it.`
-8. Font: Inter, **32-36px**, Bold, **#4A90E2** (blue — the resolution)
+8. Font: Inter, **36-42px**, **Bold**, **#4A90E2** (blue — the resolution)
 9. Center-aligned
+**VISUAL AUDIT FIX:** All three lines bumped from 32-36px Semi-bold → 36-42px Bold. Semi-bold at 32px on a dark background = invisible at phone size. The 3-line stacked build needs each line to hit hard — Bold weight ensures the white/red/blue progression commands attention.
 
 **Small subtext (optional):**
 1. Below hook: `Hands-On-Top design. No guard needed.` — Inter, 18px, Regular, #CCCCCC
@@ -1094,8 +1097,9 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 3. Position: top 8-10%, center-aligned
 
 4. Add text below: `It's the end of being scared to cook.`
-5. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — emotional resolution)
+5. Font: Inter, **28-32px**, **Bold**, **#4A90E2** (blue — emotional resolution)
 6. Center-aligned
+**VISUAL AUDIT FIX:** Bumped from Semi-bold → Bold. On deep navy (#1A2332), Semi-bold blue text at 28-32px can disappear — this is the emotional payoff line and needs to land.
 **ORIGINAL SUBTEXT (pre-audit):** ~~"It's the first kitchen tool where your hands can't reach the blade."~~
 **WHY CHANGED:** "The end of being scared to cook" is the EMOTIONAL resolution. Original described the mechanism (TELL). Rewrite names what the product DOES TO YOUR EMOTIONAL STATE (SHOW). Research: "love-hate relationship," "spent years avoiding it." Being scared to cook is the REAL problem. (See Desire Depth Audit Parts 6, 11.)
 
@@ -1219,8 +1223,9 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 2. Inter, 16-18px, #4A90E2
 
 **Final check:**
-- [ ] "PEOPLE WITH A MANDOLINE IN THEIR DRAWER" is the DOMINANT element — takes up top half
-- [ ] The text IS the scroll-stop — anyone with a mandoline in their drawer will freeze
+- [ ] "PEOPLE WHO BOUGHT A MANDOLINE AND NEVER USED IT AGAIN" is the DOMINANT element — takes up top half
+- [ ] The text IS the scroll-stop — anyone who bought a mandoline and gave up will freeze
+- [ ] "USED IT AGAIN" in red (#FF4444) adds emotional punch — it's a DECISION driven by fear, not just a location
 - [ ] Warm off-white (#F8F7F4) background — not clinical white
 - [ ] Review card in white stands out against warm off-white — creates depth
 - [ ] Product is visible but text is the hero
@@ -1274,7 +1279,8 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 8. Thin horizontal divider line: 1px, #DDDDDD, ~80% width
 
 9. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, **28-32px**, **Semi-bold**, **#4A90E2**
-10. Below it: `The mandoline you'll actually use.` — Inter, 18px, Regular, #999999
+10. Below it: `The one you'll actually use.` — Inter, 18px, Regular, #999999
+**ORIGINS FIX:** "The mandoline you'll actually use" self-categorizes (Stage 2 — labels the product in the dangerous category). "The one" avoids the "mandoline" label entirely — more conversational, doesn't trigger the "mandoline = dangerous" mental model. (See Desire Depth Audit Part 13.)
 
 **Small product image (bottom-right):**
 1. Upload a SliceSafe product image (reuse from another creative)
