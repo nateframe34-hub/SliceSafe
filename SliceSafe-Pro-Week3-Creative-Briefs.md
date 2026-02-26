@@ -557,25 +557,27 @@ Each bullet: Canva green check icon (20px) + text, left-aligned, ~30px left padd
 ---
 
 ### Creative 2: `B8_trans_100x`
-**Sub-Avatar:** Scarred Chef | **Angle:** UGC comparison quote — temporal identity evolution
-**Hook text overlay:** `"The one that got me is in the trash.` (line break) `This one's on my counter."`
+**Sub-Avatar:** Scarred Chef | **Angle:** Temporal identity evolution — your mandoline journey in one image
+**Hook text overlay:** `THEN.` / `NOW.` (two words total — one above each product)
 **ORIGINAL HOOK (pre-audit):** ~~"100x better and safer than the one that got me."~~
-**WHY CHANGED:** "In the trash" is a BEHAVIOR (research: "immediately went into the trash," "donated to Goodwill"). "On my counter" is the OUTCOME. SHOWS the transformation through behavior, not claims. "100x better" is Stage 2 superlative language in a Stage 3 market. Also self-categorizes ("better and safer" = comparing within mandoline category). (See Desire Depth Audit Parts 6, 11, 13.)
+**SECOND HOOK (post-audit but pre-visual-audit):** ~~"The one that got me is in the trash. This one's on my counter."~~ (34-38px Semi-bold, 14 words)
+**WHY CHANGED AGAIN:** The 14-word UGC quote at 34-38px Semi-bold violated EVERY visual audit rule — 2-6 word max, 48px+ Bold minimum. The image already tells the story: flat dangerous mandoline vs tall enclosed SliceSafe on a dark surface. Ridge Wallet's "This was then. This is now." works because the text is MINIMAL and the visual comparison does the work. The UGC quote was redundant — it described what the viewer can already SEE. Stripped to 2 words total. Body copy carries the emotional story.
 
-**FORMAT: Dark Comparison with Temporal Labels** (enhanced with Ridge Wallet "This was then. This is now." — Swipe Feedback Loop Ad #4)
-**ENHANCEMENT from swipe analysis:** Added "THEN" / "NOW" temporal labels above each product. Ridge Wallet's temporal framing transforms a product comparison into an IDENTITY EVOLUTION narrative. Without labels = "two products on dark surface." With labels = "your journey from danger to safety." The temporal framing makes the viewer place THEMSELVES in the timeline — they're not evaluating products, they're evaluating their own progress.
+**FORMAT: Dark Comparison with Temporal Labels** (Ridge Wallet "This was then. This is now." — Swipe Feedback Loop Ad #4)
+**CORE PRINCIPLE from swipe analysis:** The image must carry the message ALONE. If you mute the text, does the image still communicate? YES — old flat mandoline lying down vs SliceSafe standing tall on dark surface. The THEN/NOW labels just frame the timeline. Everything else is redundant.
 
 **Origins frameworks applied:**
-- **SHOW vs TELL:** Quote uses behaviors ("in the trash" / "on my counter") not claims ("better and safer")
-- **Self-categorization avoided:** "The one that got me" — never says "mandoline" in the hook
+- **SHOW vs TELL:** The IMAGE shows the comparison — no text claims needed. Two products, one flat and exposed, one tall and enclosed. The visual IS the argument.
+- **Self-categorization avoided:** "THEN" / "NOW" — never says "mandoline" anywhere on the image
 - **Awareness:** Scarred Chef is Solution Aware — they know mandolines are dangerous. This moves them to Product Aware with NEW INFORMATION (the design changed)
 - **Template 5 alignment:** Leading with the old mechanism (exposed blade, flat mandoline) then revealing the new one
+- **Swipe Rule #6:** "If covering the text kills the ad, the image is too weak." — this ad passes. Cover THEN/NOW labels and the image still sells.
 
-**Why this creative:** Speaks directly to the Scarred Chef. "The one that got me" is THEIR language. UGC Video 2's comparison hook produced a sale. The dark background makes both products pop (Ridge Wallet pattern). The temporal labels add the identity evolution layer that makes this feel like personal progress, not just a product swap.
+**Why this creative:** Speaks directly to the Scarred Chef. The visual difference between a flat exposed mandoline and a tall enclosed SliceSafe is as dramatic as Ridge Wallet's fat-wallet-vs-slim-wallet comparison. The dark background makes both products pop. The THEN/NOW labels add the identity evolution layer — the viewer places themselves in the timeline. Body copy tells the emotional story ("the one that got me is in the trash").
 
 **Nano Banana Pro Prompt:**
 ```
-Dramatic product comparison photograph on a dark charcoal surface. On the right, standing tall: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. On the left, lying flat and looking small and outdated: an old traditional flat stainless steel mandoline slicer with an exposed V-blade and a thin plastic finger guard detached beside it. The old mandoline looks dangerous and beaten compared to the tall, modern SliceSafe. Dark charcoal/slate background. Dramatic side lighting from the left creating sharp highlights on both products. Warm golden accent light falls on the SliceSafe, cool harsh light on the old mandoline. The SliceSafe towers over the flat mandoline — the height difference is visually dramatic. The mood is confrontational, like a product reveal. Breathing room at top for quote text. No text, no logos, no watermarks. 4:5 aspect ratio.
+Dramatic product comparison photograph on a dark charcoal surface. On the right, standing tall: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with beautiful paper-thin uniform vegetable slices. On the left, lying flat and looking small and outdated: an old traditional flat stainless steel mandoline slicer with an exposed V-blade and a thin plastic finger guard detached beside it. The old mandoline looks dangerous and beaten compared to the tall, modern SliceSafe. Dark charcoal/slate background. Dramatic side lighting from the left creating sharp highlights on both products. Warm golden accent light falls on the SliceSafe, cool harsh light on the old mandoline. The SliceSafe towers over the flat mandoline — the height difference is visually dramatic. The mood is confrontational, like a product reveal. Generous space above each product for small text labels. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
 **Canva Step-by-Step:**
@@ -584,40 +586,30 @@ Dramatic product comparison photograph on a dark charcoal surface. On the right,
 2. Upload generated image, fill canvas
 3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
 
-**Temporal labels (above each product — Ridge Wallet "This was then. This is now." pattern):**
+**Temporal labels (the ONLY text on the image — Ridge Wallet pattern):**
 1. Above old mandoline (left): `THEN.`
-   - Font: Inter, **20-24px**, Bold, **#FF4444** (red — danger, past, regret)
-   - Positioned directly above or near the old flat mandoline
+   - Font: Inter, **36-44px**, **Bold**, **#FF4444** (red — danger, past, regret)
+   - Positioned directly above the old flat mandoline, center-aligned on left half
 2. Above SliceSafe (right): `NOW.`
-   - Font: Inter, **20-24px**, Bold, **#4A90E2** (blue — safety, present, progress)
-   - Positioned directly above or near the SliceSafe
-**NOTE:** These two small labels transform a product comparison into an identity evolution narrative. "THEN / NOW" makes the viewer place themselves in the timeline. (Ridge Wallet Ad #4 analysis.)
+   - Font: Inter, **36-44px**, **Bold**, **#4A90E2** (blue — safety, present, progress)
+   - Positioned directly above the SliceSafe, center-aligned on right half
+**NOTE:** These two labels are the ENTIRE text overlay. No quote, no subtext, no attribution. The image and labels tell the complete story. The viewer sees: old dangerous mandoline = THEN (red), tall safe SliceSafe = NOW (blue). That's it. Body copy does the emotional selling.
 
-**Quote text (top):**
-1. Add text box: `"The one that got me is in the trash.` (line break) `This one's on my counter."`
-2. Font: **Inter**, **34-38px**, **Semi-bold**, White (#FFFFFF)
-3. Drop shadow: Blur 20, Transparency 40%
-4. Position: **top 10-18%**, center-aligned
-5. Include quotation marks
-
-**Attribution:**
-1. `— Verified Buyer` — Inter, 14-16px, Regular, #CCCCCC
-2. Below quote, centered
-
-**Price tag (bottom-right):**
+**Price tag (bottom-center):**
 1. `SliceSafe Pro — $64.99`
 2. Inter, 16-18px, #4A90E2 pill, white text
 
 **Final check:**
 - [ ] Dark background makes both products pop (Ridge Wallet pattern)
-- [ ] "THEN." in red above old mandoline = danger, past, regret
-- [ ] "NOW." in blue above SliceSafe = safety, present, progress
-- [ ] Temporal labels transform product comparison into identity evolution (Ridge Wallet #1)
-- [ ] Old mandoline looks beaten and dangerous — warm SliceSafe dominates visually
-- [ ] Quote uses BEHAVIORS ("in the trash" / "on my counter") not claims — Origins SHOW vs TELL
-- [ ] Quote marks + "Verified Buyer" signal social proof
-- [ ] The confrontational dark mood matches "the one that got me" energy
+- [ ] "THEN." in red above old mandoline — ONE WORD, 36-44px Bold
+- [ ] "NOW." in blue above SliceSafe — ONE WORD, 36-44px Bold
+- [ ] **NO other text on the image** — no quote, no subtext, no attribution
+- [ ] Temporal labels are the ONLY overlay — the image carries the entire message (Swipe Rule #6)
+- [ ] Old mandoline looks beaten, flat, and dangerous — SliceSafe towers over it
+- [ ] The height difference (flat vs vertical) IS the visual argument
+- [ ] Cover the labels — does the image still communicate? YES = the image is strong enough
 - [ ] NOT a sterile marble product shot — dark, dramatic, premium
+- [ ] Meets visual audit: 1 word per label, 36-44px Bold weight
 - [ ] Export PNG highest quality
 
 ---
