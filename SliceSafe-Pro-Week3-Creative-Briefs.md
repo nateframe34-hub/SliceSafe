@@ -136,7 +136,9 @@ Clean, bright product photograph of a light-blue vertical standing mandoline sli
 
 ### Creative 2: `B6_drawer_counter`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Pure outcome assertion — lives on the counter
-**Hook text overlay:** `This mandoline lives on the counter.` (line break) `Not in the drawer.`
+**Hook text overlay:** `On the counter.` (line break) `Not in the drawer.`
+**ORIGINAL HOOK (pre-visual-audit):** ~~"This mandoline lives on the counter. Not in the drawer."~~
+**WHY CHANGED:** 11 words → 5 words. Swipe file winners use 2-6 word hooks at 48px+ Bold — our 32px Semi-bold sentence got lost on the busy lifestyle photo. The image SHOWS the mandoline on the counter — you don't need to SAY "this mandoline lives on the counter" when you can SEE it. Stripped to the essential contrast: counter vs drawer. (See Visual Audit — hook size/weight comparison.)
 
 **Why this creative:** B4_drawer_finally's "Finally." worked because it named the Drawer Stuffer's relief emotion. This creative goes further — it describes the OUTCOME (product on counter, not in drawer) which is the Drawer Stuffer's dream state. Status-quo bias reframe: your current mandoline is in the drawer because of design, not you.
 
@@ -150,15 +152,17 @@ Warm, inviting lifestyle photograph of a real home kitchen counter during active
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `This mandoline lives on the counter.` (line break) `Not in the drawer.`
-2. Font: **Inter**
-3. Size: **32-36px**
-4. Color: **White (#FFFFFF)**
-5. Weight: **Semi-bold**
-6. Drop shadow: Blur 20, Transparency 40%
-7. Position: **top 12-18%**, left-aligned, ~40px margins
-8. "Not in the drawer." is the punchline — the line break creates a beat
+**Hook text (top — BIG, SHORT, BOLD):**
+1. Add text box: `On the counter.`
+2. Font: **Inter**, **48-54px**, **Bold**, **White (#FFFFFF)**
+3. Drop shadow: Blur 25, Transparency 50%
+4. Position: **top 10-15%**, center-aligned
+
+5. Add text below: `Not in the drawer.`
+6. Font: **Inter**, **48-54px**, **Bold**, **#4A90E2** (blue — the punchline)
+7. Drop shadow: same
+8. Center-aligned, directly below
+**NOTE:** 5 words total. Text IS the visual hero. Image provides context. This matches swipe file winners (Ridge Wallet "10% LIGHTER" = 2 words at ~80px Bold).
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
@@ -248,8 +252,9 @@ I've used mine every week for a month. It actually lives on my counter now.
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
 
-**Headline 1:** The mandoline you'll actually use
+**Headline 1:** The one you'll actually use.
 **Headline 2:** 1 mandoline. 3 minutes. 0 bandages.
+**HEADLINE 1 CHANGE (visual audit):** "The mandoline you'll actually use" → "The one you'll actually use." — drops "mandoline" (self-categorization fix, see Part 13).
 **Description:** Hands-On-Top design. $64.99
 
 ---
@@ -312,7 +317,9 @@ Dramatic product comparison photograph on a dark slate surface. On the LEFT: a t
 
 ### Creative 2: `B7_comp_flat`
 **Sub-Avatar:** Scarred Chef | **Angle:** Mechanism proof — hands on top, blade below
-**Hook text overlay:** `Your old mandoline pushed your hands toward the blade.` (line break) `This one keeps them on top.`
+**Hook text overlay:** `Hands on top.` (line break) `Blade below.` (line break) `8 inches apart.`
+**ORIGINAL HOOK (pre-visual-audit):** ~~"Your old mandoline pushed your hands toward the blade. This one keeps them on top."~~
+**WHY CHANGED:** 16 words → 6 words. The IMAGE shows hands on top of the mandoline — you don't need a 16-word paragraph to describe what people can see. Three punchy fragments mirror B3_scroll_90sec's winning 3-beat rhythm. 28px Semi-bold was invisible on a busy lifestyle photo; 48px+ Bold makes text the visual hero alongside the mechanism proof image. (See Visual Audit.)
 
 **FORMAT CHANGE (from feedback loops):** Original was another split-screen composite requiring 2 images. Changed to a SINGLE lifestyle image that SHOWS the mechanism (hands safely on top). Pattern 2 from feedback loops: "0 out of 8 losers showed hands-on-top in action." This creative now provides PROOF — real hands, real distance, real safety — like B13_fence_native which was our highest-rated creative. The copy does the comparison work ("Your old mandoline pushed your hands toward the blade"). The IMAGE shows the solution.
 
@@ -328,15 +335,20 @@ Warm, confident close-up lifestyle photograph of a person's hands gripping the w
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `Your old mandoline pushed your hands toward the blade.`
-2. Font: Inter, **28-32px**, Semi-bold, White (#FFFFFF)
-3. Drop shadow: Blur 20, Transparency 40%
+**Hook text (top — BIG, SHORT, BOLD):**
+1. Add text box: `Hands on top.`
+2. Font: Inter, **48-56px**, **Bold**, White (#FFFFFF)
+3. Drop shadow: Blur 25, Transparency 50%
 4. Position: top 8-12%, center-aligned
 
-5. Add text below: `This one keeps them on top.`
-6. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — the resolution)
+5. Add text below: `Blade below.`
+6. Font: Inter, **48-56px**, **Bold**, White
 7. Center-aligned, directly below
+
+8. Add text below: `8 inches apart.`
+9. Font: Inter, **44-48px**, **Bold**, **#4A90E2** (blue — the punchline fact)
+10. Center-aligned, directly below
+**NOTE:** 6 words, 3-beat rhythm. The image SHOWS the mechanism proof — text just names what you're seeing in punchy fragments.
 
 **Distance callout (on image, near the gap between hands and blade):**
 1. Add a subtle bracket or arrow showing the gap between hands and blade
@@ -441,7 +453,8 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ```
 
 **Headline 1:** You already know what an exposed blade does.
-**Headline 2:** The mandoline, redesigned from scratch.
+**Headline 2:** Same tool. Completely different design.
+**HEADLINE 2 CHANGE (visual audit):** "The mandoline, redesigned from scratch." → "Same tool. Completely different design." — original was Stage 2 launch language and self-categorized. New version is punchy and avoids naming the category.
 **Description:** Hands-On-Top design. $64.99
 
 ---
@@ -483,7 +496,7 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 **Inside the review card:**
 1. Top of card: `★★★★★` — 20px, **#FFB800** (gold), left-aligned, ~40px padding
 2. Below stars (main quote):
-   - `"I finally found one that actually works.` (line break) `This thing is freaking awesome."`
+   - `"I finally found one that doesn't make me nervous."`
    - Font: **Inter**, **30-34px**, **Semi-bold**, **#1A1A1A**
    - Left-aligned, ~40px padding from card edges
    - Include quotation marks — this must feel like someone SAID this
@@ -534,7 +547,7 @@ Dramatic product comparison photograph on a dark charcoal surface. On the right,
 3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
 
 **Quote text (top):**
-1. Add text box: `"100x better and safer` (line break) `than the one that got me."`
+1. Add text box: `"The one that got me is in the trash.` (line break) `This one's on my counter."`
 2. Font: **Inter**, **34-38px**, **Semi-bold**, White (#FFFFFF)
 3. Drop shadow: Blur 20, Transparency 40%
 4. Position: **top 10-18%**, center-aligned
@@ -655,35 +668,50 @@ $64.99 — still in stock at velaine.shop
 
 ### Creative 1: `B9_out_salad`
 **Angle:** Cucumber salad outcome + safety punchline
-**Hook text overlay:** `Finally made the cucumber salad.` (line break) `Didn't psych myself up first.`
+**Hook text overlay:** NONE (native/camouflage format — caption bar only)
+**Caption:** `Finally made it.` / `No pep talk needed.`
 **ORIGINAL HOOK (pre-audit):** ~~"Made the cucumber salad. Kept all my fingers."~~
-**WHY CHANGED:** "Finally" channels the Drawer Stuffer relief energy that converted (B4_drawer_finally). "Didn't psych myself up first" is a BEHAVIOR — research confirms people "psych themselves up" before using mandolines. Original was a punchline (TELLING humor). Rewrite is a RELIEF statement (SHOWING the emotional change). Relief energy = what converted. (See Desire Depth Audit Parts 6, 11.)
+**AUDIT REWRITE:** ~~"Finally made the cucumber salad. Didn't psych myself up first."~~ (34-38px Semi-bold White overlay)
+**WHY CONVERTED TO NATIVE (visual audit):** Beautiful food photo is the scroll-stop. Text overlay turned native content into an obvious ad. Swipe file shows zero winning ads with "product/food as full background + medium text overlay" — the only full-background winners are native/camouflage with zero or minimal text. "Finally made it." in caption bar = personal Instagram energy. Body copy does the selling.
 
 **Nano Banana Pro Prompt:**
 ```
 Beautiful overhead food photograph of a freshly made cucumber salad in a large white ceramic bowl. The salad is stunning — dozens of paper-thin cucumber rounds tossed with red onion slivers, sesame seeds, a light drizzle of rice vinegar dressing, fresh dill sprigs. The slices are impossibly uniform and thin — clearly machine-cut, not hand-cut. The bowl sits on a warm wooden dining table. To the right, slightly out of focus: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The mandoline is in the background — not the hero. A pair of serving tongs, a linen napkin, and two small plates are nearby, suggesting the meal is about to be served. Warm, natural overhead light. Food photography aesthetic — appetizing, fresh, vibrant. The cucumber salad is the STAR. No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
+**FORMAT: NATIVE / FEED CAMOUFLAGE** (converted from text overlay in Visual Audit)
+**ORIGINAL FORMAT:** Text overlay on food photo (34-38px Semi-bold White). Killed because: swipe file has virtually zero winning ads where product/food fills the background AND medium text is overlaid. The food photo IS the scroll-stop — text overlay turns it into an ad and kills the native feel.
+**WHY NATIVE WORKS HERE:** The cucumber salad photo is genuinely beautiful food content. On Instagram, this stops a food scroller. Adding "Finally made the cucumber salad" in Semi-bold white text turns it from "food content I want to engage with" into "ad I want to skip." Body Copy 1 is already written in first person and tells the full Scroll Stopper journey — it can carry this ad alone.
+
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `Finally made the cucumber salad.` (line break) `Didn't psych myself up first.`
-2. Font: **Inter**, **34-38px**, Semi-bold, White
-3. Drop shadow: Blur 25, Transparency 50%
-4. Position: top 10-15%, center-aligned
+**Main image (fills most of canvas):**
+1. Upload generated food image
+2. Fill canvas — image takes up full 1080 width and about 85-90% of the height
+3. Leave ~150px at the very bottom for caption area
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Caption area (bottom ~12% of canvas):**
+1. Add a semi-transparent dark bar at the bottom: **#000000, 55% opacity**, full width, ~150px tall
+2. Inside the dark bar, add text: `Finally made it.`
+3. Font: **Inter**, **22-26px**, Regular, White (#FFFFFF)
+4. Position: left-aligned, ~30px from left edge, upper portion of bar
+5. Below it: `No pep talk needed.`
+6. Font: Inter, **22-26px**, **Semi-bold**, **#4A90E2** (blue — the emotional punchline)
+7. Same alignment
+
+**NO price tag. NO brand pill. This must NOT look like an ad.**
 
 **Final check:**
 - [ ] Cucumber salad looks genuinely appetizing — would stop a food scroller
 - [ ] Slices are visibly uniform and thin (mandoline result)
-- [ ] Product is visible but NOT the hero — the food is
-- [ ] "Didn't psych myself up first" names the behavior (SHOWING relief, not humor)
+- [ ] Product is visible in background but NOT the hero — the food is
+- [ ] NO text overlay on the food photo — caption bar only
+- [ ] Caption reads like a personal Instagram caption, not ad copy
+- [ ] "No pep talk needed." in blue is subtle but emotionally loaded
+- [ ] NO price tag anywhere — zero ad signals (like B11_id_host and B13_fence_native)
+- [ ] Body copy does ALL the selling — this image just stops the scroll
 - [ ] Taps directly into cucumber salad trend
 - [ ] Export PNG highest quality
 
@@ -851,7 +879,8 @@ SliceSafe Pro™ — $64.99 (was $99.95)
 **CHANGES:** "No mandoline anxiety" replaced with "No holding your breath while you slice" — SHOWS the behavior instead of naming the category ("mandoline anxiety" self-categorizes and TELLS). Mechanism uses Version A (Physical/Spatial, shorter — appropriate for this recipe-list opener). (See Desire Depth Audit Parts 7, 11, 13.)
 
 **Headline 1:** Perfect slices. Zero fear.
-**Headline 2:** The tool behind the thin slices.
+**Headline 2:** 90 seconds. Paper-thin. Zero fear.
+**HEADLINE 2 CHANGE (visual audit):** "The tool behind the thin slices." → "90 seconds. Paper-thin. Zero fear." — original was generic (could be a knife, a peeler). New version uses proven 3-beat rhythm with specifics.
 **Description:** Hands-On-Top design. $64.99
 
 ---
@@ -1384,43 +1413,54 @@ Position all text: left-aligned, ~80px left margin, starting from ~18% from top
 
 ### Creative 3: `B12_wild_price`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** The drawer cleanout — replaced every gadget
-**Hook text overlay:** `$65 replaced everything` (line break) `sitting in your kitchen drawer.`
+**Hook text overlay:** NONE (native/camouflage format — caption bar only)
+**Caption:** `Opened the drawer.` / `Three mandolines. All collecting dust.`
+**ORIGINAL HOOK:** ~~"$65 replaced everything sitting in your kitchen drawer."~~
+**AUDIT REWRITE:** ~~"I opened my kitchen drawer. Three mandolines. All collecting dust because they all scared me."~~ (36-42px Bold White overlay)
+**WHY CONVERTED TO NATIVE (visual audit):** The UGC drawer photo already looks like someone's real Instagram post — adding bold text overlay turns it back into an obvious ad. This photo IS the scroll-stop. Body Copy 2 is already written in first person ("I opened my kitchen drawer last week. Three mandolines.") and can carry the entire ad. Value angle ($65) was killed in the Origins audit. Now the drawer guilt visual does the work, body copy tells the full story.
 
-**FORMAT CHANGE (from feedback loops):** Original was "overhead product photo on white surface with surrounding tools" — a polished product arrangement that looks like an ad. Swipe file analysis: "UGC-quality photography — phone-quality, real settings, real hands holding products" is what makes winning ads NOT look like ads. Changed to a UGC-STYLE flat lay that looks like someone's real messy kitchen drawer being cleaned out — authentic, relatable, not polished. The Drawer Stuffer has THIS EXACT DRAWER. Also note: split_screen_produce_tax tested a value/savings angle ($52.13, 0 purchases). This creative keeps the value frame as an intentional wild card, but the format change at least gives it a fighting chance.
+**FORMAT CHANGE (from feedback loops → then visual audit):** Original was "overhead product photo on white surface with surrounding tools" — polished product arrangement that looks like an ad. Changed to UGC-style flat lay in feedback loops. Then converted to NATIVE/CAMOUFLAGE in visual audit — zero text overlay, caption bar only.
 
-**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). "$65 replaced everything" names their exact situation. The UGC-style flat lay makes the viewer feel like they're looking at their own drawer.
+**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). The UGC-style flat lay makes the viewer feel like they're looking at their own drawer. The authentic, unpolished photo IS the scroll-stop. No text needed on the image.
 
 **Nano Banana Pro Prompt:**
 ```
 Overhead photograph looking down into a real, slightly messy kitchen drawer that has been opened and partially emptied. Inside the drawer: scattered old kitchen tools — a traditional flat mandoline slicer with exposed blade, a cheap handheld slicer, a julienne peeler, a vegetable peeler, a bent spiralizer attachment. The tools are jumbled together, some stacked, clearly unused and gathering dust — the typical "gadget graveyard" drawer that every home cook has. The drawer is wooden with visible scratches and wear. Next to the open drawer on the countertop, standing tall and clean: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The SliceSafe stands outside the drawer, on the counter, looking modern and used. The contrast: messy drawer of failures vs one clean tool that earned its counter spot. Warm, natural overhead kitchen lighting — slightly warm-toned, like a phone photo. The mood is honest, real, relatable — "this is my drawer and I'm done with it." No text, no logos, no watermarks. 4:5 aspect ratio.
 ```
 
+**FORMAT: NATIVE / FEED CAMOUFLAGE** (converted from text overlay in Visual Audit)
+**ORIGINAL FORMAT:** Hook text overlay (36-42px Bold White + 28-32px Semi-bold Blue) on UGC-style drawer photo.
+**WHY CONVERTED TO NATIVE:** The UGC drawer photo already looks like someone's real Instagram post — adding bold text overlay turns it back into an obvious ad. The swipe file shows native/camouflage ads with zero text overlay perform "insanely well" because they bypass ad blindness entirely. This drawer photo IS the scroll-stop. Body Copy 2 is already written in first person ("I opened my kitchen drawer last week. Three mandolines.") and can carry the entire ad through storytelling.
+
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload generated image, fill canvas
 
-**Hook text (top):**
-1. Add text box: `I opened my kitchen drawer.` (line break) `Three mandolines.`
-2. Font: Inter, **36-42px**, Bold, **White (#FFFFFF)**
-3. Drop shadow: Blur 25, Transparency 50%
-4. Position: top 8-12%, center-aligned
-5. Below: `All collecting dust because they all scared me.`
-6. Font: Inter, **28-32px**, Semi-bold, **#4A90E2** (blue — the emotional reveal)
-**ORIGINAL HOOK (pre-audit):** ~~"$65 replaced everything sitting in your kitchen drawer."~~
-**WHY CHANGED:** Value angle has FAILED before (split_screen_produce_tax: $52.13, 0 purchases). The purchase barrier is FEAR, not PRICE. "Three mandolines, all collecting dust because they all scared me" combines guilt + fear — the Drawer Stuffer's two deepest emotions. UGC-style drawer photo still works. Text now names the EMOTIONAL truth. Research: "I have a mandolin collecting dust in my pantry." (See Desire Depth Audit Part 6.)
+**Main image (fills most of canvas):**
+1. Upload generated drawer image
+2. Fill canvas — image takes up full 1080 width and about 85-90% of the height
+3. Leave ~150px at the very bottom for caption area
 
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99 (was $99.95)`
-2. Inter, 16-18px, #4A90E2 pill, white text
+**Caption area (bottom ~12% of canvas):**
+1. Add a semi-transparent dark bar at the bottom: **#000000, 55% opacity**, full width, ~150px tall
+2. Inside the dark bar, add text: `Opened the drawer.`
+3. Font: **Inter**, **22-26px**, Regular, White (#FFFFFF)
+4. Position: left-aligned, ~30px from left edge, upper portion of bar
+5. Below it: `Three mandolines. All collecting dust.`
+6. Font: Inter, **22-26px**, **Semi-bold**, White
+7. Same alignment
+
+**NO price tag. NO brand pill. This must NOT look like an ad.**
 
 **Final check:**
 - [ ] The messy kitchen drawer is REAL and relatable — Drawer Stuffers see their own drawer
 - [ ] Old tools look abandoned and dusty — the gadget graveyard is universal
 - [ ] SliceSafe stands OUTSIDE the drawer, on the counter — visual storytelling
 - [ ] UGC-style photography (warm, phone-quality lighting) ≠ polished product arrangement
-- [ ] "$65" in blue pops as the first thing you read
-- [ ] This is a wild card — value angle has failed before (split_screen_produce_tax). But the authentic format gives it a better shot than a sterile product display would.
+- [ ] NO text overlay on the photo — caption bar only
+- [ ] Caption reads like a personal Instagram caption ("Opened the drawer."), not ad copy
+- [ ] NO price tag anywhere — zero ad signals
+- [ ] Body copy does ALL the selling — this image just stops the scroll and triggers drawer guilt
 - [ ] Export PNG highest quality
 
 ---
@@ -1484,18 +1524,19 @@ Warm, inviting lifestyle photograph of a cozy home kitchen. A light-blue vertica
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
 
-**Hook text (top):**
+**Hook text (top — BIGGER + BOLDER than original):**
 1. Add text box: `Everyone told you mandolines are dangerous.`
-2. Font: **Inter**, **30-34px**, **Semi-bold**
+2. Font: **Inter**, **38-44px**, **Bold**
 3. Color: **White (#FFFFFF)**
-4. Drop shadow: Blur 20, Transparency 40%
+4. Drop shadow: Blur 25, Transparency 50%
 5. Position: top 8-14%, left-aligned, ~40px margins
 
 6. Add text box below: `They were right — until this one.`
-7. Font: Inter, **30-34px**, Semi-bold
+7. Font: Inter, **38-44px**, **Bold**
 8. Color: **#4A90E2** (brand blue — this is the pivot/resolution)
 9. Drop shadow: same
 10. Position: directly below, same alignment
+**VISUAL AUDIT CHANGE:** Bumped from 30-34px Semi-bold → 38-44px Bold. This hook's validation + pivot concept requires the full sentence — can't shorten without losing the "they were right" bait-and-switch. But it needed to be visually bolder to compete in the feed.
 
 **Price tag (bottom-right):**
 1. `SliceSafe Pro — $64.99`
@@ -1746,13 +1787,12 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 **Format distribution across batches (UPDATED after feedback loop format changes):**
 | Format | Creative(s) | Source | Notes |
 |---|---|---|---|
-| Text overlay on lifestyle photo | B6_drawer_counter, B6_scroll_beats, B9_out_salad, B13_fence_stories | Baseline | **Reduced from 11 to 4** — only kept where format fits (food-first, warm lifestyle) |
+| Bold text overlay on lifestyle photo | B6_drawer_counter (48px+ Bold), B6_scroll_beats (56px+ Bold), B13_fence_stories (38px+ Bold) | Baseline → **Visual Audit fixed** | **Reduced from 4 to 3** — B9_out_salad converted to native. Remaining hooks rewritten: shorter (5-6 words), bigger (48px+), bolder (Bold/Black weight). Matches swipe file winners. |
 | Numbers overlay on product photo | B6_drawer_numbers | Baseline | B12_wild_stat moved to dark stat-led |
 | Dark background product comparison | B7_comp_exposed, B8_trans_100x | **NEW** | Products on dark surface, Ridge Wallet pattern |
-| Mechanism proof (single lifestyle) | B7_comp_flat | **NEW** | Shows hands on top — proves the mechanism |
+| Mechanism proof (bold text + lifestyle) | B7_comp_flat | **NEW → Visual Audit fixed** | Hook rewritten: 16 words → 6 words, 28px → 48px. "Hands on top. Blade below. 8 inches apart." 3-beat rhythm. |
 | Dark moody close-up | B10_fear_design, B10_fear_guard | **NEW** | Dramatic mood = pattern interrupt |
 | Dark background stat-led | B12_wild_stat | **NEW** | Massive number on dark — scroll-stop |
-| UGC-style flat lay | B12_wild_price | **NEW** | Authentic messy drawer photo |
 | **Review Card on colored background** | **B8_trans_awesome, B8_trans_recommend** | **NEW — from Huel Reddit testimonial + Dr. Squatch patterns** | Quote in styled card, product secondary |
 | **Minimal Us vs Them ("None of That")** | **B7_comp_toss** | **NEW — Format #5** | Dark navy, pain points vs "None of that." |
 | **Simplified Us vs Them** | **B9_out_uniform** | **NEW — Format #8** | Warm off-white, radical simplicity |
@@ -1762,9 +1802,9 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 | **Strikethrough List** | **B12_wild_list** | **NEW — Format #16** | Text-only, warm off-white |
 | **Venn Diagram** | **B13_fence_designed** | **NEW — Format #15** | Dark olive green background |
 | **Feature Annotation on dark background** | **B9_out_diagram** | **NEW — Format #17 + Ridge Wallet** | Dark olive green, NOT white |
-| **Feed Camouflage / Pubity Style** | **B13_fence_native, B11_id_host** | **NEW — Format #6** | Zero ad signals, caption bar at bottom |
+| **Feed Camouflage / Native** | **B9_out_salad, B12_wild_price, B13_fence_native, B11_id_host** | **NEW — Format #6 + Visual Audit** | Zero text overlay, caption bar only, NO price tag. Body copy does ALL selling. B9 + B12 converted from text-overlay in Visual Audit. |
 
-**Key metric: "Text overlay on lifestyle photo" went from 11 creatives (54%) → 4 creatives (17%).** The dead format has been largely eliminated.
+**Key metric: "Text overlay on lifestyle photo" went from 11 → 4 → 3 creatives (12.5%).** Two more converted to native/camouflage (B9_out_salad, B12_wild_price). Remaining 3 text-overlay creatives have hooks rewritten: shorter (5-6 words), bigger (38-56px), bolder (Bold weight). Total native/camouflage creatives: 4 (17%) — the strongest-performing format in the swipe file.
 
 ---
 
@@ -1772,10 +1812,10 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 | Batch | Body Copy 1 | Body Copy 2 | Headline 1 | Headline 2 | Description |
 |---|---|---|---|---|---|
-| 6 | Numbers + relief | Drawer Stuffer direct | "The mandoline you'll actually use" | "1 mandoline. 3 minutes. 0 bandages." | "Hands-On-Top design. $64.99" |
-| 7 | Comparison-focused | Mechanism reframe | "You already know what an exposed blade does." | "The mandoline, redesigned from scratch." | "Hands-On-Top design. $64.99" |
+| 6 | Numbers + relief | Drawer Stuffer direct | "The one you'll actually use." | "1 mandoline. 3 minutes. 0 bandages." | "Hands-On-Top design. $64.99" |
+| 7 | Comparison-focused | Mechanism reframe | "You already know what an exposed blade does." | "Same tool. Completely different design." | "Hands-On-Top design. $64.99" |
 | 8 | SHOWING — fear→confidence | Discovery + behavior bridge | "The one that stays on the counter." | "Your hands never go near the blade." | "Hands-On-Top design. $64.99" |
-| 9 | SHOWING — Scroll Stopper journey | Recipe + behavior bridge | "Perfect slices. Zero fear." | "The tool behind the thin slices." | "Hands-On-Top design. $64.99" |
+| 9 | SHOWING — Scroll Stopper journey | Recipe + behavior bridge | "Perfect slices. Zero fear." | "90 seconds. Paper-thin. Zero fear." | "Hands-On-Top design. $64.99" |
 | 10 | OBJECTION→CLAIM→PROOF→BENEFIT | SHOWING before/after + self-blame removal | "The design was the problem. Not you." | "Hands on top. Blade enclosed below." | "Hands-On-Top design. $64.99" |
 | 11 | Identity — Drawer Stuffer SHORT | Dinner party — Fence Sitter LONGER | "Belongs on the counter, not in the drawer." | "The recipe you saved needs this tool." | "Hands-On-Top design. $64.99" |
 | 12 | Stat-led (VERIFIED 20K+) | Drawer guilt (SHOWING) | "Over 20,000 ER visits. This one can't add another." | "One tool. On the counter. Everything else in the drawer." | "Hands-On-Top design. $64.99" |
@@ -1787,9 +1827,12 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 
 | Element | Font | Size | Weight | Color |
 |---|---|---|---|---|
-| Hook text (standard) | Inter | 30-36px | Semi-bold | White #FFFFFF |
+| Hook text (standard — on lifestyle photos) | Inter | **38-54px** | **Bold** | White #FFFFFF |
 | Hook text (bold/numbers) | Inter | 44-72px | Bold | White or #1A1A1A |
-| Punchline accent | Inter | 44-48px | Semi-bold | #4A90E2 (brand blue) |
+| Punchline accent | Inter | **40-54px** | **Bold** | #4A90E2 (brand blue) |
+| Native/camouflage caption | Inter | 22-26px | Regular/Semi-bold | White #FFFFFF |
+
+**VISUAL AUDIT UPDATE:** Hook text on lifestyle photos bumped from 30-36px Semi-bold → 38-54px Bold. Swipe file winners use 48-80px Bold/Black. Previous standard was too small and got lost on busy backgrounds. Native/camouflage captions intentionally small — they're meant to look like social captions, not ad headlines.
 | Stat/danger text | Inter | 40-80px | Bold | #FF4444 (red) |
 | Split-screen labels | Inter | 18-22px | Regular/Semi-bold | #999999 / #FF4444 / #4A90E2 |
 | Price pill | Inter | 16-18px | Regular | White on #4A90E2 |
