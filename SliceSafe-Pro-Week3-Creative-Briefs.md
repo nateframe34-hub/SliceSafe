@@ -459,81 +459,119 @@ $64.99 (was $99.95) — SliceSafe Pro™
 
 ---
 
-## BATCH 8: "UGC Transmutation"
-**Concept:** Take exact winning hooks from UGC videos that produced sales and turn them into static ads
+## BATCH 8: "Proven Hooks × Winning Formats"
+**Concept:** Take validated hooks from UGC videos that produced sales and execute each in a DIFFERENT high-performing format from swipe file analysis
 **ANGLE: "Makes you actually use it again"** (Drawer Stuffer) / **"Ends the design flaw that cut you"** (Scarred Chef)
-**Testing:** Marksman — 3 proven video hooks in static format
-**Data basis:** UGC Video 1 (7576563014686477598) and Video 2 (7590413856493571341) both produced purchases. Format transmutation = taking a proven script and running it as primary text paired with an image. The hooks are already validated by real purchase data.
-**Psychology:** Social Proof (real person said this), Liking/Similarity Bias (relatable people), Bandwagon Effect (others already bought)
-**Awareness:** B8_trans_awesome + B8_trans_recommend = Product Aware → Most Aware (Drawer Stuffers, SHORT copy). B8_trans_100x = Solution Aware → Product Aware (Scarred Chef).
+**Testing:** Marksman — 3 proven video hooks, each in a unique swipe-file-validated format
+**Data basis:** UGC Video 1 (7576563014686477598) and Video 2 (7590413856493571341) both produced purchases. The hooks are validated by real purchase data. **Previous Batch 8 had format redundancy (2 review cards = same format twice).** Redesigned with maximum format diversity — each creative uses a different proven swipe file format: split-screen with personality bullets (Dr. Squatch #2), dark comparison with temporal framing (Ridge Wallet #1), and rigged 3-column comparison chart (Dr. Squatch #1).
+**Psychology:** Contrast Effect (before/after feeling split-screen), Social Proof (real person said this), Completion Bias (comparison charts trigger evaluation mode)
+**Awareness:** B8_trans_split = Product Aware → Most Aware (Drawer Stuffer, SHORT copy). B8_trans_100x = Solution Aware → Product Aware (Scarred Chef). B8_trans_chart = Solution Aware → Product Aware (Universal — works for all sub-avatars).
+**SWIPE FILE PATTERNS USED:** Dr. Squatch "Soap vs Detergent" split-screen (Swipe Feedback Loop Ad #8), Ridge Wallet "This was then. This is now." (Ad #4), Dr. Squatch 3-column comparison chart (Ad #7).
 
 ---
 
-### Creative 1: `B8_trans_awesome`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Direct quote from UGC Video 1 winner — discovery energy
-**Hook text overlay:** `"I finally found one that doesn't make me nervous."`
-**ORIGINAL HOOK (pre-audit):** ~~"I finally found one that actually works. This thing is freaking awesome."~~
-**WHY CHANGED:** "Doesn't make me nervous" is the EMOTION that "actually works" was trying to express. Research: "No 'I'm scared to use this today' moments." "Actually works" is generic (Stage 2). "Doesn't make me nervous" is specific to mandolines and channels fear→confidence. (See Desire Depth Audit Part 6.)
+### Creative 1: `B8_trans_split`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Before/After emotional transformation — what I used to feel vs what I feel now
+**FORMAT: Split-Screen Us vs Them with Personality** (from Dr. Squatch "Soap You Should Be Using vs Detergent To Avoid" — Swipe Feedback Loop Ad #8)
+**REPLACES:** B8_trans_awesome (review card — killed because Batch 8 had 2 review cards = format redundancy. The review card format is untested for SliceSafe; betting two creatives on it was poor diversification.)
 
-**FORMAT CHANGE (from feedback loops):** Original was "lifestyle photo + quote text overlay" — the exact losing format (11 of 24 creatives used this, 54% of the lineup). Swipe file analysis found "Testimonial/Review Card + Product (approx 12 ads) — Quote dominates, product is secondary. Often mimics Facebook comments or Amazon reviews." Huel uses Reddit testimonial screenshots. Changed to a REVIEW CARD format on a warm off-white background — the quote lives in a styled card that looks like a social media review, not like ad copy overlaid on a stock photo. Product is small and secondary.
+**Why this creative:** The split-screen format with personality bullets was Priority #3 in the swipe file application map — and was COMPLETELY MISSING from the entire 24-creative lineup. Dr. Squatch's version works because each bullet has VOICE and PERSONALITY ("Leaves you smelling like the gods" > "premium fragrance"). Our version channels the UGC-validated emotional transformation: what mandoline anxiety FEELS like (left) vs what SliceSafe confidence FEELS like (right). Every bullet SHOWS a behavior or feeling (Origins Copywriting Module: SHOW > TELL). The UGC quote anchors the bottom as social proof. This format forces a binary choice — the viewer MUST pick a side.
 
-**Why this creative:** Speaks to the Drawer Stuffer who's tried mandolines before and given up. "I finally found one" = their exact journey (bought one, put it in drawer, found SliceSafe). The original UGC Video 1 line produced a sale.
+**Origins frameworks applied:**
+- **SHOW vs TELL:** Every bullet describes a BEHAVIOR ("Holding my breath") not a feature ("safety guard")
+- **FRAMES:** Left side triggers SAFE frame (negative). Right side hits EASY + SAFE + FAST frames
+- **Awareness:** Drawer Stuffers are Product Aware — SHORT copy. Bullets are 3-7 words each. No paragraphs.
+- **Self-categorization avoided:** No bullet says "safe mandoline" — we describe the EXPERIENCE instead of the category
 
-**Nano Banana Pro Prompt:**
-```
-Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few perfect paper-thin vegetable slices. Shot on a clean white surface from a slight angle showing the full height. Bright, even studio lighting with soft shadow. The mandoline is positioned to fill about 50% of the frame vertically, centered. Clean, bright, editorial feel. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
+**This creative is CANVA-ONLY — no image generation needed. Two small product photos reused.**
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#F8F7F4** (warm off-white — editorial, not clinical)
+2. Set canvas LEFT half background: **#F2ECEC** (warm blush gray — the "fear" side, slightly pink/uncomfortable)
+3. Set canvas RIGHT half background: **#ECF2EC** (warm mint/sage — the "relief" side, slightly green/calm)
 
-**Review card (upper 55% of canvas):**
-1. Add rounded rectangle: **white fill (#FFFFFF)**, ~920px wide, ~580px tall, **16px corner radius**, drop shadow (Blur 15, Y-offset 4, Transparency 20%)
-2. Position: centered horizontally, top edge ~60px from top of canvas
+**Headers (top of each half):**
+1. Left header: `WHAT I USED TO FEEL`
+   - Font: **Inter**, **22-26px**, **Bold**, **#CC3333** (muted red)
+   - Center-aligned on left half, top ~6%
+2. Right header: `WHAT I FEEL NOW`
+   - Font: **Inter**, **22-26px**, **Bold**, **#4A90E2** (brand blue)
+   - Center-aligned on right half, top ~6%
+3. Between headers, centered on divider: `VS` in a circle — **#999999**, 18px, Bold
 
-**Inside the review card:**
-1. Top of card: `★★★★★` — 20px, **#FFB800** (gold), left-aligned, ~40px padding
-2. Below stars (main quote):
-   - `"I finally found one that doesn't make me nervous."`
-   - Font: **Inter**, **30-34px**, **Semi-bold**, **#1A1A1A**
-   - Left-aligned, ~40px padding from card edges
-   - Include quotation marks — this must feel like someone SAID this
-3. Below quote, add thin divider line: 1px, #EEEEEE, full card width minus padding
-4. Below divider:
-   - `— Verified Buyer` — Inter, 14-16px, Regular, **#999999**
-   - Left-aligned
+**Product images (below headers, ~12-20% from top):**
+1. Left: Small image of traditional flat mandoline (~180px wide), slightly desaturated — reuse from another batch
+2. Right: Small image of SliceSafe Pro (~180px wide), full color — reuse from another batch
+3. Both centered in their half
 
-**Product image (below card, bottom 35%):**
-1. Upload mandoline product image
-2. Size: ~280px wide, centered horizontally
-3. Position: below card with ~30px gap
+**Left side bullets (red X's — PERSONALITY copy, ~30% from top):**
+Each bullet: Canva red X icon (20px) + text, left-aligned, ~30px left padding from half edge
 
-**Product name + price (below product):**
-1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, **#4A90E2**
-2. Centered below product image
+1. `Holding my breath every time`
+2. `That guard I never used`
+3. `Slicing toward my own fingers`
+4. `One close call and it went in the drawer`
+5. `Called it quits after the first cut`
+
+- Font: **Inter**, **18-22px**, Regular, **#333333**
+- X icons: **#CC3333** (red), Canva circle-X or prohibition icon
+- Spacing: ~28px between bullets
+
+**Right side bullets (green checks — PERSONALITY copy):**
+Each bullet: Canva green check icon (20px) + text, left-aligned, ~30px left padding
+
+1. `Hands on top. Blade 8" below.`
+2. `No guard needed. Nothing to skip.`
+3. `Push down. Walk away. Done.`
+4. `Haven't thought about it once`
+5. `On the counter since day one`
+
+- Font: **Inter**, **18-22px**, Regular, **#333333**
+- Check icons: **#4CAF50** (green), Canva circle-check icon
+- Spacing: ~28px between bullets
+
+**Center divider:**
+1. Thin vertical line: 1px, **#CCCCCC**, from headers to bottom of bullets
+
+**Bottom (centered across full width, below bullets, ~80% from top):**
+1. Thin horizontal divider: 1px, #DDDDDD, ~80% width
+2. Below: `"I finally found one that doesn't make me nervous."` — Inter, **18-22px**, Semi-bold, **#333333**
+3. Below: `— Verified Buyer` — Inter, 14px, Regular, #999999
+4. Below with spacing: `SliceSafe Pro — $64.99 (was $99.95)` — Inter, **22-26px**, Semi-bold, **#4A90E2**
 
 **Final check:**
-- [ ] Review card dominates — looks like a screenshot of a real review, not ad copy
-- [ ] Stars add immediate credibility signal
-- [ ] Quote marks + "Verified Buyer" make this feel like social proof
-- [ ] Warm off-white background ≠ clinical white (avoids the dead format)
-- [ ] Product is visible but SECONDARY — the review is the hero
-- [ ] This looks completely different from "lifestyle photo + text overlay"
+- [ ] Left side FEELS uncomfortable — warm blush gray + red X's = anxiety
+- [ ] Right side FEELS calm — warm sage + green checks = relief
+- [ ] Bullet points have PERSONALITY — "holding my breath," "walk away, done" — not feature lists
+- [ ] Every bullet SHOWS a behavior or feeling (Origins SHOW > TELL), never TELLS a feature
+- [ ] The split forces a binary choice: which side are you on? (Dr. Squatch pattern)
+- [ ] UGC quote at bottom provides social proof without dominating
+- [ ] "Smells like your dish soap" energy on left → "Smelling like the gods" energy on right
+- [ ] Hook text size N/A (no overlay) — format IS the creative, text is embedded in structure
+- [ ] FRAMES hit: left = SAFE (negative), right = EASY + SAFE + FAST
+- [ ] No self-categorization — zero use of "safe mandoline" or "mandoline slicer" in bullets
+- [ ] No image generation needed — Canva-only build with reused product photos
 - [ ] Export PNG highest quality
 
 ---
 
 ### Creative 2: `B8_trans_100x`
-**Sub-Avatar:** Scarred Chef | **Angle:** Direct quote from UGC Video 2 winner — comparison
+**Sub-Avatar:** Scarred Chef | **Angle:** UGC comparison quote — temporal identity evolution
 **Hook text overlay:** `"The one that got me is in the trash.` (line break) `This one's on my counter."`
 **ORIGINAL HOOK (pre-audit):** ~~"100x better and safer than the one that got me."~~
 **WHY CHANGED:** "In the trash" is a BEHAVIOR (research: "immediately went into the trash," "donated to Goodwill"). "On my counter" is the OUTCOME. SHOWS the transformation through behavior, not claims. "100x better" is Stage 2 superlative language in a Stage 3 market. Also self-categorizes ("better and safer" = comparing within mandoline category). (See Desire Depth Audit Parts 6, 11, 13.)
 
-**FORMAT CHANGE (from feedback loops):** Original had both products on "clean white marble countertop" — a variant of the sterile product-on-marble format that failed with B1_scarred_mechanism ($86.59, 0 purchases, 1.12% CTR) and B2_scarred_noguard ($28.81, 0 purchases). Changed to dark background. Ridge Wallet's comparison ads use dark backgrounds — products pop against dark, feel premium, and the confrontational mood matches the "the one that got me" energy. Swipe file pattern: "Dark/black backgrounds (about 20%) — premium, masculine, dramatic."
+**FORMAT: Dark Comparison with Temporal Labels** (enhanced with Ridge Wallet "This was then. This is now." — Swipe Feedback Loop Ad #4)
+**ENHANCEMENT from swipe analysis:** Added "THEN" / "NOW" temporal labels above each product. Ridge Wallet's temporal framing transforms a product comparison into an IDENTITY EVOLUTION narrative. Without labels = "two products on dark surface." With labels = "your journey from danger to safety." The temporal framing makes the viewer place THEMSELVES in the timeline — they're not evaluating products, they're evaluating their own progress.
 
-**Why this creative:** Speaks directly to the Scarred Chef. "The one that got me" is THEIR language. UGC Video 2's comparison hook produced a sale. "100x" is a powerful anchor. The old mandoline in the image reinforces the comparison visually.
+**Origins frameworks applied:**
+- **SHOW vs TELL:** Quote uses behaviors ("in the trash" / "on my counter") not claims ("better and safer")
+- **Self-categorization avoided:** "The one that got me" — never says "mandoline" in the hook
+- **Awareness:** Scarred Chef is Solution Aware — they know mandolines are dangerous. This moves them to Product Aware with NEW INFORMATION (the design changed)
+- **Template 5 alignment:** Leading with the old mechanism (exposed blade, flat mandoline) then revealing the new one
+
+**Why this creative:** Speaks directly to the Scarred Chef. "The one that got me" is THEIR language. UGC Video 2's comparison hook produced a sale. The dark background makes both products pop (Ridge Wallet pattern). The temporal labels add the identity evolution layer that makes this feel like personal progress, not just a product swap.
 
 **Nano Banana Pro Prompt:**
 ```
@@ -545,6 +583,15 @@ Dramatic product comparison photograph on a dark charcoal surface. On the right,
 1. Create new design → Custom size → **1080 x 1350 px**
 2. Upload generated image, fill canvas
 3. If upper portion isn't dark enough, add dark gradient overlay (black to transparent, top to bottom, 30% opacity)
+
+**Temporal labels (above each product — Ridge Wallet "This was then. This is now." pattern):**
+1. Above old mandoline (left): `THEN.`
+   - Font: Inter, **20-24px**, Bold, **#FF4444** (red — danger, past, regret)
+   - Positioned directly above or near the old flat mandoline
+2. Above SliceSafe (right): `NOW.`
+   - Font: Inter, **20-24px**, Bold, **#4A90E2** (blue — safety, present, progress)
+   - Positioned directly above or near the SliceSafe
+**NOTE:** These two small labels transform a product comparison into an identity evolution narrative. "THEN / NOW" makes the viewer place themselves in the timeline. (Ridge Wallet Ad #4 analysis.)
 
 **Quote text (top):**
 1. Add text box: `"The one that got me is in the trash.` (line break) `This one's on my counter."`
@@ -563,8 +610,11 @@ Dramatic product comparison photograph on a dark charcoal surface. On the right,
 
 **Final check:**
 - [ ] Dark background makes both products pop (Ridge Wallet pattern)
+- [ ] "THEN." in red above old mandoline = danger, past, regret
+- [ ] "NOW." in blue above SliceSafe = safety, present, progress
+- [ ] Temporal labels transform product comparison into identity evolution (Ridge Wallet #1)
 - [ ] Old mandoline looks beaten and dangerous — warm SliceSafe dominates visually
-- [ ] "100x" is a strong anchoring number — emphatic, not literal
+- [ ] Quote uses BEHAVIORS ("in the trash" / "on my counter") not claims — Origins SHOW vs TELL
 - [ ] Quote marks + "Verified Buyer" signal social proof
 - [ ] The confrontational dark mood matches "the one that got me" energy
 - [ ] NOT a sterile marble product shot — dark, dramatic, premium
@@ -572,53 +622,79 @@ Dramatic product comparison photograph on a dark charcoal surface. On the right,
 
 ---
 
-### Creative 3: `B8_trans_recommend`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Endorsement from someone who was in their shoes
-**Hook text overlay:** `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
+### Creative 3: `B8_trans_chart`
+**Sub-Avatar:** Universal (all sub-avatars) | **Angle:** Rigged 3-column comparison that makes SliceSafe the only rational choice
+**FORMAT: 3-Column Comparison Chart** (from Dr. Squatch 3-column chart — Swipe Feedback Loop Ad #7, Priority #2 in application map)
+**REPLACES:** B8_trans_recommend (review card — killed for format redundancy. Two review cards in one batch = same format twice, poor creative diversity for algorithm testing.)
 
-**FORMAT CHANGE (from feedback loops):** Original brief literally said "White background dominates" and "editorial product shot on clean white surface." This is the EXACT B5_mech_handstop trap — white background product shots get scrolled past (B5: $22.66, 0 purchases, 1.17% CTR, lowest in account). Changed to REVIEW CARD format on dark olive green (#3A4D2A) background. Dr. Squatch and Ridge Wallet both use dark olive/forest backgrounds in swipe file. The review card format (Huel pattern — Reddit testimonial screenshots) makes the quote feel like social proof, not ad copy.
+**Why this creative:** The 3-column comparison chart was Priority #2 in the swipe file application map — and was COMPLETELY MISSING from the entire 24-creative lineup. Dr. Squatch's version works because: (1) the chart FORMAT looks objective even though the criteria are rigged — the brain categorizes it as "useful information" not "advertising" (Swipe Feedback Loop: "comparison charts trigger the brain's evaluation mode"), (2) once someone starts comparing columns, completion bias makes them finish ALL rows, (3) it delivers 7 differentiation points in a single scannable image. Our version compares SliceSafe against the TWO alternatives every mandoline buyer actually considers: their old mandoline AND the "just wear a cut glove" workaround. Both lose every row. The degrading column name "Mandoline + Cut Glove" makes the workaround sound as ridiculous as Dr. Squatch's "Dishwasher Detergent" label.
 
-**Why this creative:** Speaks directly to the Drawer Stuffer by naming their exact behavior — multiple mandolines bought and abandoned. "This one stays on the counter" is the Drawer Stuffer's dream outcome. "10/10" from UGC Video 1 which produced a sale.
+**Origins frameworks applied:**
+- **SHOW vs TELL:** The chart SHOWS the comparison visually (green checks vs red X's) — no claims needed
+- **FRAMES:** Hits SAFE (blade enclosed), EASY (no guard needed), NEW (hands-on-top design), FAST (stands upright = quick access)
+- **Self-categorization:** Column header says "SliceSafe Pro" not "Safe Mandoline" — avoids category label
+- **Market Sophistication Stage 3:** Doesn't claim to be a "better mandoline" — shows it's a different category of tool via the row-by-row domination
+- **Awareness:** Works for ALL sub-avatars at Solution Aware level — Drawer Stuffers recognize every row, Scarred Chefs feel validated, Fence Sitters get educated
 
-**Nano Banana Pro Prompt:**
-```
-Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade containing several paper-thin vegetable slices. Shot on a clean white surface from a slight angle showing the full vertical profile. Bright, even studio lighting with soft shadow. The mandoline is centered and fills about 60% of the frame vertically. Clean, confident. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
+**Why "Traditional Mandoline" AND "Mandoline + Cut Glove":** These are the only two alternatives a mandoline buyer considers. Including the glove option preempts the objection "can't I just wear a glove?" and shows it still fails on 5 of 7 criteria. This is the Dr. Squatch "Synthetic Detergent" AND "Dishwasher Detergent" pattern — two competitors, both losing.
+
+**This creative is CANVA-ONLY — no image generation needed. Product images reused.**
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Set canvas background to **#3A4D2A** (dark olive green — from Dr. Squatch + Ridge Wallet swipe file)
+2. Set canvas background to **#F8F7F4** (warm off-white — information-style format needs clean readability)
 
-**Review card (upper 55% of canvas):**
-1. Add rounded rectangle: **white fill (#FFFFFF)**, ~920px wide, ~580px tall, **16px corner radius**, drop shadow (Blur 15, Y-offset 4, Transparency 20%)
-2. Position: centered horizontally, top edge ~60px from top of canvas
+**Column headers (top ~15%):**
+1. **Column 1** (left, ~36% width): Small SliceSafe product image (~100px) centered above label
+   - `SliceSafe Pro` — Inter, **18-22px**, Bold, **#4A90E2**
+   - Centered in column
+2. **Column 2** (center, ~32% width): Small traditional mandoline icon or desaturated photo (~100px)
+   - `Traditional` (line break) `Mandoline` — Inter, **18-22px**, Bold, **#666666**
+   - Centered in column
+3. **Column 3** (right, ~32% width): Small glove + mandoline icon (~100px)
+   - `Mandoline` (line break) `+ Cut Glove` — Inter, **18-22px**, Bold, **#666666**
+   - NOTE: Degrading name — implies a hack/workaround, not a real solution (Dr. Squatch pattern)
 
-**Inside the review card:**
-1. Top of card: `★★★★★` — 20px, **#FFB800** (gold), left-aligned, ~40px padding
-2. Main quote:
-   - `"Had 3 mandolines in the drawer.` (line break) `This one stays on the counter. 10/10."`
-   - Font: **Inter**, **30-34px**, **Semi-bold**, **#1A1A1A**
-   - Left-aligned, ~40px padding from card edges
-3. Thin divider line: 1px, #EEEEEE
-4. Below divider: `— Verified Buyer` — Inter, 14-16px, Regular, **#999999**
+**Divider below headers:** thin line, 1px, #DDDDDD, full width
 
-**Product image (below card, bottom 35%):**
-1. Upload mandoline product image (remove white background or use clean cutout)
-2. Size: ~280px wide, centered horizontally
-3. Position: below card with ~30px gap
+**Comparison rows (7 rows, alternating #F8F7F4 and #FFFFFF for readability, each ~110-120px tall):**
 
-**Product name + price (below product):**
-1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, **White**
-2. Centered below product image
+Row labels left-aligned (~20px padding), check/X icons centered in each column:
+
+| # | Row Label | SliceSafe | Traditional | + Cut Glove |
+|---|---|---|---|---|
+| 1 | `HANDS NEAR BLADE` | Red X | Green Check | Green Check |
+| 2 | `GUARD REQUIRED` | Red X | Green Check | Red X (needs glove) |
+| 3 | `BLADE ENCLOSED` | Green Check | Red X | Red X |
+| 4 | `HANDS-ON-TOP DESIGN` | Green Check | Red X | Red X |
+| 5 | `STANDS UPRIGHT` | Green Check | Red X | Red X |
+| 6 | `CATCHES SLICED FOOD` | Green Check | Red X | Red X |
+| 7 | `ACTUALLY GETS USED` | Green Check | Red X | Red X |
+
+- Row labels: Inter, **16-20px**, **Bold**, **#333333**, ALL CAPS
+- Check icons: Canva green circle-check, ~24px, **#4CAF50**
+- X icons: Canva red circle-X, ~24px, **#FF4444**
+- **Row 1-2 are INVERTED** — the bad things SliceSafe DOESN'T have. Red X = good for SliceSafe here. This mirrors Dr. Squatch's top rows ("DETERGENT-BASED" = red X for Dr. Squatch = good). Label the section clearly if needed.
+- **Row 7 "ACTUALLY GETS USED"** in **Semi-bold** — this is the PERSONALITY row, the mic-drop (like Dr. Squatch's "SMELLS GOOD" — breaks the formal pattern with an informal truth)
+
+**Bottom (centered, below chart):**
+1. `$64.99 (was $99.95) — Hands-On-Top Design`
+2. Font: Inter, 16-18px, Semi-bold, **#4A90E2**
+3. Centered, bottom ~5%
 
 **Final check:**
-- [ ] Dark olive green background ≠ white (avoids the dead format that killed B5_mech_handstop)
-- [ ] Review card looks like a real review screenshot — white card on colored background
-- [ ] Stars + quote + "Verified Buyer" = social proof stack
-- [ ] Product is small and secondary — the REVIEW is the hero
-- [ ] Dark olive green matches Dr. Squatch and Ridge Wallet swipe file patterns
-- [ ] "10/10" closes the sale in the quote — no more selling needed
+- [ ] Chart looks OBJECTIVE — the format creates credibility that rigged criteria don't earn alone
+- [ ] SliceSafe wins EVERY row — visual wall of green checks in column 1
+- [ ] Both competitors lose on 5+ rows — visual wall of red X's
+- [ ] "ACTUALLY GETS USED" as the last row adds PERSONALITY — the mic-drop (Dr. Squatch "SMELLS GOOD" pattern)
+- [ ] "Mandoline + Cut Glove" column name makes the workaround sound ridiculous
+- [ ] Row labels are ALL CAPS + Bold for scanability at phone size
+- [ ] Alternating row colors (#F8F7F4 / #FFFFFF) make the chart scannable — not a wall of white
+- [ ] Information-style format bypasses "this is an ad" filter — brain enters evaluation mode (Swipe Feedback Loop analysis)
+- [ ] The viewer enters comparison mode and SliceSafe is the obvious winner on every metric
+- [ ] Works for ALL sub-avatars — Drawer Stuffers nod at "ACTUALLY GETS USED," Scarred Chefs validate "HANDS NEAR BLADE," Fence Sitters get educated on the full difference
+- [ ] No image generation needed — Canva-only build with small product photos reused
 - [ ] Export PNG highest quality
 
 ---
@@ -1721,10 +1797,10 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Tuesday**
 
-### Batch 8 — "UGC Transmutation" (3 ads):
-- [ ] B8_trans_awesome: Generate 1 product image → Canva review card on warm off-white → Export
-- [ ] B8_trans_100x: Generate 1 image (both mandolines on dark surface) → Canva quote overlay → Export
-- [ ] B8_trans_recommend: Generate 1 product image → Canva review card on dark olive green → Export
+### Batch 8 — "Proven Hooks × Winning Formats" (3 ads):
+- [ ] B8_trans_split: Canva-only (split-screen Us vs Them — Dr. Squatch #2 pattern) → Export
+- [ ] B8_trans_100x: Generate 1 image (both mandolines on dark surface) → Canva quote overlay + "THEN./NOW." temporal labels → Export
+- [ ] B8_trans_chart: Canva-only (3-column comparison chart — Dr. Squatch #1 pattern) → Export
 - [ ] Upload all 3 to Meta, assign Body Copy 1 + 2, Headlines 1 + 2
 - [ ] **Launch: Wednesday**
 
@@ -1774,26 +1850,27 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 |---|---|---|---|---|
 | Batch 6 | 3 | 0 | 0 | 3 |
 | Batch 7 | 2 | 1 | 0 | 4 |
-| Batch 8 | 2 | 0 | 0 | 2 (+ bg removal) |
+| Batch 8 | 1 | 0 | 2 | 1 |
 | Batch 9 | 1 | 1 | 0 | 3 (+ bg removal) |
 | Batch 10 | 3 | 0 | 0 | 3 (+ bg removal) |
 | Batch 11 | 2 | 0 | 1 | 2 (+ bg removal) |
 | Batch 12 | 2 | 0 | 1 | 2 |
 | Batch 13 | 1 | 1 | 1 | 3 |
-| **Total** | **16** | **3** | **3** | **22 images + 3 Canva-only** |
+| **Total** | **15** | **3** | **5** | **21 images + 5 Canva-only** |
 
-**Changes from original:** 5 fewer images to generate (27→22), 1 more Canva-only build (2→3). Several images need background removal in Canva to place on colored backgrounds.
+**Changes from original:** 6 fewer images to generate (27→21), 3 more Canva-only builds (2→5). Several images need background removal in Canva to place on colored backgrounds. Batch 8 redesign (swipe file patterns) converted 2 image-based review cards → 2 Canva-only builds (split-screen + 3-column chart).
 
 **Format distribution across batches (UPDATED after feedback loop format changes):**
 | Format | Creative(s) | Source | Notes |
 |---|---|---|---|
 | Bold text overlay on lifestyle photo | B6_drawer_counter (48px+ Bold), B6_scroll_beats (56px+ Bold), B13_fence_stories (38px+ Bold) | Baseline → **Visual Audit fixed** | **Reduced from 4 to 3** — B9_out_salad converted to native. Remaining hooks rewritten: shorter (5-6 words), bigger (48px+), bolder (Bold/Black weight). Matches swipe file winners. |
 | Numbers overlay on product photo | B6_drawer_numbers | Baseline | B12_wild_stat moved to dark stat-led |
-| Dark background product comparison | B7_comp_exposed, B8_trans_100x | **NEW** | Products on dark surface, Ridge Wallet pattern |
+| Dark background product comparison | B7_comp_exposed, B8_trans_100x | **NEW** | Products on dark surface, Ridge Wallet pattern. B8_trans_100x enhanced with "THEN./NOW." temporal labels (Ridge Wallet #1). |
 | Mechanism proof (bold text + lifestyle) | B7_comp_flat | **NEW → Visual Audit fixed** | Hook rewritten: 16 words → 6 words, 28px → 48px. "Hands on top. Blade below. 8 inches apart." 3-beat rhythm. |
 | Dark moody close-up | B10_fear_design, B10_fear_guard | **NEW** | Dramatic mood = pattern interrupt |
 | Dark background stat-led | B12_wild_stat | **NEW** | Massive number on dark — scroll-stop |
-| **Review Card on colored background** | **B8_trans_awesome, B8_trans_recommend** | **NEW — from Huel Reddit testimonial + Dr. Squatch patterns** | Quote in styled card, product secondary |
+| **Split-Screen Us vs Them** | **B8_trans_split** | **NEW — Dr. Squatch #2 (Soap vs Detergent) pattern** | Two-column emotional before/after. Canva-only. SHOW vs TELL: behaviors not features. |
+| **3-Column Comparison Chart** | **B8_trans_chart** | **NEW — Dr. Squatch #1 (3-column chart) pattern** | SliceSafe vs Traditional vs Mandoline + Glove. 7 rows, all green checks for SliceSafe. Canva-only. Personality mic-drop last row. |
 | **Minimal Us vs Them ("None of That")** | **B7_comp_toss** | **NEW — Format #5** | Dark navy, pain points vs "None of that." |
 | **Simplified Us vs Them** | **B9_out_uniform** | **NEW — Format #8** | Warm off-white, radical simplicity |
 | **"This Is Not [Product]" Reframe** | **B10_fear_solved** | **NEW — Format #13** | Deep navy background, product launch energy |
@@ -1804,7 +1881,7 @@ $64.99 — SliceSafe Pro™ at velaine.shop
 | **Feature Annotation on dark background** | **B9_out_diagram** | **NEW — Format #17 + Ridge Wallet** | Dark olive green, NOT white |
 | **Feed Camouflage / Native** | **B9_out_salad, B12_wild_price, B13_fence_native, B11_id_host** | **NEW — Format #6 + Visual Audit** | Zero text overlay, caption bar only, NO price tag. Body copy does ALL selling. B9 + B12 converted from text-overlay in Visual Audit. |
 
-**Key metric: "Text overlay on lifestyle photo" went from 11 → 4 → 3 creatives (12.5%).** Two more converted to native/camouflage (B9_out_salad, B12_wild_price). Remaining 3 text-overlay creatives have hooks rewritten: shorter (5-6 words), bigger (38-56px), bolder (Bold weight). Total native/camouflage creatives: 4 (17%) — the strongest-performing format in the swipe file.
+**Key metric: "Text overlay on lifestyle photo" went from 11 → 4 → 3 creatives (12.5%).** Two more converted to native/camouflage (B9_out_salad, B12_wild_price). Remaining 3 text-overlay creatives have hooks rewritten: shorter (5-6 words), bigger (38-56px), bolder (Bold weight). Total native/camouflage creatives: 4 (17%) — the strongest-performing format in the swipe file. **Total unique formats: 17** (up from 15 after Batch 8 redesign — review cards replaced with split-screen + 3-column chart from swipe file analysis).
 
 ---
 
