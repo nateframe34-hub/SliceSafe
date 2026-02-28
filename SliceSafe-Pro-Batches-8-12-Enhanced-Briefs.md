@@ -37,10 +37,91 @@ This is the **enhanced execution brief** for Batches 8–12. The original Week 3
 | Batch | Primary Psychology | Secondary Psychology | Cognitive Mechanism |
 |-------|-------------------|---------------------|---------------------|
 | **B8: Proven Formats** | Contrast Effect, Completion Bias | Temporal Framing | Split-screen = forced binary; Chart = evaluation mode; THEN/NOW = identity evolution |
-| **B9: Reframes + Outcomes** | Category Reframe, Jobs-To-Be-Done | Present Bias, Mere Exposure | "This isn't a mandoline" = exits fear association; Food outcome = desire before mechanism |
-| **B10: Dark Emotional** | Status-Quo Bias, Availability Heuristic | Confirmation Bias | Self-blame removal = emotional release; 20K stat = danger made vivid; Guard failure = universal truth |
-| **B11: Identity** | Unity Principle, Mimetic Desire | Similarity Bias, Identity Gap | Avatar call-out = "this ad IS you"; Checklist = upgraded-everything-but-this gap; Aspiration = life you want |
-| **B12: Wild Cards** | Availability Heuristic, Pratfall Effect | Loss Aversion, Zeigarnik Effect | Meme = ad blindness bypass; Strikethrough = dopamine cascade; Drawer photo = gadget graveyard guilt |
+| **B9: Dark Emotional Reframe** | Category Reframe, Status-Quo Bias | Loss Aversion, Availability Heuristic | "This isn't a mandoline" = exits fear association; Self-blame removal = emotional release; Stat = danger made vivid |
+| **B10: Avatar Call-Out** | Unity Principle, Mimetic Desire | Similarity Bias, Identity Gap | Giant text call-out = "this ad IS you"; Avatar-specific pain = instant self-selection |
+| **B11: Feed Camouflage** | Mere Exposure, Present Bias | Jobs-To-Be-Done, Social Proof | Looks like organic content = bypasses ad filter; Food outcome = desire before mechanism |
+| **B12: Simplified Visual Comparison** | Contrast Effect, Anchoring | Completion Bias, Confirmation Bias | Side-by-side = forced evaluation; Checklist = visual weight of wins; Strikethrough = dopamine cascade |
+
+---
+
+## SliceSafe Pro Ad Design System (theme-factory)
+
+> Custom theme built from Ocean Depths (dark navy), Tech Innovation (bold accents), and Arctic Frost (cool blue matching the physical product). This system governs every creative in Batches 9-12.
+
+### Color Palette
+
+| Token | Hex | Usage |
+|-------|-----|-------|
+| **Brand Blue** | `#4A90E2` | CTAs, price pills, punchline words, product callouts |
+| **Deep Navy** | `#1A2332` | Primary dark background (category reframe, emotional, premium) |
+| **Near Black** | `#1A1A1A` | Maximum drama dark background (stat-led, fear-based) |
+| **Danger Red** | `#FF4444` | Fear, pain, old mechanism, X icons, "THEN" labels |
+| **Resolution Green** | `#4CAF50` | Safety, confidence, new mechanism, check icons, "NOW" labels |
+| **Warm Off-White** | `#F8F7F4` | Comparison formats, charts, checklists (clean, informational energy) |
+| **Muted Sage** | `#8BA888` | Spec bars, secondary info, subtle trust signals |
+| **Text Primary** | `#FFFFFF` | All text on dark backgrounds |
+| **Text Dark** | `#1A1A1A` | All text on light backgrounds |
+| **Text Secondary** | `#999999` | Attributions, captions, de-emphasized info |
+
+### Typography Scale
+
+| Level | Font | Size | Weight | Usage |
+|-------|------|------|--------|-------|
+| **Hook** | Inter | 48-72px | Black (900) or Extra-Bold (800) | Main scroll-stop line. Top 10-15% of image. |
+| **Subhead** | Inter | 28-36px | Bold (700) | Supporting statement below hook. Emotional resolution line. |
+| **Body Overlay** | Inter | 18-24px | Semi-Bold (600) | On-image quotes, bullet text, feature callouts |
+| **Specs** | Inter | 14-16px | Regular (400) | Spec bars, measurement callouts, separated by thin pipes |
+| **Price Pill** | Inter | 16-18px | Semi-Bold (600) | White text on #4A90E2 rounded rectangle pill |
+| **Caption** | Inter | 14px | Regular (400) | Attribution lines, "— Verified Buyer", timestamps |
+
+### Visual Hierarchy Template (5 Zones)
+
+```
+┌─────────────────────────┐
+│ ZONE 1: Hook Text       │ Top 10-15%. Hook level typography.
+│ (48-72px Black/XBold)   │ White on dark. Dark on light.
+├─────────────────────────┤
+│ ZONE 2: Support Line    │ 15-25%. Subhead level.
+│ (28-36px Bold)          │ Brand Blue on dark. Dark on light.
+├─────────────────────────┤
+│                         │
+│ ZONE 3: Product/Image   │ 30-50%. The visual proof.
+│ (hero, in-use, outcome) │ Mechanism SHOWN, not claimed.
+│                         │
+├─────────────────────────┤
+│ ZONE 4: Specs Bar       │ 70-80%. Specs level, muted sage.
+│ (14-16px Regular)       │ "8" Separation | Enclosed | 90s"
+├─────────────────────────┤
+│ ZONE 5: Price Pill      │ Bottom 5-8%. Brand Blue pill.
+│ ($64.99 was $99.95)     │ Centered. Always present.
+└─────────────────────────┘
+```
+
+### Dark Background Rules
+- ALL text must be Bold weight minimum (Regular disappears on dark)
+- Hook = White (#FFFFFF). Support line = Brand Blue (#4A90E2)
+- Product needs warm accent light (golden from left) to pop against navy/black
+- Subtle gradient overlay (black → transparent, top → bottom, 20-30% opacity) if image bleeds into text zones
+
+### Light Background Rules
+- Background = Warm Off-White (#F8F7F4), never pure white (#FFFFFF)
+- Text = Near Black (#1A1A1A) for hooks, #333333 for body
+- Check icons = Resolution Green. X icons = Danger Red
+- Alternating row tints for charts: #F8F7F4 / #FFFFFF
+
+### Feed Camouflage Rules
+- NO price pill. NO brand pill. NO text overlay on image.
+- Caption bar ONLY (small text strip at bottom, styled like Instagram caption)
+- Image must pass cover test: cover ALL text — does it still sell?
+- Warm, natural light. 50mm lens feel. Film grain optional.
+
+### Universal Production Specs
+- Canvas: 1080 x 1350 px (4:5 aspect ratio)
+- Export: PNG, highest quality
+- Font: Inter (Helvetica/SF Pro fallback)
+- Mandoline in prompts: "a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade."
+- Text overlays: ALWAYS in Canva, NEVER baked into AI images
+- Naming: `B[batch]_[theme]_[angle-short]`
 
 ---
 
@@ -51,16 +132,18 @@ This is the **enhanced execution brief** for Batches 8–12. The original Week 3
 | Split-Screen Us vs Them | B8_split | | X | Dr. Squatch #2 (Priority #3) |
 | THEN/NOW Minimal Dark | B8_thennow | X | | Ridge Wallet #1 (Priority #4) |
 | 3-Column Comparison Chart | B8_chart | | X | Dr. Squatch #1 (Priority #2) |
-| Category Reframe on Navy | B9_reframe | X | | Huel #1 (Priority #1) |
-| Feed Camouflage / Native | B9_salad, B11_host, B12_drawer | X | | Pattern #6 |
-| Simplified Us vs Them | B9_uniform | X (2 images) | | Nutella pattern |
-| Dark Moody Close-Up | B10_blame | X | | Pattern #7 |
-| Dark + Massive Stat | B10_stat | X | | Pattern #7 + #1 |
-| Dark + 3-Line Text Build | B10_guard | X | | Pattern #7 + #5 |
-| Avatar Call-Out Giant Text | B11_callout | X | | Huel #3 (Priority #5) |
-| Checklist / Check-X | B11_checklist | | X | Ridge Wallet pattern |
-| Text Post / Screenshot Meme | B12_meme | | X | Dr. Squatch #3 (Priority #6) |
-| Strikethrough List | B12_list | | X | Cooling blanket pattern |
+| Category Reframe on Deep Navy | B9_dark_reframe | X | | Huel #1 (Priority #1) |
+| Dark Moody + Self-Blame Removal | B9_dark_blame | X | | Pattern #7 + Uromend |
+| Dark + Massive Stat | B9_dark_stat | X | | Pattern #7 + #1 |
+| Avatar Call-Out Giant Text (Drawer Stuffer) | B10_avatar_drawer | X | | Huel #3 (Priority #5) |
+| Avatar Call-Out Giant Text (Scarred Chef) | B10_avatar_scarred | X | | Huel #3 variant |
+| Avatar Call-Out Giant Text (Fence Sitter) | B10_avatar_fence | | X | Huel #3 variant |
+| Feed Camouflage / Cucumber Salad | B11_native_salad | X | | Pattern #6 |
+| Feed Camouflage / Dinner Party | B11_native_dinner | X | | Pattern #6 |
+| Feed Camouflage / Meal Prep | B11_native_prep | X | | Pattern #6 |
+| Simplified Us vs Them | B12_compare_simple | X (2 images) | | Nutella pattern |
+| Checklist / Check-X | B12_compare_checklist | | X | Fodzyme pattern |
+| Strikethrough List | B12_compare_strike | | X | Cooling blanket pattern |
 
 ---
 
@@ -322,24 +405,25 @@ $64.99 — still in stock at velaine.shop
 
 ---
 
-## BATCH 9: "Reframes + Outcomes"
-**Concept:** Test category exit and food-outcome angles that reach BEYOND mandoline owners
-**Testing:** Does exiting the "mandoline" category entirely, or leading with food outcomes, outperform mechanism-focused hooks?
-**Hypothesis:** Category reframes and food-first visuals reach a broader audience (anyone who cooks) vs mechanism hooks (only people who know mandolines). The cucumber salad trend gives us cultural momentum. The Nutella-pattern simplicity converts because the brain processes it in under 1 second.
-**Sub-avatars:** B9_reframe_exit = Universal (exits the category entirely). B9_outcome_salad = Scroll Stopper (Problem Aware, needs full journey in body copy). B9_outcome_uniform = Universal (visual comparison needs zero context).
-**Swipe file patterns applied:** Huel #1 "This is a meal" category reframe (Ad #1, Priority #1), Feed Camouflage (Ad #9), Nutella simplified comparison
-**Psychology:** Category Reframe (exits dangerous mental model), Jobs-To-Be-Done (they want the food, not the tool), Present Bias (show the outcome NOW)
-**FRAMES per creative:** B9_reframe = NEW + SAFE. B9_salad = EASY + FAST. B9_uniform = FAST + EASY + SAFE.
+## BATCH 9: "Dark Emotional Reframe"
+**Concept:** Three dark-background creatives testing category reframe, self-blame removal, and stat-led fear on premium dark canvases
+**Testing:** Does dark background + bold emotional statement outperform our existing warm lifestyle formats? Does category exit beat mechanism hooks?
+**Hypothesis:** Dark backgrounds break the feed pattern (most feeds are light/white), signal premium positioning, and create maximum text contrast. The emotional reframe angles remove self-blame and exit the "mandoline" fear category — addressing the belief barriers that stop purchase.
+**Sub-avatars:** B9_dark_reframe = Universal (exits category entirely). B9_dark_blame = Drawer Stuffer (removes self-blame). B9_dark_stat = Fence Sitter (makes danger vivid, then resolves with mechanism).
+**Swipe file patterns applied:** Huel #1 "This is a meal" category reframe (Priority #1), Uromend "STOP" behavior callout (Pattern #7), Ridge Wallet dark premium aesthetic
+**Psychology:** Category Reframe (exits dangerous mental model), Status-Quo Bias (self-blame removal = emotional release), Availability Heuristic (stat makes danger vivid)
+**FRAMES per creative:** B9_dark_reframe = NEW + SAFE. B9_dark_blame = SAFE + EASY. B9_dark_stat = SAFE + NEW + BIG.
+**Design System:** All three use Deep Navy (#1A2332) or Near Black (#1A1A1A) backgrounds. White (#FFFFFF) hooks at 48-72px Black weight. Brand Blue (#4A90E2) for support lines. Muted Sage (#8BA888) for specs bars. All text Bold minimum per dark background rules.
 
 ---
 
-### Creative 1: `B9_reframe_exit`
+### Creative 1: `B9_dark_reframe`
 **Sub-Avatar:** Universal | **Angle:** Category reframe — this isn't a mandoline, it's something new
 **FORMAT: Category Reframe on Deep Navy** (Huel #1 "This is a meal. Not a protein shake." — Swipe Feedback Loop Ad #1, Priority #1)
 **Scroll-stop method:** Cognitive disruption — "This isn't a mandoline" forces re-processing
-**Hook:** `This isn't a mandoline.` — **40-48px**, Bold, White
+**Hook:** `This isn't a mandoline.` — **56-64px**, Inter Black (900), White (#FFFFFF)
 
-**Why this creative:** The #1 priority format from the swipe analysis. People's mental model of "mandoline" = flat, dangerous, exposed blade. As long as we sell a "mandoline," we fight that model. Huel proved you can REDEFINE the category: "This is a meal. Not a protein shake." We break the fear association by removing the product from the category.
+**Why this creative:** The #1 priority format from the swipe analysis. People's mental model of "mandoline" = flat, dangerous, exposed blade. As long as we sell a "mandoline," we fight that model. Huel proved you can REDEFINE the category: "This is a meal. Not a protein shake." We break the fear association by removing the product from the category. Dark navy background creates premium product-launch energy and maximum text contrast.
 
 **Origins frameworks:**
 - **Self-categorization:** The ENTIRE POINT is to exit the "mandoline" category (Stage 3+ move)
@@ -359,11 +443,12 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 2. Set canvas background: **#1A2332** (deep navy — product launch energy, Ridge Wallet reveal pattern)
 3. Upload generated image, **remove background**, center on canvas
 
-**Hook text (top):**
-1. `This isn't a mandoline.` — Inter, **48-56px**, Bold, White
-2. Position: top 8-10%, center-aligned
+**Zone 1 — Hook (top 10-15%):**
+1. `This isn't a mandoline.` — Inter, **56-64px**, Black (900), White (#FFFFFF)
+2. Center-aligned
 
-3. `It's the end of being scared to cook.` — Inter, **30-36px**, Bold, **#4A90E2**
+**Zone 2 — Support (15-25%):**
+3. `It's the end of being scared to cook.` — Inter, **30-36px**, Bold (700), **#4A90E2**
 4. Center-aligned, below hook
 
 **Specs bar (below product, ~80% from top):**
@@ -385,18 +470,361 @@ Bold, confident editorial product photograph of a light-blue vertical standing m
 
 ---
 
-### Creative 2: `B9_outcome_salad`
-**Sub-Avatar:** Scroll Stopper | **Angle:** Food outcome — the cucumber salad IS the scroll-stop
-**FORMAT: Native / Feed Camouflage** (Swipe Pattern #6 — Format camouflage)
-**Scroll-stop method:** Format camouflage — looks like an Instagram food post, not an ad
-**Hook:** NONE on image. Caption bar only: `Finally made it.` / `No pep talk needed.`
+### Creative 2: `B9_dark_blame`
+**Sub-Avatar:** Drawer Stuffer + Scarred Chef | **Angle:** Self-blame removal — "You weren't careless. The design was."
+**FORMAT: Dark Moody Close-Up + Short Emotional Hook** (Uromend "STOP" pattern + Pattern #7 dark premium)
+**Scroll-stop method:** Cognitive disruption — self-blame removal triggers emotional release
+**Hook:** `You weren't careless.` / `The design was.` — **48-56px**, Inter Bold (700), White + Danger Red (#FF4444)
 
-**Why this creative:** The cucumber salad trend gives us cultural momentum. Beautiful food stops food scrollers. Adding text overlay turns "food content I want to engage with" into "ad I want to skip." The swipe file shows zero winning ads with product/food full-background + medium text overlay. Body copy tells the full Scroll Stopper journey.
+**Why this creative:** Research confirmed self-blame is massive among mandoline owners: "I know, stupid," "Such a rookie mistake," "It was my own fault." These people blame THEMSELVES for getting cut. "You weren't careless" directly removes self-blame. "The design was" places blame where it belongs — on the flat, exposed-blade design. This is emotionally freeing (SHOW — makes them feel absolved). The dark moody image of an exposed blade validates their fear — yes, that thing IS dangerous. The blade glinting in dramatic light is forensic evidence.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** "You weren't careless" = SHOWING absolution through direct address, not claiming "our product is safer"
+- **FRAMES:** SAFE (the old design was the problem) + EASY (new design requires zero vigilance)
+- **Self-categorization:** Never mentions "mandoline" in the hook — "the design" is abstract enough to avoid triggering the fear category
+- **Template 5:** Old mechanism (exposed blade in image) → new mechanism named in subtext
+
+**Nano Banana Pro Prompt:**
+```
+Dramatic, moody close-up photograph of a traditional flat stainless steel mandoline slicer lying on a dark slate surface. The exposed V-blade catches dramatic Rembrandt side lighting from the left, creating a sharp glint. The rest fades into shadow. A thin plastic finger guard lies beside it, detached and useless-looking. Dark, moody, almost ominous — chiaroscuro lighting. The blade is the focal point — bright, sharp, exposed. Most of the frame is dark negative space — upper two-thirds for text overlay. Dark charcoal and steel tones. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload image, fill canvas
+3. Dark gradient overlay top (black → transparent, 40% opacity) to ensure text readability
+
+**Zone 1 — Hook (upper third):**
+1. `You weren't careless.` — Inter, **48-56px**, Bold (700), White (#FFFFFF). Center-aligned.
+2. `The design was.` — Inter, **48-56px**, Bold (700), **#FF4444** (Danger Red). Below, center-aligned.
+
+**Zone 2 — Support:**
+3. `Hands-On-Top design — blade enclosed, 8 inches below your hands.` — Inter, 18-20px, Bold (700), #CCCCCC. Center-aligned.
+
+**Zone 5 — Price (bottom-right):**
+1. `SliceSafe Pro — $64.99` — Inter, 16-18px, Brand Blue (#4A90E2) pill, white text
+
+**Final check:**
+- [ ] Dark dramatic mood = pattern interrupt in bright feeds
+- [ ] Exposed blade looks dangerous — validates viewer's fear
+- [ ] "The design was." in Danger Red = urgency + blame placement
+- [ ] 5 total words in hook at 48-56px Bold — meets visual audit rules
+- [ ] Self-blame removal = deepest emotional hook we have
+- [ ] All text Bold weight minimum (dark background rule)
+- [ ] Design system colors: Deep Navy implicit via image, #FF4444, #4A90E2, #FFFFFF
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 3: `B9_dark_stat`
+**Sub-Avatar:** Fence Sitter | **Angle:** Stat-led pattern interrupt — the number makes danger vivid, then resolves
+**FORMAT: Dark Background + Massive Stat Number** (Pattern #7 dark premium + Pattern #1 numbers)
+**Scroll-stop method:** Cognitive disruption — massive red number forces processing
+**Hook:** `20,000+` (massive) + `ER visits a year.` + `This one can't add another.`
+
+**Why this creative:** "20,000+" in giant Danger Red on a Near Black background is an immediate scroll-stop (verified stat — NEISS/NYT 2011). The number is specific enough to feel researched, round enough to feel massive. "You know exactly how it happens" forces the reader to SHOW themselves the injury sequence mentally — more powerful than describing it. "This one can't add another" resolves with engineering confidence, not marketing claims. The SliceSafe product in the lower-right glows against the darkness — the only bright element, the literal light at the end.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** "You know exactly how it happens" FORCES the reader to mentally replay their own injury sequence — that's SHOWING through reader participation
+- **FRAMES:** SAFE (design prevents injury) + NEW (different from all 20,000 injury-causing designs) + BIG (scale of problem)
+- **Self-categorization:** "This one" not "This mandoline" — avoids category label
+- **Awareness:** Fence Sitter is Problem Aware — they know mandolines are dangerous but haven't experienced it. The stat validates their secondhand fear. Then the mechanism gives them permission to buy.
+
+**Nano Banana Pro Prompt:**
+```
+Dark, bold editorial product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few vegetable slices inside. Product in lower-right third on dark slate surface. Dramatic volumetric side lighting from the left, sharp highlights on light-blue product against dark background. Serious, bold, authoritative mood. Dark charcoal background — product is the only bright element, glowing against darkness. Upper two-thirds is dark negative space for large stat text. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload image, fill canvas. Dark gradient if needed.
+
+**Zone 1 — Stat (upper half):**
+1. `20,000+` — Inter, **72-80px**, Black (900), **#FF4444** (Danger Red). Center-aligned.
+2. `ER visits a year from kitchen slicers.` — Inter, 28-32px, Bold (700), White (#FFFFFF). Center-aligned.
+
+**Zone 2 — Emotional bridge + Resolution:**
+3. `You know exactly how it happens.` — Inter, 28-32px, Bold (700), White. Center-aligned.
+4. `This one can't add another.` — Inter, 32-36px, Bold (700), **#4A90E2** (Brand Blue). Center-aligned.
+
+**Zone 5 — Price (bottom-right):**
+1. `SliceSafe Pro — $64.99` — Inter, 16-18px, Brand Blue pill, white text
+
+**Final check:**
+- [ ] "20,000+" in massive Danger Red = immediate scroll-stop (VERIFIED stat)
+- [ ] Near Black aesthetic stands out dramatically in bright feeds
+- [ ] "You know exactly how it happens" = SHOW via forced mental replay
+- [ ] "This one can't add another" in Brand Blue = resolution without self-categorizing
+- [ ] Product glows as only bright element = visual metaphor (light at end)
+- [ ] All text Bold minimum (dark background rule)
+- [ ] Looks NOTHING like a typical kitchen product ad
+- [ ] Export PNG highest quality
+
+---
+
+**Batch 9 Body Copy 1 (Category reframe — Universal, MEDIUM):**
+```
+Every mandoline you've ever seen has the same design. Flat blade. Hands moving toward it. A plastic guard nobody uses.
+
+This isn't that.
+
+The blade is sealed inside the body. Your hands push down from the top — 8 inches above. They never meet.
+
+It's not a better mandoline. It's a different tool entirely.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** Category reframe in copy form. "This isn't that" = the core reframe. "Not a better mandoline" avoids self-categorization. Mechanism Version A (Physical/Spatial). Hits NEW + SAFE.
+
+**Batch 9 Body Copy 2 (Self-blame removal + SHOWING, SHORT-MEDIUM):**
+```
+You're not stupid for getting cut. The guard your mandoline came with doesn't grip food, slips off, and slows you down — so you skip it. Everyone does. That's not carelessness. That's bad design.
+
+The SliceSafe Pro was designed differently. The blade is enclosed inside the body. You can see it through the hopper but you can't touch it. Your hands push down from the top. They never meet.
+
+No more holding your breath while you slice.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** "You're not stupid" = identity-level self-blame removal (SHOW). "Holding your breath" = SHOW behavior. Mechanism Version B (Experience). Hits SAFE + EASY + NEW.
+
+**Headline 1:** The design was the problem. Not you.
+**Headline 2:** 20,000 ER visits. This one can't add another.
+**Description:** Hands-On-Top design. $64.99
+
+---
+
+## BATCH 10: "Avatar Call-Out"
+**Concept:** Three giant-text avatar call-outs — each targets a different sub-avatar with identity-level hooks
+**Testing:** Does calling out the avatar by BEHAVIOR (not by name) create stronger self-selection than mechanism-first or fear-first hooks?
+**Hypothesis:** Avatar call-out format works at Stage 3-4 because it bypasses feature/claim fatigue entirely. The ad says "this is YOU" — everyone else scrolls past, but the right person STOPS because the ad describes them. Huel's "Breakfast for busy dads" proves this format scales. Three sub-avatars = three angles = Marksman testing which avatar Meta's algorithm favors.
+**Sub-avatars:** B10_avatar_drawer = Drawer Stuffer (Product Aware, SHORT). B10_avatar_scarred = Scarred Chef (Solution Aware, SHORT-MEDIUM). B10_avatar_fence = Fence Sitter (Problem Aware, MEDIUM).
+**Swipe file patterns applied:** Huel #3 "Breakfast for busy dads" Avatar Call-Out (Ad #3, Priority #5), applied three ways
+**Psychology:** Unity Principle (shared identity = instant trust), Mimetic Desire (the review card shows someone like you already bought), Similarity Bias (I am this person), Identity Gap (I have everything upgraded except THIS)
+**FRAMES per creative:** B10_drawer = SAFE + EASY. B10_scarred = SAFE + NEW. B10_fence = SAFE + NEW.
+**Design System:** All three use Warm Off-White (#F8F7F4) backgrounds. Near Black (#1A1A1A) hooks at 48-64px Black weight. Danger Red (#FF4444) for the emotional punch word/line. Brand Blue (#4A90E2) for price. Review cards in white with drop shadow.
+
+---
+
+### Creative 1: `B10_avatar_drawer`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Direct avatar call-out — you ARE this person
+**FORMAT: Avatar Call-Out Giant Text** (Huel #3 "Breakfast for busy dads" — Priority #5)
+**Scroll-stop method:** Cognitive disruption — the ad literally describes YOU
+**Hook:** `PEOPLE WHO BOUGHT A MANDOLINE AND NEVER USED IT AGAIN` — **48-64px**, Inter Black (900), Near Black (#1A1A1A) + Danger Red (#FF4444) for "USED IT AGAIN"
+
+**Why this creative:** The avatar label IS the entire creative — giant text calling out exactly who this ad is for. Everyone else scrolls past. But the right person STOPS because the ad describes their exact situation. Drawer Stuffer is our proven winner (B4_drawer_finally got algorithm's most spend). "NEVER USED IT AGAIN" in red carries more emotional weight than "in their drawer" — it's a DECISION driven by fear, not just a location. The review card anchors social proof.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** "Never used it again" SHOWS a decision driven by fear, not describes a location
+- **FRAMES:** SAFE (implied — the reason they stopped) + EASY (review card shows the fix is simple)
+- **Self-categorization:** Text describes a BEHAVIOR pattern, not a product category
+- **Awareness:** Product Aware — they own a mandoline. SHORT copy.
+
+**Nano Banana Pro Prompt:**
+```
+Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with thin vegetable slices. Standing on clean white surface, slight angle showing full vertical profile. Bright, clean studio lighting, soft directional from left, soft shadow. Product in bottom 40% — upper 60% is clean white space for large text. Editorial product photography feel. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+**NOTE:** Generate on white, remove background, place on Warm Off-White (#F8F7F4) canvas.
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Background: **#F8F7F4** (Warm Off-White)
+3. Upload image, **remove background**, position in bottom 40%
+
+**Zone 1 — Giant text (upper 50%):**
+1. `PEOPLE WHO` — Inter, 48-54px, Black (900), #1A1A1A. Top 8%, center.
+2. `BOUGHT A` — Inter, 48-54px, Black (900), #1A1A1A. Below.
+3. `MANDOLINE` — Inter, **56-64px**, Black (900), #1A1A1A. BIGGEST word.
+4. `AND NEVER` — Inter, 48-54px, Black (900), #1A1A1A. Below.
+5. `USED IT AGAIN` — Inter, 48-54px, Black (900), **#FF4444** (Danger Red). Below.
+
+**Review card (overlapping product, lower-center):**
+1. White rounded rectangle, ~700px × ~140px, 16px corners, drop shadow
+2. `★★★★★` — 16px, #FFB800
+3. `"Had 3 mandolines in the drawer. This one lives on the counter."` — Inter, 14-16px, Regular, #333333
+4. `— Verified Buyer` — Inter, 12px, Regular, #999999
+
+**Zone 5 — Price (bottom-center):**
+1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, Brand Blue (#4A90E2)
+
+**Final check:**
+- [ ] "PEOPLE WHO BOUGHT A MANDOLINE AND NEVER USED IT AGAIN" dominates top half
+- [ ] "USED IT AGAIN" in Danger Red = emotional punch (fear-driven decision)
+- [ ] Text IS the scroll-stop — Drawer Stuffers freeze when they see themselves described
+- [ ] Warm Off-White (#F8F7F4) — not clinical white
+- [ ] Review card in white creates depth against off-white
+- [ ] 48-64px Black weight — meets visual audit for giant text
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 2: `B10_avatar_scarred`
+**Sub-Avatar:** Scarred Chef | **Angle:** Direct avatar call-out — scar-specific identity trigger
+**FORMAT: Avatar Call-Out Giant Text** (Huel #3 variant — dark background for emotional intensity)
+**Scroll-stop method:** Cognitive disruption — the ad describes your scar, your decision, your fear
+**Hook:** `YOU HAVE A SCAR FROM YOUR MANDOLINE. YOU HAVEN'T USED ONE SINCE.` — **44-52px**, Inter Black (900), White (#FFFFFF) + Danger Red (#FF4444) for "HAVEN'T USED ONE SINCE"
+
+**Why this creative:** The Scarred Chef has a PHYSICAL reminder — a scar they can look at right now. Calling out the scar is the most visceral avatar call-out possible. "Haven't used one since" names the consequence of the injury. The dark background matches the emotional weight — this isn't a cheerful ad. The in-use photo below shows hands safely on top, providing immediate visual resolution.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** "You have a scar" = names real physical evidence. "Haven't used one since" = SHOWS the behavioral consequence
+- **FRAMES:** SAFE (implied — this scar can't happen with this design) + NEW (the mechanism is fundamentally different)
+- **Self-categorization:** Describes the PERSON and their HISTORY, not the product category
+- **Awareness:** Solution Aware — they know mandolines exist, they've used one, they stopped. They need proof this one is different.
+
+**Nano Banana Pro Prompt:**
+```
+Warm kitchen photograph from above showing a pair of hands pushing down confidently on the ergonomic handle of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with perfect thin vegetable slices falling into it. The hands are relaxed and confident, pressing straight down from above. Warm kitchen countertop, soft natural side lighting from a window. Focus on the DISTANCE between the hands (top) and where the blade is (middle) — the gap is dramatic and obvious. Warm, confident, safe mood. Natural color, 50mm lens feel. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Background: **#1A2332** (Deep Navy — emotional intensity)
+3. Upload in-use image, position in lower 45%, edge-to-edge width
+
+**Zone 1 — Giant text (upper 45%):**
+1. `YOU HAVE A SCAR` — Inter, 44-52px, Black (900), White (#FFFFFF). Top 8%, center.
+2. `FROM YOUR` — Inter, 44-52px, Black (900), White. Below.
+3. `MANDOLINE.` — Inter, **52-60px**, Black (900), White. BIGGEST word.
+4. `YOU HAVEN'T USED` — Inter, 44-52px, Black (900), White. Below.
+5. `ONE SINCE.` — Inter, 44-52px, Black (900), **#FF4444** (Danger Red). Below.
+
+**Review card (overlapping image border, center):**
+1. White rounded rectangle, ~700px × ~120px, 16px corners, drop shadow
+2. `★★★★★` — 16px, #FFB800
+3. `"I was terrified of mandolines. This one changed my mind."` — Inter, 14-16px, Regular, #333333
+4. `— Verified Buyer` — Inter, 12px, Regular, #999999
+
+**Zone 5 — Price (bottom-center):**
+1. `SliceSafe Pro — $64.99` — Inter, 16-18px, Brand Blue (#4A90E2) pill, white text
+
+**Final check:**
+- [ ] "YOU HAVE A SCAR FROM YOUR MANDOLINE" = most visceral avatar call-out
+- [ ] "ONE SINCE." in Danger Red = names the behavioral consequence
+- [ ] Deep Navy background matches emotional weight — this isn't cheerful
+- [ ] In-use photo SHOWS hands safely on top = immediate visual resolution
+- [ ] The gap between hands (top) and blade (middle) is visible in the image
+- [ ] All text Bold minimum (dark background rule)
+- [ ] Review card provides social proof from someone who overcame the same fear
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 3: `B10_avatar_fence`
+**Sub-Avatar:** Fence Sitter | **Angle:** Direct avatar call-out — names the purchase loop
+**FORMAT: Avatar Call-Out Giant Text** (Huel #3 variant — light background, text-only)
+**Scroll-stop method:** Cognitive disruption — the ad describes your exact browsing behavior
+**Hook:** `YOU'VE LOOKED AT MANDOLINES 3 TIMES THIS MONTH. YOU CLOSED THE TAB EVERY TIME.` — **40-48px**, Inter Black (900), Near Black (#1A1A1A) + Danger Red (#FF4444) for "CLOSED THE TAB EVERY TIME"
+
+**Why this creative:** The Fence Sitter's defining behavior is the LOOP: want → research → read horror stories → close tab → repeat. This ad names that loop with uncomfortable precision. "3 times this month" is specific enough to feel personally observed (even though it's a guess). Fence Sitters have never owned a mandoline — they need PERMISSION to buy their first one. The mechanism reveal in the subtext gives that permission.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** Names the exact browsing BEHAVIOR — "looked at mandolines," "closed the tab" = SHOWING actions, not claiming feelings
+- **FRAMES:** SAFE (the reason the tab got closed = fear of injury) + NEW (this design is fundamentally different)
+- **Self-categorization:** Describes the BROWSING PATTERN, not the product. The ad is about THEM.
+- **Awareness:** Problem Aware — they've never owned one. MEDIUM copy needed to explain the mechanism.
+
+**This creative is CANVA-ONLY — no image generation needed.**
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Background: **#F8F7F4** (Warm Off-White)
+
+**Zone 1 — Giant text (upper 55%):**
+1. `YOU'VE LOOKED AT` — Inter, 40-48px, Black (900), #1A1A1A. Top 8%, center.
+2. `MANDOLINES` — Inter, **48-56px**, Black (900), #1A1A1A. BIGGEST word.
+3. `3 TIMES THIS MONTH.` — Inter, 40-48px, Black (900), #1A1A1A.
+4. *(20px gap)*
+5. `YOU CLOSED THE TAB` — Inter, 40-48px, Black (900), #1A1A1A.
+6. `EVERY TIME.` — Inter, 40-48px, Black (900), **#FF4444** (Danger Red).
+
+**Zone 2 — Mechanism reveal (center):**
+1. Thin divider: 1px, #DDDDDD, 60% width, centered
+2. `This one is different.` — Inter, 24-28px, Bold (700), #1A1A1A
+3. `The blade is enclosed. Your hands push down from the top.` — Inter, 18-20px, Regular, #666666
+4. `They never meet.` — Inter, 18-20px, Bold (700), #1A1A1A
+
+**Zone 5 — Price (bottom-center):**
+1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 18-20px, Semi-Bold (600), Brand Blue (#4A90E2)
+2. `Hands-On-Top design. 30-day guarantee.` — Inter, 14px, Regular, #999999
+
+**Final check:**
+- [ ] "YOU'VE LOOKED AT MANDOLINES 3 TIMES THIS MONTH" = uncomfortably specific
+- [ ] "EVERY TIME." in Danger Red = names the fear-driven exit behavior
+- [ ] Text-only format with Warm Off-White = editorial, clean, not promotional
+- [ ] Mechanism reveal below divider = permission to break the loop
+- [ ] "They never meet." = the core mechanism in 3 words
+- [ ] 30-day guarantee removes remaining purchase risk
+- [ ] No image generation needed — Canva-only
+- [ ] Export PNG highest quality
+
+---
+
+**Batch 10 Body Copy 1 (Drawer Stuffer — identity → permission → mechanism, SHORT):**
+```
+Three mandolines in the drawer. A julienne peeler. A spiralizer. All collecting dust.
+
+Not because you don't cook. Because the blade was always too close.
+
+The SliceSafe Pro is different. Your hands push down from the top. The blade is sealed inside — 8 inches below. You can see it but you can't reach it.
+
+This is the one that made it to the counter.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** Opens with Drawer Stuffer's exact inventory (SHOW). "Not because you don't cook" = validates identity. "Made it to the counter" = the dream. Mechanism Version A (Physical/Spatial). SHORT = Product Aware. Hits SAFE + EASY.
+
+**Batch 10 Body Copy 2 (Scarred Chef — scar acknowledgment → reframe → mechanism, MEDIUM):**
+```
+I have a scar on my left thumb from my old mandoline. Small. Barely visible. But I feel it every time I pick up a knife.
+
+I stopped using mandolines 4 years ago. Switched to a knife for everything. Slower, yes. But I kept all my fingers.
+
+Then someone showed me the SliceSafe Pro. Your hands grip the top — 8 inches above the blade. The blade is enclosed inside the body. You can see it through the hopper but you can't touch it.
+
+I've used it every week for a month. I don't flinch anymore.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** Opens with SHOW (the scar, the feeling when gripping a knife). "I stopped using mandolines" = SHOW behavior. "I don't flinch anymore" = SHOW resolution. MEDIUM = Solution Aware. Mechanism Version B (Experience). Hits SAFE + NEW.
+
+**Headline 1:** The one that stays on the counter.
+**Headline 2:** You have a scar. This one can't add another.
+**Description:** Hands-On-Top design. $64.99
+
+---
+
+## BATCH 11: "Feed Camouflage"
+**Concept:** Three native-looking creatives that bypass ad blindness by looking like organic food/lifestyle content
+**Testing:** Does feed camouflage (zero ad signals) outperform branded formats in scroll-stopping and driving engagement?
+**Hypothesis:** Our cucumber_salad creative proved native format works — highest CTR in account (2.44%). Feed camouflage works because the brain categorizes it as "content I want" before realizing it's an ad. Three food/lifestyle contexts: cucumber salad trend (cultural momentum), dinner party hosting (aspiration), weekly meal prep (utility). NO price pills, NO brand elements, NO text overlays on images.
+**Sub-avatars:** B11_native_salad = Scroll Stopper (Problem Aware). B11_native_dinner = Fence Sitter (Problem Aware). B11_native_prep = Meal Prep Machine (Solution Aware).
+**Swipe file patterns applied:** Feed Camouflage Pattern #6, Pubity Style (native post aesthetic)
+**Psychology:** Mere Exposure (looks like content they already engage with), Present Bias (show the outcome NOW), Jobs-To-Be-Done (they want the food/outcome, not the tool)
+**FRAMES per creative:** B11_salad = EASY + FAST. B11_dinner = EASY + FAST. B11_prep = FAST + EASY.
+**Design System:** Feed Camouflage rules apply. NO price pill, NO brand pill, NO text overlay. Caption bar only. Semi-transparent dark bar (#000000, 55% opacity) at bottom. Warm natural light, 50mm lens feel, film grain optional.
+
+---
+
+### Creative 1: `B11_native_salad`
+**Sub-Avatar:** Scroll Stopper | **Angle:** Food outcome — the cucumber salad IS the scroll-stop
+**FORMAT: Feed Camouflage / Native Food Post** (Pattern #6)
+**Scroll-stop method:** Format camouflage — looks like an Instagram food post, not an ad
+**Caption:** `Finally made it.` / `No pep talk needed.`
+
+**Why this creative:** Our cucumber_salad ad got the highest CTR in the account (2.44%) and proved food-first works. This version doubles down: better food photography, mandoline even further in background, and the caption "No pep talk needed" SHOWS the emotional transformation — it names the behavior she used to do (psyching herself up) and implies she doesn't need to anymore. The body copy carries the full Scroll Stopper journey from fear → discovery → permission → purchase.
 
 **Origins frameworks:**
 - **SHOW vs TELL:** "No pep talk needed" SHOWS the emotional transformation — names the behavior she used to do (psyching herself up) and implies she doesn't anymore
 - **FRAMES:** EASY + FAST (the salad is done, it looks effortless)
 - **Swipe Rule #6:** Cover the caption — does the image still sell? YES (uniform paper-thin slices = mandoline result)
+- **Awareness:** Problem Aware Scroll Stopper — body copy needs FULL journey (fear → discovery → mechanism → outcome)
 
 **Nano Banana Pro Prompt:**
 ```
@@ -411,410 +839,36 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 
 **Caption area (bottom ~12%):**
 1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
-2. `Finally made it.` — Inter, 22-26px, Regular, White
-3. `No pep talk needed.` — Inter, 22-26px, Semi-bold, #4A90E2
+2. `Finally made it.` — Inter, 22-26px, Regular (400), White (#FFFFFF)
+3. `No pep talk needed.` — Inter, 22-26px, Semi-Bold (600), Brand Blue (#4A90E2)
 
 **NO price tag. NO brand pill. Zero ad signals.**
 
 **Final check:**
 - [ ] Cucumber salad looks genuinely appetizing — would stop a food scroller
-- [ ] Slices visibly uniform and thin (mandoline result)
-- [ ] Product in background, NOT hero — food is
-- [ ] NO text overlay on food photo — caption bar only
+- [ ] Slices visibly uniform and thin (mandoline result = visual proof)
+- [ ] Product in background, NOT hero — food is the star
+- [ ] NO text overlay on food photo — caption bar only (feed camouflage rules)
 - [ ] Caption reads like personal Instagram, not ad copy
+- [ ] "No pep talk needed" = SHOW emotional transformation (names old behavior)
 - [ ] NO price tag anywhere — zero ad signals
 - [ ] Body copy does ALL selling
 - [ ] Export PNG highest quality
 
 ---
 
-### Creative 3: `B9_outcome_uniform`
-**Sub-Avatar:** Universal | **Angle:** Radical simplicity — outcome difference in 2 seconds
-**FORMAT: Simplified Us vs Them** (Nutella "This is bread. This is breakfast." pattern)
-**Scroll-stop method:** Cognitive disruption — two identical images with opposite outcomes forces processing
-
-**Why this creative:** Radical simplicity converts. Two near-identical images, two short labels, nothing else. Brain processes in under 1 second. The visual IS the argument — ugly hand-chopping vs beautiful mandoline slicing.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** The images SHOW the difference — no text claims needed
-- **FRAMES:** FAST (90 seconds vs 20 minutes) + EASY (zero courage) + SAFE (implied)
-- **Category reframe:** "This is chopping. This is slicing." — reframes the ACTIVITY, not the tool
-
-**Nano Banana Pro Prompt (LEFT — hand-chopped, ugly):**
-```
-Overhead photograph of a pile of hand-chopped vegetables on a wooden cutting board. The vegetables are roughly cut — thick, uneven carrot coins of varying widths, chunky cucumber pieces, irregular zucchini slices. Some pieces are twice the thickness of others. A chef's knife lies beside the messy pile. The cutting board shows knife marks. Frustrated, imperfect, tedious mood. Warm but slightly harsh kitchen lighting. Shot from directly above, 50mm lens, natural color. Just the cutting board, knife, and messy vegetables. No text, no logos, no watermarks. Square crop.
-```
-
-**Nano Banana Pro Prompt (RIGHT — mandoline-sliced, perfect):**
-```
-Overhead photograph of mandoline-sliced vegetables on a clean white plate. The vegetables are perfect — paper-thin, perfectly uniform carrot rounds, translucent cucumber slices, identical zucchini coins. Every slice is a carbon copy of the last. Restaurant-quality, almost architectural uniformity. Clean white marble surface. Precise, effortless, satisfying mood. Bright, clean overhead lighting. Shot from directly above, 50mm lens. Just the plate and perfect slices. No text, no logos, no watermarks. Square crop.
-```
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Background: **#F8F7F4** (warm off-white)
-
-**Left half:** Upload LEFT image (520px wide, 20px center gap)
-- Below: `This is chopping.` — Inter, 24-28px, Regular, #666666
-
-**Right half:** Upload RIGHT image (520px wide)
-- Below: `This is slicing.` — Inter, 24-28px, Regular, #1A1A1A
-
-**Bottom (centered):**
-1. `One takes 20 minutes and a sharp knife. One takes 90 seconds and zero courage.`
-2. Inter, 18-20px, Regular, #666666
-
-**Price:** `$64.99` — Inter, 16px, #4A90E2
-
-**Final check:**
-- [ ] LEFT looks tedious, imperfect — thick uneven cuts
-- [ ] RIGHT looks effortless, perfect — paper-thin uniform
-- [ ] Labels SHORT: "This is chopping." / "This is slicing." — nothing more
-- [ ] Visual does ALL the work — no features, no mechanism
-- [ ] Brain processes entire ad in under 1 second
-- [ ] "Zero courage" = emotional differentiator (SHOW)
-- [ ] Warm off-white background — NOT clinical white
-- [ ] Export PNG highest quality
-
----
-
-**Batch 9 Body Copy 1 (SHOWING — Scroll Stopper journey, Problem Aware → Most Aware, LONGER):**
-```
-I watched cucumber salad videos for 3 weeks before I bought a mandoline. Every time I almost did, I'd read another injury comment and close the tab.
-
-Then I found the SliceSafe Pro. The blade is sealed inside — you can see it through the hopper but you can't touch it. Your hands just push down from the top. That's it.
-
-Paper-thin slices. Perfectly uniform. Took about 60 seconds. Made the salad. Didn't psych myself up first.
-
-$64.99 (was $99.95) — SliceSafe Pro™
-```
-**Origins:** Opens with Scroll Stopper's EXACT journey (SHOW). "Read the injury reviews and closed the tab" = names the purchase-loop behavior. Longer copy for Problem Aware. Mechanism Version B (Experience). Hits SAFE + EASY + FAST + NEW.
-
-**Batch 9 Body Copy 2 (Recipe list + behavior bridge, MEDIUM):**
-```
-Scalloped potatoes. Hash browns. Cucumber salad. Coleslaw. Ratatouille.
-
-Every recipe that calls for "thin, uniform slices" — done in under 60 seconds. No knife skills. No holding your breath while you slice.
-
-The blade is sealed inside the body. Your hands push down from the top. They never meet.
-
-SliceSafe Pro™ — $64.99 (was $99.95)
-```
-**Origins:** Recipe list = Jobs-To-Be-Done opener. "No holding your breath" = SHOW behavior (not "no mandoline anxiety" which self-categorizes). Mechanism Version A (Physical/Spatial). Hits EASY + FAST + SAFE.
-
-**Headline 1:** Perfect slices. Zero fear.
-**Headline 2:** 90 seconds. Paper-thin. Zero fear.
-**Description:** Hands-On-Top design. $64.99
-
----
-
-## BATCH 10: "Dark Emotional"
-**Concept:** Test dark backgrounds + high-intensity emotional hooks that reach deep into the decision stack
-**Testing:** Do dark, dramatic creatives with emotional self-blame/fear hooks outperform warm lifestyle ads?
-**Hypothesis:** Dark backgrounds break feed patterns (feeds are predominantly white/light), signal premium, and match the emotional intensity of fear/self-blame messaging. Three different format approaches — image-led, number-led, text-led — all on dark backgrounds.
-**Sub-avatars:** B10_dark_blame = Scarred Chef + Drawer Stuffer (Solution Aware). B10_dark_stat = Scarred Chef (Solution Aware). B10_dark_guard = Universal (Solution Aware → Product Aware).
-**Swipe file patterns applied:** Swipe Pattern #7 (dark backgrounds = premium), Pattern #1 (SHOW vs TELL), Pattern #5 (objection-crushing in the image)
-**Psychology:** Status-Quo Bias (reframe: design was wrong, not you), Availability Heuristic (ER stat makes danger vivid), Confirmation Bias (align with "mandolines are dangerous" then redirect)
-**Template alignment:** All 3 use Template 5 (Leading With New Mechanism) — old mechanism exposed, then new one introduced
-**FRAMES per creative:** B10_blame = SAFE + NEW. B10_stat = SAFE + BIG. B10_guard = SAFE + EASY + NEW.
-
----
-
-### Creative 1: `B10_dark_blame`
-**Sub-Avatar:** Scarred Chef + Drawer Stuffer | **Angle:** Self-blame removal — "You weren't careless. The design was."
-**FORMAT: Dark Moody Close-Up + Short Emotional Hook** (image-led approach)
-**Scroll-stop method:** Cognitive disruption — self-blame removal triggers emotional release
-**Hook:** `You weren't careless.` / `The design was.` — 5 words total, **48-56px Bold**
-
-**Why this creative:** Research confirmed self-blame is massive: "I know, stupid," "Such a rookie mistake." "You weren't careless" directly removes self-blame. "The design was" places blame where it belongs. This is emotionally freeing (SHOW — makes them feel absolved) vs intellectually interesting (TELL). The dark moody image of the exposed blade validates their fear — yes, that thing IS dangerous.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** "You weren't careless" = SHOWING absolution through direct address, not claiming "our product is safer"
-- **FRAMES:** SAFE (the old design was the problem) + NEW (the design changed)
-- **Self-categorization:** Never mentions "mandoline" in the hook — "the design" is abstract
-- **Template 5:** Old mechanism (exposed blade in image) → new mechanism named in subtext
-
-**Nano Banana Pro Prompt:**
-```
-Dramatic, moody close-up photograph of a traditional flat stainless steel mandoline slicer lying on a dark slate surface. The exposed V-blade catches dramatic Rembrandt side lighting from the left, creating a sharp glint. The rest fades into shadow. A thin plastic finger guard lies beside it, detached and useless-looking. Dark, moody, almost ominous — chiaroscuro lighting. The blade is the focal point — bright, sharp, exposed. Most of the frame is dark negative space — upper two-thirds for text overlay. Dark charcoal and steel tones. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload image, fill canvas
-3. If needed, dark gradient overlay top (black → transparent, 40% opacity)
-
-**Hook (upper half):**
-1. `You weren't careless.` — Inter, **48-56px**, Bold, White. Upper third, center-aligned.
-2. `The design was.` — Inter, **48-56px**, Bold, **#FF4444** (red). Below, center-aligned.
-
-**Subtext:**
-1. `Hands-On-Top design — blade enclosed, 8 inches below your hands.`
-2. Inter, 18-20px, Regular, #CCCCCC. Center-aligned.
-
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99` — Inter, 16-18px, #4A90E2 pill, white text
-
-**Final check:**
-- [ ] Dark dramatic mood = pattern interrupt in bright feeds
-- [ ] Exposed blade looks dangerous — validates viewer's fear
-- [ ] "The design was." in red = urgency + blame placement
-- [ ] 5 total words in hook at 48-56px Bold — meets visual audit rules
-- [ ] Self-blame removal = deepest emotional hook we have
-- [ ] Export PNG highest quality
-
----
-
-### Creative 2: `B10_dark_stat`
-**Sub-Avatar:** Scarred Chef | **Angle:** Stat-led pattern interrupt — the number makes danger vivid
-**FORMAT: Dark Background + Massive Stat Number** (number-led approach)
-**Scroll-stop method:** Cognitive disruption — massive red number forces processing
-**Hook:** `20,000+` (massive) + `ER visits a year.` + `You know exactly how it happens.`
-
-**Why this creative:** "20,000+" in giant red text on dark background is an immediate scroll-stop (verified stat — NEISS/NYT 2011). "You know exactly how it happens" is deeper than "You were one of them" — it channels shared experience through SHOWING (forces the reader to relive the sequence mentally). "This one can't add another" = resolution.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** "You know exactly how it happens" FORCES the reader to SHOW themselves the injury sequence mentally — more powerful than describing it
-- **FRAMES:** SAFE + BIG (20,000 = scale of the problem)
-- **Self-categorization:** "This one" not "This mandoline" — avoids category label
-- **Awareness:** Solution Aware (they know mandolines are dangerous) → Product Aware (this one is different)
-
-**Nano Banana Pro Prompt:**
-```
-Dark, bold editorial product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few vegetable slices inside. Product in lower-right third on dark slate surface. Dramatic volumetric side lighting from the left, sharp highlights on light-blue product against dark background. Serious, bold, authoritative mood. Dark charcoal background — product is the only bright element, glowing against darkness. Upper two-thirds is dark negative space for large stat text. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload image, fill canvas. Dark gradient if needed.
-
-**Stat text (upper half):**
-1. `20,000+` — Inter, **72-80px**, Bold, **#FF4444** (red). Center-aligned.
-2. `ER visits a year from kitchen slicers.` — Inter, 28-32px, Regular, White. Center-aligned.
-3. `You know exactly how it happens.` — Inter, 28-32px, Bold, White. Center-aligned.
-4. `This one can't add another.` — Inter, 32-36px, Bold, **#4A90E2** (blue). Center-aligned.
-
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99` — Inter, 16-18px, #4A90E2 pill, white text
-
-**Final check:**
-- [ ] "20,000+" in massive red = immediate scroll-stop (VERIFIED stat)
-- [ ] Dark bold aesthetic stands out in bright feeds
-- [ ] "You know exactly how it happens" = SHOW (forces mental replay)
-- [ ] "This one can't add another" in blue = resolution without self-categorizing
-- [ ] Looks NOTHING like a typical kitchen product ad
-- [ ] Export PNG highest quality
-
----
-
-### Creative 3: `B10_dark_guard`
-**Sub-Avatar:** Universal | **Angle:** Guard elimination — universal design failure exposed
-**FORMAT: Dark Background + 3-Line Stacked Text Build** (text-led approach)
-**Scroll-stop method:** Cognitive disruption — "Nobody uses it" is a universally recognized truth
-**Hook:** `Every mandoline comes with a guard.` / `Nobody uses it.` / `We eliminated it.` — 3-line build, **44-52px Bold**
-
-**Why this creative:** Instead of speaking to mandoline owners only, this presents a universal design failure. The 3-line progression (white truth → red damning fact → blue resolution) creates a narrative arc in 12 words. The forensic image of the guard on dark slate feels like evidence.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** The guard IMAGE shows the flimsy evidence; the text names the universal truth
-- **FRAMES:** SAFE (eliminated the design flaw) + EASY (no guard to fumble with) + NEW (we changed the approach)
-- **Template 5:** Old mechanism (guard = band-aid) → eliminated → new mechanism (hands-on-top)
-- **Awareness:** Works for ALL sub-avatars — Fence Sitters learn guards exist and fail, Drawer Stuffers recognize their experience
-
-**Nano Banana Pro Prompt:**
-```
-Dramatic close-up photograph of a small translucent plastic mandoline finger guard sitting alone on a dark slate surface. The guard is slightly scratched but barely used — ergonomic shape shows it was designed to protect fingers but flimsy translucent plastic looks inadequate. Harsh overhead lighting creates sharp highlight on plastic. The guard sits center of frame, small and isolated against dark expanse. Clinical, forensic mood — like evidence in a case. Dark charcoal/slate surface. Upper two-thirds is dark negative space for text. The guard looks like an afterthought, a design band-aid. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload image, fill canvas. Dark gradient if needed.
-
-**Hook (upper half — stacked 3-line build):**
-1. `Every mandoline comes with a guard.` — Inter, **44-52px**, Bold, White. Top 10-14%, center.
-2. `Nobody uses it.` — Inter, **44-52px**, Bold, **#FF4444** (red). Below.
-3. `We eliminated it.` — Inter, **44-52px**, Bold, **#4A90E2** (blue). Below with spacing.
-
-**Subtext (optional):**
-1. `Hands-On-Top design. No guard needed.` — Inter, 18px, Regular, #CCCCCC. Center.
-
-**Price tag (bottom-right):**
-1. `SliceSafe Pro — $64.99` — Inter, 16-18px, #4A90E2 pill, white text
-
-**Final check:**
-- [ ] Guard looks lonely and inadequate on dark surface — visual evidence
-- [ ] "Nobody uses it." in red = the universally recognized damning truth
-- [ ] "We eliminated it." in blue = engineering confidence resolution
-- [ ] 3-line build creates narrative arc: truth → problem → solution
-- [ ] All 3 lines Bold weight, 44-52px — meets visual audit size minimum, visible on dark background
-- [ ] Works for ALL sub-avatars including Fence Sitters who've never used a guard
-- [ ] Export PNG highest quality
-
----
-
-**Batch 10 Body Copy 1 (OBJECTION → CLAIM → PROOF → BENEFIT, MEDIUM):**
-```
-"I've tried mandolines. They all come with a guard. I never use the guard."
-
-That's not carelessness. The guard doesn't grip food, slips off, and slows you down — so everyone skips it. That's bad design, not bad behavior.
-
-The SliceSafe Pro doesn't have a guard. Your hands push down from the top. The blade is sealed inside, 8 inches below. Your fingers can't reach it even if you try.
-
-The first time I used it, I noticed something strange. I wasn't nervous. No clenching. No careful breathing. Just... slicing.
-
-30-day guarantee. If the design doesn't change how you feel in the kitchen, send it back.
-
-$64.99 (was $99.95) — SliceSafe Pro™
-```
-**Origins:** Full OBJECTION→CLAIM→PROOF→BENEFIT cycle. 1) OBJECTION: "guards don't work." 2) CLAIM: Bad design, not bad behavior. 3) PROOF: Sealed blade, 8 inches. 4) BENEFIT: "I wasn't nervous. Just slicing." = SHOW emotional payoff. Hits SAFE + EASY + NEW + FAST.
-
-**Batch 10 Body Copy 2 (Self-blame removal + SHOWING, SHORT-MEDIUM):**
-```
-You're not stupid for getting cut. The guard your mandoline came with doesn't grip food, slips off, and slows you down — so you skip it. Everyone does. That's not carelessness. That's bad design.
-
-The SliceSafe Pro was designed differently. The blade is enclosed inside the body. You can see it through the hopper but you can't touch it. Your hands push down from the top. They never meet.
-
-No more holding your breath while you slice.
-
-$64.99 (was $99.95) — SliceSafe Pro™
-```
-**Origins:** "You're not stupid" = identity-level self-blame removal (SHOW). "Holding your breath" = SHOW behavior. Mechanism Version B (Experience). Hits SAFE + EASY + NEW.
-
-**Headline 1:** The design was the problem. Not you.
-**Headline 2:** Hands on top. Blade enclosed below.
-**Description:** Hands-On-Top design. $64.99
-
----
-
-## BATCH 11: "Identity"
-**Concept:** Target WHO the buyer IS instead of what they fear — test identity hooks vs mechanism hooks
-**Testing:** Do identity-based and avatar call-out hooks outperform feature/mechanism hooks?
-**Hypothesis:** Identity hooks work at Stage 3-4 sophistication because they bypass feature/claim fatigue and speak to self-image. The Drawer Stuffer avatar is our proven winner — calling them out by NAME should be the strongest scroll-stop for that audience.
-**Sub-avatars:** B11_id_callout + B11_id_checklist = Drawer Stuffer (Product Aware, SHORT copy). B11_id_host = Fence Sitter (Problem Aware, LONGER copy).
-**Swipe file patterns applied:** Huel #3 "Breakfast for busy dads" Avatar Call-Out (Ad #3, Priority #5), Ridge Wallet check-X comparison, Feed Camouflage (Pattern #6)
-**Psychology:** Unity Principle (shared identity), Mimetic Desire (desirable people use this), Similarity Bias (I'm like the person in this ad)
-**FRAMES per creative:** B11_callout = SAFE + EASY. B11_checklist = NEW + EASY + SAFE. B11_host = EASY + FAST.
-
----
-
-### Creative 1: `B11_id_callout`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Direct avatar call-out — you ARE this person
-**FORMAT: Avatar Call-Out Giant Text** (Huel #3 "Breakfast for busy dads" — Swipe Feedback Loop Ad #3, Priority #5)
-**Scroll-stop method:** Cognitive disruption — the ad literally describes YOU
-
-**Why this creative:** The avatar label IS the entire creative — giant text calling out exactly who this ad is for. Everyone else scrolls past. But the right person STOPS because the ad describes them. Drawer Stuffer is our proven winner. "NEVER USED IT AGAIN" in red carries more emotional weight than "in their drawer" — it's a DECISION driven by fear, not just a location.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** "Never used it again" SHOWS a decision driven by fear, not just describes a location
-- **FRAMES:** SAFE (implied — the reason they stopped) + EASY (review card shows the fix is simple)
-- **Self-categorization:** Text describes a BEHAVIOR pattern, not a product category
-- **Awareness:** Product Aware — they own a mandoline. SHORT copy.
-
-**Nano Banana Pro Prompt:**
-```
-Clean product photograph of a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with thin vegetable slices. Standing on clean white surface, slight angle showing full vertical profile. Bright, clean studio lighting, soft directional from left, soft shadow. Product in bottom 40% — upper 60% is clean white space for large text. Editorial product photography feel. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
-**NOTE:** Generate on white, remove background, place on warm off-white (#F8F7F4) canvas.
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Background: **#F8F7F4** (warm off-white)
-3. Upload image, **remove background**, position in bottom 40%
-
-**Giant text (upper 50%):**
-1. `PEOPLE WHO` — Inter, 48-54px, Black weight, #1A1A1A. Top 8%, center.
-2. `BOUGHT A` — Inter, 48-54px, Black, #1A1A1A. Below.
-3. `MANDOLINE` — Inter, **56-64px**, Black, #1A1A1A. BIGGEST word.
-4. `AND NEVER` — Inter, 48-54px, Black, #1A1A1A. Below.
-5. `USED IT AGAIN` — Inter, 48-54px, Black, **#FF4444** (red). Below.
-
-**Review card (overlapping product, lower-center):**
-1. White rounded rectangle, ~700px × ~140px, 16px corners, drop shadow
-2. `★★★★★` — 16px, #FFB800
-3. `"Had 3 mandolines in the drawer. This one lives on the counter."` — Inter, 14-16px, Regular, #333333
-4. `— Verified Buyer` — Inter, 12px, Regular, #999999
-
-**Price (bottom-center):**
-1. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 16-18px, #4A90E2
-
-**Final check:**
-- [ ] "PEOPLE WHO BOUGHT A MANDOLINE AND NEVER USED IT AGAIN" dominates top half
-- [ ] "USED IT AGAIN" in red = emotional punch (fear-driven decision)
-- [ ] Text IS the scroll-stop — Drawer Stuffers freeze when they see themselves described
-- [ ] Warm off-white (#F8F7F4) — not clinical white
-- [ ] Review card in white creates depth against off-white
-- [ ] 48-64px Black weight — meets visual audit for giant text
-- [ ] Export PNG highest quality
-
----
-
-### Creative 2: `B11_id_checklist`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Identity gap — everything in the kitchen upgraded except this
-**FORMAT: Checklist / Check-X Format** (Ridge Wallet competitor comparison pattern)
-**Scroll-stop method:** Format camouflage — looks like a personal checklist, not an ad
-
-**Why this creative:** The checklist format creates visual momentum — green checks fly down the page, then RED X stops the eye. The identity gap between "upgraded kitchen" and "abandoned mandoline" is felt, not explained. The 3 beats at the red X: ✗ → "Still in the drawer" (location) → "Too scared to use it" (emotion behind it).
-
-**Origins frameworks:**
-- **SHOW vs TELL:** "Still in the drawer. Too scared to use it." = SHOWING behavior + emotion behind it
-- **FRAMES:** NEW + EASY (the checklist implies upgrading is natural, this is the next step)
-- **Self-categorization:** Tagline says "The one you'll actually use" — not "the safe mandoline you'll use"
-- **Awareness:** Product Aware — Drawer Stuffers know what they have. SHORT visual format.
-
-**This creative is CANVA-ONLY — no image generation needed.**
-
-**Canva Step-by-Step:**
-
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Background: **#F8F7F4** (warm off-white)
-
-**Header:** `Your kitchen upgrade checklist:` — Inter, 24-28px, Regular, #999999. Top 8%, left-aligned, ~80px margin.
-
-**Checklist (left-aligned, starting ~18% from top):**
-1. `✓  Knives` — Inter, 36-40px, Semi-bold. ✓ = #4CAF50, text = #1A1A1A
-2. `✓  Pans` — same
-3. `✓  Cutting boards` — same
-4. `✓  Spice collection` — same
-5. *(40px gap)*
-6. `✗  Mandoline` — Inter, 36-40px, Bold. ✗ = #FF4444, text = #FF4444
-   - Below: `Still in the drawer.` — Inter, 20-24px, Regular, #999999
-   - Below: `Too scared to use it.` — Inter, 18-20px, Regular, #FF4444
-7. *(40px gap)*
-8. Thin divider: 1px, #DDDDDD, ~80% width
-9. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 28-32px, Semi-bold, #4A90E2
-10. `The one you'll actually use.` — Inter, 18px, Regular, #999999
-
-**Small product image (bottom-right):** ~280px, background removed, floating on canvas
-
-**Final check:**
-- [ ] Green checks create visual momentum down the page
-- [ ] Red X on "Mandoline" STOPS the eye — the gap is obvious
-- [ ] "Still in the drawer. Too scared to use it." = behavior + emotion (SHOW)
-- [ ] Checklist is scannable in 1 second — no reading required
-- [ ] "The one you'll actually use." — NOT "the mandoline you'll actually use" (self-categorization fix)
-- [ ] Warm off-white is editorial, not sterile
-- [ ] No image generation needed — Canva-only
-- [ ] Export PNG highest quality
-
----
-
-### Creative 3: `B11_id_host`
-**Sub-Avatar:** Fence Sitter | **Angle:** Names the purchase loop — wants to cook, hasn't bought the tool
-**FORMAT: Feed Camouflage / Native** (Swipe Pattern #6)
-**Scroll-stop method:** Format camouflage — looks like an Instagram dinner post
+### Creative 2: `B11_native_dinner`
+**Sub-Avatar:** Fence Sitter | **Angle:** Aspirational outcome — the dinner party you want to host
+**FORMAT: Feed Camouflage / Native Lifestyle Post** (Pattern #6)
+**Scroll-stop method:** Format camouflage — looks like someone's Instagram dinner post
 **Caption:** `You've saved the recipe 3 times.` / `You still haven't bought the tool.`
 
-**Why this creative:** The dinner table scene is genuinely aspirational. The Fence Sitter sees the LIFE they want (hosting impressive dinners) and the caption gently calls out their exact behavior. Feed camouflage = this looks like someone's Instagram post, not a brand ad. NO price tag.
+**Why this creative:** The dinner table scene is genuinely aspirational — thin-sliced vegetable dishes as centerpieces, warm candlelight, guests around the table. The Fence Sitter sees the LIFE they want (hosting impressive dinners with restaurant-quality plating) and the caption gently calls out their exact behavior loop. "Saved the recipe 3 times" is uncomfortably specific. Feed camouflage = this looks like someone's post, not a brand ad.
 
 **Origins frameworks:**
-- **SHOW vs TELL:** The aspirational dinner image SHOWS the outcome; caption names the behavioral loop
+- **SHOW vs TELL:** The aspirational dinner image SHOWS the outcome; caption names the behavioral loop ("saved the recipe... haven't bought the tool")
 - **FRAMES:** EASY (the dinner looks effortless) + FAST (implied — mandoline made this possible)
-- **Self-categorization:** "the tool" not "the mandoline" — avoids triggering the fear association
+- **Self-categorization:** "the tool" not "the mandoline" — avoids triggering the fear association before they see the beautiful result
 - **Awareness:** Problem Aware → Product Aware (Fence Sitters need the full journey in LONGER body copy)
 
 **Nano Banana Pro Prompt:**
@@ -829,132 +883,223 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 3. Leave ~150px at bottom for caption
 
 **Caption area (bottom ~12%):**
-1. Dark bar: #000000, 55% opacity, full width, ~150px
-2. `You've saved the recipe 3 times.` — Inter, 22-26px, Regular, White
-3. `You still haven't bought the tool.` — Inter, 22-26px, Semi-bold, White
+1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
+2. `You've saved the recipe 3 times.` — Inter, 22-26px, Regular (400), White (#FFFFFF)
+3. `You still haven't bought the tool.` — Inter, 22-26px, Semi-Bold (600), White (#FFFFFF)
 
 **NO price tag. NO brand pill. Zero ad signals.**
 
 **Final check:**
 - [ ] Dinner table looks genuinely beautiful — would stop a lifestyle scroller
 - [ ] Mandoline barely visible in background — FOOD is the hero
+- [ ] Thin-sliced vegetable dishes visible as centerpieces (proof of mandoline result)
 - [ ] Caption reads like social media caption, not ad copy
 - [ ] "the tool" not "the mandoline" — avoids self-categorization
+- [ ] "Saved the recipe 3 times" = uncomfortably specific behavioral call-out
 - [ ] NO price tag anywhere — feed camouflage = zero ad signals
 - [ ] Aspirational scene + gentle call-out creates desire, not pressure
 - [ ] Export PNG highest quality
 
 ---
 
-**Batch 11 Body Copy 1 (Identity — Drawer Stuffer, SHORT, Product Aware → Most Aware):**
+### Creative 3: `B11_native_prep`
+**Sub-Avatar:** Meal Prep Machine | **Angle:** Utility outcome — Sunday meal prep done fast
+**FORMAT: Feed Camouflage / Native Lifestyle Post** (Pattern #6)
+**Scroll-stop method:** Format camouflage — looks like a meal prep content post
+**Caption:** `Sunday prep. 6 vegetables. 8 minutes.` / `The mandoline finally earned its counter space.`
+
+**Why this creative:** The Meal Prep Machine doesn't care about fear — they care about SPEED. This creative speaks their language: numbers, efficiency, results. "6 vegetables. 8 minutes." is the 3-beat rhythm format proven by our $28.79 winner. The overhead meal prep scene shows the SCALE of what the mandoline enables — containers of perfectly uniform slices ready for the week. "Earned its counter space" speaks to the kitchen tool evaluation they do constantly.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** The image SHOWS the scale and uniformity of meal prep results. "8 minutes" = specific, measurable, SHOWN
+- **FRAMES:** FAST (8 minutes for 6 vegetables) + EASY (push down, done)
+- **Self-categorization:** "The mandoline finally earned its counter space" — positions it as a tool being EVALUATED, not sold
+- **Awareness:** Solution Aware — Meal Prep Machines know what mandolines do. They need proof THIS one is worth the counter real estate.
+
+**Nano Banana Pro Prompt:**
 ```
-You've upgraded your knives. Your pans. Your cutting boards. Your spice collection.
+Overhead photograph of a Sunday meal prep scene on a warm wooden kitchen counter. Multiple glass meal prep containers arranged in a grid, each filled with perfectly uniform, paper-thin vegetable slices — carrot rounds, cucumber slices, zucchini coins, thinly sliced bell peppers, potato slices, onion rings. Every slice is identical and precise — clearly machine-cut. In the center of the arrangement, slightly off to one side: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade with a few remaining slices. The mandoline has clearly just been used — there are small vegetable trimmings nearby. Warm morning light from a window on the left. Efficient, satisfying, productive mood. Natural color, overhead angle, 50mm lens feel. No text, no logos, no watermarks. 4:5 aspect ratio.
+```
 
-Your mandoline is still the same flat blade with the plastic guard you never use.
+**Canva Step-by-Step:**
 
-The SliceSafe Pro is the one that matches the rest of your kitchen. Vertical. Hands on top. Blade sealed inside. Paper-thin slices in 60 seconds.
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Upload meal prep image, fill canvas — 85-90% height
+3. Leave ~150px at bottom for caption
 
-This one stays on the counter.
+**Caption area (bottom ~12%):**
+1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
+2. `Sunday prep. 6 vegetables. 8 minutes.` — Inter, 22-26px, Semi-Bold (600), White (#FFFFFF)
+3. `The mandoline finally earned its counter space.` — Inter, 20-24px, Regular (400), White (#FFFFFF)
+
+**NO price tag. NO brand pill. Zero ad signals.**
+
+**Final check:**
+- [ ] Meal prep scene looks real and productive — would stop a meal prep scroller
+- [ ] Containers show SCALE (6+ types of uniform slices)
+- [ ] Every slice is visibly machine-cut and uniform (mandoline result = proof)
+- [ ] Mandoline present but not hero — it's a TOOL in a work scene
+- [ ] "6 vegetables. 8 minutes." = 3-beat rhythm (proven winner format)
+- [ ] "Earned its counter space" = Meal Prep Machine evaluation language
+- [ ] NO price tag — feed camouflage
+- [ ] Caption reads like a Sunday productivity post, not an ad
+- [ ] Export PNG highest quality
+
+---
+
+**Batch 11 Body Copy 1 (Scroll Stopper journey — Problem Aware → Most Aware, LONGER):**
+```
+I watched cucumber salad videos for 3 weeks before I bought a mandoline. Every time I almost did, I'd read another injury comment and close the tab.
+
+Then I found the SliceSafe Pro. The blade is sealed inside — you can see it through the hopper but you can't touch it. Your hands just push down from the top. That's it.
+
+Paper-thin slices. Perfectly uniform. Took about 60 seconds. Made the salad. Didn't psych myself up first.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
-**Origins:** SHORT copy (Product Aware). Identity gap = "everything upgraded except this." "The one that matches" avoids "the mandoline that matches" (self-categorization). Closes with "This one stays on the counter" = Drawer Stuffer's dream. Hits NEW + EASY + SAFE + FAST.
+**Origins:** Opens with Scroll Stopper's EXACT journey (SHOW). "Read the injury reviews and closed the tab" = names the purchase-loop behavior. Longer copy for Problem Aware. Mechanism Version B (Experience). Hits SAFE + EASY + FAST + NEW.
 
-**Batch 11 Body Copy 2 (Dinner aspiration — Fence Sitter, LONGER, Problem Aware → Most Aware):**
+**Batch 11 Body Copy 2 (Meal Prep Machine — speed-focused, MEDIUM):**
 ```
-The secret behind restaurant-quality plating at home? A mandoline that actually gets used.
+Scalloped potatoes. Hash browns. Cucumber salad. Coleslaw. Ratatouille.
 
-You've been hand-cutting everything because the only mandoline you've ever seen has a blade pointed at your fingers. This one doesn't.
+Every recipe that calls for "thin, uniform slices" — done in under 60 seconds. No knife skills. No holding your breath while you slice.
 
-The blade is sealed inside. Your hands push down from the top. They never meet. Paper-thin, perfectly uniform slices in under 60 seconds.
+The blade is sealed inside the body. Your hands push down from the top. They never meet.
 
-Cucumber salad. Scalloped potatoes. Ratatouille. Every dish that calls for precision.
-
-Your guests will ask what your secret is.
-
-$64.99 (was $99.95) — SliceSafe Pro™
+SliceSafe Pro™ — $64.99 (was $99.95)
 ```
-**Origins:** LONGER copy (Problem Aware). Names Fence Sitter behavior ("hand-cutting everything"). Mechanism Version C (Comparison). Closes with aspiration. Hits EASY + FAST + SAFE + NEW.
+**Origins:** Recipe list = Jobs-To-Be-Done opener. "No holding your breath" = SHOW behavior (not "no mandoline anxiety" which self-categorizes). Mechanism Version A (Physical/Spatial). Hits EASY + FAST + SAFE.
 
-**Headline 1:** Belongs on the counter, not in the drawer.
-**Headline 2:** The recipe you saved needs this tool.
+**Headline 1:** Finally made the cucumber salad. No pep talk needed.
+**Headline 2:** Sunday prep. 6 vegetables. 8 minutes.
 **Description:** Hands-On-Top design. $64.99
 
 ---
 
-## BATCH 12: "Wild Cards"
-**Concept:** High-risk experiments testing completely novel formats and angles to discover new creative veins
-**Testing:** Can meme formats, text-only layouts, and native UGC photography discover audiences or angles we haven't reached?
-**Hypothesis:** The barbell strategy — 80% of budget on proven formats (Batches 6-11), 20% on experiments (Batch 12). These formats break our own patterns intentionally. If one hits, it opens a new creative vein. Memes bypass ad blindness entirely. Strikethrough lists create dopamine cascades. Native drawer photos trigger universal "gadget graveyard" guilt.
-**Sub-avatars:** B12_wild_meme = Scroll Stopper (Problem Aware). B12_wild_list = Drawer Stuffer (Product Aware). B12_wild_drawer = Drawer Stuffer (Product Aware).
-**Swipe file patterns applied:** Dr. Squatch #3 "Fellas if ya girl" meme (Ad #9, Priority #6), Strikethrough list pattern, Feed Camouflage (Pattern #6)
-**Psychology:** Availability Heuristic (ER stat in meme makes danger vivid), Pratfall Effect (honest voice builds trust), Loss Aversion (drawer guilt)
-**FRAMES per creative:** B12_meme = SAFE + BIG. B12_list = SAFE + EASY + NEW. B12_drawer = SAFE + EASY.
+## BATCH 12: "Simplified Visual Comparison"
+**Concept:** Three comparison-format creatives that force binary evaluation — SliceSafe wins every comparison
+**Testing:** Do comparison/checklist formats outperform emotional/avatar hooks? Does format camouflage (looks like editorial content) drive engagement?
+**Hypothesis:** Comparison formats work through three cognitive mechanisms: 1) Contrast Effect (side-by-side forces evaluation), 2) Completion Bias (once you start reading rows, you finish all of them), 3) Anchoring (the competitor's failures anchor perception). These formats look like objective information, not ads — they bypass the "this is an ad" filter. Three variants: visual product comparison (Nutella pattern), checklist with identity gap (Fodzyme pattern), and strikethrough list (dopamine cascade).
+**Sub-avatars:** B12_compare_simple = Universal. B12_compare_checklist = Drawer Stuffer (Product Aware). B12_compare_strike = Drawer Stuffer (Product Aware).
+**Swipe file patterns applied:** Nutella "This is bread / This is breakfast" simplified comparison, Fodzyme vs Lactaid checklist, Cooling blanket strikethrough list
+**Psychology:** Contrast Effect (forced binary evaluation), Anchoring (competitor failures), Completion Bias (finish all rows), Confirmation Bias (confirms "mandolines are dangerous" belief then redirects)
+**FRAMES per creative:** B12_simple = FAST + EASY + SAFE. B12_checklist = SAFE + EASY + NEW. B12_strike = SAFE + EASY + NEW.
+**Design System:** All three use Warm Off-White (#F8F7F4) backgrounds. Near Black (#1A1A1A) for text. Danger Red (#FF4444) for X icons and failure states. Resolution Green (#4CAF50) for check icons and success states. Brand Blue (#4A90E2) for SliceSafe branding and price.
 
 ---
 
-### Creative 1: `B12_wild_meme`
-**Sub-Avatar:** Scroll Stopper | **Angle:** Text-post meme — disguised as organic social content
-**FORMAT: Text Post / Screenshot Meme** (Dr. Squatch #3 — Swipe Feedback Loop Ad #9, Priority #6)
-**Scroll-stop method:** Format camouflage — looks like a Twitter/Reddit screenshot, not an ad
+### Creative 1: `B12_compare_simple`
+**Sub-Avatar:** Universal | **Angle:** Radical simplicity — outcome difference in 2 seconds
+**FORMAT: Simplified Us vs Them** (Nutella "This is bread. This is breakfast." pattern)
+**Scroll-stop method:** Cognitive disruption — two images with opposite outcomes forces processing
+**Hook:** `This is chopping.` / `This is slicing.` — ultra-minimal labels
 
-**Why this creative:** Zero ad formatting = bypasses ad blindness completely. The text-post format earns organic engagement (saves, shares). The stat-bomb opener ("20,000 people go to the ER") creates shock value. The pivot to "unless it's a SliceSafe" is the mic-drop. This format was the #6 priority in the swipe application map and is completely absent from our lineup.
+**Why this creative:** Radical simplicity converts. Two near-identical images, two short labels, nothing else. Brain processes in under 1 second. The visual IS the argument — ugly hand-chopping (thick, uneven, tedious) vs beautiful mandoline slicing (thin, uniform, effortless). No features, no mechanism, no claims. Just outcomes. The "zero courage" line in the supporting text is the emotional differentiator — it SHOWS that the mandoline requires no bravery, not that it's "safe."
 
 **Origins frameworks:**
-- **SHOW vs TELL:** The text SHOWS a thought process in real-time — reader follows the internal logic
-- **FRAMES:** SAFE + BIG (20,000 stat = scale of problem)
-- **Personality > polish:** This format IS personality — it's informal, opinionated, shareable
-- **Self-categorization:** "kitchen slicers" not "mandolines" — broader, less triggering
+- **SHOW vs TELL:** The images SHOW the difference — no text claims needed. Cover the labels — the images still sell.
+- **FRAMES:** FAST (90 seconds vs 20 minutes) + EASY (zero courage required) + SAFE (implied by "zero courage")
+- **Category reframe:** "This is chopping. This is slicing." — reframes the ACTIVITY, not the tool
+- **Awareness:** Universal — needs zero mandoline knowledge. The visual argument is self-evident.
+
+**Nano Banana Pro Prompt (LEFT — hand-chopped, ugly):**
+```
+Overhead photograph of a pile of hand-chopped vegetables on a wooden cutting board. The vegetables are roughly cut — thick, uneven carrot coins of varying widths, chunky cucumber pieces, irregular zucchini slices. Some pieces are twice the thickness of others. A chef's knife lies beside the messy pile. The cutting board shows knife marks. Frustrated, imperfect, tedious mood. Warm but slightly harsh kitchen lighting. Shot from directly above, 50mm lens, natural color. Just the cutting board, knife, and messy vegetables. No text, no logos, no watermarks. Square crop.
+```
+
+**Nano Banana Pro Prompt (RIGHT — mandoline-sliced, perfect):**
+```
+Overhead photograph of mandoline-sliced vegetables on a clean white plate. The vegetables are perfect — paper-thin, perfectly uniform carrot rounds, translucent cucumber slices, identical zucchini coins. Every slice is a carbon copy of the last. Restaurant-quality, almost architectural uniformity. Clean white surface. Precise, effortless, satisfying mood. Bright, clean overhead lighting. Shot from directly above, 50mm lens. Just the plate and perfect slices. No text, no logos, no watermarks. Square crop.
+```
+
+**Canva Step-by-Step:**
+
+1. Create new design → Custom size → **1080 x 1350 px**
+2. Background: **#F8F7F4** (Warm Off-White)
+
+**Left half:** Upload LEFT image (520px wide, 20px center gap)
+- Below: `This is chopping.` — Inter, 24-28px, Regular (400), #666666
+
+**Right half:** Upload RIGHT image (520px wide)
+- Below: `This is slicing.` — Inter, 24-28px, Bold (700), Near Black (#1A1A1A)
+
+**Bottom (centered):**
+1. `One takes 20 minutes and a sharp knife. One takes 90 seconds and zero courage.`
+2. Inter, 18-20px, Regular (400), #666666
+
+**Zone 5 — Price:**
+1. `SliceSafe Pro — $64.99` — Inter, 16px, Brand Blue (#4A90E2)
+
+**Final check:**
+- [ ] LEFT looks tedious, imperfect — thick uneven cuts (the problem)
+- [ ] RIGHT looks effortless, perfect — paper-thin uniform (the solution)
+- [ ] Labels SHORT: "This is chopping." / "This is slicing." — nothing more
+- [ ] "This is slicing" in Bold vs "This is chopping" in Regular = subtle visual hierarchy
+- [ ] Visual does ALL the work — no features, no mechanism explained
+- [ ] Brain processes entire ad in under 1 second
+- [ ] "Zero courage" = emotional differentiator (SHOW — no bravery needed)
+- [ ] Warm Off-White (#F8F7F4) — editorial, not clinical
+- [ ] Export PNG highest quality
+
+---
+
+### Creative 2: `B12_compare_checklist`
+**Sub-Avatar:** Drawer Stuffer | **Angle:** Kitchen upgrade identity gap — everything upgraded except this
+**FORMAT: Checklist / Check-X Format** (Fodzyme vs Lactaid pattern)
+**Scroll-stop method:** Format camouflage — looks like a personal checklist, not an ad
+
+**Why this creative:** The checklist format creates visual momentum — Resolution Green checks fly down the page, then Danger Red X stops the eye. The identity gap between "upgraded kitchen" and "abandoned mandoline" is felt, not explained. The Drawer Stuffer has upgraded knives, pans, cutting boards — but their mandoline is still the same dangerous flat blade in the drawer. That GAP is the scroll-stop.
+
+**Origins frameworks:**
+- **SHOW vs TELL:** "Still in the drawer. Too scared to use it." = SHOWING behavior + emotion behind it
+- **FRAMES:** NEW + EASY (the checklist implies upgrading is natural, this is the next step) + SAFE (the reason the old one is in the drawer)
+- **Self-categorization:** Tagline says "The one you'll actually use" — NOT "the safe mandoline you'll use"
+- **Awareness:** Product Aware — Drawer Stuffers know what they have. SHORT visual format.
 
 **This creative is CANVA-ONLY — no image generation needed.**
 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Background: **#FFFFFF** (white — mimics a screenshot)
+2. Background: **#F8F7F4** (Warm Off-White)
 
-**Text post block (centered, looks like a social media text post):**
-1. Rounded rectangle: #F5F5F5, ~900px wide, ~500px tall, 20px corners
-2. Inside, small avatar circle: solid #CCCCCC, 40px diameter, top-left
-3. Username: `@homecook_real` — Inter, 14px, Bold, #333333. Right of avatar.
-4. Timestamp: `2h` — Inter, 12px, Regular, #999999. Right of username.
+**Header:** `Your kitchen upgrade checklist:` — Inter, 24-28px, Regular (400), #999999. Top 8%, left-aligned, ~80px margin.
 
-**Post text (inside rounded rectangle):**
-```
-I just learned that 20,000 people go to
-the ER every year from kitchen slicers.
+**Checklist (left-aligned, starting ~18% from top):**
+1. `✓  Knives` — Inter, 36-40px, Semi-Bold (600). ✓ = Resolution Green (#4CAF50), text = Near Black (#1A1A1A)
+2. `✓  Pans` — same
+3. `✓  Cutting boards` — same
+4. `✓  Spice collection` — same
+5. *(40px gap)*
+6. `✗  Mandoline` — Inter, 36-40px, Bold (700). ✗ = Danger Red (#FF4444), text = Danger Red (#FF4444)
+   - Below: `Still in the drawer.` — Inter, 20-24px, Regular (400), #999999
+   - Below: `Too scared to use it.` — Inter, 18-20px, Regular (400), Danger Red (#FF4444)
+7. *(40px gap)*
+8. Thin divider: 1px, #DDDDDD, ~80% width
+9. `SliceSafe Pro — $64.99 (was $99.95)` — Inter, 28-32px, Semi-Bold (600), Brand Blue (#4A90E2)
+10. `The one you'll actually use.` — Inter, 18px, Regular (400), #999999
 
-I'm literally never using mine again.
-```
-5. Font: Inter, **26-30px**, Regular, #1A1A1A
-6. Left-aligned, ~30px padding
-
-**Reply/caption (below the post block, ~20px gap):**
-1. Small reply icon or indent
-2. `unless it's a SliceSafe Pro 👀` — Inter, **22-26px**, Semi-bold, #4A90E2
-3. Left-aligned, indented ~50px
-
-**Bottom (subtle, small):**
-1. `$64.99 — velaine.shop` — Inter, 14px, Regular, #999999. Center, bottom 5%.
+**Small product image (bottom-right):** ~280px, background removed, floating on canvas
 
 **Final check:**
-- [ ] Looks like a screenshot of a social media post — NOT an ad
-- [ ] The stat creates genuine shock (VERIFIED 20K+)
-- [ ] "I'm literally never using mine again" = relatable overreaction
-- [ ] "unless it's a SliceSafe Pro" = the mic-drop pivot
-- [ ] The 👀 emoji adds personality (one of the few cases where emoji is appropriate)
-- [ ] Minimal branding — just the small URL at bottom
-- [ ] Body copy does ALL the product selling
+- [ ] Resolution Green checks create visual momentum down the page
+- [ ] Danger Red X on "Mandoline" STOPS the eye — the gap is obvious
+- [ ] "Still in the drawer. Too scared to use it." = behavior + emotion (SHOW)
+- [ ] Checklist is scannable in 1 second — no reading required
+- [ ] "The one you'll actually use." — NOT "the mandoline you'll actually use" (self-categorization fix)
+- [ ] Design system colors: #F8F7F4, #4CAF50, #FF4444, #4A90E2, #1A1A1A
+- [ ] No image generation needed — Canva-only
 - [ ] Export PNG highest quality
 
 ---
 
-### Creative 2: `B12_wild_list`
+### Creative 3: `B12_compare_strike`
 **Sub-Avatar:** Drawer Stuffer | **Angle:** Pain points eliminated — each one struck through
-**FORMAT: Strikethrough List** (cooling blanket swipe file pattern)
+**FORMAT: Strikethrough List** (Cooling blanket swipe file pattern)
 **Scroll-stop method:** Format camouflage — looks like editorial/list content
 
-**Why this creative:** The strikethrough creates a mini-dopamine hit with each crossed-out problem. The accumulation of solved problems is deeply satisfying. Every item names a real Drawer Stuffer pain point they've personally experienced. The unstruck last line = the solution.
+**Why this creative:** The strikethrough creates a mini-dopamine hit with each crossed-out problem. The accumulation of solved problems is deeply satisfying — 6 problems struck through in sequence. Every item names a real Drawer Stuffer pain point they've personally experienced. The unstruck last line in Brand Blue = the solution standing alone. The format looks editorial, not promotional.
 
 **Origins frameworks:**
 - **SHOW vs TELL:** Each strikethrough SHOWS a problem being eliminated — visual, not verbal
@@ -967,95 +1112,52 @@ I'm literally never using mine again.
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Background: **#F8F7F4** (warm off-white)
+2. Background: **#F8F7F4** (Warm Off-White)
 
-**Header:** `Reasons you stopped using your mandoline:` — Inter, 24-28px, Regular, #999999. Top 8%, left-aligned, ~80px margin.
+**Header:** `Reasons you stopped using your mandoline:` — Inter, 24-28px, Regular (400), #999999. Top 8%, left-aligned, ~80px margin.
 
 **Strikethrough list (left-aligned, ~18% from top, ~30px spacing):**
-1. `~~Exposed blade~~` — Inter, 32-36px, Regular, #BBBBBB, strikethrough
+1. `~~Exposed blade~~` — Inter, 32-36px, Regular (400), #BBBBBB, strikethrough
 2. `~~Flimsy plastic guard~~` — same
 3. `~~Hands moving toward the blade~~` — same
-4. `~~20 minutes of chopping~~` — same
+4. `~~20 minutes of chopping instead~~` — same
 5. `~~Uneven, thick slices~~` — same
-6. `~~Fear every time you cook~~` — same but Semi-bold
+6. `~~Fear every time you cook~~` — Inter, 32-36px, Semi-Bold (600), #BBBBBB, strikethrough
 
 *(40px gap)*
 
-7. `SliceSafe Pro — $64.99` — Inter, 36-40px, Bold, **#4A90E2** (NOT struck through)
-8. `Hands-On-Top design. 30-day guarantee.` — Inter, 18px, Regular, #999999
+7. `SliceSafe Pro — $64.99` — Inter, 36-40px, Bold (700), **Brand Blue (#4A90E2)** (NOT struck through)
+8. `Hands-On-Top design. 30-day guarantee.` — Inter, 18px, Regular (400), #999999
 
 **Small product image (bottom-right):** ~300px wide, 100% opacity, text is hero
 
 **Final check:**
-- [ ] Every strikethrough is real and specific — Drawer Stuffers nod at each one
+- [ ] Every strikethrough names a real, specific pain point Drawer Stuffers recognize
 - [ ] Strikethroughs clearly visible (grey text + line through)
-- [ ] Unstruck blue "SliceSafe Pro" = the solution — only blue text
+- [ ] Unstruck Brand Blue "SliceSafe Pro" = the solution — only blue text on page
 - [ ] 6 problems crossed out = "this thing solves everything" accumulation
+- [ ] "Fear every time you cook" last strikethrough = emotional escalation (Semi-Bold weight)
 - [ ] "Reasons you stopped" = avatar-centric header (not brand-centric)
-- [ ] Warm off-white feels editorial, premium
-- [ ] No image needed — Canva-only
+- [ ] Design system colors: #F8F7F4, #BBBBBB, #4A90E2, #999999
+- [ ] Warm Off-White feels editorial, premium
+- [ ] No image generation needed — Canva-only
 - [ ] Export PNG highest quality
 
 ---
 
-### Creative 3: `B12_wild_drawer`
-**Sub-Avatar:** Drawer Stuffer | **Angle:** Drawer cleanout — the gadget graveyard vs the one that made it out
-**FORMAT: Native / Feed Camouflage** (Swipe Pattern #6)
-**Scroll-stop method:** Format camouflage — looks like a personal phone photo
-**Caption:** `Opened the drawer.` / `Three mandolines. All collecting dust.`
-
-**Why this creative:** Speaks to the Drawer Stuffer's specific guilt — they have a drawer full of unused gadgets ($200+ worth). The UGC-style photo makes viewers feel like they're looking at their own drawer. The authentic, unpolished photo IS the scroll-stop. SliceSafe standing on the counter OUTSIDE the drawer = visual storytelling of the solution.
-
-**Origins frameworks:**
-- **SHOW vs TELL:** The IMAGE shows the contrast (drawer graveyard vs counter hero). Caption SHOWS behavior ("Opened the drawer") not claims.
-- **FRAMES:** EASY (this one escaped the drawer) + SAFE (implied — the reason the others are IN the drawer)
-- **Swipe Rule #6:** Cover the caption — does the image still sell? YES (messy drawer vs clean product on counter = instant story)
-- **Personality > polish:** Phone-photo quality, warm natural lighting, slightly imperfect = authentic
-
-**Nano Banana Pro Prompt:**
+**Batch 12 Body Copy 1 (Simplified comparison — Universal, SHORT):**
 ```
-Overhead photograph looking down into a real, slightly messy kitchen drawer that has been opened. Inside: scattered old kitchen tools — a traditional flat mandoline slicer with exposed blade, a cheap handheld slicer, a julienne peeler, a vegetable peeler, a bent spiralizer attachment. Tools jumbled together, stacked, clearly unused and gathering dust. The drawer is wooden with visible scratches and wear. Next to the open drawer on the countertop, standing tall and clean: a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. The SliceSafe stands outside the drawer, on the counter, looking modern and used. Contrast: messy drawer of failures vs one clean tool that earned its counter spot. Warm, natural overhead kitchen lighting — phone photo quality, slightly warm-toned. Honest, real, relatable mood. No text, no logos, no watermarks. 4:5 aspect ratio.
-```
+Every mandoline you've ever seen has the same design. Flat blade. Hands moving toward it. A plastic guard nobody uses.
 
-**Canva Step-by-Step:**
+This isn't that.
 
-1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload drawer image, fill canvas — 85-90% height
-3. Leave ~150px at bottom for caption
+The blade is sealed inside the body. Your hands push down from the top — 8 inches above. They never meet.
 
-**Caption area (bottom ~12%):**
-1. Dark bar: #000000, 55% opacity, full width, ~150px
-2. `Opened the drawer.` — Inter, 22-26px, Regular, White
-3. `Three mandolines. All collecting dust.` — Inter, 22-26px, Semi-bold, White
-
-**NO price tag. NO brand pill. Zero ad signals.**
-
-**Final check:**
-- [ ] Messy drawer is REAL and relatable — Drawer Stuffers see their own drawer
-- [ ] Old tools look abandoned and dusty — gadget graveyard is universal
-- [ ] SliceSafe stands OUTSIDE the drawer, on counter — visual storytelling
-- [ ] Phone-photo quality lighting — NOT polished product arrangement
-- [ ] NO text overlay on photo — caption bar only
-- [ ] Caption reads like personal Instagram ("Opened the drawer.")
-- [ ] NO price tag — zero ad signals
-- [ ] Body copy does ALL selling — image triggers drawer guilt
-- [ ] Export PNG highest quality
-
----
-
-**Batch 12 Body Copy 1 (Stat-led — OBJECTION → CLAIM → PROOF → BENEFIT, MEDIUM):**
-```
-Over 20,000 ER visits a year from kitchen slicers. You know exactly how it happens.
-
-Food gets small. Fingers get close. The guard you stopped using wouldn't have helped anyway.
-
-The SliceSafe Pro doesn't have an exposed blade. It's sealed inside the body, 8 inches below where your hands go. You push down from the top. Your fingers can't reach it even if you try.
-
-No more "just be careful." The design is careful for you.
+It's not a better mandoline. It's a different tool entirely.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
-**Origins:** Stat corrected to verified 20K+. Opening SHOWS the injury sequence ("Food gets small. Fingers get close."). "The guard you stopped using" = SHOW behavior. "The design is careful for you" = personification SHOW. Full OBJECTION→CLAIM→PROOF→BENEFIT cycle. Hits SAFE + BIG + EASY + NEW.
+**Origins:** Category reframe in copy form. "This isn't that" = the core reframe. "Not a better mandoline" avoids self-categorization. Mechanism Version A (Physical/Spatial). SHORT for Universal audience. Hits NEW + SAFE.
 
 **Batch 12 Body Copy 2 (Drawer guilt — SHOWING, SHORT-MEDIUM):**
 ```
@@ -1071,6 +1173,6 @@ $64.99 (was $99.95) — SliceSafe Pro™
 ```
 **Origins:** Opens with behavior ("opened the drawer"), names emotion ("scared me"), contrasts with outcome ("made it to the counter"). "Used it every week" = SHOW repeated use = Drawer Stuffer's dream. Mechanism Version B (Experience). Hits SAFE + EASY.
 
-**Headline 1:** Over 20,000 ER visits. This one can't add another.
+**Headline 1:** This is chopping. This is slicing.
 **Headline 2:** One tool. On the counter. Everything else in the drawer.
 **Description:** Hands-On-Top design. $64.99
