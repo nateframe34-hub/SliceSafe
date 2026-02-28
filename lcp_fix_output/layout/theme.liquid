@@ -421,7 +421,16 @@
       {{ 'rtl.css' | asset_url | stylesheet_tag: preload: true }}
     {% endif %}
 
-    {%- comment -%}Font preloads removed — they compete with LCP hero image for bandwidth. font-display:swap in @font-face declarations above handles loading gracefully (shows fallback font instantly, swaps when ready).{%- endcomment -%}
+    {%- unless settings.type_body_font.system? -%}
+      {% comment %}theme-check-disable AssetPreload{% endcomment %}
+      <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
+      {% comment %}theme-check-enable AssetPreload{% endcomment %}
+    {%- endunless -%}
+    {%- unless settings.type_header_font.system? -%}
+      {% comment %}theme-check-disable AssetPreload{% endcomment %}
+      <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
+      {% comment %}theme-check-enable AssetPreload{% endcomment %}
+    {%- endunless -%}
 
     {%- if settings.predictive_search_enabled -%}
       <link
