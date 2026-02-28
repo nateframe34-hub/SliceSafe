@@ -1,0 +1,670 @@
+Understanding Ad Definitions
+Please note that the definitions that follow are the ones we have chosen to use.
+
+At the end of the day, use the definitions that make the most sense to you.
+
+But hopefully, these help guide you so we can think less about terms and philosophies and just focus on pure execution.
+
+💻3:2:2 
+⇒ 3 creatives, 2 body copies, and 2 headlines
+
+12-Year-Old Definition: The testing structure we use inside of Meta.
+ Example:
+This ENTIRE thing is a Concept. “3” = Variations of that 1 Concept.
+ “2:2” = 2 Headline + 2 Body copy for that Concept that you put inside of Meta.
+
+
+
+📂Concept/Batch/Test #:
+⇒ The tracking number for this test
+
+12-Year-Old Definition: The number you use to keep track of which test you're on
+Examples:
+ Batch #1, Batch #29, Batch #133
+
+
+💡Concept/Swing
+ ⇒ The test strategy - what you're testing in this batch
+
+12-Year-Old Concept Definition: The big idea behind the ads you want to test
+Examples:
+ "Test an iteration on a winning video."
+"Test superlative angles."  
+"Test UGC format."
+"Test different avatars."
+
+Concept: “Test durability angle”
+Angle: Durability 
+
+Concept: “Test Us Vs Them” Or “Why our product is better than theirs”
+Angle: Easier to put on Or Durability
+
+
+
+
+🔗Angle
+⇒The selling strategy - how you're choosing to sell the product
+
+12-Year-Old Angle Definition: The main reason you're giving someone to buy
+ Examples:
+"Buy It For Life"
+"Postpartum weight despite trying everything"
+"Stainless steel / Doctor-designed / Cleanest"
+
+Key insight: Every ad needs an angle. Even if your concept is "testing formats," you still need to define what you're selling. If your concept is “Testing X Angle,” the concept becomes the angle. But for tracking purposes, I prefer to actually JOT DOWN the angle twice so we can be sure.
+
+🔀Variations
+ ⇒ Individual executions of the angle(s)
+
+12-Year-Old Variations Definition: Different ways to communicate your selling reason(s)
+Example:
+ If your angle is "Buy It For Life," variations might be: "One harness, lifetime of adventures," "Buy it once, adventure for life," or "End the replacement cycle."
+
+If testing multiple angles, variations might be different angles like "Stainless steel," "Doctor-designed," "Easiest to clean."
+
+
+🖼️Format
+ ⇒ How you deliver the ad
+
+12-Year-Old Format Definition: The type of ad you're making
+Example: You could show the same message as a video of a real person talking, a slideshow of pictures, or just a product image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How To Come Up With Ad Angles
+Reminder of the definition:
+🔗Angle⇒The selling strategy - how you're choosing to sell the product
+12-Year-Old Angle Definition: The main reason you're giving someone to buy
+
+The Core Relationship:
+Concept = The big Idea (what you’re testing)
+Could be: Testing formats, testing iterations, testing awareness levels, or angles
+Angle = How you choose to sell the product (must always be defined) 
+If your concept is anything but “testing angle(s),” you need to identify the angle 
+
+The average marketer’s definition of angle oftentimes has NOTHING to do with the customer.
+
+And that’s why most people DON’T MAKE good ads. 
+
+They aren’t thinking about the Angle (how we’re going to position the product to the customer). They are just thinking about the idea they want to test.
+
+This post here isa BAD example of what “Angle” is: 
+https://www.reddit.com/r/FacebookAds/comments/1drdd34/what_are_the_most_common_ad_creative_angles_the/
+
+
+Us vs Them → This is a Concept, with an “assumed” broader angle (comparison)... But Comparing what?? The “What” is the angle.
+
+Before & After →  Again, this is a Concept. We are “assuming” some kind of broader angle (transformation)... But transformation of what? Again, the “What” is the angle.
+
+Problem-Aware Angle Ads → Another CONCEPT. We are going to test problem-aware ads. But of WHAT problem?? The “what” is the angle.
+
+‘Post It Note’ Ads → Some of these are also such basic concepts that become Formats because people don’t understand “Concept” or “Angle”. Post-It Notes is a Native-style image format, but at the end of the day, people put 0 consideration into the ANGLE.
+
+Now, differentiating Concepts from Angles should hopefully make more sense. Again:
+
+Concepts = Our big idea we want to test (more focused on us)
+Angles = How we choose to sell the product. (more focused on the customer)
+
+Now, this is where most people get confused:
+
+When your concept IS to test angle(s).
+
+And in this instance, people will begin to use the terms interchangeably.
+
+
+
+Example:
+
+Concept: “Test Buy It For Life Angle” → Angle: “Buy It for Life”
+
+Concept: “Test Sleep Deprived Angle” → Angle: “Sleep Deprived”
+
+So, if you’ve ever wondered why people will use concept and angle interchangeably, this is why.
+
+But as a result of this training, hopefully you will start to be able to see that Concepts can be Angles…
+
+But not 100% OF THE TIME.
+
+Let’s look at some examples of concepts to try to identify. 
+
+Concept = About you/your test strategy (Internally Focused) 
+
+“I want to test a video version.”
+“I want to test a Us vs Them.”
+“I want to do an iteration on.”
+“I want to test buy it for life.” 
+“I want to test vets’ trust us.”
+
+Angle = About the customer's reason to buy (externally focused)
+
+If the concept doesn’t give the customer a reason to buy, it's not an angle yet. 
+
+Video version →  Does not give a customer a reason to buy = Identify the angle(s)
+Iteration → Iteration of what angle? No clear reason = Identify the angle(s)
+Stops tossing and turning → This gives a person a reason (Solves their problem = This is an angle
+Us vs Them → What about Us vs Them? No clear reason = Identify the angle(s)
+Bring back your energy → This gives a person a reason to buy = This is an angle.
+
+If your concept is NOT testing an Angle, you NEED to make sure you specify what Angle you’re testing.
+
+But if you just want to avoid making mistakes, the best practice is always to make sure you write down “What the Angle is,” aka THE REASON SOMEONE SHOULD BUY for EVERY concept.
+
+Now with that clear. Let’s go deeper into angles themselves. 
+
+Now, if you’re anything like Spencer, you likely went through this training, and you’re like, Spencer, I get that Angles are how we choose to sell the product. But at the end of the day. WTF does that even mean? It’s way too broad. 
+
+How do I know what the angle is? What is the difference between an angle and not an angle? Why are some angles so broad, and some so specific? 
+
+
+
+Well, the truth is, similar to avatars, angles also exist on a spectrum. 
+
+But fortunately, because you’re doing the work of identifying sub-avatars, you’re essentially already discovering angles that are specific enough to relate with customers and help you sell your product. 
+
+So just like how you could have a Core Avatar like:
+
+Desire: Wants better sleep 
+
+You can also pull an angle from that, which is very broad. Literally, you could just write:
+
+“Want better sleep?” Or “Feel like you’re not getting enough sleep?”
+
+And the truth is, yes, those actually are angles. That’s how you’re choosing to sell your product. But they’re pretty shitty angles because of how broad they are.
+
+That’s why broad avatars are usually harder to sell to… You have to use broader angles.
+
+So, down below, what we’re going to do is we’re going to extract angles from different sub-avatars in order for you to better understand how you can do it too.
+
+Headlines/Hooks
+Now, before getting into those examples of extracting avatars, I also want ot explain one other final thing of importance, which is what I did above with:
+
+“Feel like you’re not getting enough sleep?”
+
+That is something we would call a Hook or Headline (or some boomers call them “leads”)
+
+The Hook/Headline is how we get attention to sell the product (basically, how you communicate the angle)
+
+Now, until you get to a more advanced level, your hook/headline should always be more direct instead of indirect.
+
+
+
+
+
+
+
+
+
+
+
+Examples of “Direct” Hooks: 
+
+Angle: Stops Swelling
+Hook: “14+ Hours. No Swelling”
+→ Hook directly communicates the angle
+
+Angle: Keeps you full like a meal
+Hook: “This is a meal. Not a protein shake.”
+→ Hook directly communicates the angle
+
+Angle: Stops you from snapping at people 
+Hook: “5 minutes to install. No more snapping.”
+→ Hook directly communicates the angle
+
+As a Jr. writer, these are much easier hooks/headlines to write.
+
+Now, with that additional context provided
+
+The KEY to extracting angles from sub avatars is simple:
+
+KEEP THEM ACTIONABLE 
+
+Angles are basically limitless (regarding your products and what it can do)
+
+As long as your angles are ACTIONABLE, writing will become much easier. And the goal of ALL of this work is to make writing winning ads EASIER. 
+
+Examples Of Mining Angle From Avatars
+
+Sub Avatar #2: Nose Strip Sleeper
+Desire: Wants restorative sleep
+Behaviour: Wears nose strips to bed to force breathing through the nose 
+
+An angle that we would likely target this sub-avatar with is:
+
+Angle: Better than nose strips 
+
+How did I get that? 
+
+Step 1: Looked at desire (what they want)
+Step 2: I looked at behaviour (what he currently does to try to get that desire)
+Step 3: I identified the gap that this sub avatar has. They are exhibiting a specific behaviour (nose strips) to get better sleep, but they still want more restorative sleep. 
+Therefore, the angle of “Better than nose strips” becomes an angle. 
+Now thankfully, we live in a world with AI.
+
+Which means, we don’t have to manually go through and extract these angles from all of our sub-avatars. 
+
+In fact, AI can likely do it better & becomes a tool to mine these things for you.
+
+https://docs.google.com/document/d/1K_BuSGZ7Bx_sIMQP9SFLEzDGG9BMElnHIYs-M8-2WYs/edit?usp=sharing
+
+The 3 Testing Methods 
+Now, the biggest thing when it comes to “how you test angles” and actually turning the information and angles that you found from the avatar training into ADS.
+
+Is knowing that no matter what, you are NOW AWARE.
+
+So, if you are struggling to combine things, which hopefully you aren’t, the main takeaway is that.
+
+Now again, the point of doing the avatar work that we just did is so that you have Angles that are actually relatable for your Concepts. 
+
+But now the question is, how do we actually go about testing all of these angles that we have in an organized way? 
+
+Well, that's why I want to discuss the 3 types of ways you can “test angles” or, really, “test ads” in general. 
+
+Marksman Method - Test a lot of things at once to see what sticks, but in a controlled environment 
+The reason why it’s called the Marksman Method is that, for some reason, Spencer refers to advertising strategies using “Gun Analogies.” 
+
+Most of you are probably aware of the two most common gun analogies, which are
+ “Shotgun & Sniper” →  Which are things we’re going to cover
+
+The Marksman Method is basically a middle ground. 
+
+With this method, you are NOT as honed in as a sniper, but you’re also not as careless as a shotgunner; you're the best of both. 
+
+Pros Of The Marksman Method: Much more fluid, less “we have to stay within these lines,” and you are really focused on making the best ads possible. 
+
+Mainly, you will learn which Direction you should go in FASTER when you lack significant data.
+
+Direction can be defined as: identifying the specific angle you should be going      “deeper on” (aka doing more research + iterating on) to create more scalable ads (example coming below) 
+
+Cons Of The Marksman Method: You aren’t always able to test things the best way possible, and it can be hard to confidently say “This is why something is working” (although that’s hard regardless)
+
+Overall, you’re not able to go as deep into a specific ad Angle with the Makrsman Method to fully validate and test it. BUT, you can test more at once in order to find a direction that you can then go deeper on. 
+
+Marksman example:
+Notes for the marksman method:
+Just do it with images, don’t worry about videos  
+Whenever testing images, use the marksman method 
+Say you have 3 sub-avatars you want to test, pick the best angle for each sub-avatar and put them inside a 3:2:2
+
+Example I will likely use:
+Concept: test sub-avatars
+Concept explanation: I’m trying to figure out which angle the sub-avatar cares about the most.
+In 3:2:2 →  Take the 1 best hook for each angle in that sub-avatar and test it. 
+Sniper Method - Test within a strict environment to get close to significant learnings as fast as possible. 
+
+Now, unlike the Marksman method above, where you are essentially testing multiple angles at once, 
+
+The Sniper Method is ALL about testing different execution/styles of a specific angle. 
+
+Essentially, once you find an angle that you know is working, you then leverage the sniper method to go all in on that angle in order to create the best ads possible. 
+
+Pros: You will have a clearer understanding of what works, be more organized, learn what “works” faster, and have more confidence that you have validated angles. 
+
+Sniper Method REALLY crushes once you gain a direction from the Marksman Method, so you can get the most out of an angle. 
+
+Cons: Much less fluid, restricts creativity, can hold you back from making “the best ads.” Most people are unable to stay this focused on 1 specific direction, and can put you into an iteration overload.
+
+Overall, you’re able to go MUCH deeper on a specific ad concept to fully validate and test it. But you can lack the ability to find breakthroughs on other angles because of how specific you are being.
+
+Not recommended to use the sniper method initially to test images. Also Sniper Method works much better with video ads.
+
+Just use the sniper method whenever making video ads. 
+
+If it wasn’t obvious above, here’s how we leverage these 2 testing strategies at Spencer's agency: 
+
+→ Marksman method is used for 1st direction of what angles can be winners 
+→ Sniper Method is used 2nd to go deeper & find winners once a direction has been found 
+→ Marksman Method is then used again when performance plateaus on an angle.
+
+When you have ONCE Angle = you’re taking more of a “Sniper Approach” (same Angle, different ways to say it/show it) 
+
+When you have MULTIPLE Angles = you’re taking more of a “Marksman Approach” (Different Angles AND usually only 1 way to say it) 
+
+The #1 Main Takeaway:
+Regardless of the approach, just make the BEST ADS you can.
+
+Then, when you’re processing feedback loops, be AWARE of the avatars you’re targeting.
+
+Nowadays, it’s nearly impossible to do perfect “single-variable” testing as a result of Meta’s newest updates. The swings are “too small” and not significant enough at times for Meta to care.
+
+If the Marksman Method & Sniper Method aren’t making sense, here is another way to put it. 
+
+We currently test a lot of new angles early on for new ads that we make.
+
+AND THEN 
+
+When we find angles that pick up traction (aka get spend), we go more into “single angle” testing, which also means making iterations & variations (we will define these as well)
+
+So, 
+Step 1: Test multiple angles initially to find something that “gets sales” or “wins”
+Step 2: Make hypotheses on why something is winning 
+Step 3: Test those hypotheses to narrow down why something is winning to optimize it more. 
+
+The first hardest part is step one, and that’s what we’re going to get into in the next section.
+
+But once you do that, steps 2 and 3 become the easy part because of the knowledge that you have as a result of going through this training.
+
+And that’s going to be your “super power.” Most people NEVER know why something is winning. 
+
+They take broad learnings like: 
+
+“Video ads work,” or “This has a good hook rate,” or “We should reuse this clip,” or “We should test a UGC version.”
+
+But when you process learnings, you’re going to be able to identify who the sub-avatar is, what the angle is, and then be able to go and do more research on that so that you can write new ads that are focused on the customer rather than the structural components. 
+
+The faster you figure out why something IS NOT winning, the FASTER you can scale.
+
+The faster you figure out why something IS winning, the FASTER you can scale. 
+DO FEEDBACK LOOPS IF SOMETHING WORKS OR DOESN’T WORK
+Putting It All Together
+Examples Of Putting It All Together
+
+
+Example #1:
+
+
+Concept: Nutella Ad (from the templates)
+
+Angle(s): 
+Confidence Angle 
+Sub avatar: Desire - wants their dog to stop pulling, Product Experience - has tried traditional harnesses, Emotion - feels embarrassed walking their dog, Behaviour - Avoids walking their dog in certain situations
+
+Control Angle 
+Sub avatar: Desire - wants their dog to stop pulling, Product Experience - has tried traditional harnesses, and it did not stop the dog from pulling, Emotion - feels frustrated that harnesses don’t work
+
+Variations: 
+This is a harness | This is confidence 
+This is pulling | This is control
+
+Format: Static graphic/design:
+
+Testing Method: Marksman Method
+
+
+
+Explanation:
+In the ads above, we're actually testing two different Sub avatars here, aka angles. One of them is talking about the confidence angle, about having confidence while you walk your dog. The other is talking about the control angle and referencing traditional harnesses as something that encourages your dog to pull. So again, here we are testing 2 different angles with 1 variation each.
+
+Origins - Example #2
+
+Concept: Shift Worker Experience
+
+Concept Explanation:
+We’re now optimizing individual ads for the Night Shift worker sub-avatar. 
+
+Angle: 
+Sleep better during the day with total darkness
+Sub avatar: Night shift worker
+
+
+Variations: 
+Graveyard shift! I'm finding it impossible to sleep in the morning
+Night shift is killing me
+Night shift job, but I can't sleep all day. My life is taking a quick downturn...
+
+Format: Subtitles B-Roll
+
+Testing Method: Sniper Method
+
+Explanation:
+This is an example of getting a direction from a Marksman method test and then optimizing the rest of the hold and the ad for a specific sub-avatar to make it more relatable (although if you ask me, we didn’t do it that well).
+
+
+Example 1,2 Deep Dive: (Marksman Method + Sniper Method):
+For images, it's very easy to test the Marksman method. 
+You have your 3 different angles, and you test them congruently in your ad, and that's it. 
+With image ads, you should always be testing the Marksman Method unless you really have hit a true winner that you want to optimize further. 
+BUT, as much as images are simple and easy to test, most people SUCK at execution and can get “turned off from an angle” because they screwed up the execution part.
+So, just because they seem simple to make does NOT mean they're EASY.
+Now, the question is 
+“How does the Marksman Method work with videos?”
+For those of you who know, whenever we test the 3:2:2 method, the “3” stands for 3 variations of the HOOK, and potentially the bridge, but mainly just the first 3-10 seconds.
+Then the HOLD, everything else after the first 3-10 seconds, is where we keep things the same.
+“But if you're taking bigger swings and testing multiple angles, how do you connect all of those to the same hold?”
+Great question
+As long as the HOLD is universal enough to support all the angles your hooks set up… You can run the Marksman Method on videos, too.
+Put in terms of this avatar training:
+As long as your hold is relevant to the CORE AVATAR that you are targeting, then you are fine. 
+When you're testing the Marksman method with video, focus on making the hooks MORE specific, and the holds more generic. 
+Example From Above:
+Hook 1: "POV: You work night shift"
+Hook 2: "POV: You're a light sleeper"
+Hook 3: "POV: You have insomnia"
+
+Hold: Shows blinds closing → complete darkness → peaceful sleep
+This works because the Hold just demonstrates the mechanism (total blackout) that resonates with the core avatar and helps the specific sub avatar understand why we called them out in the original hook. 
+Each hook, though, calls out WHO needs it.
+The hold then just shows WHY they need it in a very simple way.
+For most initial video concepts using the Marksman method, the hold does NOT need to be ultra specific to any of the hooks (at least not yet).
+Now, if you make the hold more aligned with the hook, will it perform better? 
+100%
+But again, the goal of the Marksman's method is to get direction. 
+If we can get direction on what hook is grabbing people's attention, then we can optimize the rest of the video using the Sniper Method.
+IMPORTANT NOTE:
+If your hold is TOO specific to one angle's context, for example:
+Hold: Shows someone coming home from work at 7 am, the sun rising, kids getting ready for school, and THEN someone closing blinds to get darkness and go to bed.
+That hold will likely NOT work for “POV: you’re a light sleeper” hook or "POV: You have insomnia" hook. 
+It just doesn’t really make sense.
+The hold really only works for: "POV: You work night shift" hook.
+The Marksman Method with video works when:
+Hooks = Call out the specific sub avatar/angle 
+Hold = Demonstrates the shared desire of the core avatar, or broader angle.
+Once you understand what direction Meta is favouring, then you optimize the rest of the video, the hold, deeper with the sniper method to amplify the behaviours, experiences, emotions, etc. for that sub avatar/angle all the way through.
+Again, the Marksman method is great for finding direction FAST (which angle resonates). But it lacks depth.
+So, once you identify a direction, you need to use the Sniper Method to create more tailored videos that go DEEP on that angle. 
+In that instance, the 3 variations will be different executions of the angle.
+
+I want to pause here because an even more important note is this…
+At the end of the day, your customers don't give 2 SHITS if you're running “Marksman Method” or “Sniper Methods.”
+They care about what’s in it for them. 
+So if you're confused about these two methods.
+Just stick to this:
+Marksman Method = Image Ads
+Sniper Method = Video Ads
+Make the best ad you can for every angle/sub avatar.
+Just make sure you're testing customer-first ads. And again, complete feedback loops so you know what you need to go deeper on.
+Back to the Examples
+Example #3:
+
+
+Concept: Meme Static Ads
+
+Angle(s): 
+Keeps your coffee hot for 6 hours
+Unbreakable ceramic
+
+Variations: 
+When your coffee still tastes perfect 6 hours later
+Me offering a caveman unbreakable ceramic….
+
+Format: Meme Style
+
+Testing Method: Marksman Method
+
+Explanation:
+Again, with this ad here, as you can see, we have a concept to do meme static ads, but meme static ads about what? In this instance, we decided to go after an angle around how it keeps your coffee hot for six hours, as well as an angle around how the ceramic cup is unbreakable. 
+
+Now, could these have been done a lot better and been MORE relatable if we actually went deeper on the sub-avatar? 
+
+YES. And unfortunately, our team didn't do this.
+
+But, I wanted to include this one to help you understand that, again, even if our concept is to do meme static ads, we have an emphasis on what the meme static ads will be about. 
+
+Example 4:
+Ad Example #5
+
+Concept: Career-Ending Injury  
+
+Angle(s): Stay protected from a Career-Ending Injury
+
+Variations: 
+Don’t risk a career-ending injury.
+This is the best way to prevent career-ending injuries
+The right skate cut protection not only prevents career-ending injuries… but it can also save your life
+
+Format: Subtitle Broll
+
+Testing Method: Sniper Method
+
+Explanation:
+This is an example of an older style iteration that we had previously done. 
+
+And the only recommendation that I would have here is that these variations are much tighter. Meaning the hooks all say the same thing very similarly. 
+
+Whereas, as you'll see in example number six below, we still would recommend taking bigger swings when possible, even if it is different executions of the same angle. 
+
+
+
+
+Ad Formats:
+Video Formats:
+Voiceover with b-roll:
+Voice-over footage/product shots (Real or AI)
+Usually has low-volume background music that flows with the ad 
+Heavily edited with multiple clips (UGC,A-Roll,stock)
+Example:
+https://f.io/V_b1Th2b
+
+Subtitles with b-roll:
+Generated subtitles over footage/product shots (Taps into internal voice)
+Usually, has background music flows with the ad 
+Heavily edited with multiple clips
+Example:
+https://f.io/PfaqXBS7
+
+Slideshow Video w Text:
+Static images with transitions
+Heavy text overlay with movement
+Text reveals
+Example (has video clips, but mainly referring to the “Images”):
+https://f.io/dGxDSUWH
+
+Authentic UGC/Talking head only
+Person speaking directly to camera (can be real or AI - use ai ay your own risk)
+Casual, authentic feel
+Usually single-take or minimal editing
+Example:
+https://www.instagram.com/p/DBs1mjjApc3/
+
+
+Professional shot video:
+CR8TIVE - Nurojit Video 1.mov
+High production value
+Professional lighting/equipment
+Polished, branded look
+
+Animation:
+Animated characters/graphics
+Can be 2D, 3D, or motion graphics
+No real people/locations
+Examples:
+https://f.io/tRROIcOJ
+
+Image Formats:
+Static graphic/design:
+Colorfully designed graphics with text overlays (like Canva templates)
+Has a visual of the product in it (can be without, but more for advanced marketers)
+Think Bold headlines on branded backgrounds
+Example:
+
+
+Product photography + Headline
+Clean, professional photos of the product
+Can be on white/neutral backgrounds
+Can be lifestyle shots as well
+Example:
+
+
+Infographic designs:
+Visual charts, graphs, or step-by-step processes
+Combines data/info with visual design
+Example: "3 Steps to Better Sleep" with icons and text
+Example:
+
+
+Native-style image:
+Designed to look like it’s native to the platform (organic)
+Mimics organic social media posts (like Pubity style)
+Often looks "unbranded" or casual
+🚨IMPORTANT → DO NOT FAKE PRESS RELEASE ADS (This is false advertising)
+Example:
+
+Quote/Text-heavy image:
+Mostly text with minimal design
+Quote-style layouts
+Text is the main focus, not visuals
+Example:
+
+
+Collage style:
+Multiple images combined
+Grid layouts or scattered arrangement
+Shows multiple angles/uses
+Example:
+
+User-generated content (UGC) image:
+Actual customer photos/selfies
+Real people using your product
+Authentic, unpolished look
+Example:
+
+
+Meme-style image:
+Popular meme templates with custom text
+Often uses recognizable meme formats
+Example: Drake pointing meme with your product comparison
+Extra Sauce:
+https://imgflip.com/memegenerator
+Example:
+
+
+
+Every Ad Format That You Can Use:
+https://docs.google.com/document/d/1ym-VHI3lApx8mHwNYUuP6_p2AwkDHZlwHFR_QKFRIF0/edit?usp=sharing
+
+The document has explanations for each ad format and examples. 
+Recommended to start with images first. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
