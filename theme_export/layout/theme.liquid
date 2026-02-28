@@ -24,9 +24,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
 
-    <script src="{{ 'main.js' | asset_url }}" defer="defer" data-defer="true" data-country-list-function="{{ settings.country_list_function }}" data-country-list="{{ settings.country_list }}" data-country-list-error="{{ settings.country_invalid_error_msg }}" data-animations-type="{{ settings.animations_type }}"></script>
-    <script src="{{ 'secondary.js' | asset_url }}" defer="defer" data-defer="true" data-is-rtl="{{ is_rtl }}"></script>
-
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
@@ -376,8 +373,7 @@
       {% endif %}
     {% endstyle %}
 
-    {%- comment -%}Material Symbols loaded asynchronously to avoid blocking FCP{%- endcomment -%}
-    <link rel="preload" href="https://fonts.gstatic.com/s/materialsymbolsoutlined/v141/kJF4BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzBwG-RpA6RzaxHMPdY40KH8nGzv3fzfVJU22ZZLsYEpzC_1qmr5Y0.woff2" as="font" type="font/woff2" crossorigin>
+    {%- comment -%}Material Symbols: preload removed to avoid competing with LCP image for bandwidth. font-display:swap handles loading gracefully.{%- endcomment -%}
     <style>
       @font-face {
         font-family: 'Material Symbols Outlined';
@@ -445,6 +441,10 @@
         onload="this.media='all'"
       >
     {%- endif -%}
+
+    {%- comment -%}JS moved below CSS so the browser prioritizes stylesheets and LCP image over script downloads{%- endcomment -%}
+    <script src="{{ 'main.js' | asset_url }}" defer="defer" data-defer="true" data-country-list-function="{{ settings.country_list_function }}" data-country-list="{{ settings.country_list }}" data-country-list-error="{{ settings.country_invalid_error_msg }}" data-animations-type="{{ settings.animations_type }}"></script>
+    <script src="{{ 'secondary.js' | asset_url }}" defer="defer" data-defer="true" data-is-rtl="{{ is_rtl }}"></script>
 
     <script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
