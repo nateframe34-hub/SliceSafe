@@ -888,26 +888,20 @@ No people visible. No hands. No kitchen tools or gadgets. No text, no logos, no 
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload dinner image, fill canvas — 85-90% height
-3. Leave ~150px at bottom for caption
+2. Upload dinner image, fill entire canvas — 100% bleed, no bars, no borders
+3. **No text overlay. No caption bar. Pure image only.**
 
-**Caption area (bottom ~12%):**
-1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
-2. `You've saved the recipe 3 times.` — Inter, 22-26px, Regular (400), White (#FFFFFF)
-3. `You still haven't bought the tool.` — Inter, 22-26px, Semi-Bold (600), White (#FFFFFF)
+The ad copy lives entirely in the Meta primary text field (below the image in-feed). The creative itself is just the photo — exactly like a real Instagram post.
 
-**NO price tag. NO brand pill. Zero ad signals.**
+**NO price tag. NO brand pill. NO text on image. Zero ad signals.**
 
 **Final check:**
 - [ ] Dinner table looks genuinely beautiful — would stop a lifestyle scroller
 - [ ] NO mandoline anywhere in the image — food is the ENTIRE hero
-- [ ] Thin-sliced vegetable dishes visible as centerpieces (uniform cuts = implicit mandoline proof)
+- [ ] ONE thin-sliced dish (ratatouille) stands out through contrast with normal food
 - [ ] Looks like someone's real Instagram dinner party post — not a product photo
-- [ ] Caption reads like social media caption, not ad copy
-- [ ] "the tool" not "the mandoline" — avoids self-categorization
-- [ ] "Saved the recipe 3 times" = uncomfortably specific behavioral call-out
+- [ ] **Zero text on the creative** — all copy lives in the Meta ad text fields
 - [ ] NO price tag, NO product, NO brand — total feed camouflage
-- [ ] Aspirational scene + gentle call-out creates desire, not pressure
 - [ ] Export PNG highest quality
 
 ---
