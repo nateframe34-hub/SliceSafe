@@ -180,38 +180,103 @@ This is the **Mass Instinct + Mass Education** combination that Origins says "no
 
 ---
 
-# SECTION 4: COPYWRITING RULES FOR ALL NEW BATCHES
+# SECTION 4: COPYWRITING & PSYCHOLOGY FRAMEWORKS FOR ALL NEW BATCHES
 
-## Rule 1: Frame Stacking (NEW + EASY + SAFE + BIG + FAST)
-- **Hooks** should hit 2-3 frames
-- **Body copy** should hit 4-5 frames
+## Ad Copy Formulas Applied (from Paid Ads skill)
+
+Every body copy in Batches 9-12 uses one of these proven formulas:
+
+| Formula | Structure | Best For |
+|---|---|---|
+| **PAS** (Problem-Agitate-Solve) | [Problem] → [Agitate the pain] → [Introduce solution] → [CTA] | Scarred Chef, Scroll Stopper — they FEEL the problem |
+| **BAB** (Before-After-Bridge) | [Current painful state] → [Desired future state] → [Product as bridge] | Drawer Stuffer — behavior contrast (drawer → counter) |
+| **Social Proof Lead** | [Impressive stat or testimonial] → [What we do] → [CTA] | Universal — works cold |
+| **Feature-Benefit Bridge** | [Feature] → [So that…] → [Which means…] | Comparison chart creatives (Batch 10) |
+| **Direct Response** | [Bold claim/outcome] → [Proof point] → [CTA with urgency] | Feed camouflage (Batch 12) — short, punchy |
+
+## Headline Formulas Applied (from Copywriting skill)
+
+| Formula | SliceSafe Application |
+|---|---|
+| **{Achieve outcome} without {pain point}** | "Perfect slices without the fear" |
+| **Never {unpleasant event} again** | "Never hold your breath while slicing again" |
+| **Finally, {category} that {benefit}** | "Finally, a food slicer that doesn't need courage" |
+| **The {category} that {key differentiator}** | "The food slicer where your hands can't reach the blade" |
+| **Stop {pain}. Start {pleasure}.** | "Stop fearing the blade. Start slicing." |
+| **{Question highlighting pain point}** | "Why is every mandoline designed to cut you?" |
+
+## Psychology Principles Deployed (from Marketing Psychology skill)
+
+Each creative leverages specific psychological mechanisms:
+
+| Principle | How We Use It | Which Batches |
+|---|---|---|
+| **Loss Aversion** | "Don't lose a finger" > "Stay safe." Losses feel 2x worse than gains. | All batches — safety = loss prevention |
+| **Availability Heuristic** | ER stats (20,000+), scar stories make danger vivid and easy to recall | B9, B10, B11, B12 |
+| **Contrast Effect** | Before/after, us-vs-them, old design vs new design | B10 (comparison), B9 (reframe) |
+| **Anchoring Effect** | $99.95 shown as original price. $64.99 feels like a deal. | All body copies |
+| **Regret Aversion** | 30-day guarantee removes fear of buyer's remret. "Send it back" language. | All CTAs |
+| **Status-Quo Bias** | We acknowledge switching is hard ("you've been hand-chopping — that's fine") then reduce friction | B11 (Scarred Chef), B10 (Fence Sitter) |
+| **Social Proof / Bandwagon** | "20,000+ ER visits" = negative social proof that mandolines are dangerous | B9, B12 |
+| **Present Bias** | "Start slicing today" — emphasize IMMEDIATE benefit, not long-term value | All CTAs |
+| **Framing Effect** | "8 inches between you and the blade" (positive safety frame) vs. "blade aimed at your knuckles" (negative frame for competitors) | All mechanism descriptions |
+| **Commitment & Consistency** | Free shipping + 30-day guarantee = low first commitment → builds to retention | All offers |
+| **Mere Exposure Effect** | Dark BG creatives break pattern BUT consistent "Hands-On-Top" language builds familiarity across all ads | Cross-batch |
+| **Pratfall Effect** | "We're not the cheapest mandoline" (acknowledging weakness) builds trust — used in B10 chart copy | B10 |
+
+## Meta Ads Platform Rules
+
+| Element | Limit | Our Rule |
+|---|---|---|
+| **Primary text** | 125 chars visible before "See more" | Front-load the hook in first 125 chars. The HOOK must live above the fold. |
+| **Headline** | 40 chars recommended | Keep under 40. Mechanism or outcome, never both. |
+| **Description** | 30 chars | Price + shipping only: "$64.99 · Free shipping" |
+| **Image text** | Under 20% | Max 3 text elements. Hook text 38-54px. |
+| **CTA button** | Platform options | "Shop Now" for all purchase-intent ads |
+
+## Hook Types Applied (from Paid Ads skill)
+
+| Hook Type | Example | Used In |
+|---|---|---|
+| **Story hook** | "I had a mandoline in my drawer for two years..." | B9_drawer, B11_drawer, B12_review |
+| **Curiosity hook** | "This isn't a mandoline." | B9 (all three) |
+| **Question hook** | "Why is every mandoline designed to cut you?" | B10_chart_math |
+| **Number hook** | "90 seconds. Perfect slices. 10 fingers." | B9_fingers, B12 |
+| **Contrarian hook** | "The guard doesn't work. It was never supposed to." | B10_chart_3col, B11_scarred |
+| **Specificity hook** | "8 inches between your hands and the blade" | B11 (all three) |
+| **Outcome hook** | "Made the cucumber salad. Kept all my fingers." | B12_food |
+
+## Frame Stacking (Origins Framework)
+- **Hooks** must hit 2-3 frames (NEW + EASY + SAFE + BIG + FAST)
+- **Body copy** must hit 4-5 frames
 - Every body copy MUST include: NEW + SAFE + at least one of (EASY / FAST / BIG)
 
-## Rule 2: SHOW Don't TELL
+## SHOW Don't TELL
 - ❌ TELLING: "This mandoline is safe"
 - ✅ SHOWING: "I used to hold my breath every time I pulled out my mandoline. Now I don't even think about it."
 
-## Rule 3: Objection → Claim → Proof → Benefit Cycle
-- Address the objection head-on
-- Make your counter-claim
-- Prove it with mechanism/stat
-- Show the emotional payoff
-
-## Rule 4: 3 Mechanism Language Versions (rotate — never repeat)
+## 3 Mechanism Language Versions (rotate — never repeat)
 - **Version A (Physical/Spatial):** "Your hands grip the top. The blade is 8 inches below."
 - **Version B (Experience/Feeling):** "The first thing you notice is how far away the blade is. You can see it through the hopper, but you can't touch it. Your hands just push down from the top. That's it."
 - **Version C (Comparison/Contrast):** "With a regular mandoline, your hands slide toward the blade. With this one, your hands never leave the top. The blade is sealed inside, 8 inches below. They don't meet."
 
-## Rule 5: Stop Self-Categorizing
-- In hooks: Avoid the word "mandoline" when possible. Use "this," "it," or name the mechanism.
-- In body copy: Use "mandoline" for the OLD category (the problem). Use "Hands-On-Top" or "kitchen tool" for SliceSafe.
-- Exception: Avatar call-outs that reference their EXISTING mandoline relationship (Batch 11).
-
-## Rule 6: Match Copy Length to Awareness Level
+## Match Copy Length to Awareness Level
 - **Drawer Stuffer:** SHORT body copy. Skip education. Name behavior → mechanism → buy.
 - **Scarred Chef:** MEDIUM. Acknowledge failed solutions → new mechanism → outcome.
 - **Scroll Stopper:** MEDIUM-LONG. Reference trend → validate fear → introduce solution → mechanism.
 - **Fence Sitter:** LONGEST. Full problem → solution → mechanism → outcome → buy.
+
+## CTA Copy Rules (from Copywriting skill)
+
+**Weak CTAs (NEVER use):** Learn More, Click Here, Shop Now (alone)
+**Strong CTAs for SliceSafe:**
+- `Get the SliceSafe Pro — $64.99`
+- `Try It Risk-Free — 30 Days`
+- `See the Hands-On-Top Design`
+- `Claim Your $35 Discount`
+- `Get Yours Before Price Goes Back Up`
+
+**Formula:** [Action Verb] + [What They Get] + [Qualifier]
 
 ---
 
@@ -224,6 +289,143 @@ This is the **Mass Instinct + Mass Education** combination that Origins says "no
 - **Aspect ratio:** 4:5 (1080 × 1350px)
 - **Text rules:** Hook text 38-54px Bold minimum. Max 3 text elements on image.
 - **Testing method:** Marksman (3 creatives × 2 body copies each × 2 headlines each = 12 ad variations per batch)
+
+## Nano Banana Pro Library Prompts — Remixed For SliceSafe
+
+The following prompts are **remixed from the Nano Banana Pro prompt library** (6,000+ prompts). Each is adapted from a real library template for our specific product and visual needs.
+
+### NBP-A: Dark Background Premium Product Hero (for Batches 9 & 11)
+**Remixed from:** "Ultra-Cinematic Luxury Cold Brew Product Photography" (ecommerce-main-image.json)
+
+```json
+{
+  "master_prompt": {
+    "product": {
+      "type": "vertical standing mandoline slicer",
+      "brand_name": "SliceSafe Pro",
+      "body": "light-blue food-grade plastic body with clear hopper window",
+      "blade": "enclosed stainless steel blade visible through clear hopper, 8 inches below top handle",
+      "handle": "ergonomic top-press handle in matching light blue"
+    },
+    "composition": {
+      "scene_type": "ultra-cinematic commercial product photography",
+      "orientation": "vertical",
+      "aspect_ratio": "4:5",
+      "camera_angle": "slight 3/4 angle showing vertical profile and hand grip",
+      "subject_position": "slightly off-center right, standing upright on surface",
+      "motion": "paper-thin vegetable slices (cucumber, carrot) frozen mid-fall into catch tray below"
+    },
+    "environment": {
+      "background": "deep charcoal-to-black gradient backdrop",
+      "atmosphere": "minimal fine mist, clean and premium",
+      "elements": [
+        "thin cucumber slices suspended mid-air below the blade",
+        "a human hand pressing down confidently from the top handle",
+        "warm wood countertop surface visible beneath product"
+      ]
+    },
+    "lighting": {
+      "style": "low-key dramatic studio lighting",
+      "key_light": "soft directional light highlighting product contours and hand",
+      "rim_lights": "strong edge lights outlining the product silhouette in warm white",
+      "fill_light": "minimal, preserving deep shadows",
+      "highlights": "light-blue product color pops against dark background",
+      "contrast": "high contrast with rich blacks and controlled specular highlights on clear hopper"
+    },
+    "camera_settings": {
+      "lens": "85mm portrait lens",
+      "depth_of_field": "shallow, product and hand isolated in focus",
+      "focus_point": "hand grip and top handle area",
+      "clarity": "extreme detail on product surface and vegetable slices"
+    },
+    "render_quality": {
+      "resolution": "8K ultra-high-definition",
+      "style": "hyper-realistic premium advertising render",
+      "textures": "physically accurate plastic, stainless steel, and fresh vegetable surfaces",
+      "noise": "none",
+      "artifacts": "none"
+    }
+  }
+}
+```
+
+**Use for:** B9_reframe_drawer, B9_reframe_design, B11_avatar_drawer, B11_avatar_scarred, B11_avatar_fence
+**Variation notes:** For B9_reframe_drawer, add an open kitchen drawer with traditional flat mandoline in blurred background. For B9_reframe_fingers, change background to deep teal-blue and add cucumber slices in catch tray.
+
+---
+
+### NBP-B: Dark Background Action Product Grid (for Batch 11 variants)
+**Remixed from:** "High-Contrast Product Photography Grid Prompt" (ecommerce-main-image.json)
+
+```
+A light-blue vertical standing mandoline slicer with a bold and modern color scheme, showcasing detailed design, textures, and functional elements, with human hands pressing down from the top handle in a usage context. The scene features a deep black background, with strong high-contrast cinematic lighting and dramatic highlights. Paper-thin vegetable slices and small water droplets are frozen in motion around the product, captured with a fast shutter speed. Shot using a close-up perspective to emphasize scale, material quality, and the 8-inch distance between hands and blade. Dynamic motion energy, premium kitchen lifestyle aesthetic, sharp focus on textures, conveying confidence and safety. 4:5 aspect ratio.
+```
+
+**Use for:** B11 creatives needing action/motion variants
+
+---
+
+### NBP-C: Overhead Flat-Lay Food Photography (for Batch 12 food creative)
+**Remixed from:** "Authentic Indonesian Nasi Tumpeng Food Photography" (social-media-post.json)
+
+```
+Authentic overhead food photography of a fresh cucumber salad — paper-thin cucumber ribbons dressed with sesame seeds, red pepper flakes, soy sauce, and sesame oil — served in a white ceramic bowl on a light wood countertop. Surrounding the bowl: scattered sesame seeds, a linen napkin, chopsticks, and in the slightly blurred background a light-blue vertical standing mandoline slicer standing upright with a hand resting casually on the top handle. The slicer is IN the scene but not the hero — the food is the hero. Overhead flat lay composition, 50mm lens, cinematic warm natural lighting, Instagram food photography style, film grain, 4:5 aspect ratio.
+```
+
+**Use for:** B12_camo_food
+
+---
+
+### NBP-D: Warm Moody Kitchen Food Scene (for Batch 12 + various)
+**Remixed from:** "Cinematic Gourmet Grilled Food Photography Prompt" (social-media-post.json)
+
+```
+A dramatic cinematic kitchen prep scene featuring freshly sliced vegetables — paper-thin cucumber rounds, julienned carrots, zucchini ribbons — arranged on a warm wood cutting board. A light-blue vertical standing mandoline slicer stands upright nearby with a person's hand resting on the top handle. Close-up macro shots with visible slice textures, fresh water droplets on vegetables, warm kitchen pendant light in the background. One scene shows vegetables mid-slice falling into the catch tray. Dark moody background beyond the prep area, warm pendant light highlights, shallow depth of field, rich textures, ultra-realistic food styling, professional commercial food photography, cinematic lighting, high contrast, sharp focus, 8K resolution, 4:5 aspect ratio.
+```
+
+**Use for:** B12_camo_food (variant), B9_reframe_fingers (warm food + product)
+
+---
+
+### NBP-E: Technical Infographic Product Breakdown (for Batch 10)
+**Remixed from:** "Technical Infographic for E-commerce Product Description" (infographic-edu-visual.json)
+
+```
+Create an infographic image of the SliceSafe Pro Mandoline Slicer, combining a realistic photograph or photorealistic render of the product with technical annotation overlays placed directly on top.
+
+Use black ink-style line drawings and text (technical pen / architectural sketch look) on a clean dark-gray studio background.
+
+Include:
+- Key component labels: "Hands-On-Top Handle", "Clear Hopper Window", "Enclosed Blade Assembly", "Thickness Adjustment Dial (12 settings)", "Non-Slip Base", "Catch Tray"
+- Measurement callout: "8 inches" between hand position and blade
+- Arrows indicating food flow: food enters top → slices exit bottom
+- Safety zone highlight showing the enclosed blade area
+
+Place the title "SliceSafe Pro — Hands-On-Top Design" inside a technical annotation box in the top corner.
+
+Style & layout rules:
+- The real product remains clearly visible beneath the annotations
+- Annotations look hand-sketched, technical, and architectural
+- Clean composition with balanced negative space
+- Educational, engineering-manual vibe
+
+Visual style: Minimal technical illustration aesthetic. Black and white linework layered over realistic product photography. Precise but slightly hand-drawn feel.
+
+Output: Ultra-crisp, social-feed optimized, no watermark, 4:5 aspect ratio.
+```
+
+**Use for:** B10_chart_math (technical breakdown variant), B10_chart_3col (support image)
+
+---
+
+### NBP-G: Versatile Premium Product Spotlight (for any batch)
+**Remixed from:** "High-end cinematic product showcase reel still" (ecommerce-main-image.json)
+
+```
+A high-end cinematic product showcase of the SliceSafe Pro Mandoline Slicer in light blue, placed on a reflective premium dark wood surface, with soft rim lighting, a dramatic warm spotlight from above, ultra sharp details, an 85mm lens depth of field, glowing warm amber bokeh in the background, smooth gradients, and an elegant kitchen luxury feel. A human hand presses down on the top handle, with paper-thin vegetable slices visible in the catch tray below. 4:5 aspect ratio.
+```
+
+**Use for:** Any creative needing a premium product hero shot with warm tones
 
 ---
 
@@ -313,15 +515,16 @@ I've used it every week since Tuesday.
 SliceSafe Pro — $64.99 (was $99.95). 30-day guarantee. If it goes back in the drawer, send it back.
 ```
 
-**Structure:** Behavior recognition (drawer, bled, never again) → Mechanism Version B (experience/feeling) → Outcome (used it every week) → Offer + risk reversal
+**Ad Copy Formula:** BAB (Before-After-Bridge) — "drawer for two years" (before) → "used it every week" (after) → SliceSafe mechanism (bridge)
+**Psychology:** Availability Heuristic (vivid "bled" memory), Contrast Effect (drawer → counter), Regret Aversion (30-day guarantee), Anchoring ($99.95 → $64.99)
+**Hook (first 125 chars):** `I had a mandoline in my drawer for two years. Touched it once. Bled. Never again. Then I saw this thing.` ← 103 chars, fully visible
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
 ### B9_reframe_drawer — Body Copy 2 (Drawer Stuffer — SHORT, behavior-forward)
 
 ```
-Open your kitchen drawer.
-
-See that mandoline under the cutting boards? The one you used once and swore off forever?
+Open your kitchen drawer. See that mandoline under the cutting boards? The one you used once and swore off forever?
 
 It's not your fault. That thing was designed to point a blade at your knuckles and hope a plastic guard saves you.
 
@@ -329,16 +532,19 @@ This one doesn't work like that. Your hands push down from the top. The blade is
 
 It stands upright on the counter. Mine hasn't been in a drawer once.
 
-$64.99 (was $99.95). 30-day guarantee — if it ends up in the drawer, send it back.
+$64.99 (was $99.95). Free shipping. Try it 30 days — if it ends up in the drawer, send it back.
 ```
 
-**Structure:** Behavior naming (open your drawer) → Self-blame removal → Mechanism Version A (physical/spatial) → Identity outcome (counter, not drawer) → Offer with personality
+**Ad Copy Formula:** PAS — Problem (mandoline in drawer) → Agitate (designed to point blade at knuckles) → Solve (hands-on-top, blade enclosed)
+**Psychology:** Fundamental Attribution Error reversal ("not your fault" = situational, not personal), Loss Aversion ("point a blade at your knuckles"), Status-Quo Bias reduction (easy switch framing)
+**Hook (first 125 chars):** `Open your kitchen drawer. See that mandoline under the cutting boards? The one you used once and swore off forever?` ← 116 chars
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
-### B9_reframe_drawer — Headlines
+### B9_reframe_drawer — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `It's not a mandoline. It's the one that stays on the counter.`
-**Headline 2:** `Hands on top. Blade enclosed. They never meet.`
+**Headline 1:** `Never goes back in the drawer` (29 chars)
+**Headline 2:** `Hands on top. Blade enclosed.` (29 chars)
 
 ---
 
@@ -362,7 +568,10 @@ Paper-thin slices. 60 seconds. Zero anxiety.
 $64.99 (was $99.95). 30-day guarantee.
 ```
 
-**Structure:** Acknowledge failed solutions (guard, glove, attention) → Reframe (design is the problem) → Mechanism Version C (comparison/contrast) → Outcome SHOWN → Offer
+**Ad Copy Formula:** PAS — Problem (tried guard, glove, attention — still cut) → Agitate (design is the problem, guard is an afterthought) → Solve (no guard needed, hands-on-top)
+**Psychology:** Confirmation Bias alignment (they already believe guards don't work — we agree), Contrast Effect (old design vs new), Present Bias ("60 seconds" = immediate benefit)
+**Hook (first 125 chars):** `You've tried the guard. You've tried the glove. You've tried going slow and paying attention. And you still got cut.` ← 117 chars
+**Mechanism Version:** C (Comparison/Contrast)
 **FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
 ### B9_reframe_design — Body Copy 2 (Scarred Chef — MEDIUM, scar story forward)
@@ -378,16 +587,19 @@ This one works completely differently. Your hands push down from the top — 8 i
 
 I've sliced 30+ pounds of vegetables since I got it. Zero cuts. Zero close calls. Zero thinking about it.
 
-$64.99 (was $99.95). Free shipping. 30-day money-back guarantee.
+SliceSafe Pro — $64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Scar story (emotional entry) → Design flaw explanation → Mechanism Version B (experience/feeling) → Volume outcome (30+ lbs) → Offer
+**Ad Copy Formula:** Social Proof Lead (opens with personal scar story as implicit testimonial) → then PAS for the design problem → solve with mechanism
+**Psychology:** Availability Heuristic (scar = vivid, permanent reminder), Loss Aversion ("one slip from the ER"), Framing Effect ("design problem" not "safety problem" = reframe), Anchoring ($99.95 → $64.99)
+**Hook (first 125 chars):** `I still have the scar on my left thumb. It's been four years.` ← 62 chars — SHORT and devastating. Forces "See more" click.
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + BIG + EASY = 4/5
 
-### B9_reframe_design — Headlines
+### B9_reframe_design — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `The design flaw that cut you doesn't exist on this one.`
-**Headline 2:** `No guard needed. The blade is 8 inches below your hands.`
+**Headline 1:** `The design flaw is gone.` (23 chars)
+**Headline 2:** `No guard needed. Ever.` (21 chars)
 
 ---
 
@@ -405,7 +617,10 @@ This one's different. Your hands stay on top — the blade is enclosed 8 inches 
 SliceSafe Pro — $64.99 (was $99.95). Free shipping. 30-day guarantee.
 ```
 
-**Structure:** Trend reference (cucumber salad) → Problem education (20,000 stat) → Mechanism Version A (physical/spatial) → Numbers outcome → Offer
+**Ad Copy Formula:** PAS — Problem (cucumber salad trend + injuries) → Agitate (20,000 ER visits, guard doesn't grip) → Solve (hands stay on top, blade enclosed)
+**Psychology:** Social Proof (negative — 20,000 ER visits proves danger), Availability Heuristic (cucumber salad trend = top of mind), Loss Aversion ("almost lose a finger"), Present Bias ("90 seconds" = instant gratification)
+**Hook (first 125 chars):** `Everyone's making that cucumber salad. Nobody's talking about the part where you almost lose a finger.` ← 102 chars, punchy
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + BIG + FAST + EASY = 5/5
 
 ### B9_reframe_fingers — Body Copy 2 (Scroll Stopper — MEDIUM, trend-entry)
@@ -423,18 +638,19 @@ But here's the thing: the mandoline isn't the problem. The design is. Every one 
 
 This one's built completely different. Your hands push down from the top. The blade is sealed inside — 8 inches below. You physically cannot touch it.
 
-Make the salad. Keep the fingers.
-
-$64.99 (was $99.95). Free shipping. 30-day guarantee.
+Make the salad. Keep the fingers. SliceSafe Pro — $64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Trend entry (saved the video) → Real quotes (showing fear) → Validate the decision → Design reframe → Mechanism Version A → Outcome with personality → Offer
+**Ad Copy Formula:** Social Proof Lead (opens with real user quotes as social proof of danger) → PAS (problem = design flaw, agitate = exposed blade, solve = hands-on-top)
+**Psychology:** Availability Heuristic (vivid injury quotes make danger feel real and recent), Confirmation Bias ("So you didn't buy one. Smart." = validates their existing belief), Contrast Effect (old design vs new), Regret Aversion (30-day guarantee)
+**Hook (first 125 chars):** `You saved the cucumber salad video. Then you read the comments.` ← 63 chars — curiosity gap forces "See more" click
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + FAST + EASY = 4/5
 
-### B9_reframe_fingers — Headlines
+### B9_reframe_fingers — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `The first food slicer where your hands can't reach the blade.`
-**Headline 2:** `90 seconds. Perfect slices. All 10 fingers.`
+**Headline 1:** `Your hands can't reach the blade` (31 chars)
+**Headline 2:** `90 sec. Perfect slices. 10 fingers.` (34 chars)
 
 ---
 
@@ -569,7 +785,10 @@ The SliceSafe Pro doesn't need a guard OR gloves. Your hands push down from the 
 $64.99 (was $99.95). Free shipping. 30-day guarantee.
 ```
 
-**Structure:** Education (guard doesn't work) → Objection crush (gloves fail too) → Mechanism Version A → Feature checklist (mirrors chart format) → Offer
+**Ad Copy Formula:** Feature-Benefit Bridge — Feature (no guard, hands-on-top) → So that (blade sealed 8 inches below) → Which means (no accessories, just slicing). Checklist format mirrors the chart image.
+**Psychology:** Contrast Effect (guard vs no guard, gloves vs no gloves), Pratfall Effect ("The guard doesn't work" = honest about category's failure builds trust), Anchoring ($99.95 → $64.99), Commitment & Consistency (checklist = small mental yeses building to purchase)
+**Hook (first 125 chars):** `Here's what nobody tells you about mandoline safety: The guard doesn't work. It doesn't grip food. It slips.` ← 110 chars
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY + BIG = 4/5
 
 ### B10_chart_3col — Body Copy 2 (Universal — SHORT, comparison-driven)
@@ -586,13 +805,16 @@ One of these doesn't require bravery to use.
 $64.99. Free shipping. 30-day money-back guarantee.
 ```
 
-**Structure:** 3-way comparison in body copy (mirrors the chart image) → Personality line → Offer
+**Ad Copy Formula:** Direct Response — Bold claim (3-way comparison, one clear winner) → Proof (specific features per option) → CTA with personality ("doesn't require bravery")
+**Psychology:** Decoy Effect (the "mandoline + cut glove" option is the decoy — it makes SliceSafe look even better by comparison), Framing Effect (competitors framed negatively), Paradox of Choice reduction (3 options → 1 obvious winner)
+**Hook (first 125 chars):** `Traditional mandoline: blade aimed at your knuckles + a guard nobody uses + lives in the drawer.` ← 97 chars — starts with competitor pain
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
-### B10_chart_3col — Headlines
+### B10_chart_3col — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `Your hands never go near the blade. That's the whole point.`
-**Headline 2:** `Compare everything. Then decide.`
+**Headline 1:** `Compare. Then decide.` (21 chars)
+**Headline 2:** `Hands never near the blade.` (27 chars)
 
 ---
 
@@ -612,7 +834,10 @@ One tool. On the counter. Everything else stays in the drawer.
 $64.99. Free shipping. 30-day money-back guarantee.
 ```
 
-**Structure:** Behavior naming (count your mandolines) → Reframe (not laziness, bad design) → Mechanism Version A → Identity outcome (on the counter) → Offer
+**Ad Copy Formula:** BAB — Before (mandolines in drawer, unused) → After (one tool, on the counter) → Bridge (hands-on-top, blade enclosed)
+**Psychology:** Fundamental Attribution Error reversal ("not laziness" = don't blame yourself), Contrast Effect (drawer vs counter), Status-Quo Bias reduction (counter = new normal), Framing Effect ("nothing to guard against" reframes the whole category)
+**Hook (first 125 chars):** `Count the mandolines in your drawer. Now count how many times you've used them this year.` ← 90 chars — rhetorical question hook
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
 ### B10_chart_split — Body Copy 2 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
@@ -635,13 +860,16 @@ Same person. Different tool.
 $64.99 (was $99.95). Free shipping. 30-day guarantee.
 ```
 
-**Structure:** Two-type split (mirrors the us-vs-them image) → Reframe (not skill, design) → Mechanism Version C → Identity bridge → Offer
+**Ad Copy Formula:** BAB — Before (Type 1: cut, drawer, done) → After (Type 2: weekly, no fear, no guard) → Bridge ("Same person. Different tool." = it's the design, not you)
+**Psychology:** Contrast Effect (Type 1 vs Type 2 = vivid split), Unity Principle ("same person" = they can become Type 2), Fundamental Attribution Error reversal (not skill, design), Framing Effect (framing the problem as design, not user error)
+**Hook (first 125 chars):** `Two types of mandoline owners:` ← 31 chars — SHORT curiosity gap. Forces "See more" to see what the two types are.
+**Mechanism Version:** C (Comparison/Contrast)
 **FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
-### B10_chart_split — Headlines
+### B10_chart_split — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `No guard. No gloves. No fear. Just slicing.`
-**Headline 2:** `The slicer you should be using vs. the one in your drawer.`
+**Headline 1:** `No guard. No gloves. Just slicing.` (33 chars)
+**Headline 2:** `Same person. Different tool.` (28 chars)
 
 ---
 
@@ -665,7 +893,10 @@ Paper-thin. Perfectly uniform. 60 seconds flat.
 $64.99 (was $99.95). 30-day guarantee — if the design doesn't change how you feel in the kitchen, send it back.
 ```
 
-**Structure:** OBJECTION (guards don't work) → CLAIM (bad design, not you) → PROOF (mechanism Version B) → BENEFIT (SHOW the feeling) → Offer + risk reversal
+**Ad Copy Formula:** PAS — Problem ("I never use the guard") → Agitate (bad design, not bad behavior) → Solve (no guard needed, mechanism Version B) + emotional payoff SHOWN ("Nothing. No anxiety.")
+**Psychology:** Confirmation Bias alignment (they already believe guards don't work — we agree), Fundamental Attribution Error reversal ("you're not the problem"), Peak-End Rule (the "Nothing. No anxiety." moment is the peak), Regret Aversion (emotional risk reversal in CTA)
+**Hook (first 125 chars):** `"I've tried mandolines. They all come with a guard. I never use the guard."` ← 74 chars — opens with voice-of-customer quote
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
 ### B10_chart_math — Body Copy 2 (Fence Sitter — LONG, Problem Aware → Most Aware)
@@ -688,13 +919,16 @@ No guard. No gloves. No special technique. No courage required.
 $64.99 (was $99.95). Free shipping. 30-day money-back guarantee — try it risk-free.
 ```
 
-**Structure:** Validate their decision (right to say no) → Problem education (20,000 stat) → Full mechanism explanation Version B (experience) → Feature details → Offer + risk reversal
+**Ad Copy Formula:** PAS — Problem (you were right to say no — design is dangerous) → Agitate (20,000 ER visits, guard slips) → Solve (full mechanism walkthrough + features)
+**Psychology:** Confirmation Bias ("you were right to say no" validates their existing belief), Status-Quo Bias reduction (make switching feel safe with full explanation), Regret Aversion (30-day guarantee = zero regret risk), Anchoring ($99.95 → $64.99), Zero-Price Effect (free shipping highlighted)
+**Hook (first 125 chars):** `You've seen mandolines online. You've thought about buying one. Then you saw a comment about someone slicing their finger...` ← 125 chars exact
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
-### B10_chart_math — Headlines
+### B10_chart_math — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `6 problems. 1 solution. Zero cuts.`
-**Headline 2:** `The first food slicer where your hands can't reach the blade.`
+**Headline 1:** `6 problems. 1 solution. 0 cuts.` (31 chars)
+**Headline 2:** `Your hands can't reach the blade` (31 chars)
 
 ---
 
@@ -797,7 +1031,10 @@ I've made cucumber salad three times this week. Haven't thought about the blade 
 $64.99. 30-day guarantee. If it goes back in the drawer, send it back.
 ```
 
-**Structure:** Behavior naming (14 months in drawer) → Emotional truth (remembered what happened) → Mechanism Version B (experience) → Outcome SHOWN (cucumber salad, haven't thought about blade) → Offer with personality
+**Ad Copy Formula:** BAB — Before (drawer for 14 months, remembered the pain) → After (cucumber salad three times this week, haven't thought about blade) → Bridge (hands on top, blade 8 inches below)
+**Psychology:** Availability Heuristic ("remembered the last time I did" = vivid recall of injury), Contrast Effect (14 months unused → used three times this week), Endowment Effect (once they try it and feel safe, they won't return it), Regret Aversion (drawer-specific guarantee)
+**Hook (first 125 chars):** `Mine sat in the drawer for 14 months. Not because I didn't want to use it. Because every time I opened that drawer...` ← 119 chars
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
 ### B11_avatar_drawer — Body Copy 2 (Drawer Stuffer — SHORT, direct address)
@@ -813,16 +1050,19 @@ Your hands push down from the top handle. The blade is sealed inside, 8 inches b
 
 It's the one you'll actually reach for on a Tuesday night.
 
-$64.99 (was $99.95). Free shipping. 30-day guarantee.
+SliceSafe Pro — $64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Reframe (not broken, not lazy) → Validate the drawer decision → Counter-identity (this one stays out) → Mechanism Version A → Outcome identity → Offer
+**Ad Copy Formula:** PAS — Problem (mandoline in drawer) → Agitate ("genuinely scary — exposed blade, useless guard, fingers inches from the edge") → Solve (stands on counter, hands-on-top, blade sealed)
+**Psychology:** Fundamental Attribution Error reversal ("not lazy — you're smart"), Confirmation Bias ("Of course it's in the drawer" validates them), Present Bias ("Tuesday night" = immediate, real-life benefit), Status-Quo Bias reduction (counter = new easy normal)
+**Hook (first 125 chars):** `That mandoline in your drawer isn't broken.` ← 44 chars — SHORT curiosity hook. What do they mean? Forces "See more."
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
-### B11_avatar_drawer — Headlines
+### B11_avatar_drawer — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `For the mandoline in your drawer. This is its replacement.`
-**Headline 2:** `Hands on top. Slices come out the bottom. They never meet.`
+**Headline 1:** `This one stays on the counter.` (30 chars)
+**Headline 2:** `Hands on top. Blade below.` (26 chars)
 
 ---
 
@@ -846,7 +1086,10 @@ The first kitchen tool where your hands physically can't reach the blade.
 $64.99 (was $99.95). Free shipping. 30-day guarantee.
 ```
 
-**Structure:** Shared experience (you know what happens) → Self-blame removal (not your fault) → Mechanism Version C (comparison/contrast) → SHOW the outcome → Category positioning → Offer
+**Ad Copy Formula:** PAS — Problem ("You know exactly what happens" = shared painful experience) → Agitate (blade at your hands, guard doesn't grip) → Solve (hands stay on top, blade sealed, 60 seconds)
+**Psychology:** Availability Heuristic ("the vegetable gets small, your fingers get close" = vivid sensory replay), Loss Aversion ("blood" = visceral loss framing), Fundamental Attribution Error reversal ("not your fault"), Present Bias ("60 seconds" = immediate)
+**Hook (first 125 chars):** `You know exactly what happens. The vegetable gets small. Your fingers get close. The guard slips. And then — blood.` ← 116 chars
+**Mechanism Version:** C (Comparison/Contrast)
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
 ### B11_avatar_scarred — Body Copy 2 (Scarred Chef — MEDIUM, empathy-forward)
@@ -867,13 +1110,16 @@ The first time you use it, you'll notice the strangest thing: you're not clenchi
 $64.99 (was $99.95). 30-day guarantee — if the flinch comes back, send it back.
 ```
 
-**Structure:** Emotional hook (scar/flinch) → Validate their workaround → Design blame → Mechanism Version B (experience) → SHOW the feeling shift → Offer with emotional risk reversal
+**Ad Copy Formula:** Social Proof Lead (opens with visceral scar/flinch testimony) → BAB (Before: flinching, hand-chopping → After: not clenching, just slicing → Bridge: no guard, blade sealed)
+**Psychology:** Availability Heuristic ("your thumb remembers" = sensory recall), Peak-End Rule ("you're not clenching, you're not holding your breath, you're just slicing" = designed peak moment), Regret Aversion (emotional risk reversal: "if the flinch comes back, send it back"), Mere Exposure Effect (mechanism repetition builds familiarity)
+**Hook (first 125 chars):** `The scar fades. The flinch doesn't.` ← 35 chars — devastatingly short. Highest emotional density per character in all batches.
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
-### B11_avatar_scarred — Headlines
+### B11_avatar_scarred — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `The design flaw that cut you doesn't exist on this one.`
-**Headline 2:** `No guard needed. The blade is 8 inches below your hands.`
+**Headline 1:** `The design flaw is gone.` (23 chars)
+**Headline 2:** `No guard needed. Ever.` (21 chars)
 
 ---
 
@@ -899,7 +1145,10 @@ Paper-thin to thick-cut. 12 settings. 90 seconds from whole vegetable to perfect
 $64.99 (was $99.95). Free shipping. 30-day money-back guarantee — try it completely risk-free.
 ```
 
-**Structure:** Behavior naming (thought about buying 3 times) → Validate the fear with data → Full mechanism Version B → Feature details → Offer + risk elimination
+**Ad Copy Formula:** PAS — Problem (thought about buying 3x, read horror comments, closed tab) → Agitate (20,000 ER visits, guard doesn't work, fear is rational) → Solve (full mechanism walkthrough, features, guarantee)
+**Psychology:** Confirmation Bias ("You're not being dramatic" validates their fear), Social Proof negative (20,000 ER visits), Status-Quo Bias reduction (full explanation reduces switching anxiety), Regret Aversion ("try it completely risk-free"), Anchoring ($99.95 → $64.99), Zero-Price Effect (free shipping)
+**Hook (first 125 chars):** `You've thought about buying a mandoline at least three times.` ← 62 chars — self-identification hook. Forces "that's me" reaction.
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
 ### B11_avatar_fence — Body Copy 2 (Fence Sitter — MEDIUM, decision-focused)
@@ -919,16 +1168,19 @@ Food goes in. Paper-thin slices come out the bottom. Your hands stay on top the 
 
 No special skills. No accessories. No fear.
 
-$64.99 (was $99.95). Free shipping. 30-day guarantee.
+SliceSafe Pro — $64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Education (explain the problem from scratch) → Validate their non-purchase → Mechanism Version A → Simplicity assertion → Offer
+**Ad Copy Formula:** Feature-Benefit Bridge — Feature (stands upright, hands grip top, blade sealed) → So that (hands 8 inches above blade) → Which means (no skills, no accessories, no fear). Educational structure for unaware audience.
+**Psychology:** Status-Quo Bias reduction (full education reduces uncertainty), Confirmation Bias ("That's why you haven't bought one. And that's fair." = validates), Framing Effect (negative frame for competitors, positive for SliceSafe), Commitment & Consistency (low commitment CTA: "try it 30 days")
+**Hook (first 125 chars):** `If you've never owned a mandoline, here's what you should know:` ← 64 chars — educational hook targeting the uninitiated
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY + BIG = 4/5
 
-### B11_avatar_fence — Headlines
+### B11_avatar_fence — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `The first food slicer where your hands can't reach the blade.`
-**Headline 2:** `No guard. No gloves. No fear. Just slicing.`
+**Headline 1:** `Your hands can't reach the blade.` (32 chars)
+**Headline 2:** `No courage required.` (20 chars)
 
 ---
 
@@ -1051,7 +1303,10 @@ Update: it's been 9 days. I've used it 7 times. Paper-thin slices, zero cuts, an
 SliceSafe Pro — $64.99 (was $99.95). Free shipping. 30-day guarantee.
 ```
 
-**Structure:** Discovery story (rabbit hole) → Stat → Mechanism Version A → Personal experiment → Update (social proof) → Offer
+**Ad Copy Formula:** Social Proof Lead (personal discovery story as testimonial) → PAS midway (20,000 ER stat agitates) → Direct Response at end ("Update" format = native social proof)
+**Psychology:** Mere Exposure Effect (discovery format feels like organic content, not ad), Social Proof (20,000 stat + personal "I ordered one" = bandwagon), Commitment & Consistency ("I ordered one → Update: it's great" = journey the reader follows), Zeigarnik Effect ("I'll report back" creates open loop)
+**Hook (first 125 chars):** `I went down a rabbit hole last night.` ← 37 chars — curiosity gap. What rabbit hole? Forces "See more."
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + BIG + EASY = 4/5
 
 ### B12_camo_text — Body Copy 2 (Universal — SHORT, reaction-style)
@@ -1067,18 +1322,19 @@ And it catches the slices for you?
 
 Why does every other mandoline still exist?
 
-$64.99. Free shipping. 30-day money-back guarantee.
-
-→ link
+SliceSafe Pro — $64.99. Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Discovery reactions (each line = new benefit framed as disbelief) → Personality punchline → Offer
+**Ad Copy Formula:** Direct Response — each line is a bold claim framed as disbelief. Stacking Feature-Benefit Bridges in rapid succession. Personality punchline closes.
+**Psychology:** Goal-Gradient Effect (each "And..." builds momentum — reader accelerates through benefits), Contrast Effect (implicit comparison to every other mandoline), Mimetic Desire ("wait" = someone else discovered this = you're late to the party)
+**Hook (first 125 chars):** `Wait. There's a mandoline where your hands stay 8 inches above the blade?` ← 74 chars — disbelief hook matches text post format
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY + BIG = 4/5
 
-### B12_camo_text — Headlines
+### B12_camo_text — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `90 seconds. Perfect slices. All 10 fingers.`
-**Headline 2:** `I just found out mandolines don't have to be terrifying.`
+**Headline 1:** `90 sec. Perfect slices. 10 fingers.` (34 chars)
+**Headline 2:** `Why does this exist and I didn't know?` (37 chars)
 
 ---
 
@@ -1102,7 +1358,10 @@ You push down from the top. Food goes through. Paper-thin slices come out the bo
 $64.99 (was $99.95). Free shipping. 30-day money-back guarantee.
 ```
 
-**Structure:** Trend reference → REAL quotes from research (showing, not telling) → Verified stat → Mechanism Version A → Numbers outcome → Offer
+**Ad Copy Formula:** Social Proof Lead (opens with real injury quotes = powerful negative testimonials) → PAS (problem = exposed blade design, agitate = 20,000 ER stat, solve = hands-on-top mechanism)
+**Psychology:** Availability Heuristic (vivid injury quotes burn into memory), Loss Aversion ("sliced my thumb off" = devastating loss framing), Social Proof negative (20,000 ER = this happens to everyone), Anchoring ($99.95 → $64.99)
+**Hook (first 125 chars):** `You've seen the cucumber salad videos. You've read the comments.` ← 64 chars — then quotes appear after "See more"
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + BIG + FAST + EASY = 5/5
 
 ### B12_camo_food — Body Copy 2 (Scroll Stopper — MEDIUM, recipe-forward)
@@ -1118,16 +1377,19 @@ I'm not careful when I use it. I'm not scared. I just slice.
 
 That's the whole point of the SliceSafe Pro. Your hands and the blade don't meet. Ever.
 
-$64.99 (was $99.95). Free shipping. 30-day guarantee.
+$64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Recipe story (food is hero) → Mechanism Version B woven naturally into cooking story → Emotional proof (not careful, not scared) → Category statement → Offer
+**Ad Copy Formula:** BAB — Before (horror-story comments, fear) → After (not careful, not scared, just slice) → Bridge (hands push down from top, blade sealed 8 inches below). Woven into native recipe story format.
+**Psychology:** Mere Exposure Effect (feels like a food post, not an ad = bypasses ad blindness), Present Bias ("4 minutes start to finish" = instant gratification), Contrast Effect ("not like the ones in the horror-story comments" = implicit comparison), Peak-End Rule ("I'm not careful. I'm not scared. I just slice." = designed peak)
+**Hook (first 125 chars):** `Made the cucumber salad again last night. Fourth time this week. I might have a problem.` ← 89 chars — native food voice, not ad voice
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + FAST + EASY = 4/5
 
-### B12_camo_food — Headlines
+### B12_camo_food — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `The kitchen tool that replaced my mandoline.`
-**Headline 2:** `Paper-thin slices. Zero fear. That's the whole point.`
+**Headline 1:** `Replaced my mandoline with this.` (31 chars)
+**Headline 2:** `Paper-thin slices. Zero fear.` (29 chars)
 
 ---
 
@@ -1147,7 +1409,10 @@ Weird flex but it's the first kitchen tool that hasn't scared me.
 $64.99. Free shipping. Send it back in 30 days if it goes in the drawer.
 ```
 
-**Structure:** Behavior naming with specifics → Mechanism Version B → Outcome SHOWN through meals → Personality/voice → Offer with matching personality
+**Ad Copy Formula:** Social Proof Lead (specific numbers as implicit testimonial: "3 mandolines, 5 years, 2 scars") → BAB (before: drawer, scared → after: counter for 11 days, three meals → bridge: vertical, hands-on-top, blade sealed)
+**Psychology:** Availability Heuristic (specific numbers = vivid, believable), Contrast Effect (drawer → counter, scared → "haven't even thought about the blade"), Liking/Similarity Bias ("my sister sent me" = relatable, warm), Endowment Effect (11 days of use = already owns the habit)
+**Hook (first 125 chars):** `Three mandolines. Five years. Two scars.` ← 41 chars — rhythmic number hook. Devastating. Forces "See more."
+**Mechanism Version:** B (Experience/Feeling)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
 ### B12_camo_review — Body Copy 2 (Drawer Stuffer — SHORT, gift-story angle)
@@ -1163,16 +1428,19 @@ I've used it 8 times in 3 weeks. Zucchini noodles. Scalloped potatoes. That cucu
 
 I'm not returning it. And she's not letting me forget she was right.
 
-$64.99 (was $99.95). Free shipping. 30-day guarantee.
+SliceSafe Pro — $64.99 (was $99.95). Free shipping. Try it 30 days risk-free →
 ```
 
-**Structure:** Gift story (relatable, warm) → Mechanism Version A → Outcome through specific meals → Personality/humor → Offer
+**Ad Copy Formula:** BAB — Before (bought mandoline, cut myself, drawer, Thanksgiving guilt) → After (8 times in 3 weeks, three specific meals, not returning it) → Bridge (vertical, hands on top, blade sealed 8 inches below). Gift story = native social format.
+**Psychology:** Liking/Similarity Bias (relatable marriage humor = warm, human), Endowment Effect (8 uses in 3 weeks = habit formed), Mere Exposure Effect (reads like a real person's post, not ad copy), Commitment & Consistency ("try it before you return it" = low initial commitment → kept it)
+**Hook (first 125 chars):** `My wife bought me a mandoline 3 years ago. I used it once. Cut myself. Put it in the drawer. She brought it up every Thanks...` ← 125 chars exact
+**Mechanism Version:** A (Physical/Spatial)
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
-### B12_camo_review — Headlines
+### B12_camo_review — Headlines (≤40 chars for Meta Ads)
 
-**Headline 1:** `90 seconds. Perfect slices. All 10 fingers.`
-**Headline 2:** `The one that actually stays on the counter.`
+**Headline 1:** `This one stays on the counter.` (30 chars)
+**Headline 2:** `90 sec. Perfect slices. 10 fingers.` (34 chars)
 
 ---
 
