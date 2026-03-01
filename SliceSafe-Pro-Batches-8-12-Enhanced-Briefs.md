@@ -873,8 +873,9 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 
 **Nano Banana Pro Prompt:**
 ```
-Beautiful, aspirational photograph of an elegant dinner table set for a gathering. Thin-sliced vegetable dishes are the centerpiece — a stunning cucumber salad, a platter of carpaccio-thin potato slices, a colorful ratatouille with paper-thin vegetable rounds layered in a spiral. Warm candlelight, linen napkins, wine glasses. In background, slightly out of focus, kitchen counter with a light-blue vertical standing mandoline slicer — it stands upright like a small tower about 12 inches tall with a wide ergonomic pressing handle on top, a transparent food hopper in the middle showing the stainless steel blade inside, and a dark-gray rubber non-slip base at the bottom. A clear plastic catch tray sits at the base underneath the blade. Mandoline barely visible — gorgeous food is the hero. Warm, social, aspirational mood. Candlelight mixed with soft kitchen lighting. Rich, warm tones, film grain, 50mm lens feel. No text, no logos, no watermarks. 4:5 aspect ratio.
+Beautiful, aspirational photograph of an elegant dinner table set for a gathering of friends. The camera focuses entirely on the food and table setting. Thin-sliced vegetable dishes are the centerpiece — a stunning cucumber salad with paper-thin rounds, a platter of carpaccio-thin potato slices, a colorful ratatouille with perfectly uniform vegetable rounds layered in a spiral. Warm candlelight, linen napkins, wine glasses, serving spoons. Guests' hands reaching for food. The table fills the entire frame — no kitchen counter, no appliances, no tools visible. This is a dinner party in progress. Warm, social, aspirational mood. Rich warm tones, candlelight glow, soft depth of field, 50mm lens feel, film grain. Food photography meets lifestyle photography. No text, no logos, no watermarks, no kitchen gadgets on table. 4:5 aspect ratio.
 ```
+**NOTE:** The mandoline is NOT in this image. Feed camouflage rule — this should look like someone's Instagram dinner party post. The product exists only in the body copy. The thin-sliced dishes ARE the proof (uniform paper-thin cuts = mandoline result). If the viewer sees a mandoline on a dinner table, the illusion breaks instantly.
 
 **Canva Step-by-Step:**
 
@@ -891,12 +892,13 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 
 **Final check:**
 - [ ] Dinner table looks genuinely beautiful — would stop a lifestyle scroller
-- [ ] Mandoline barely visible in background — FOOD is the hero
-- [ ] Thin-sliced vegetable dishes visible as centerpieces (proof of mandoline result)
+- [ ] NO mandoline anywhere in the image — food is the ENTIRE hero
+- [ ] Thin-sliced vegetable dishes visible as centerpieces (uniform cuts = implicit mandoline proof)
+- [ ] Looks like someone's real Instagram dinner party post — not a product photo
 - [ ] Caption reads like social media caption, not ad copy
 - [ ] "the tool" not "the mandoline" — avoids self-categorization
 - [ ] "Saved the recipe 3 times" = uncomfortably specific behavioral call-out
-- [ ] NO price tag anywhere — feed camouflage = zero ad signals
+- [ ] NO price tag, NO product, NO brand — total feed camouflage
 - [ ] Aspirational scene + gentle call-out creates desire, not pressure
 - [ ] Export PNG highest quality
 
