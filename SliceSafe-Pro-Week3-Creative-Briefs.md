@@ -1171,9 +1171,17 @@ Clean product photograph of a light-blue vertical standing mandoline slicer — 
 
 **Nano Banana Pro Prompt:**
 ```
-Beautiful, aspirational photograph of an elegant dinner table set for a gathering of friends. The camera focuses entirely on the food and table setting. Thin-sliced vegetable dishes are the centerpiece — a stunning cucumber salad with paper-thin rounds, a platter of carpaccio-thin potato slices, a colorful ratatouille with perfectly uniform vegetable rounds layered in a spiral. Warm candlelight, linen napkins, wine glasses, serving spoons. Guests' hands reaching for food. The table fills the entire frame — no kitchen counter, no appliances, no tools visible. This is a dinner party in progress. Warm, social, aspirational mood. Rich warm tones, candlelight glow, soft depth of field, 50mm lens feel, film grain. Food photography meets lifestyle photography. No text, no logos, no watermarks, no kitchen gadgets on table. 4:5 aspect ratio.
+Overhead photograph of a casual dinner party table, mid-meal. Shot from slightly above at an angle, as if someone stood up from their chair and snapped a quick photo with their phone. The table is a warm wooden dining table with a linen runner slightly bunched up.
+
+Center of table: one stunning ratatouille tian in a round ceramic baking dish — perfectly uniform paper-thin rounds of zucchini, eggplant, tomato, and yellow squash arranged in a tight spiral. This one dish looks restaurant-quality and stands out from everything else.
+
+Surrounding the ratatouille: a torn baguette on a wooden cutting board with crumbs scattered, a half-carved roast chicken on a platter, a simple green salad in a large bowl with serving tongs, a small dish of olive oil, two wine glasses at different fill levels (one red, one almost empty), a water pitcher, scattered cloth napkins (one crumpled), a small votive candle burning low. A used plate with remnants pushed to the edge of frame.
+
+The table shows signs of an actual meal in progress — not perfectly styled. Some crumbs, a wine ring stain, a serving spoon resting at an angle. Warm, intimate lighting from candles and soft overhead pendant light. Slightly warm white balance. No flash. The depth of field is shallow like a phone camera — edges slightly soft.
+
+No people visible. No hands. No kitchen tools or gadgets. No text, no logos, no watermarks. The ratatouille is the only dish that looks "impressive" — everything else is normal, casual, homestyle. Warm golden tones, cozy atmosphere, evening indoor lighting. 4:5 aspect ratio.
 ```
-**NOTE:** The mandoline is NOT in this image. Feed camouflage rule — this should look like someone's Instagram dinner party post. The product exists only in the body copy. The thin-sliced dishes ARE the proof (uniform paper-thin cuts = mandoline result). If the viewer sees a mandoline on a dinner table, the illusion breaks instantly.
+**NOTE:** The mandoline is NOT in this image. Feed camouflage rule — this should look like someone's real Instagram dinner party post, not a food magazine editorial. The product exists only in the body copy. ONE impressive thin-sliced dish (ratatouille tian) surrounded by normal food = the thin slices stand out through CONTRAST with casual homestyle dishes. "Mid-meal" details (crumbs, wine ring, crumpled napkin, torn bread) prevent the AI from generating a perfectly-styled stock photo.
 
 **Canva Step-by-Step:**
 
