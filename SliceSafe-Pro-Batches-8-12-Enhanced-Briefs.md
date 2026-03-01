@@ -947,33 +947,69 @@ Overhead photograph of a Sunday meal prep scene on a warm wooden kitchen counter
 
 ---
 
-**Batch 11 Body Copy 1 (Scroll Stopper journey — Problem Aware → Most Aware, LONGER):**
+**B11_native_salad Body Copy (Scroll Stopper — Problem Aware → Most Aware, LONGER):**
+**Pairs with:** Creative 1 (cucumber salad food photo) + Caption: "Finally made it. / No pep talk needed."
 ```
-I watched cucumber salad videos for 3 weeks before I bought a mandoline. Every time I almost did, I'd read another injury comment and close the tab.
+I watched cucumber salad videos for 3 weeks before I bought a mandoline.
 
-Then I found the SliceSafe Pro. The blade is sealed inside — you can see it through the hopper but you can't touch it. Your hands just push down from the top. That's it.
+Every time I almost did, I'd read the comments. "Took the tip of my finger off." "Went to the ER on Thanksgiving." "The guard is useless." I'd close the tab and go back to chopping by hand.
 
-Paper-thin slices. Perfectly uniform. Took about 60 seconds. Made the salad. Didn't psych myself up first.
+Then I found the SliceSafe Pro. The blade is sealed inside the body — you can see it through the hopper, but you can't touch it. Your hands grip the top and push straight down. They never go near the blade. Not close. Not kind-of-close. Not at all.
+
+Paper-thin slices. Perfectly uniform. Took about 60 seconds.
+
+Made the salad. Didn't psych myself up first.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
-**Origins:** Opens with Scroll Stopper's EXACT journey (SHOW). "Read the injury reviews and closed the tab" = names the purchase-loop behavior. Longer copy for Problem Aware. Mechanism Version B (Experience). Hits SAFE + EASY + FAST + NEW.
+**Origins:** Opens with Scroll Stopper's EXACT behavioral loop (SHOW): watching videos → reading injury comments → closing the tab. The REAL injury quotes hit harder than "read another injury comment" — they make the fear VIVID (Availability Heuristic). "Close the tab and go back to chopping by hand" = names both the behavior AND the consequence. Mechanism is emphatic ("Not close. Not kind-of-close. Not at all.") because Problem Aware needs FULL proof to break the loop. Closes with "Didn't psych myself up first" — mirrors the caption and SHOWS the emotional transformation (names the behavior she USED to do). Hits all 4 avatar categories: Desire (make the salad), Experience (the purchase loop), Emotion (anxiety → relief), Behavior (watching, reading, closing tab, chopping by hand).
+**Headline:** Finally made the cucumber salad. Didn't psych myself up first.
 
-**Batch 11 Body Copy 2 (Meal Prep Machine — speed-focused, MEDIUM):**
+---
+
+**B11_native_dinner Body Copy (Fence Sitter — Problem Aware → Most Aware, LONGER):**
+**Pairs with:** Creative 2 (dinner table with thin-sliced vegetable dishes) + Caption: "You've saved the recipe 3 times. / You still haven't bought the tool."
 ```
-Scalloped potatoes. Hash browns. Cucumber salad. Coleslaw. Ratatouille.
+You've saved the scalloped potatoes recipe. The ratatouille. The cucumber salad for when friends come over.
 
-Every recipe that calls for "thin, uniform slices" — done in under 60 seconds. No knife skills. No holding your breath while you slice.
+You've never made any of them.
 
-The blade is sealed inside the body. Your hands push down from the top. They never meet.
+Because every recipe that calls for "thin, uniform slices" needs a mandoline. And every mandoline you've ever seen has a blade pointed at your fingers.
+
+The SliceSafe Pro doesn't. The blade is sealed inside. Your hands push down from the top. They never meet. Paper-thin, perfectly uniform slices — the kind that make a dish look like it came from a restaurant.
+
+Scalloped potatoes with translucent-thin layers. Ratatouille with perfect vegetable rounds. A cucumber salad that stops the table.
+
+You already have the recipes. Now you have the tool.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** Opens by naming the Fence Sitter's EXACT behavioral loop (SHOW): saving recipes, never making them. "You've never made any of them." is a one-line gut-punch — it sits alone because that gap between saving and doing is the emotional core. Then names the CAUSE behind the behavior: every mandoline she's seen has an exposed blade. Mechanism breaks the loop. The dish list (scalloped potatoes, ratatouille, cucumber salad) mirrors back the recipes she saved AND the dishes visible on the dinner table in the image — body copy and creative become one story. Closer ("You already have the recipes. Now you have the tool.") directly mirrors the caption's call-out and gives PERMISSION to buy. Hits all 4: Desire (host impressive dinners), Experience (seeing mandolines with exposed blades), Emotion (frustration of saving and never making, aspiration), Behavior (saving recipes, never buying the tool).
+**Headline:** You already have the recipes. Now you have the tool.
+
+---
+
+**B11_native_prep Body Copy (Meal Prep Machine — Solution Aware, MEDIUM):**
+**Pairs with:** Creative 3 (overhead meal prep scene with glass containers) + Caption: "Sunday prep. 6 vegetables. 8 minutes. / The mandoline finally earned its counter space."
+```
+Carrots. Cucumbers. Zucchini. Bell peppers. Potatoes. Onions.
+
+That used to be 40 minutes of knife work before the actual cooking even started.
+
+The SliceSafe Pro does all six in under 8 minutes. Drop the vegetable in the hopper, push down from the top, done. Every slice identical. Paper-thin or thick-cut — just adjust the blade.
+
+No knife skills. No holding your breath. No guard to wrestle with.
+
+The blade is sealed inside. Your hands stay on top. It's the first mandoline that actually earned its counter space.
 
 SliceSafe Pro™ — $64.99 (was $99.95)
 ```
-**Origins:** Recipe list = Jobs-To-Be-Done opener. "No holding your breath" = SHOW behavior (not "no mandoline anxiety" which self-categorizes). Mechanism Version A (Physical/Spatial). Hits EASY + FAST + SAFE.
+**Origins:** Opens with a 6-item list that mirrors the 6 containers in the image — body copy and creative are visually linked. "40 minutes of knife work" = names the Meal Prep Machine's CURRENT behavior (SHOW — the tedious reality she lives with every Sunday). She's Solution Aware — no long emotional journey needed. Mechanism is brief and action-oriented ("drop, push, done"). "No holding your breath" = SHOWS the fear-behavior without naming fear. "No guard to wrestle with" = names a specific frustration she has with traditional mandolines. "Earned its counter space" mirrors the caption and speaks her EXACT evaluation language — Meal Prep Machines judge every tool by whether it deserves the real estate. Hits: Behavior (40 min knife work, evaluating counter space), Emotion (efficiency satisfaction), Desire (faster prep), Experience (knows mandolines, needs proof of THIS one).
+**Headline:** 6 vegetables. 8 minutes. Earned its counter space.
 
-**Headline 1:** Finally made the cucumber salad. No pep talk needed.
-**Headline 2:** Sunday prep. 6 vegetables. 8 minutes.
-**Description:** Hands-On-Top design. $64.99
+---
+
+**Description (shared):** Hands-On-Top design. $64.99
 
 ---
 

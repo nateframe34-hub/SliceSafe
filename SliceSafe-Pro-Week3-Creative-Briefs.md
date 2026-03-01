@@ -1198,7 +1198,26 @@ Beautiful, aspirational photograph of an elegant dinner table set for a gatherin
 
 ---
 
-**Batch 11 Body Copy 1 (Identity — Drawer Stuffer, SHORT, Product Aware → Most Aware):**
+**B11_id_callout Body Copy (Drawer Stuffer — Product Aware, SHORT):**
+**Pairs with:** Creative 1 (giant text "PEOPLE WHO BOUGHT A MANDOLINE AND NEVER USED IT AGAIN" + review card)
+```
+You bought it. Used it once. Maybe twice. Then you put it in the drawer and never pulled it out again.
+
+It wasn't laziness. It was the blade — flat, exposed, aimed right at your fingers. The guard was awkward. You skipped it. One close call and you were done.
+
+The SliceSafe Pro was designed for people like you. The blade is sealed inside. Your hands push down from the top. They never go near it.
+
+This is the one that comes out of the drawer and stays on the counter.
+
+$64.99 (was $99.95) — SliceSafe Pro™
+```
+**Origins:** Opens by naming the Drawer Stuffer's EXACT behavioral sequence (SHOW): bought → used once → drawer → never again. "It wasn't laziness" REMOVES SELF-BLAME — research confirmed people blame themselves for a design failure. "The blade — flat, exposed, aimed right at your fingers" names the cause. "One close call and you were done" = the specific moment she decided (SHOW emotion through behavior). "Designed for people like you" mirrors the giant-text creative — the ad called her out by identity, the copy speaks directly TO that identity. "Comes out of the drawer and stays on the counter" = the Drawer Stuffer's redemption arc. Hits all 4: Desire (want a mandoline that works), Experience (bought and abandoned), Emotion (guilt, self-blame removed), Behavior (drawer-stuffing sequence).
+**Headline:** You bought it once. This one stays on the counter.
+
+---
+
+**B11_id_checklist Body Copy (Drawer Stuffer — Product Aware, SHORT):**
+**Pairs with:** Creative 2 (checklist: ✓ Knives, ✓ Pans, ✓ Cutting boards, ✓ Spice collection, ✗ Mandoline)
 ```
 You've upgraded your knives. Your pans. Your cutting boards. Your spice collection.
 
@@ -1210,27 +1229,34 @@ This one stays on the counter.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
-**Origins:** SHORT copy (Product Aware). Identity gap = "everything upgraded except this." "The one that matches" avoids "the mandoline that matches" (self-categorization). Closes with "This one stays on the counter" = Drawer Stuffer's dream. Hits NEW + EASY + SAFE + FAST.
+**Origins:** SHORT copy (Product Aware). The body copy mirrors the visual checklist — every line corresponds to the ✓ items, then "your mandoline" corresponds to the ✗. Identity gap = "everything upgraded except this" — the copy makes the gap FEEL personal, not just visual. "The one that matches the rest of your kitchen" avoids "the mandoline that matches" (self-categorization fix). "Vertical. Hands on top. Blade sealed inside." = mechanism in 3 beats, matching the checklist rhythm. Closes with "This one stays on the counter" = completing the upgrade. Hits NEW + EASY + SAFE + FAST.
+**Headline:** Belongs on the counter, not in the drawer.
 
-**Batch 11 Body Copy 2 (Dinner aspiration — Fence Sitter, LONGER, Problem Aware → Most Aware):**
+---
+
+**B11_id_host Body Copy (Fence Sitter — Problem Aware → Most Aware, LONGER):**
+**Pairs with:** Creative 3 (feed camouflage dinner table scene) + Caption: "You've saved the recipe 3 times. / You still haven't bought the tool."
 ```
-The secret behind restaurant-quality plating at home? A mandoline that actually gets used.
+You've saved the scalloped potatoes recipe. The ratatouille. The cucumber salad for when friends come over.
 
-You've been hand-cutting everything because the only mandoline you've ever seen has a blade pointed at your fingers. This one doesn't.
+You've never made any of them.
 
-The blade is sealed inside. Your hands push down from the top. They never meet. Paper-thin, perfectly uniform slices in under 60 seconds.
+Because every recipe that calls for "thin, uniform slices" needs a mandoline. And every mandoline you've ever seen has a blade pointed at your fingers.
 
-Cucumber salad. Scalloped potatoes. Ratatouille. Every dish that calls for precision.
+The SliceSafe Pro doesn't. The blade is sealed inside. Your hands push down from the top. They never meet. Paper-thin, perfectly uniform slices — the kind that make a dish look like it came from a restaurant.
+
+Scalloped potatoes with translucent-thin layers. Ratatouille with perfect vegetable rounds. A cucumber salad that stops the table.
 
 Your guests will ask what your secret is.
 
 $64.99 (was $99.95) — SliceSafe Pro™
 ```
-**Origins:** LONGER copy (Problem Aware). Names Fence Sitter behavior ("hand-cutting everything"). Mechanism Version C (Comparison). Closes with aspiration. Hits EASY + FAST + SAFE + NEW.
+**Origins:** LONGER copy (Problem Aware Fence Sitter). Opens by naming the EXACT behavioral loop the caption calls out (SHOW): saving recipes, never making them. "You've never made any of them." sits alone as a one-line gut-punch — the gap between saving and doing is the emotional core. Then names the CAUSE: every mandoline she's seen has an exposed blade. Mechanism breaks the loop. The dish list (scalloped potatoes, ratatouille, cucumber salad) mirrors back the recipes she saved AND the dishes visible on the dinner table in the image — body copy and creative become one story. "Your guests will ask what your secret is" = the identity she WANTS (the impressive host) and gives PERMISSION to buy. Hits all 4: Desire (host impressive dinners), Experience (seeing mandolines with exposed blades), Emotion (frustration of saving and never making, aspiration), Behavior (saving recipes, never buying the tool).
+**Headline:** Your guests will ask what your secret is.
 
-**Headline 1:** Belongs on the counter, not in the drawer.
-**Headline 2:** The recipe you saved needs this tool.
-**Description:** Hands-On-Top design. $64.99
+---
+
+**Description (shared):** Hands-On-Top design. $64.99
 
 ---
 
