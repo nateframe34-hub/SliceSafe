@@ -834,25 +834,20 @@ Beautiful overhead food photograph of a freshly made cucumber salad in a large w
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload food image, fill canvas — 85-90% height
-3. Leave ~150px at bottom for caption
+2. Upload food image, fill entire canvas — 100% bleed, no bars, no borders
+3. **No text overlay. No caption bar. Pure image only.**
 
-**Caption area (bottom ~12%):**
-1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
-2. `Finally made it.` — Inter, 22-26px, Regular (400), White (#FFFFFF)
-3. `No pep talk needed.` — Inter, 22-26px, Semi-Bold (600), Brand Blue (#4A90E2)
+The ad copy lives entirely in the Meta primary text field (below the image in-feed). The creative itself is just the photo — exactly like a real Instagram post.
 
-**NO price tag. NO brand pill. Zero ad signals.**
+**NO price tag. NO brand pill. NO text on image. Zero ad signals.**
 
 **Final check:**
 - [ ] Cucumber salad looks genuinely appetizing — would stop a food scroller
 - [ ] Slices visibly uniform and thin (mandoline result = visual proof)
 - [ ] Product in background, NOT hero — food is the star
-- [ ] NO text overlay on food photo — caption bar only (feed camouflage rules)
-- [ ] Caption reads like personal Instagram, not ad copy
-- [ ] "No pep talk needed" = SHOW emotional transformation (names old behavior)
-- [ ] NO price tag anywhere — zero ad signals
-- [ ] Body copy does ALL selling
+- [ ] **Zero text on the creative** — all copy lives in the Meta ad text fields
+- [ ] Looks like someone's real Instagram food post — not a product photo
+- [ ] NO price tag, NO product name, NO brand — total feed camouflage
 - [ ] Export PNG highest quality
 
 ---
@@ -928,25 +923,21 @@ Overhead photograph of a Sunday meal prep scene on a warm wooden kitchen counter
 **Canva Step-by-Step:**
 
 1. Create new design → Custom size → **1080 x 1350 px**
-2. Upload meal prep image, fill canvas — 85-90% height
-3. Leave ~150px at bottom for caption
+2. Upload meal prep image, fill entire canvas — 100% bleed, no bars, no borders
+3. **No text overlay. No caption bar. Pure image only.**
 
-**Caption area (bottom ~12%):**
-1. Semi-transparent dark bar: #000000, 55% opacity, full width, ~150px
-2. `Sunday prep. 6 vegetables. 8 minutes.` — Inter, 22-26px, Semi-Bold (600), White (#FFFFFF)
-3. `The mandoline finally earned its counter space.` — Inter, 20-24px, Regular (400), White (#FFFFFF)
+The ad copy lives entirely in the Meta primary text field (below the image in-feed). The creative itself is just the photo — exactly like a real Instagram post.
 
-**NO price tag. NO brand pill. Zero ad signals.**
+**NO price tag. NO brand pill. NO text on image. Zero ad signals.**
 
 **Final check:**
 - [ ] Meal prep scene looks real and productive — would stop a meal prep scroller
 - [ ] Containers show SCALE (6+ types of uniform slices)
 - [ ] Every slice is visibly machine-cut and uniform (mandoline result = proof)
 - [ ] Mandoline present but not hero — it's a TOOL in a work scene
-- [ ] "6 vegetables. 8 minutes." = 3-beat rhythm (proven winner format)
-- [ ] "Earned its counter space" = Meal Prep Machine evaluation language
-- [ ] NO price tag — feed camouflage
-- [ ] Caption reads like a Sunday productivity post, not an ad
+- [ ] **Zero text on the creative** — all copy lives in the Meta ad text fields
+- [ ] Looks like someone's real Sunday meal prep post — not an ad
+- [ ] NO price tag, NO product name, NO brand — total feed camouflage
 - [ ] Export PNG highest quality
 
 ---
