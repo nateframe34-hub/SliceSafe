@@ -223,7 +223,7 @@ This is the **Mass Instinct + Mass Education** combination that Origins says "no
 - **Brand color:** #4A90E2 (light blue) — use sparingly as accent, not background
 - **Aspect ratio:** 4:5 (1080 × 1350px)
 - **Text rules:** Hook text 38-54px Bold minimum. Max 3 text elements on image.
-- **Testing method:** Marksman (3 creatives × 2 body copies × 2 headlines per batch)
+- **Testing method:** Marksman (3 creatives × 2 body copies each × 2 headlines each = 12 ad variations per batch)
 
 ---
 
@@ -297,7 +297,7 @@ Which sub-avatar's reframe angle resonates most when wrapped in the category ref
 
 ---
 
-### Batch 9 Body Copy 1 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
+### B9_reframe_drawer — Body Copy 1 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
 
 ```
 I had a mandoline in my drawer for two years. Touched it once. Bled. Never again.
@@ -316,7 +316,82 @@ SliceSafe Pro — $64.99 (was $99.95). 30-day guarantee. If it goes back in the 
 **Structure:** Behavior recognition (drawer, bled, never again) → Mechanism Version B (experience/feeling) → Outcome (used it every week) → Offer + risk reversal
 **FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
-### Batch 9 Body Copy 2 (Scroll Stopper — MEDIUM, Problem Aware → Most Aware)
+### B9_reframe_drawer — Body Copy 2 (Drawer Stuffer — SHORT, behavior-forward)
+
+```
+Open your kitchen drawer.
+
+See that mandoline under the cutting boards? The one you used once and swore off forever?
+
+It's not your fault. That thing was designed to point a blade at your knuckles and hope a plastic guard saves you.
+
+This one doesn't work like that. Your hands push down from the top. The blade is enclosed inside, 8 inches below. You can't reach it. Physically impossible.
+
+It stands upright on the counter. Mine hasn't been in a drawer once.
+
+$64.99 (was $99.95). 30-day guarantee — if it ends up in the drawer, send it back.
+```
+
+**Structure:** Behavior naming (open your drawer) → Self-blame removal → Mechanism Version A (physical/spatial) → Identity outcome (counter, not drawer) → Offer with personality
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B9_reframe_drawer — Headlines
+
+**Headline 1:** `It's not a mandoline. It's the one that stays on the counter.`
+**Headline 2:** `Hands on top. Blade enclosed. They never meet.`
+
+---
+
+### B9_reframe_design — Body Copy 1 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
+
+```
+You've tried the guard. You've tried the glove. You've tried going slow and paying attention.
+
+And you still got cut. Because the design is the problem.
+
+Every mandoline ever made slides food toward an exposed blade — with your fingers inches away. The guard is an afterthought. A bandage on a design flaw.
+
+The SliceSafe Pro doesn't have a guard. Doesn't need one.
+
+Your hands grip the top. The blade is sealed inside, 8 inches below your fingers. Food goes in the hopper. Slices come out the bottom. Your hands and the blade never meet.
+
+The design flaw is gone. Not patched — gone.
+
+Paper-thin slices. 60 seconds. Zero anxiety.
+
+$64.99 (was $99.95). 30-day guarantee.
+```
+
+**Structure:** Acknowledge failed solutions (guard, glove, attention) → Reframe (design is the problem) → Mechanism Version C (comparison/contrast) → Outcome SHOWN → Offer
+**FRAMES:** NEW + SAFE + EASY + FAST = 4/5
+
+### B9_reframe_design — Body Copy 2 (Scarred Chef — MEDIUM, scar story forward)
+
+```
+I still have the scar on my left thumb. It's been four years.
+
+Every mandoline I've used has the same design: food slides toward the blade, your fingers follow, and the guard everyone says to use doesn't grip anything. So you ditch it. And then you're one slip from the ER.
+
+That's not a safety problem. That's a design problem.
+
+This one works completely differently. Your hands push down from the top — 8 inches above the blade. The blade is sealed inside. You can see it through the hopper but you can't touch it. Your hands never go near it. Not close. Not kind-of-close. Never.
+
+I've sliced 30+ pounds of vegetables since I got it. Zero cuts. Zero close calls. Zero thinking about it.
+
+$64.99 (was $99.95). Free shipping. 30-day money-back guarantee.
+```
+
+**Structure:** Scar story (emotional entry) → Design flaw explanation → Mechanism Version B (experience/feeling) → Volume outcome (30+ lbs) → Offer
+**FRAMES:** NEW + SAFE + BIG + EASY = 4/5
+
+### B9_reframe_design — Headlines
+
+**Headline 1:** `The design flaw that cut you doesn't exist on this one.`
+**Headline 2:** `No guard needed. The blade is 8 inches below your hands.`
+
+---
+
+### B9_reframe_fingers — Body Copy 1 (Scroll Stopper — MEDIUM, Problem Aware → Most Aware)
 
 ```
 Everyone's making that cucumber salad. Nobody's talking about the part where you almost lose a finger.
@@ -333,10 +408,33 @@ SliceSafe Pro — $64.99 (was $99.95). Free shipping. 30-day guarantee.
 **Structure:** Trend reference (cucumber salad) → Problem education (20,000 stat) → Mechanism Version A (physical/spatial) → Numbers outcome → Offer
 **FRAMES:** NEW + SAFE + BIG + FAST + EASY = 5/5
 
-### Batch 9 Headlines (2 per batch, applied to all 3 creatives)
+### B9_reframe_fingers — Body Copy 2 (Scroll Stopper — MEDIUM, trend-entry)
 
-**Headline 1:** `Hands on top. Blade enclosed. They never meet.`
-**Headline 2:** `The first food slicer where your hands can't reach the blade.`
+```
+You saved the cucumber salad video. Then you read the comments.
+
+"I literally sliced the tip of my finger off."
+"Blood everywhere. Ruined the whole meal."
+"That guard is useless. Don't trust it."
+
+So you didn't buy one. Smart.
+
+But here's the thing: the mandoline isn't the problem. The design is. Every one ever made slides food toward an exposed blade with your fingers right there.
+
+This one's built completely different. Your hands push down from the top. The blade is sealed inside — 8 inches below. You physically cannot touch it.
+
+Make the salad. Keep the fingers.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Trend entry (saved the video) → Real quotes (showing fear) → Validate the decision → Design reframe → Mechanism Version A → Outcome with personality → Offer
+**FRAMES:** NEW + SAFE + FAST + EASY = 4/5
+
+### B9_reframe_fingers — Headlines
+
+**Headline 1:** `The first food slicer where your hands can't reach the blade.`
+**Headline 2:** `90 seconds. Perfect slices. All 10 fingers.`
 
 ---
 
@@ -451,7 +549,103 @@ The visual weight of 6 problem photos vs 1 solution photo tells the entire story
 
 ---
 
-### Batch 10 Body Copy 1 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
+### B10_chart_3col — Body Copy 1 (Universal — MEDIUM, Solution Aware → Most Aware)
+
+```
+Here's what nobody tells you about mandoline safety:
+
+The guard doesn't work. It doesn't grip food. It slips. Everyone ditches it after 2 uses. That's not you being careless — that's a design failure they slapped a plastic band-aid on.
+
+Cut-resistant gloves? They cost $15, feel terrible, and reduce your grip. You're trading one problem for another.
+
+The SliceSafe Pro doesn't need a guard OR gloves. Your hands push down from the top. The blade is sealed inside, 8 inches below. They don't meet.
+
+✓ Hands-On-Top design
+✓ Built-in catch tray
+✓ Stands upright — stores in 4 inches of counter space
+✓ 12 thickness settings
+✓ No accessories needed
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Education (guard doesn't work) → Objection crush (gloves fail too) → Mechanism Version A → Feature checklist (mirrors chart format) → Offer
+**FRAMES:** NEW + SAFE + EASY + BIG = 4/5
+
+### B10_chart_3col — Body Copy 2 (Universal — SHORT, comparison-driven)
+
+```
+Traditional mandoline: blade aimed at your knuckles + a guard nobody uses + lives in the drawer.
+
+Mandoline + cut glove: $15 extra + reduces grip + still too close to the blade + you won't wear it every time.
+
+SliceSafe Pro: hands push down from the top, blade sealed 8 inches below, no guard needed, stands upright on the counter, catches your slices.
+
+One of these doesn't require bravery to use.
+
+$64.99. Free shipping. 30-day money-back guarantee.
+```
+
+**Structure:** 3-way comparison in body copy (mirrors the chart image) → Personality line → Offer
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B10_chart_3col — Headlines
+
+**Headline 1:** `Your hands never go near the blade. That's the whole point.`
+**Headline 2:** `Compare everything. Then decide.`
+
+---
+
+### B10_chart_split — Body Copy 1 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
+
+```
+Count the mandolines in your drawer.
+
+Now count how many times you've used them this year.
+
+The gap between those numbers isn't laziness. It's a design that points blades at your fingers and calls a flimsy plastic guard "safety."
+
+This one stands upright on the counter. Your hands stay on top. The blade is enclosed 8 inches below. No guard needed — because there's nothing to guard against.
+
+One tool. On the counter. Everything else stays in the drawer.
+
+$64.99. Free shipping. 30-day money-back guarantee.
+```
+
+**Structure:** Behavior naming (count your mandolines) → Reframe (not laziness, bad design) → Mechanism Version A → Identity outcome (on the counter) → Offer
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B10_chart_split — Body Copy 2 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
+
+```
+Two types of mandoline owners:
+
+Type 1: Used it once, got cut, put it in the drawer, never opened it again. Tells everyone mandolines are dangerous.
+
+Type 2: Uses it every week. Paper-thin slices in 60 seconds. No fear. No cuts. No guard.
+
+The difference isn't skill. It's design.
+
+Type 1 owns a flat mandoline with an exposed blade and a guard that doesn't grip.
+
+Type 2 owns a SliceSafe Pro — hands push down from the top, blade sealed inside 8 inches below, food goes through, slices come out the bottom.
+
+Same person. Different tool.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Two-type split (mirrors the us-vs-them image) → Reframe (not skill, design) → Mechanism Version C → Identity bridge → Offer
+**FRAMES:** NEW + SAFE + EASY + FAST = 4/5
+
+### B10_chart_split — Headlines
+
+**Headline 1:** `No guard. No gloves. No fear. Just slicing.`
+**Headline 2:** `The slicer you should be using vs. the one in your drawer.`
+
+---
+
+### B10_chart_math — Body Copy 1 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
 
 ```
 "I've tried mandolines. They all come with a guard. I never use the guard."
@@ -474,29 +668,33 @@ $64.99 (was $99.95). 30-day guarantee — if the design doesn't change how you f
 **Structure:** OBJECTION (guards don't work) → CLAIM (bad design, not you) → PROOF (mechanism Version B) → BENEFIT (SHOW the feeling) → Offer + risk reversal
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
-### Batch 10 Body Copy 2 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
+### B10_chart_math — Body Copy 2 (Fence Sitter — LONG, Problem Aware → Most Aware)
 
 ```
-Count the mandolines in your drawer.
+You've seen mandolines online. You've thought about buying one. Then you saw a comment about someone slicing their finger and thought — nope.
 
-Now count how many times you've used them this year.
+Here's the thing: you were right to say no.
 
-The gap between those numbers isn't laziness. It's a design that points blades at your fingers and calls a flimsy plastic guard "safety."
+Traditional mandolines have an exposed blade. You slide food toward it with your fingers right behind. They include a plastic guard that doesn't grip, slips off mid-slice, and nobody uses after day one. 20,000+ people end up in the ER every year from kitchen slicers. The design is genuinely dangerous.
 
-This one stands upright on the counter. Your hands stay on top. The blade is enclosed 8 inches below. No guard needed — because there's nothing to guard against.
+But there's a new one that works completely differently.
 
-One tool. On the counter. Everything else stays in the drawer.
+The SliceSafe Pro stands upright. You push food down from the top — your hands grip the handle, 8 inches above the blade. The blade is sealed inside the body. You can see it through the clear hopper, but you physically cannot touch it. Food drops through. Paper-thin slices collect in the catch tray below.
 
-$64.99. Free shipping. 30-day money-back guarantee.
+No guard. No gloves. No special technique. No courage required.
+
+12 thickness settings for everything from paper-thin cucumber to thick potato rounds. 90 seconds from whole vegetable to finished slices.
+
+$64.99 (was $99.95). Free shipping. 30-day money-back guarantee — try it risk-free.
 ```
 
-**Structure:** Behavior naming (count your mandolines) → Reframe (not laziness, bad design) → Mechanism Version A → Identity outcome (on the counter) → Offer
-**FRAMES:** NEW + SAFE + EASY = 3/5
+**Structure:** Validate their decision (right to say no) → Problem education (20,000 stat) → Full mechanism explanation Version B (experience) → Feature details → Offer + risk reversal
+**FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
-### Batch 10 Headlines
+### B10_chart_math — Headlines
 
-**Headline 1:** `Your hands never go near the blade. That's the whole point.`
-**Headline 2:** `No guard. No gloves. No fear. Just slicing.`
+**Headline 1:** `6 problems. 1 solution. Zero cuts.`
+**Headline 2:** `The first food slicer where your hands can't reach the blade.`
 
 ---
 
@@ -585,7 +783,50 @@ This creative speaks to someone who has NEVER bought a mandoline. The feature ca
 
 ---
 
-### Batch 11 Body Copy 1 (Universal — hits all sub-avatars, MEDIUM length)
+### B11_avatar_drawer — Body Copy 1 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
+
+```
+Mine sat in the drawer for 14 months.
+
+Not because I didn't want to use it. Because every time I opened that drawer, I remembered the last time I did.
+
+This one stands upright on my counter. My hands push down from the top. I can see the blade through the hopper, but I can't touch it. It's 8 inches below my fingers.
+
+I've made cucumber salad three times this week. Haven't thought about the blade once.
+
+$64.99. 30-day guarantee. If it goes back in the drawer, send it back.
+```
+
+**Structure:** Behavior naming (14 months in drawer) → Emotional truth (remembered what happened) → Mechanism Version B (experience) → Outcome SHOWN (cucumber salad, haven't thought about blade) → Offer with personality
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B11_avatar_drawer — Body Copy 2 (Drawer Stuffer — SHORT, direct address)
+
+```
+That mandoline in your drawer isn't broken.
+
+You're not lazy for not using it. You're smart. The design is genuinely scary — exposed blade, useless guard, fingers inches from the edge. Of course it's in the drawer.
+
+This one doesn't go in the drawer. It stands on your counter.
+
+Your hands push down from the top handle. The blade is sealed inside, 8 inches below. No guard. No gloves. No psyching yourself up before slicing.
+
+It's the one you'll actually reach for on a Tuesday night.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Reframe (not broken, not lazy) → Validate the drawer decision → Counter-identity (this one stays out) → Mechanism Version A → Outcome identity → Offer
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B11_avatar_drawer — Headlines
+
+**Headline 1:** `For the mandoline in your drawer. This is its replacement.`
+**Headline 2:** `Hands on top. Slices come out the bottom. They never meet.`
+
+---
+
+### B11_avatar_scarred — Body Copy 1 (Scarred Chef — MEDIUM, Solution Aware → Most Aware)
 
 ```
 You know exactly what happens.
@@ -608,27 +849,86 @@ $64.99 (was $99.95). Free shipping. 30-day guarantee.
 **Structure:** Shared experience (you know what happens) → Self-blame removal (not your fault) → Mechanism Version C (comparison/contrast) → SHOW the outcome → Category positioning → Offer
 **FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
 
-### Batch 11 Body Copy 2 (Drawer Stuffer specific — SHORT)
+### B11_avatar_scarred — Body Copy 2 (Scarred Chef — MEDIUM, empathy-forward)
 
 ```
-Mine sat in the drawer for 14 months.
+The scar fades. The flinch doesn't.
 
-Not because I didn't want to use it. Because every time I opened that drawer, I remembered the last time I did.
+You can hand-chop everything now. You've gotten pretty fast at it. But every time someone mentions a mandoline, your thumb remembers.
 
-This one stands upright on my counter. My hands push down from the top. I can see the blade through the hopper, but I can't touch it. It's 8 inches below my fingers.
+The problem was never you. The problem was a blade aimed at your knuckles with a plastic guard that doesn't grip anything between you and the ER.
 
-I've made cucumber salad three times this week. Haven't thought about the blade once.
+The SliceSafe Pro doesn't have a guard. Doesn't need one.
 
-$64.99. 30-day guarantee. If it goes back in the drawer, send it back.
+Your hands grip the top handle — the blade is sealed inside, 8 inches below. You push down. Food drops through. Slices come out the bottom. Your hands never go near the blade. Not once.
+
+The first time you use it, you'll notice the strangest thing: you're not clenching. You're not holding your breath. You're just slicing.
+
+$64.99 (was $99.95). 30-day guarantee — if the flinch comes back, send it back.
 ```
 
-**Structure:** Behavior naming (14 months in drawer) → Emotional truth (remembered what happened) → Mechanism Version B (experience) → Outcome SHOWN (cucumber salad, haven't thought about blade) → Offer with personality
-**FRAMES:** NEW + SAFE + EASY = 3/5
+**Structure:** Emotional hook (scar/flinch) → Validate their workaround → Design blame → Mechanism Version B (experience) → SHOW the feeling shift → Offer with emotional risk reversal
+**FRAMES:** NEW + SAFE + EASY + FAST = 4/5
 
-### Batch 11 Headlines
+### B11_avatar_scarred — Headlines
 
-**Headline 1:** `Hands on top. Slices come out the bottom. They never meet.`
-**Headline 2:** `The first food slicer where your hands can't reach the blade.`
+**Headline 1:** `The design flaw that cut you doesn't exist on this one.`
+**Headline 2:** `No guard needed. The blade is 8 inches below your hands.`
+
+---
+
+### B11_avatar_fence — Body Copy 1 (Fence Sitter — LONG, Problem Aware → Most Aware)
+
+```
+You've thought about buying a mandoline at least three times.
+
+You've read the reviews. You've watched the slicing videos. Paper-thin cucumbers in seconds — it looks incredible.
+
+Then you scroll down to the comments. "I cut the tip of my finger off." "Went to the ER." "The guard doesn't do anything." And you close the tab.
+
+You're not being dramatic. Traditional mandolines have an exposed blade. You slide food toward it with your fingers inches away. The included guard doesn't grip food, slips off, and everyone stops using it. 20,000+ ER visits a year. The fear is rational.
+
+But there's one that works completely differently.
+
+The SliceSafe Pro stands upright. Your hands grip the top handle — 8 inches above the blade. The blade is sealed inside the body. You can see it through the clear hopper, but you physically cannot touch it. Food drops through. Slices collect in the catch tray below.
+
+No guard. No gloves. No technique. No courage.
+
+Paper-thin to thick-cut. 12 settings. 90 seconds from whole vegetable to perfect slices.
+
+$64.99 (was $99.95). Free shipping. 30-day money-back guarantee — try it completely risk-free.
+```
+
+**Structure:** Behavior naming (thought about buying 3 times) → Validate the fear with data → Full mechanism Version B → Feature details → Offer + risk elimination
+**FRAMES:** NEW + SAFE + EASY + FAST + BIG = 5/5
+
+### B11_avatar_fence — Body Copy 2 (Fence Sitter — MEDIUM, decision-focused)
+
+```
+If you've never owned a mandoline, here's what you should know:
+
+The traditional design is flat. You hold the food. You slide it toward an exposed blade. Your fingers are right there. They include a plastic guard that nobody uses because it doesn't grip anything. It's a genuinely scary tool — and 20,000+ people go to the ER every year because of it.
+
+That's why you haven't bought one. And that's fair.
+
+This one is different. Completely.
+
+It stands upright. You push food down from the top. Your hands grip the handle — 8 inches above the blade. The blade is sealed inside. You literally cannot touch it.
+
+Food goes in. Paper-thin slices come out the bottom. Your hands stay on top the entire time.
+
+No special skills. No accessories. No fear.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Education (explain the problem from scratch) → Validate their non-purchase → Mechanism Version A → Simplicity assertion → Offer
+**FRAMES:** NEW + SAFE + EASY + BIG = 4/5
+
+### B11_avatar_fence — Headlines
+
+**Headline 1:** `The first food slicer where your hands can't reach the blade.`
+**Headline 2:** `No guard. No gloves. No fear. Just slicing.`
 
 ---
 
@@ -731,7 +1031,58 @@ This looks like a real review screenshot, not an advertisement. The specificity 
 
 ---
 
-### Batch 12 Body Copy 1 (Scroll Stopper — MEDIUM-LONG, Problem → Most Aware)
+### B12_camo_text — Body Copy 1 (Universal — MEDIUM, discovery-style)
+
+```
+I went down a rabbit hole last night.
+
+Apparently 20,000+ people go to the ER every year from kitchen mandolines. The guard that comes with them doesn't grip food — everyone ditches it after one use. Then it's just you, an exposed blade, and a prayer.
+
+But someone finally made one where your hands can't reach the blade. At all.
+
+It stands upright. You push food down from the top. Your hands grip the handle — the blade is sealed inside, 8 inches below. You can see it through the hopper but you literally cannot touch it.
+
+No guard. No gloves. No holding your breath.
+
+I ordered one. I'll report back.
+
+Update: it's been 9 days. I've used it 7 times. Paper-thin slices, zero cuts, and I haven't thought about the blade once. This thing is actually good.
+
+SliceSafe Pro — $64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Discovery story (rabbit hole) → Stat → Mechanism Version A → Personal experiment → Update (social proof) → Offer
+**FRAMES:** NEW + SAFE + BIG + EASY = 4/5
+
+### B12_camo_text — Body Copy 2 (Universal — SHORT, reaction-style)
+
+```
+Wait. There's a mandoline where your hands stay 8 inches above the blade?
+
+And it doesn't need a guard because the blade is sealed inside?
+
+And it stands upright so it doesn't take up counter space?
+
+And it catches the slices for you?
+
+Why does every other mandoline still exist?
+
+$64.99. Free shipping. 30-day money-back guarantee.
+
+→ link
+```
+
+**Structure:** Discovery reactions (each line = new benefit framed as disbelief) → Personality punchline → Offer
+**FRAMES:** NEW + SAFE + EASY + BIG = 4/5
+
+### B12_camo_text — Headlines
+
+**Headline 1:** `90 seconds. Perfect slices. All 10 fingers.`
+**Headline 2:** `I just found out mandolines don't have to be terrifying.`
+
+---
+
+### B12_camo_food — Body Copy 1 (Scroll Stopper — MEDIUM-LONG, Problem → Most Aware)
 
 ```
 You've seen the cucumber salad videos. You've read the comments.
@@ -749,14 +1100,38 @@ You push down from the top. Food goes through. Paper-thin slices come out the bo
 90 seconds. Perfect slices. All your fingers.
 
 $64.99 (was $99.95). Free shipping. 30-day money-back guarantee.
-
-→ link
 ```
 
 **Structure:** Trend reference → REAL quotes from research (showing, not telling) → Verified stat → Mechanism Version A → Numbers outcome → Offer
 **FRAMES:** NEW + SAFE + BIG + FAST + EASY = 5/5
 
-### Batch 12 Body Copy 2 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
+### B12_camo_food — Body Copy 2 (Scroll Stopper — MEDIUM, recipe-forward)
+
+```
+Made the cucumber salad again last night. Fourth time this week. I might have a problem.
+
+Paper-thin ribbons. Sesame seeds. Red pepper flakes. Soy, rice vinegar, sesame oil. 4 minutes start to finish.
+
+The mandoline I used to make it isn't like the ones in the horror-story comments. My hands push down from the top. The blade is sealed inside — 8 inches below my fingers. I can see it through the hopper but I can't reach it.
+
+I'm not careful when I use it. I'm not scared. I just slice.
+
+That's the whole point of the SliceSafe Pro. Your hands and the blade don't meet. Ever.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Recipe story (food is hero) → Mechanism Version B woven naturally into cooking story → Emotional proof (not careful, not scared) → Category statement → Offer
+**FRAMES:** NEW + SAFE + FAST + EASY = 4/5
+
+### B12_camo_food — Headlines
+
+**Headline 1:** `The kitchen tool that replaced my mandoline.`
+**Headline 2:** `Paper-thin slices. Zero fear. That's the whole point.`
+
+---
+
+### B12_camo_review — Body Copy 1 (Drawer Stuffer — SHORT, Product Aware → Most Aware)
 
 ```
 Three mandolines. Five years. Two scars.
@@ -775,10 +1150,29 @@ $64.99. Free shipping. Send it back in 30 days if it goes in the drawer.
 **Structure:** Behavior naming with specifics → Mechanism Version B → Outcome SHOWN through meals → Personality/voice → Offer with matching personality
 **FRAMES:** NEW + SAFE + EASY = 3/5
 
-### Batch 12 Headlines
+### B12_camo_review — Body Copy 2 (Drawer Stuffer — SHORT, gift-story angle)
+
+```
+My wife bought me a mandoline 3 years ago. I used it once. Cut myself. Put it in the drawer. She brought it up every Thanksgiving.
+
+For Christmas she got me this thing — said "try it before you return it."
+
+It stands upright. My hands push down from the top. The blade is sealed inside. I could not touch it if I tried. It's 8 inches below my fingers.
+
+I've used it 8 times in 3 weeks. Zucchini noodles. Scalloped potatoes. That cucumber salad everyone's making.
+
+I'm not returning it. And she's not letting me forget she was right.
+
+$64.99 (was $99.95). Free shipping. 30-day guarantee.
+```
+
+**Structure:** Gift story (relatable, warm) → Mechanism Version A → Outcome through specific meals → Personality/humor → Offer
+**FRAMES:** NEW + SAFE + EASY = 3/5
+
+### B12_camo_review — Headlines
 
 **Headline 1:** `90 seconds. Perfect slices. All 10 fingers.`
-**Headline 2:** `The kitchen tool that replaced my mandoline.`
+**Headline 2:** `The one that actually stays on the counter.`
 
 ---
 
